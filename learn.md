@@ -2,13 +2,13 @@
 title: Learn SuperMemo
 description: 
 published: true
-date: 2020-12-05T21:40:12.974Z
+date: 2020-12-05T21:41:43.386Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T21:40:12.974Z
 ---
 
-## Getting Started with SuperMemo
+# Getting Started with SuperMemo
 
 > [SuperMemo](https://help.supermemo.org/wiki/SuperMemo) is a program for converting knowledge material to **long-term memory**. It pioneered **Incremental reading**, a learning technique for processing vast amounts of material which deeply synergizes with SuperMemo.
 {.is-info}
@@ -38,32 +38,32 @@ dateCreated: 2020-12-05T21:40:12.974Z
 4. Where can you get SuperMemo?
 -->
 
-### Where can you get SuperMemo ?
+## Where can you get SuperMemo ?
 
-##### Supermemo 18
+### Supermemo 18
 
 You can [📥 download](https://super-memory.com/english/down.htm) and use SuperMemo 18 (latest version) at no cost for the duration of the trial.
 
 You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to remove the trial expiration at any time. In the case that you do not get your key within a few days, it is a good idea to either post on [supermemopedia](http://supermemopedia.com/wiki/Main_Page) or to email [help2020@supermemo.org](mailto:help2020@supermemo.org). 
 
-##### SuperMemo 15
+### SuperMemo 15
 
 [SuperMemo 15](http://supermemopedia.com/wiki/SuperMemo_15_Freeware) is completely free to use. However, the latest version (18) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
 
-##### Supermemo.com
+### Supermemo.com
 
 > The same company publishes [supermemo.com](http://supermemo.com/), a completely different product. It is a simplified version meant for a broader public, and as such lacks many of SuperMemo 18's advanced features.
 {.is-info}
 
-### Where to meet and get help from other SuperMemo users ?
+## Where to meet and get help from other SuperMemo users ?
 
-##### Chat servers
+### Chat servers
 
 We recommend the fairly active SuperMemo.wiki discord server:
 
 - [SuperMemo.wiki server](https://discord.gg/Cqg9Fyg) (community maintaining this website)
 
-##### Other communities
+### Other communities
 
 - [SuperMemo Community](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ/videos): **YouTube** channel with many videos from the SuperMemo wiki community.
 - [r/super_memo](https://www.reddit.com/r/super_memo/): somewhat active SuperMemo **subreddit**.
@@ -71,9 +71,9 @@ We recommend the fairly active SuperMemo.wiki discord server:
 
 <hr/>
 
-## Frequently Asked Questions from New Users
+# Frequently Asked Questions from New Users
 
-### Why use SuperMemo?
+## Why use SuperMemo?
 
 > [SuperMemo](https://help.supermemo.org/wiki/SuperMemo) is a program for converting knowledge material to **long-term memory**. It pioneered **Incremental reading**, a learning technique for processing vast amounts of material which deeply synergizes with SuperMemo.
 {.is-info}
@@ -89,37 +89,37 @@ Check out these resources to understand **how these features work** together and
 - [If SuperMemo/Anki Really is THE BEST Learning Tool, Why Isn't Every Student Using It?](https://www.masterhowtolearn.com/2020-03-15-If-supermemo-anki-really-is-the-best-learning-tool-why-isnt-every-student-using-it/)
 
 
-### How can you learn to use SuperMemo?
+## How can you learn to use SuperMemo?
 
-##### (Easiest) 1 on 1 tutoring
+### (Easiest) 1 on 1 tutoring
 
 In 1-2 hours, a proficient user can teach you the basics to get you started with the essential functionalities.
 
 Schedule a call [here](https://calendly.com/test0009/raj) with Raj of supermemo.wiki.
 
-##### Online guides
+### Online guides
 
 [Step by Step to SuperMemo Mastery](https://help.supermemo.org/wiki/Step-by-step_to_SuperMemo_mastery): if followed over days, weeks, and months, can take you to confirmed proficiency, provided you start slow and ramp up over time without biting off more than you can chew.
 
 [Incremental reading manual](https://help.supermemo.org/index.php?title=Incremental_learning): using incremental reading to go through the incremental reading manual is one of the best ways to attain deep proficiency in SuperMemo. You can follow the instructions [here](https://supermemo.guru/wiki/Incremental_reading_step_by_step#Big_test) under "big test" for how to do so. Note, there have been recent issues with references when importing. We plan to provide soon a pre-edited version.
 
-### How can you run Supermemo on Mac or Linux? 
+## How can you run Supermemo on Mac or Linux? 
 
 **SuperMemo** is a windows application, but these are some options that let you run it on other Operating systems:
 
-##### Mac
+### Mac
 
 - [Parallels](https://www.parallels.com/) (Mac): 40$/year with [student discount](https://www.parallels.com/landingpage/pd/education/) but has best user experience (has 14 day free trial) 
 - [VMWare Fusion](https://www.vmware.com/in/products/fusion.html): around 100$ for an[ academic license](https://store-us.vmware.com/vmware-in-education) but worse performance than parallels (has 30 day free trial) 
 - [VirtualBox](https://www.virtualbox.org/): free and open source but worst performing option of the three
 
-##### Linux
+### Linux
 
 - [VMware Workstation Player](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html): commercial with a free tier for Linux 
 - [VirtualBox](https://www.virtualbox.org/): free and open source, but poorer performance 
 - [Wine](https://github.com/alessivs/supermemo-wine): a user got SuperMemo mostly working on wine but there are various caveats and you will not be able to use[ SuperMemo Assistant](https://supermemo.wiki/sma/)
 
-### How can you navigate the various SuperMemo sites for documentation and resources?
+## How can you navigate the various SuperMemo sites for documentation and resources?
 
 For a more thorough list, check [here](http://supermemopedia.com/wiki/SuperMemo_Websites).
 
