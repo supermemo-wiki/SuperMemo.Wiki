@@ -2,7 +2,7 @@
 title: Learn SuperMemo
 description: 
 published: true
-date: 2020-12-05T21:41:57.248Z
+date: 2020-12-05T21:44:40.080Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T21:40:12.974Z
@@ -10,7 +10,7 @@ dateCreated: 2020-12-05T21:40:12.974Z
 
 # Getting Started with SuperMemo
 
-> [SuperMemo](https://help.supermemo.org/wiki/SuperMemo) is a program for converting knowledge material to **long-term memory**. It pioneered **Incremental reading**, a learning technique for processing vast amounts of material which deeply synergizes with SuperMemo.
+[SuperMemo](https://help.supermemo.org/wiki/SuperMemo) is a program for converting knowledge material to **long-term memory**. It pioneered **Incremental reading**, a learning technique for processing vast amounts of material which deeply synergizes with SuperMemo.
 {.is-info}
 
 
@@ -52,16 +52,14 @@ You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to re
 
 ### Supermemo.com
 
-> The same company publishes [supermemo.com](http://supermemo.com/), a completely different product. It is a simplified version meant for a broader public, and as such lacks many of SuperMemo 18's advanced features.
+The same company publishes [supermemo.com](http://supermemo.com/), a completely different product. It is a simplified version meant for a broader public, and as such lacks many of SuperMemo 18's advanced features.
 {.is-info}
 
 ## Where to meet and get help from other SuperMemo users ?
 
 ### Chat servers
 
-We recommend the fairly active SuperMemo.wiki discord server:
-
-- [SuperMemo.wiki server](https://discord.gg/Cqg9Fyg) (community maintaining this website)
+We recommend the fairly active [SuperMemo.wiki Discord server](https://discord.gg/Cqg9Fyg). This is home to the community maintaining this website.
 
 ### Other communities
 
