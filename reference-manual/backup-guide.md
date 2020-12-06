@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T14:50:15.922Z
+date: 2020-12-06T14:52:45.906Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -61,7 +61,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 
 1. Download and install [the latest version](https://github.com/alexis-/BitShelter/releases) of *BitShelter*
 2. Start **BitShelter Agent** from the Windows Start menu.
-3. Double-click on the [Tray Icon ![](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_TrayIcon.png)](#){.tooltip-preview} 🖼️
+3. Double-click on the [Tray Icon](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_TrayIcon.png) 🖼️
 
 #### Enabling Windows' Volume Snapshot Service (VSS)
 
@@ -90,7 +90,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
   1. Click on the <kbd>**Add Schedule**</kbd> button
     * Select the SuperMemo **Drive letter (E:\\)**
     * Set **Lifetime** to *1 Day*
-  2. Click on the <kbd>**Schedule**</kbd> **tab** and fill in [the following values](/reference-manual/backup-guide/bitshelter-15min-schedule.png ':ignore')
+  2. Click on the <kbd>**Schedule**</kbd> **tab** and fill in [the following values](/reference-manual/backup-guide/bitshelter-15min-schedule.png)
     * **Occurs every**: *15 minutes*
 	* **Frequency**: *Daily*
 	* **Recurs every**: *1 day(s)*
@@ -100,7 +100,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
   1. Click on the <kbd>**Add Schedule**</kbd> button
     * Select the SuperMemo **Drive letter (E:\\)**
     * Set **Lifetime** to *6 Month*
-  2. Click on the <kbd>**Schedule**</kbd> **tab** and fill in [the following values](/reference-manual/backup-guide/bitshelter-daily-schedule.png ':ignore')
+  2. Click on the <kbd>**Schedule**</kbd> **tab** and fill in [the following values](/reference-manual/backup-guide/bitshelter-daily-schedule.png)
     * **Occurs once at**: *08::00::00 (or whenever your computer is running)*
 	* **Frequency**: *Daily*
 	* **Recurs every**: *1 day(s)*
@@ -109,7 +109,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 
 Your final BitShelter settings should look similar to the following configuration:
 
-![](/reference-manual/backup-guide/bitshelter-rules.png ':ignore')
+![](/reference-manual/backup-guide/bitshelter-rules.png)
 
 ### You are done... Almost !
 
@@ -123,15 +123,15 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 
 1. Right click on your collection folder and click on **Restore previous versions**
 
-![](/reference-manual/backup-guide/bitshelter-restorepre.png ':ignore')
+![](/reference-manual/backup-guide/bitshelter-restorepre.png)
 
 2. Click on the copy you'd like to go back to:
 
-![](/reference-manual/backup-guide/bitshelter-restoremenu.png ':ignore')
+![](/reference-manual/backup-guide/bitshelter-restoremenu.png)
 
 3. You can then click restore, to overwrite current version of the folder, or click open to browse the files:
 
-![](/reference-manual/backup-guide/bitshelter-restoremenu2.png ':ignore')
+![](/reference-manual/backup-guide/bitshelter-restoremenu2.png)
 
 !> If you have issues with the above instuctions, you can also refer to [this guide](https://www.howtogeek.com/howto/11130/restore-previous-versions-of-files-in-every-edition-of-windows-7/)
 
@@ -174,29 +174,29 @@ Setup is now complete!
   - Give a name to your new repo (e.g. *SuperMemo-Collection*)
   - Select **Private**
 
-![](/reference-manual/backup-guide/gitsetup-initialize.png ':ignore')
+![](/reference-manual/backup-guide/gitsetup-initialize.png)
 
 2. In your SuperMemo Drive (**E:\\**), open a command prompt: type `cmd.exe`, then press <kbd>Enter</kbd>
 
-![](/reference-manual/backup-guide/windows-explorer-cmd.png ':ignore')
+![](/reference-manual/backup-guide/windows-explorer-cmd.png)
 
 3. Go to your **GitHub repository** web page, click the <kbd>**Clone or download**</kbd> button, and **press use HTTPS**.
 
-![](/reference-manual/backup-guide/github-clone-link.png ':ignore')
+![](/reference-manual/backup-guide/github-clone-link.png)
 
 4. Copy the link starting with `https://`
 
-![](/reference-manual/backup-guide/gitsetup-clonehttps.png ':ignore')
+![](/reference-manual/backup-guide/gitsetup-clonehttps.png)
 
 5. In the **command prompt**, type `git clone <https://github.com/......>`. Replace the text between **< >** with the link you copied from GitHub. 'git clone' will create a local copy of your github repository. 
 
 6. A popup will appear. Login with your GitHub account to authenticate.
 
-![](/reference-manual/backup-guide/gitsetup-login.png ':ignore')
+![](/reference-manual/backup-guide/gitsetup-login.png)
 
 7. Your repository is now synchronized with your computer. Copy your SuperMemo collection into the new folder. Your folder should look similar to the example below (*.gitignore* might be missing):
 
-[](/reference-manual/backup-guide/git-local-collection-repository.png ':ignore')
+[](/reference-manual/backup-guide/git-local-collection-repository.png)
 
 8. <a href="/content/data/sm-main-commit.bat" target="_blank" rel="noopener">Download this .bat file</a> and save it in your local repository folder (where your `.git` directory is located). It contains the following commands:
 
