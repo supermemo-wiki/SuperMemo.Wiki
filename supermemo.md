@@ -2,20 +2,13 @@
 title: SuperMemo
 description: 
 published: true
-date: 2020-12-06T18:11:08.401Z
+date: 2020-12-06T18:27:00.097Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
 ---
 
 # What is SuperMemo ?
-
-> **Q**: <span class="sm-cloze">[...]</span>
-> a great change in conditions, ways of working, beliefs, etc. that affects large numbers of people
->
-> **A**: _Revolution_, noun, revˈluːʃn.
-> 
-> Ex: Piotr Wozniak's contributions in the fields of memory, spaced repetition, and the domain of knowledge accumulation sparked a revolution within the realm of learning.
 
 [**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} is a program that **makes learning easy and fun**.
 
