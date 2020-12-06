@@ -2,7 +2,7 @@
 title: SuperMemo
 description: 
 published: true
-date: 2020-12-06T19:26:39.715Z
+date: 2020-12-06T20:27:20.307Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -12,13 +12,18 @@ dateCreated: 2020-12-05T18:34:19.777Z
 
 [**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} is a program that **makes learning easy and fun**.
 
-The methods[^1][^2] it pioneered[^3] not only enable you to remember the things you **learn forever**, but also to gain knowledge at an **unprecedented rate**.
+SuperMemo is built on two novel learning techniques: [Spaced Repetition](/learning/spaced-repetition) and [Incremental Reading](/learning/incremental-reading). These methods were pioneered by Dr. [Piotr Wozniak](/supermemo/piotr-wozniak)[^1], creator of SuperMemo. They enable users to form long-lasting memories, and to gain new knowledge more efficiently compared with Traditional techniques.
 
-
+While the success of SuperMemo is often attributed to its novel techniques and advanced algorithms, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the importance of [Pleasure of Learning](/learning/pleasure-of-learning)
 
 ## Spaced Repetition
 
+> Main article: [Spaced Repetition](/learning/spaced-repetition)
+{.is-info}
+
 ## Incremental Reading
+> Main article: [Incremental Reading](/learning/incremental-reading)
+{.is-info}
 
 # Getting Started
 
@@ -34,6 +39,5 @@ The methods[^1][^2] it pioneered[^3] not only enable you to remember the things 
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i33BTuwTgAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[^1]: https://supermemo.guru/wiki/Spaced_repetition
-[^2]: https://supermemo.guru/wiki/Incremental_reading
-[^3]: https://supermemo.guru/wiki/History_of_spaced_repetition
+[^1]: https://supermemo.guru/wiki/History_of_spaced_repetition
+[^2]: https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation:_Signatories
