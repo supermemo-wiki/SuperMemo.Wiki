@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-06T11:38:06.018Z
+date: 2020-12-06T11:53:36.925Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -52,7 +52,7 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
       </td>
       <td>
         <p>
-          <a href="https://super-memo.com/">SuperMemo (Windows)</a>
+          <a target="_blank" href="https://super-memo.com/">SuperMemo (Windows)</a>
         </p>
       </td>
       <td>
@@ -62,7 +62,7 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
     <tr>
       <td>
         <p>
-          <a href="http://supermemo.com/">SuperMemo.com (Web)</a>
+          <a target="_blank" href="http://supermemo.com/">SuperMemo.com (Web)</a>
         </p>
       </td>
       <td>
@@ -72,7 +72,7 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
     <tr>
       <td>
         <p>
-          <a href="http://supermemopedia.com/">SuperMemopedia</a>
+          <a target="_blank" href="http://supermemopedia.com/">SuperMemopedia</a>
         </p>
       </td>
       <td>
@@ -87,7 +87,7 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
       </td>
       <td>
         <p>
-          <a href="https://discord.gg/vUQhqCT">SuperMemo.wiki Discord</a>
+          <a target="_blank" href="https://discord.gg/vUQhqCT">SuperMemo.wiki Discord</a>
         </p>
       </td>
       <td>
@@ -97,7 +97,7 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
     <tr>
       <td>
         <p>
-          <a href="https://www.reddit.com/r/super_memo/">/r/super_memo</a>
+          <a target="_blank" href="https://www.reddit.com/r/super_memo/">/r/super_memo</a>
         </p>
       </td>
       <td>
