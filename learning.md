@@ -1,14 +1,14 @@
 ---
-title: Reference Manual
+title: Learning Guide
 description: Exhaustive guides on topics related to Learning and to SuperMemo.
 published: true
-date: 2020-12-06T16:13:02.490Z
+date: 2020-12-06T18:08:42.208Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:24:56.357Z
 ---
 
-# Reference Manual
+# Learning Guide
 
 - [Knowledge Formulation *Techniques for encoding knowledge.*](/reference-manual/knowledge-formulation)
 - [Incremental Reading *How to learn wide and deep, with a smile.*](/reference-manual/incremental-reading)
