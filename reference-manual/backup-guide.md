@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T16:06:52.680Z
+date: 2020-12-06T16:08:20.974Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -165,7 +165,7 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 5. Open a command prompt: type `cmd.exe`, then press <kbd>Enter</kbd> and run the following two commands (with your own name and email you use for github):
 
 ```bash
-git config --global user.name "Alexis Inco"
+git config --global user.name "Alexis Incogito"
 git config --global user.email alexis@incogito.org
 ```
    
