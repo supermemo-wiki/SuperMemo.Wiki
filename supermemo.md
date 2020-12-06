@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T23:45:30.787Z
+date: 2020-12-06T23:47:45.190Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -41,7 +41,11 @@ Here are a few reasons why SuperMemo might **improve your life**:
     - You will have discussions on topics that you cannot have elsewhere,
     - These discussions will spark new ideas and projects.
 
-#### I am a Student
+#### I am a Student (TODO)
+
+TO DO !
+
+#### I am a Worker (TODO)
 
 TO DO !
 
