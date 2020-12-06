@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T23:34:11.483Z
+date: 2020-12-06T23:34:23.554Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -37,7 +37,7 @@ Here are a few reasons why SuperMemo might **improve your life**:
     - SuperMemo is built to make learning pleasurable,
     - Using SuperMemo will help you love learning again,
     - As you progressively learn to love learning, your life will gradually improve !
-2. **You can meet amazing people and start new projects:**
+2. **You can meet amazing people:**
     - Our community is oustandingly supportive and caring,
     - You will have discussions on topics that you cannot have elsewhere,
     - These discussions will spark new ideas and projects.
