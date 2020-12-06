@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T16:09:13.153Z
+date: 2020-12-06T22:29:04.012Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -12,12 +12,12 @@ dateCreated: 2020-12-06T14:16:06.567Z
 
 ## Why should you backup ?
 
-> ⚠️ **Your collection is precious**. If you are using SuperMemo, you will likely be pouring days, weeks or months of your life into building it. Don't let it all go to waste. **Having frequent backups is vital**.
+> ⚠️ **Your collection is precious**. If you are using SuperMemo, you will likely be pouring weeks, months or years of your life into building it. Don't let it all go to waste. **Having frequent backups is vital**.
 {.is-warning}
 
 Do you care about your health ? Would you take a gamble with your life and forfeit your health insurance ? If your answer is no, then keep reading.
 
-Computer glitches can happen at any time. It is precisely because we cannot anticipate them, that we take measures to mitigate their potential damage.
+Just like health issues, computer glitches can happen at any time. It is precisely because we cannot anticipate these events, that we take measures to mitigate their potential damage.
 
 > *Still not convinced* ? [Read testimonies](#testimonies) of SuperMemo users who remained skeptic, until it was too late.
 {.is-info}
