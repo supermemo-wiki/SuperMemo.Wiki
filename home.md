@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-06T12:00:44.081Z
+date: 2020-12-06T12:07:02.953Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -10,9 +10,11 @@ dateCreated: 2020-12-05T18:21:42.959Z
 
 # SuperMemo
 
-[**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} is a program that **makes learning easy and fun**.
+> [**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} is a program that **makes learning easy and fun**.
+>
+> [The](https://supermemo.guru/wiki/Spaced_repetition){target="_blank"} [methods](https://supermemo.guru/wiki/Incremental_reading){target="_blank"} it [pioneered](https://supermemo.guru/wiki/History_of_spaced_repetition){target="_blank"} not only enable you to remember the things you **learn forever**, but also to gain knowledge at an **unprecedented rate**.
+{.is-success}
 
-[The](https://supermemo.guru/wiki/Spaced_repetition){target="_blank"} [methods](https://supermemo.guru/wiki/Incremental_reading){target="_blank"} it [pioneered](https://supermemo.guru/wiki/History_of_spaced_repetition){target="_blank"} not only enable you to remember the things you **learn forever**, but also to gain knowledge at an **unprecedented rate**.
 
 [![SuperMemo 18](/screenshots/screenshot-sm18-001.png)](/screenshots/screenshot-sm18-001.png){target="_blank"}
 
