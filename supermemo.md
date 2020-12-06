@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T22:34:43.961Z
+date: 2020-12-06T23:06:56.082Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -14,7 +14,7 @@ dateCreated: 2020-12-05T18:34:19.777Z
 
 SuperMemo is built on two novel learning techniques: [Spaced Repetition](/learning/spaced-repetition) and [Incremental Reading](/learning/incremental-reading). These methods were pioneered by Dr. [Piotr Wozniak](/supermemo/piotr-wozniak)[^1], creator of SuperMemo. They enable users to form long-lasting memories, and to gain new knowledge more efficiently compared with Traditional techniques.
 
-While the success of SuperMemo is often attributed to its novel techniques and advanced algorithms, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning initiatives.
+While the success of SuperMemo is often attributed to its novel techniques and advanced algorithms, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
 
 ## Spaced Repetition
 
@@ -27,14 +27,15 @@ While the success of SuperMemo is often attributed to its novel techniques and a
 
 ## Why should you care about SuperMemo ?
 
-Here are a few reasons why SuperMemo might improve your life:
+Here are a few reasons why SuperMemo might **improve your life**:
 
 ### Tabs{.tabset}
-#### I am a student
+#### Everyone
 
-Reason
+- Reason 1
+- Reason 2
 
-#### I am not a student
+#### Students
 
 Reason
 
