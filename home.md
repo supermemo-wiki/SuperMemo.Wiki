@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-06T11:54:55.662Z
+date: 2020-12-06T11:58:54.358Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -112,10 +112,11 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
 
 # Editing this Wiki
 
-To prevent spam we require manual verification for new accounts to receive editing permission on the Wiki.
+To prevent spam we require **manual verification** for new accounts to receive editing permission on the Wiki.
 
-1. [Register](//supermemo.wiki/login) an account,
-2. Contact `Alexis Incogito#8606` on [Discord](https://discord.gg/vUQhqCT) to join the Editor group.
+- [1. Create an Account *Register your personal account on this wiki.*](//supermemo.wiki/login)
+- [2. Become an Editor *Contact `Alexis Incogito#8606` on Discord.*](https://discord.gg/vUQhqCT)
+{.links-list}
 
 *[SuperMemopedia]: Official wiki published by the SuperMemo company
 
