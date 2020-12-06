@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T16:08:20.974Z
+date: 2020-12-06T16:09:13.153Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -75,7 +75,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 > If BitShelter displays [an error](/reference-manual/backup-guide/bitshelter-error.png) about loading AlphaVSS.x64.dll, install vc_redist.x64.exe from [this link](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 {.is-info}
 
-2. Click on <kbd>**Enable other Drive(s)**</kbd> in the [General tab](/reference-manual/backup-guide/bitshelter.agent_general.png)]
+2. Click on <kbd>**Enable other Drive(s)**</kbd> in the [General tab](/reference-manual/backup-guide/bitshelter.agent_general.png)
 3. Select the SuperMemo drive **(E:\\)** in the [System Protection dialog](/reference-manual/backup-guide/systempropertiesprotection_2018-05-05_13-10-18.png) and click on <kbd>**Configure**</kbd>.
 4. In the [new dialog](/reference-manual/backup-guide/systempropertiesprotection_2018-05-05_13-10-22.png) click on <kbd>**Turn on protection**</kbd>, select at least 2GB of desired reserved space for Snapshots, then press <kbd>**OK**</kbd> to both System Protection and System Properties windows.
 
