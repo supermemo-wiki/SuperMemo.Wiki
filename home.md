@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-06T17:26:30.556Z
+date: 2020-12-06T18:13:21.545Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -20,19 +20,19 @@ dateCreated: 2020-12-05T18:21:42.959Z
 
 ## Getting Started
 
-- [What is SuperMemo ? *The fundamental concepts of SuperMemo.*](/getting-started)
-- [First steps *Installation and Basic usage.*](/getting-started/first-steps)
-- [Backup Guide *Why risk losing your hard work ? Set it up now, and forget about it !*](/reference-manual/backup-guide)
-- [Going further *Pointers for progressing to expert levels.*](/getting-started/going-further)
+- [What is SuperMemo ? *The fundamental concepts of SuperMemo.*](/supermemo)
+- [First steps *Installation and Basic usage.*](/supermemo/first-steps)
+- [Backup Guide *Why risk losing your hard work ? Set it up now, and forget about it !*](/supermemo/backup-guide)
+- [Going further *Pointers for progressing to expert levels.*](/supermemo/going-further)
 {.links-list}
 
 ## Reference Manual
 
-- [Knowledge Formulation *Techniques for encoding knowledge.*](/reference-manual/knowledge-formulation)
-- [Incremental Reading *How to learn wide and deep, with a smile.*](/reference-manual/incremental-reading)
-- [Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/reference-manual/pleasure-of-learning)
-- [Studying for School *Guides for learning School Material.*](/reference-manual/school)
-- [Incremental Writing *Increase your creativity and writing quality.*](/reference-manual/incremental-writing)
+- [Knowledge Formulation *Techniques for encoding knowledge.*](/learning/knowledge-formulation)
+- [Incremental Reading *How to learn wide and deep, with a smile.*](/learning/incremental-reading)
+- [Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/learning/pleasure-of-learning)
+- [Studying for School *Guides for learning School Material.*](/learning/school)
+- [Incremental Writing *Increase your creativity and writing quality.*](/learning/incremental-writing)
 {.links-list}
 
 ## Website Matrix
