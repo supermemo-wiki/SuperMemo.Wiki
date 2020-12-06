@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T14:22:03.420Z
+date: 2020-12-06T14:22:33.188Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -61,7 +61,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 
 1. Download and install [the latest version](https://github.com/alexis-/BitShelter/releases) of *BitShelter*
 2. Start **BitShelter Agent** from the Windows Start menu.
-3. Double-click on the [Tray Icon ![](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_TrayIcon.png)](#){.tooltip-preview} 🖼️
+3. Double-click on the [Tray Icon ![](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_TrayIcon.png)](#){tooltip-preview=true} 🖼️
 
 #### Enabling Windows' Volume Snapshot Service (VSS)
 
