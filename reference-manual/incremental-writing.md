@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-06T12:20:30.470Z
+date: 2020-12-06T12:22:11.441Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -20,12 +20,13 @@ IW is typically assisted by software to maximize the usage of your time by inter
 - Reviewing previously acquired knowledge to preserve it over time (forever !), 
 - Creative work (writing, problem solving, ...).
 
+In IW, the decision of whether you should continue working on a particular text depends on your desire to do so. That desire is a compound of variables: [pleasure of writing](/reference-manual/pleasure-of-learning), state of flow, level of understanding of the topic, etc.
+
 ## Benefits
 
 A typical incremental writer:
 
-- Never get bored (there are always new and varied ideas to keep things exciting), 
-- Increase your creativity (new information is constantly flowing), 
-- Write more efficiently (by progressing on several sections in parallel), 
-- Are less prone to error (dividing in smaller sections makes it easier to spot mistakes, and update erroneous or outdated information with new understandings).
-- In IW, the decision of whether you should continue working on a particular text depends on your desire to do so. That desire is a compound of variables: pleasure of writing, state of flow, level of understanding of the topic, etc.
+- Never gets bored (there are always new and varied ideas to keep things exciting), 
+- Increases his creativity (new information is constantly flowing), 
+- Writes more efficiently (by progressing on several sections in parallel), 
+- Is less prone to error (dividing in smaller sections makes it easier to spot mistakes, and update erroneous or outdated information with new understandings).
