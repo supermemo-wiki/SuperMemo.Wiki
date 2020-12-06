@@ -2,7 +2,7 @@
 title: SuperMemo
 description: 
 published: true
-date: 2020-12-06T20:27:44.899Z
+date: 2020-12-06T20:29:48.823Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -34,7 +34,9 @@ While the success of SuperMemo is often attributed to its novel techniques and a
 
 
 ## Video guide
-&nbsp;
+
+A [complete video tutorial](https://www.youtube.com/playlist?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1) is available on the SuperMemo.wiki [YouTube channel](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ).
+
 <div>
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i33BTuwTgAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
