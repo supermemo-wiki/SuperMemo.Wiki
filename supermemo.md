@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T23:43:32.530Z
+date: 2020-12-06T23:45:30.787Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -50,7 +50,7 @@ TO DO !
 1. **You can learn to better handle complexity**
     - Understanding politics and societies demands a lot of knowledge,
     - SuperMemo is built to handle large volume of information,
-    - You will become more informed, more quickly, and make better decisions.
+    - You will become more informed, and better equipped to make good decisions.
 2. **You can spread the word**
     - Once you rediscover the pleasure of learning, you will be able to promote policies that encourage it,
     - People will become more educated, and more happy.
