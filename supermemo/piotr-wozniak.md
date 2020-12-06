@@ -2,7 +2,7 @@
 title: Piotr Wozniak
 description: Creator of SuperMemo and pioneer in education research.
 published: true
-date: 2020-12-06T20:45:44.223Z
+date: 2020-12-06T20:47:23.989Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T18:31:25.645Z
@@ -22,4 +22,4 @@ dateCreated: 2020-12-06T18:31:25.645Z
 
 [^1]: https://supermemo.guru/wiki/Spaced_repetition
 
-![Piotr Wozniak](/supermemo/piotr_wozniak_icon.jpg){.align-abstopright}
+![Piotr Wozniak](/supermemo/piotr_wozniak_icon.png){.align-abstopright}
