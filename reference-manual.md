@@ -1,8 +1,8 @@
 ---
 title: Reference Manual
-description: 
+description: Exhaustive guides on topics related to Learning and to SuperMemo.
 published: true
-date: 2020-12-06T12:24:56.357Z
+date: 2020-12-06T16:13:02.490Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:24:56.357Z
