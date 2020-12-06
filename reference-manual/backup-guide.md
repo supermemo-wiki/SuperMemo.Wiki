@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T15:28:40.304Z
+date: 2020-12-06T15:56:49.953Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -66,8 +66,8 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 #### Enabling Windows' Volume Snapshot Service (VSS)
 
 > Take note of the Drive Letter which contains your SuperMemo collection. If you only have one disk in your computer, it should be C:\\
- 
-> **In this example, the SuperMemo collection Drive Letter is E:\**
+> 
+> **In this example, the SuperMemo collection Drive Letter is E:\.**
 {.is-info}
 
 1. In the [Main Window](/reference-manual/backup-guide/bitshelter.agent_rules.png), click on the <kbd>**Add Schedule**</kbd> button.
@@ -79,8 +79,8 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 3. Select the SuperMemo drive **(E:\\)** in the [System Protection dialog](/reference-manual/backup-guide/systempropertiesprotection_2018-05-05_13-10-18.png) and click on <kbd>**Configure**</kbd>.
 4. In the [new dialog](/reference-manual/backup-guide/systempropertiesprotection_2018-05-05_13-10-22.png) click on <kbd>**Turn on protection**</kbd>, select at least 2GB of desired reserved space for Snapshots, then press <kbd>**OK**</kbd> to both System Protection and System Properties windows.
 
-> [!NOTE]
-> If you chose not to create a dedicated partition for SuperMemo, increase reserve space significantly. As BitShelter will then run across your entire C:/ drive, it will be filled by all modifications made by any files in windows rather than SuperMemo alone.
+> If you chose not to create a dedicated partition for SuperMemo, **increase reserve space significantly**. As BitShelter will then run across your entire C:/ drive, it will be filled by all modifications made by any files in windows rather than SuperMemo alone.
+{.is-warning}
 
 5. Back in the [General tab](/reference-manual/backup-guide/bitshelter.agent_general.png), click on <kbd>**Raise limit**</kbd>, and set the new limit to **512**.
 
@@ -114,7 +114,8 @@ Your final BitShelter settings should look similar to the following configuratio
 
 ### You are done... Almost !
 
-!> It is highly recommended that you **make sure everything is working as intended**. 
+> It is highly recommended that you **make sure everything is working as intended**.
+{.is-info}
 
 Try out the following instructions and see if you're actually able to open up and use a copy made by BitShelter.
 
@@ -134,7 +135,8 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 
 ![](/reference-manual/backup-guide/bitshelter-restoremenu2.png)
 
-!> If you have issues with the above instuctions, you can also refer to [this guide](https://www.howtogeek.com/howto/11130/restore-previous-versions-of-files-in-every-edition-of-windows-7/)
+> If you have issues with the above instuctions, you can also refer to [this guide](https://www.howtogeek.com/howto/11130/restore-previous-versions-of-files-in-every-edition-of-windows-7/)
+{.is-info}
 
 ## Internet backups: Git & Github
 
@@ -153,8 +155,8 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 
 ### Installing & Setting up Git with GitHub
 
-> [!NOTE]
 > If you want to use SSH authentication instead of HTTPS, follow [this guide](https://vladmihalcea.com/tutorials/git/windows-git-ssh-authentication-to-github/)
+{.is-info}
 
 1. Create a [GitHub account](https://github.com/join/).
 2. Download [Git for Windows](https://gitforwindows.org/).
@@ -169,7 +171,7 @@ Setup is now complete!
   
 ### Creating & Synchronizing your GitHub repository
 
-?> **In this example, the GitHub repository we create will be named SuperMemo-Collection**
+In this example, the GitHub repository we create will be named **SuperMemo-Collection**.
 
 1. Create a [new repository](https://github.com/new):
   - Give a name to your new repo (e.g. *SuperMemo-Collection*)
