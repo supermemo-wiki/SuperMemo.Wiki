@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T23:47:45.190Z
+date: 2020-12-06T23:54:18.804Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -45,7 +45,7 @@ Here are a few reasons why SuperMemo might **improve your life**:
 
 TO DO !
 
-#### I am a Worker (TODO)
+#### I am Salaried[^3] (TODO)
 
 TO DO !
 
@@ -79,5 +79,6 @@ TO DO !
 
 [^1]: https://supermemo.guru/wiki/History_of_spaced_repetition
 [^2]: https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation:_Signatories
+[^3]: Word chosen purposedly, salary does not equate income https://www.youtube.com/watch?v=eyrEykrcQi0
 
 ![SuperMemo.wiki](/supermemo-64.png){.align-abstopright}
