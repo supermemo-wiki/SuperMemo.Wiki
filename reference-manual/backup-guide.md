@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T15:56:49.953Z
+date: 2020-12-06T16:04:05.730Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -163,10 +163,11 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 3. Install it with default settings
 5. Open a command prompt: type `cmd.exe`, then press <kbd>Enter</kbd> and run the following two commands (with your own name and email you use for github):
 
-   ```
-   git config --global user.name "Alexis Inco"
-   git config --global user.email alexis@incogito.org
-   ```
+```bash
+git config --global user.name "Alexis Inco"
+git config --global user.email alexis@incogito.org
+```
+   
 Setup is now complete!
   
 ### Creating & Synchronizing your GitHub repository
@@ -174,8 +175,8 @@ Setup is now complete!
 In this example, the GitHub repository we create will be named **SuperMemo-Collection**.
 
 1. Create a [new repository](https://github.com/new):
-  - Give a name to your new repo (e.g. *SuperMemo-Collection*)
-  - Select **Private**
+    - Give a name to your new repo (e.g. *SuperMemo-Collection*)
+    - Select **Private**
 
 ![](/reference-manual/backup-guide/gitsetup-initialize.png)
 
@@ -199,11 +200,11 @@ In this example, the GitHub repository we create will be named **SuperMemo-Colle
 
 7. Your repository is now synchronized with your computer. Copy your SuperMemo collection into the new folder. Your folder should look similar to the example below (*.gitignore* might be missing):
 
-[](/reference-manual/backup-guide/git-local-collection-repository.png)
+![](/reference-manual/backup-guide/git-local-collection-repository.png)
 
-8. <a href="/content/data/sm-main-commit.bat" target="_blank" rel="noopener">Download this .bat file</a> and save it in your local repository folder (where your `.git` directory is located). It contains the following commands:
+8. <a href="/reference-manual/backup-guide/sm-main-commit.bat" target="_blank" rel="noopener">Download this .bat file</a> and save it in your local repository folder (where your `.git` directory is located). It contains the following commands:
 
-```bat
+```bash
 git add -A && git commit -m "Update"
 git push
 ```
@@ -212,7 +213,8 @@ git push
 
 ### Pushing (*\"saving\"*) your work to GitHub
 
-!> Every time you finish using SuperMemo, make sure to run `sm-main-commit.bat`.
+> Every time you finish using SuperMemo, make sure to run `sm-main-commit.bat`.
+{.is-info}
 
 That's all ! Your collection is synchronized online, congratulations !
 
@@ -228,7 +230,13 @@ To make running sm-main-commit.bat more convenient, you can add it to taskbar. W
 
 # Why not use Dropbox or Google Drive for backups?
 
-A common question people ask is "Why not use Dropbox or Google Drive for backups?". Admittedly, these are much more user friendly and require very little set up. However, there are a number of reasons why these services are inadequate for our purposes. Firstly, it is very easy to get something wrong, and corrupt your collection due to file locks. Previous backup methods relied on watching and killing processes in an effort to prevent this, but these are very inelegant solutions. Furthermore, syncing to a cloud provider pushes each file individually without any knowledge of how they are grouped together. If for some reason your cloud provider messes up the syncing, it might lead to nasty results. By contrast, the git push to server is an atomic transaction, meaning it either completely succeeds, or completely fails, there is no situation where your collection data gets partially backed up.
+A common question people ask is "**Why not use Dropbox or Google Drive for backups?**".
+
+Admittedly, these are much more user friendly and require very little set up. However, there are a number of reasons why these services are inadequate for our purposes.
+
+1. It is very easy to get something wrong, and corrupt your collection due to file locks. Previous backup methods relied on watching and killing processes in an effort to prevent this, but these are very inelegant solutions.
+
+2. Syncing to a cloud provider pushes each file individually without any knowledge of how they are grouped together. If for some reason your cloud provider messes up the syncing, it might lead to nasty results. By contrast, the git push to server is an atomic transaction, meaning it either completely succeeds, or completely fails, there is no situation where your collection data gets partially backed up.
 
 # Suggestions to improve your backup strategy
 
