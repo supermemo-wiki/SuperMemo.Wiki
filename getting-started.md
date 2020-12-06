@@ -1,8 +1,8 @@
 ---
-title: What is SuperMemo ?
+title: 
 description: 
 published: true
-date: 2020-12-06T13:24:27.248Z
+date: 2020-12-06T13:25:03.319Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -21,6 +21,8 @@ dateCreated: 2020-12-05T18:34:19.777Z
 
 [The](https://supermemo.guru/wiki/Spaced_repetition){target="_blank"} [methods](https://supermemo.guru/wiki/Incremental_reading){target="_blank"} it [pioneered](https://supermemo.guru/wiki/History_of_spaced_repetition){target="_blank"} not only enable you to remember the things you **learn forever**, but also to gain knowledge at an **unprecedented rate**.
 
+# Video guide
+&nbsp;
 <div>
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i33BTuwTgAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
