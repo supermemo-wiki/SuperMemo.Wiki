@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-06T16:28:37.759Z
+date: 2020-12-06T16:30:23.229Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -18,15 +18,7 @@ dateCreated: 2020-12-05T18:21:42.959Z
 
 [![SuperMemo 18](/screenshots/screenshot-sm18-001.png)](/screenshots/screenshot-sm18-001.png){target="_blank"}
 
-# About this wiki
-
-This is a community initiative at writing a **user-friendly documentation** for *SuperMemo* and *learning* in general.
-
-[SuperMemopedia](https://supermemopedia.com/) is another great source of information. The presentation and volume of information available there can be daunting for new users. This initiative attempts to offer an alternative.
-
-Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki) on this page.
-
-# Getting Started
+## Getting Started
 
 - [What is SuperMemo ? *The fundamental concepts of SuperMemo.*](/getting-started)
 - [First steps *Installation and Basic usage.*](/getting-started/first-steps)
@@ -34,7 +26,7 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
 - [Going further *Pointers for progressing to expert levels.*](/getting-started/going-further)
 {.links-list}
 
-# Reference Manual
+## Reference Manual
 
 - [Knowledge Formulation *Techniques for encoding knowledge.*](/reference-manual/knowledge-formulation)
 - [Incremental Reading *How to learn wide and deep, with a smile.*](/reference-manual/incremental-reading)
@@ -43,7 +35,7 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
 - [Incremental Writing *Increase your creativity and writing quality.*](/reference-manual/incremental-writing)
 {.links-list}
 
-# Website Matrix
+## Website Matrix
 
 > For a more more complete list of resources, visit [awesome-supermemo](https://github.com/supermemo/awesome-supermemo).
 {.is-info}
@@ -138,7 +130,15 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
   </tbody>
 </table>
 
-# Editing this Wiki
+# About this wiki
+
+This is a community initiative at writing a **user-friendly documentation** for *SuperMemo* and *learning* in general.
+
+[SuperMemopedia](https://supermemopedia.com/) is another great source of information. The presentation and volume of information available there can be daunting for new users. This initiative attempts to offer an alternative.
+
+Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki) on this page.
+
+## Editing this Wiki
 
 To prevent spam we require **manual verification** for new accounts to receive editing permission on the Wiki.
 
