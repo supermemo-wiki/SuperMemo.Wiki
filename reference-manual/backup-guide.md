@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T15:16:09.359Z
+date: 2020-12-06T15:23:13.766Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -88,25 +88,25 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 #### Creating snapshot rules in BitShelter
 
 1. Frequent snapshots (15 min)
-  1. Click on the <kbd>**Add Schedule**</kbd> button
-    * Select the SuperMemo **Drive letter (E:\\)**
-    * Set **Lifetime** to *1 Day*
-  2. Click on the <kbd>**Schedule**</kbd> **tab** and fill in [the following values](/reference-manual/backup-guide/bitshelter-15min-schedule.png)
-    * **Occurs every**: *15 minutes*
-	* **Frequency**: *Daily*
-	* **Recurs every**: *1 day(s)*
-	* **End on**: *Never*
-  3. Press the **Create** button
+    1. Click on the <kbd>**Add Schedule**</kbd> button
+        - Select the SuperMemo **Drive letter (E:\\)**
+        - Set **Lifetime** to *1 Day*
+    2. Click on the <kbd>**Schedule**</kbd> **tab** and fill in [the following values](/reference-manual/backup-guide/bitshelter-15min-schedule.png)
+        - **Occurs every**: *15 minutes*
+	      - **Frequency**: *Daily*
+	      - **Recurs every**: *1 day(s)*
+	      - **End on**: *Never*
+    3. Press the **Create** button
 2. Daily snapshots
-  1. Click on the <kbd>**Add Schedule**</kbd> button
-    * Select the SuperMemo **Drive letter (E:\\)**
-    * Set **Lifetime** to *6 Month*
-  2. Click on the <kbd>**Schedule**</kbd> **tab** and fill in [the following values](/reference-manual/backup-guide/bitshelter-daily-schedule.png)
-    * **Occurs once at**: *08::00::00 (or whenever your computer is running)*
-	* **Frequency**: *Daily*
-	* **Recurs every**: *1 day(s)*
-	* **End on**: *Never*
-  3. Press the **Create** button
+    1. Click on the <kbd>**Add Schedule**</kbd> button
+        - Select the SuperMemo **Drive letter (E:\\)**
+        - Set **Lifetime** to *6 Month*
+    2. Click on the <kbd>**Schedule**</kbd> **tab** and fill in [the following values](/reference-manual/backup-guide/bitshelter-daily-schedule.png)
+        - **Occurs once at**: *08::00::00 (or whenever your computer is running)*
+        - **Frequency**: *Daily*
+        - **Recurs every**: *1 day(s)*
+        - **End on**: *Never*
+    3. Press the **Create** button
 
 Your final BitShelter settings should look similar to the following configuration:
 
