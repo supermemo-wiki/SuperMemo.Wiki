@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T23:28:35.635Z
+date: 2020-12-06T23:28:55.105Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -34,7 +34,6 @@ Here are a few reasons why SuperMemo might **improve your life**:
 
 1. **You can learn to love learning:**
     - Learning is the best way to improve your life,
-    - Our brain loves learning, but school often take that away from us,
     - SuperMemo is built to make learning pleasurable,
     - Using SuperMemo will help you love learning again,
     - As you progressively learn to love learning, your life will gradually improve !
