@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T23:32:59.691Z
+date: 2020-12-06T23:33:49.352Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -25,7 +25,7 @@ While the success of SuperMemo is often attributed to its novel techniques and a
 > Main article: [Incremental Reading](/learning/incremental-reading)
 {.is-info}
 
-## Why SuperMemo can change your life ?
+## Why can SuperMemo change your life ?
 
 Here are a few reasons why SuperMemo might **improve your life**:
 
