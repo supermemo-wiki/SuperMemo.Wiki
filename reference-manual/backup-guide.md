@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T14:56:47.338Z
+date: 2020-12-06T15:01:42.072Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -61,7 +61,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 
 1. Download and install [the latest version](https://github.com/alexis-/BitShelter/releases) of *BitShelter*
 2. Start **BitShelter Agent** from the Windows Start menu.
-3. Double-click on the [Tray Icon](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_TrayIcon.png) 🖼️
+3. Double-click on the [Tray Icon](/reference-manual/backup-guide/BitShelter.Agent_TrayIcon.png) 🖼️
 
 #### Enabling Windows' Volume Snapshot Service (VSS)
 
@@ -69,19 +69,19 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 
 ?> **In this example, the SuperMemo collection Drive Letter is E:\**
 
-1. In the [Main Window](https://raw.githubusercontent.com/alexis-/BitShelter/master/Resources/BitShelter.Agent_Rules.png), click on the <kbd>**Add Schedule**</kbd> button.
+1. In the [Main Window](/reference-manual/backup-guide/BitShelter.Agent_Rules.png), click on the <kbd>**Add Schedule**</kbd> button.
 
 > If BitShelter displays [an error](/reference-manual/backup-guide/bitshelter-error.png) about loading AlphaVSS.x64.dll, install vc_redist.x64.exe from [this link](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 {.is-info}
 
-2. Click on <kbd>**Enable other Drive(s)**</kbd> in the [General tab](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_General.png)]
-3. Select the SuperMemo drive **(E:\\)** in the [System Protection dialog](https://github.com/alexis-/BitShelter/raw/master/Resources/SystemPropertiesProtection_2018-05-05_13-10-18.png) and click on <kbd>**Configure**</kbd>.
-4. In the [new dialog](https://github.com/alexis-/BitShelter/raw/master/Resources/SystemPropertiesProtection_2018-05-05_13-10-22.png) click on <kbd>**Turn on protection**</kbd>, select at least 2GB of desired reserved space for Snapshots, then press <kbd>**OK**</kbd> to both System Protection and System Properties windows.
+2. Click on <kbd>**Enable other Drive(s)**</kbd> in the [General tab](/reference-manual/backup-guide/BitShelter.Agent_General.png)]
+3. Select the SuperMemo drive **(E:\\)** in the [System Protection dialog](/reference-manual/backup-guide/SystemPropertiesProtection_2018-05-05_13-10-18.png) and click on <kbd>**Configure**</kbd>.
+4. In the [new dialog](/reference-manual/backup-guide/SystemPropertiesProtection_2018-05-05_13-10-22.png) click on <kbd>**Turn on protection**</kbd>, select at least 2GB of desired reserved space for Snapshots, then press <kbd>**OK**</kbd> to both System Protection and System Properties windows.
 
 > [!NOTE]
 > If you chose not to create a dedicated partition for SuperMemo, increase reserve space significantly. As BitShelter will then run across your entire C:/ drive, it will be filled by all modifications made by any files in windows rather than SuperMemo alone.
 
-5. Back in the [General tab](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_General.png), click on <kbd>**Raise limit**</kbd>, and set the new limit to **512**.
+5. Back in the [General tab](/reference-manual/backup-guide/BitShelter.Agent_General.png), click on <kbd>**Raise limit**</kbd>, and set the new limit to **512**.
 
 
 #### Creating snapshot rules in BitShelter
