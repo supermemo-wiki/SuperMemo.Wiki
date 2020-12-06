@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T16:04:05.730Z
+date: 2020-12-06T16:05:25.013Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -243,7 +243,7 @@ Admittedly, these are much more user friendly and require very little set up. Ho
 > Work in progress. Come back later !
 
 - [Encrypt your GitHub repository](https://github.com/AGWA/git-crypt).
-- Implement the [3-2-1 Backup Rule](https://www.acronyms-it.co.uk/blog/backup-rule-of-three/) <a href="/reference-manual/backup-guide/321Backup.png">(Visual Guide)</a>.
+- Implement the [3-2-1 Backup Rule](https://www.acronyms-it.co.uk/blog/backup-rule-of-three/) [(Visual Guide)](/reference-manual/backup-guide/321backup.png){target="_blank"}.
 - Make your SuperMemo partition a [Mirrored Volume (RAID 1)](https://www.windowscentral.com/how-set-mirrored-volume-file-redundancy-windows-10).
 
 # Testimonies
