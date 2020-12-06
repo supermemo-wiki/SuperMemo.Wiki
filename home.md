@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-06T10:50:49.646Z
+date: 2020-12-06T11:15:21.245Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -31,6 +31,73 @@ dateCreated: 2020-12-05T18:21:42.959Z
 - [Studying for School *Guides for learning School Material.*](/reference-manual)
 - [Incremental Writing *Increase your creativity and writing quality.*](/reference-manual)
 {.links-list}
+
+# Website Matrix
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="3">
+        <p>
+          <strong>Official websites</strong>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://super-memo.com/">SuperMemo (Windows)</a>
+        </p>
+      </td>
+      <td>
+        <p>The most advanced edition of SuperMemo this very wiki is dedicated to.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <a href="http://supermemo.com/">SuperMemo.com (Web)</a>
+        </p>
+      </td>
+      <td>
+        <p>Web-based edition of SuperMemo with a simplified interface and feature-set.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <a href="http://supermemopedia.com/">SuperMemopedia</a>
+        </p>
+      </td>
+      <td>
+        <p>Official SuperMemo wiki.</p>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <p>
+          <strong>Communities</strong>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://discord.gg/vUQhqCT">SuperMemo.wiki Discord</a>
+        </p>
+      </td>
+      <td>
+        <p>Home of the community maintaining this website.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <a href="https://www.reddit.com/r/super_memo/">/r/super_memo</a>
+        </p>
+      </td>
+      <td>
+        <p>Most active reddit community.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Editing this Wiki
 
