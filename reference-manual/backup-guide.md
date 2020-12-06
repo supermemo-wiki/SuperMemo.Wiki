@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T14:52:45.906Z
+date: 2020-12-06T14:56:47.338Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -69,19 +69,19 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 
 ?> **In this example, the SuperMemo collection Drive Letter is E:\**
 
-1. In the [Main Window ![](https://raw.githubusercontent.com/alexis-/BitShelter/master/Resources/BitShelter.Agent_Rules.png)](https://raw.githubusercontent.com/alexis-/BitShelter/master/Resources/BitShelter.Agent_Rules.png){.tooltip-preview}, click on the <kbd>**Add Schedule**</kbd> button.
+1. In the [Main Window](https://raw.githubusercontent.com/alexis-/BitShelter/master/Resources/BitShelter.Agent_Rules.png), click on the <kbd>**Add Schedule**</kbd> button.
 
-> If BitShelter displays [an error![](/reference-manual/backup-guide/bitshelter-error.png)](/reference-manual/backup-guide/bitshelter-error.png){.tooltip-preview} about loading AlphaVSS.x64.dll, install vc_redist.x64.exe using [this link](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+> If BitShelter displays [an error](/reference-manual/backup-guide/bitshelter-error.png) about loading AlphaVSS.x64.dll, install vc_redist.x64.exe from [this link](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 {.is-info}
 
-2. Click on <kbd>**Enable other Drive(s)**</kbd> in the [General tab ![](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_General.png)](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_General.png){.tooltip-preview}.
-3. Select the SuperMemo drive **(E:\\)** in the [System Protection dialog ![](https://github.com/alexis-/BitShelter/raw/master/Resources/SystemPropertiesProtection_2018-05-05_13-10-18.png)](https://github.com/alexis-/BitShelter/raw/master/Resources/SystemPropertiesProtection_2018-05-05_13-10-18.png){.tooltip-preview} and click on <kbd>**Configure**</kbd>.
-4. In the [new dialog ![](https://github.com/alexis-/BitShelter/raw/master/Resources/SystemPropertiesProtection_2018-05-05_13-10-22.png)](https://github.com/alexis-/BitShelter/raw/master/Resources/SystemPropertiesProtection_2018-05-05_13-10-22.png){.tooltip-preview} click on <kbd>**Turn on protection**</kbd>, select at least 2GB of desired reserved space for Snapshots, then press <kbd>**OK**</kbd> to both System Protection and System Properties windows.
+2. Click on <kbd>**Enable other Drive(s)**</kbd> in the [General tab](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_General.png)]
+3. Select the SuperMemo drive **(E:\\)** in the [System Protection dialog](https://github.com/alexis-/BitShelter/raw/master/Resources/SystemPropertiesProtection_2018-05-05_13-10-18.png) and click on <kbd>**Configure**</kbd>.
+4. In the [new dialog](https://github.com/alexis-/BitShelter/raw/master/Resources/SystemPropertiesProtection_2018-05-05_13-10-22.png) click on <kbd>**Turn on protection**</kbd>, select at least 2GB of desired reserved space for Snapshots, then press <kbd>**OK**</kbd> to both System Protection and System Properties windows.
 
 > [!NOTE]
 > If you chose not to create a dedicated partition for SuperMemo, increase reserve space significantly. As BitShelter will then run across your entire C:/ drive, it will be filled by all modifications made by any files in windows rather than SuperMemo alone.
 
-5. Back in the [General tab ![](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_General.png)](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_General.png){.tooltip-preview}, click on <kbd>**Raise limit**</kbd>, and set the new limit to **512**.
+5. Back in the [General tab](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_General.png), click on <kbd>**Raise limit**</kbd>, and set the new limit to **512**.
 
 
 #### Creating snapshot rules in BitShelter
@@ -217,11 +217,11 @@ That's all ! Your collection is synchronized online, congratulations !
 
 To make running sm-main-commit.bat more convenient, you can add it to taskbar. Windows doesn't let you add .bat files to taskbar so instead you can do the following:
 
-1. Right click on sm-main-commit.bat and click [create shortcut ![](/reference-manual/backup-guide/shortcut-creation.png)](/reference-manual/backup-guide/shortcut-creation.png){.tooltip-preview}.
+1. Right click on sm-main-commit.bat and click [create shortcut](/reference-manual/backup-guide/shortcut-creation.png).
 
-2. The new shortcut still can't be added to taskbar. As such, right click properties and [go to shortcuts menu ![](/reference-manual/backup-guide/shortcut-edit.png)](/reference-manual/backup-guide/shortcut-edit.png){.tooltip-preview}. Add ```cmd /c``` (```cmd \c``` will not work) to the front of [ the target script ![](/reference-manual/backup-guide/shortcut-target.png)](/reference-manual/backup-guide/shortcut-target.png){.tooltip-preview} and press apply.
+2. The new shortcut still can't be added to taskbar. As such, right click properties and [go to shortcuts menu](/reference-manual/backup-guide/shortcut-edit.png). Add ```cmd /c``` (```cmd \c``` will not work) to the front of [the target script](/reference-manual/backup-guide/shortcut-target.png) and press apply.
 
-3. You can now [right click the shortcut ![](/reference-manual/backup-guide/shortcut-taskbar.png)](/reference-manual/backup-guide/shortcut-taskbar.png){.tooltip-preview} and add it to taskbar. After you are done using SuperMemo, click the shortcut in taskbar (or use winkey + taskbar position number key) to sync changes to your collections's Github repository.nt files that haven't been uploaded before running sm-main-pull.bat as it will overrite all local changes
+3. You can now [right click the shortcut](/reference-manual/backup-guide/shortcut-taskbar.png) and add it to taskbar. After you are done using SuperMemo, click the shortcut in taskbar (or use winkey + taskbar position number key) to sync changes to your collections's Github repository.nt files that haven't been uploaded before running sm-main-pull.bat as it will overrite all local changes
 
 # Why not use Dropbox or Google Drive for backups?
 
