@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-06T12:07:02.953Z
+date: 2020-12-06T12:15:21.352Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -35,11 +35,11 @@ Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki
 
 # Reference Manual
 
-- [Knowledge Formulation *Techniques for encoding knowledge.*](/reference-manual)
-- [Incremental Reading *How to learn wide and deep, with a smile.*](/reference-manual)
-- [Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/reference-manual)
-- [Studying for School *Guides for learning School Material.*](/reference-manual)
-- [Incremental Writing *Increase your creativity and writing quality.*](/reference-manual)
+- [Knowledge Formulation *Techniques for encoding knowledge.*](/reference-manual/knowledge-formulation)
+- [Incremental Reading *How to learn wide and deep, with a smile.*](/reference-manual/incremental-reading)
+- [Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/reference-manual/pleasure-of-learning)
+- [Studying for School *Guides for learning School Material.*](/reference-manual/school)
+- [Incremental Writing *Increase your creativity and writing quality.*](/reference-manual/incremental-writing)
 {.links-list}
 
 # Website Matrix
