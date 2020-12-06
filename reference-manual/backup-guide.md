@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T14:16:06.567Z
+date: 2020-12-06T14:19:42.518Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -12,21 +12,21 @@ dateCreated: 2020-12-06T14:16:06.567Z
 
 ## Why should you backup ?
 
-!> ⚠️ **Your collection is precious**. If you are using SuperMemo, you will likely be pouring days, weeks or months of your life into building it. Don't let it all go to waste. **Having frequent backups is vital**.
+> ⚠️ **Your collection is precious**. If you are using SuperMemo, you will likely be pouring days, weeks or months of your life into building it. Don't let it all go to waste. **Having frequent backups is vital**.
+{.is-warning}
 
 Do you care about your health ? Would you take a gamble with your life and forfeit your health insurance ? If your answer is no, then keep reading.
 
 Computer glitches can happen at any time. It is precisely because we cannot anticipate them, that we take measures to mitigate their potential damage.
 
-?> *Still not convinced* ? [Read testimonies](#testimonies) of SuperMemo users who remained skeptic, until it was too late.
-
-!> In SuperMemo 18.04 [a bug](http://supermemopedia.com/wiki/Bug_fix_in_the_newest_SuperMemo_18) was introduced that can cause catastrophic damage to your collection when you use repair collection. Update to SuperMemo 18.041 to prevent this ! 
+> *Still not convinced* ? [Read testimonies](#testimonies) of SuperMemo users who remained skeptic, until it was too late.
+{.is-info}
 
 ## Proposed strategy
 
 The strategy that we suggest attempts to strike a **balance between robustness and ease of use**. This is not a foolproof method, but it should be robust enough that you do not lose more than a single session of SuperMemo.
 
-?> As importantly, it shouldn't take you more than **a few seconds** to commit your hard work to **safety**.
+> It shouldn't take you more than **a few seconds** to commit your hard work to **safety**.
 
 In this guide, you are going to implement two layers of safety:
 1. *Local backups*: Frequent (15 minutes), cheap (disk size), without interruption (you can use SuperMemo concurrently).
@@ -44,22 +44,24 @@ As of the moment of writing this guide (2020/02), this solution is **free** (as 
 
 For easier management of your files, and to save space for the frequent snapshots (more on this later), we recommend creating a partition dedicated to your SuperMemo collection. A partition will allow you to keep your SuperMemo files completely seperated from your Window's C:/ drive. 
 
-?> If you do not know how to create a partition in Windows, you can [follow this guide](https://www.tomshardware.com/news/how-to-make-partitions-windows-10,36643.html).
+> If you do not know how to create a partition in Windows, you can [follow this guide](https://www.tomshardware.com/news/how-to-make-partitions-windows-10,36643.html).
+{.is-info}
 
 You should obtain a layout similar to this one (it is fine if you only have one disk, instead of two as in this example):
 
-![](/reference-manual/backup-guide/computer-management-disks.png 'SuperMemo partition :ignore')
+![](/reference-manual/backup-guide/computer-management-disks.png 'SuperMemo partition')
 
 
 ### II) Install & Configuration
 
 #### Installing BitShelter
 
-?> Note that BitShelter won't run on 32 bit systems.
+> Note that BitShelter won't run on 32 bit systems.
+{.is-info}
 
 1. Download and install [the latest version](https://github.com/alexis-/BitShelter/releases) of *BitShelter*
 2. Start **BitShelter Agent** from the Windows Start menu.
-3. Double-click on the [Tray Icon ![](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_TrayIcon.png)](# '@tooltip-preview') 🖼️
+3. Double-click on the [Tray Icon ![](https://github.com/alexis-/BitShelter/raw/master/Resources/BitShelter.Agent_TrayIcon.png)](#){tooltip-preview}) 🖼️
 
 #### Enabling Windows' Volume Snapshot Service (VSS)
 
