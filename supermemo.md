@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T23:29:57.721Z
+date: 2020-12-06T23:30:29.438Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -30,7 +30,7 @@ While the success of SuperMemo is often attributed to its novel techniques and a
 Here are a few reasons why SuperMemo might **improve your life**:
 
 ### Tabs{.tabset}
-#### Everyone
+#### I am... Human
 
 1. **You can learn to love learning:**
     - Learning is the best way to improve your life,
@@ -42,7 +42,7 @@ Here are a few reasons why SuperMemo might **improve your life**:
     - You will have discussions on topics that you cannot have elsewhere,
     - These discussions will spark new ideas and projects.
 
-#### Students
+#### I am a Student
 
 TO DO !
 
