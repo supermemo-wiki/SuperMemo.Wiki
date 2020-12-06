@@ -2,7 +2,7 @@
 title: SuperMemo
 description: 
 published: true
-date: 2020-12-06T20:34:24.683Z
+date: 2020-12-06T20:35:25.714Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -45,3 +45,5 @@ While the success of SuperMemo is often attributed to its novel techniques and a
 
 [^1]: https://supermemo.guru/wiki/History_of_spaced_repetition
 [^2]: https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation:_Signatories
+
+![SuperMemo.wiki](/supermemo-64.png){.align-abstopright}
