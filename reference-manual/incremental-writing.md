@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-06T12:22:11.441Z
+date: 2020-12-06T12:23:58.685Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -21,6 +21,9 @@ IW is typically assisted by software to maximize the usage of your time by inter
 - Creative work (writing, problem solving, ...).
 
 In IW, the decision of whether you should continue working on a particular text depends on your desire to do so. That desire is a compound of variables: [pleasure of writing](/reference-manual/pleasure-of-learning), state of flow, level of understanding of the topic, etc.
+
+> **Insert diagram of Incremental Writing here**
+{.is-warning}
 
 ## Benefits
 
