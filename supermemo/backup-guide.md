@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-07T08:41:41.199Z
+date: 2020-12-07T08:43:18.396Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -38,7 +38,7 @@ As of the moment of writing this guide (2020/02), this solution is **free** (as 
 
 ## Local backups: BitShelter
 
-[BitShelter](https://github.com/alexis-/BitShelter) *(a.k.a. SuperMemo Backup)* is a software that keeps a version history of your files. It is similar to the Ctrl+Z feature of text editors, only for files.
+[BitShelter](https://github.com/alexis-/BitShelter) *(a.k.a. SuperMemo Backup)* is a software that keeps a version history of your files. It is similar in concept to using Ctrl+Z in your favourite text editor, only applied to files.
 
 ### I) (*Optional*) Create a partition for your SuperMemo collections
 
