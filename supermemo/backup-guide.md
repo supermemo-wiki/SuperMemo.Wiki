@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-07T08:39:55.509Z
+date: 2020-12-07T08:41:41.199Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -24,11 +24,11 @@ Just like health issues, computer glitches can happen at any time. It is precise
 
 ## Proposed strategy
 
-The strategy that we suggest attempts to strike a **balance between robustness and ease of use**. This is not a foolproof method, but it should be robust enough that you do not lose more than a single session of SuperMemo.
+The strategy we suggest attempts to strike a **balance between robustness and ease of use**. This is not a foolproof method, but it should be robust enough that you do not lose more than a single study session at any time.
 
 > It shouldn't take you more than **a few seconds** to commit your hard work to **safety**.
 
-In this guide, you are going to implement two layers of safety:
+In this guide, you are going to implement two layers of protection:
 1. *Local backups*: Frequent (15 minutes), cheap (disk size), without interruption (you can use SuperMemo concurrently).
 2. *Internet backups*: On-demand (after every session), long-term storage (unlimited).
 
