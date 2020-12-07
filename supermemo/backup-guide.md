@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-07T09:03:50.845Z
+date: 2020-12-07T09:04:41.007Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -235,7 +235,7 @@ To make running sm-main-commit.bat more convenient, you can add it to taskbar. W
 
 Every time you are done using SuperMemo, click on the shortcut in the taskbar to sync changes to your collections's Github repository.
 
-> You can also use this keyboard shortcut to quickly run the script: <kbd class="win"/> + <kbd>number key</kbd>.
+> You can also use this keyboard shortcut to quickly run the script: <kbd class="win"></kbd> + <kbd>number key</kbd>.
 > 
 > *Number key* is the position of the script in your taskbar.
 {.is-info}
