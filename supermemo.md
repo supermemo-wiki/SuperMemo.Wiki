@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-07T00:05:36.489Z
+date: 2020-12-07T09:59:35.421Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -12,9 +12,9 @@ dateCreated: 2020-12-05T18:34:19.777Z
 
 [**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} is a program that **makes learning easy and fun**.
 
-SuperMemo is built on two novel learning techniques: [Spaced Repetition](/learning/spaced-repetition) and [Incremental Reading](/learning/incremental-reading). These methods were pioneered by Dr. [Piotr Wozniak](/supermemo/piotr-wozniak)[^1], creator of SuperMemo. They enable users to form long-lasting memories, and to gain new knowledge more efficiently compared with Traditional techniques.
+SuperMemo is built on two novel learning techniques named [Spaced Repetition](/learning/spaced-repetition) and [Incremental Reading](/learning/incremental-reading), pioneered by Dr. [Piotr Wozniak](/supermemo/piotr-wozniak)[^1] the inventor of SuperMemo. They enable users to form long-lasting memories, and to gain new knowledge more efficiently compared with Traditional techniques.
 
-While the success of SuperMemo is often attributed to its novel techniques and advanced algorithms, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
+While the success of SuperMemo is often attributed to its cutting-edge  algorithms and techniques, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the central importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
 
 ## Spaced Repetition
 
