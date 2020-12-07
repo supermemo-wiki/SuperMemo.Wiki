@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-06T23:54:18.804Z
+date: 2020-12-07T00:05:36.489Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -69,8 +69,8 @@ TO DO !
 
 ## Video guides
 
-- [Video guides *A series of video to progress from Beginner to Advanced expertise level.*](https://www.youtube.com/playlist?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1)
-- [YouTube channel *Educative videos published by the SuperMemo.wiki.*](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ)
+- [Video guides *A series of video that will take you from Beginner to Advanced level.*](https://www.youtube.com/playlist?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1)
+- [YouTube channel *Educative videos published by the SuperMemo.wiki community.*](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ)
 {.links-list}
 
 <div class="mt-8">
