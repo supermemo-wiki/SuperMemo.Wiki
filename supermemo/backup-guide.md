@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-06T22:29:04.012Z
+date: 2020-12-07T08:32:31.124Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -135,7 +135,7 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 
 ![](/reference-manual/backup-guide/bitshelter-restoremenu2.png)
 
-> If you have issues with the above instuctions, you can also refer to [this guide](https://www.howtogeek.com/howto/11130/restore-previous-versions-of-files-in-every-edition-of-windows-7/)
+> If you have issues with the above instructions, you can also refer to [this guide](https://www.howtogeek.com/howto/11130/restore-previous-versions-of-files-in-every-edition-of-windows-7/)
 {.is-info}
 
 ## Internet backups: Git & Github
@@ -147,12 +147,12 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 
 **For our purposes**, ***git*** will be our mean to:
 - Create versions of our collection (*\"checkpoints\"*).
-- Upload\* our work to a safe\*\*, remote place.
+- Upload^1^ our work to a safe^2^, remote place.
 - *(Bonus)* Synchronize our work between devices.
 
-\*: GitHub has a 1GB limit on free private repositories. [GitLab](https://about.gitlab.com) offers 10gb free storage by default and [BitBucket](http://bitbucket.org) offers a 5gb plan for 3$. 
+^1^: GitHub has a 1GB limit on free private repositories. [GitLab](https://about.gitlab.com) offers 10gb free storage by default and [BitBucket](http://bitbucket.org) offers a 5gb plan for 3$ at this date (2020/02).
 
-\*\*: *Although GitHub can be considered fairly reliable, we highly recommend that you implement a solution to encrypt your collection. This is, after all, a way to your innermost thoughts.*
+^2^: Although GitHub can be considered fairly reliable, we highly recommend that you implement a solution to encrypt your collection. Your collection is a map to your brain and to your innermost thoughts. Don't let others peer into it without your consent.
 
 ### Installing & Setting up Git with GitHub
 
