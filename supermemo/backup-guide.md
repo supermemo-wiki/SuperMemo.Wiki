@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-07T08:38:46.494Z
+date: 2020-12-07T08:39:55.509Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -17,7 +17,7 @@ dateCreated: 2020-12-06T14:16:06.567Z
 
 Do you care about your health ? Would you take a gamble with your life and forfeit your health insurance ? If your answer is no, then keep reading.
 
-Just like health issues, computer glitches can happen at any time. It is precisely because we cannot anticipate these events, that we take measures to mitigate their potential damage.
+Just like health issues, computer glitches can happen at any time. It is precisely because we cannot anticipate these events, that we take measures to mitigate their potential damage. This is what we propose to do in this guide.
 
 > *Still not convinced* ? [Read testimonies](#testimonies) of SuperMemo users who remained skeptic, until it was too late.
 {.is-info}
