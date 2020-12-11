@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-07T09:59:35.421Z
+date: 2020-12-11T11:06:43.949Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -62,7 +62,7 @@ TO DO !
 # Getting Started
 
 - [First steps *Installation and Basic usage of SuperMemo.*](/supermemo/first-steps)
-- [Backup Guide *Why risk losing your hard work ? Set it up now, and forget about it !*](/supermemo/backup-guide)
+- [Backup Guide *Why risk losing years of work ? Set it up now, and forget about it !*](/supermemo/backup-guide)
 - [Going further *Pointers for progressing to expert levels.*](/supermemo/going-further)
 {.links-list}
 
