@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T18:50:51.565Z
+date: 2020-12-12T18:51:33.811Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -24,9 +24,6 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 ## Incremental Reading
 > Main article: [Incremental Reading](/learning/incremental-reading)
 {.is-info}
-
-### Tabs{.tabset}
-#### Day 1
 ```mermaid
 
 graph TB
@@ -43,6 +40,9 @@ graph TB
     IR-rep1-step4 -- 4. Repeat until done with studying --> IR-rep1-step1
   end
 ```
+
+### Tabs{.tabset}
+#### Day 1
 #### Day 2
 ```mermaid
 
