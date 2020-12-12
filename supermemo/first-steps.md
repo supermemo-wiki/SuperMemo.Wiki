@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: 
 published: true
-date: 2020-12-12T08:44:17.973Z
+date: 2020-12-12T08:47:48.404Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -19,3 +19,7 @@ You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to re
 ### SuperMemo 15
 
 [SuperMemo 15](http://supermemopedia.com/wiki/SuperMemo_15_Freeware) is completely free to use. However, the latest version (18) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
+
+### Video on Installation
+
+<iframe src="https://drive.google.com/file/d/1voa9P-ITGiqAQZkfNHUWNEiSdFqr0J5l/preview" width="640" height="480"></iframe>
