@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T16:36:00.697Z
+date: 2020-12-12T16:37:34.325Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -33,7 +33,7 @@ graph TD
   C -->|One| D[Laptop]
   C -->|Two| E[iPhone]
   C -->|Three| F[fa:fa-car Car]
-  DIR("<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />")
+  DIR(<img src='https://iconscout.com/ms-icon-310x310.png' width='30' />)
 ```
 
 ### Tabs{.tabset}
