@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T18:49:18.775Z
+date: 2020-12-12T18:50:51.565Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -43,9 +43,7 @@ graph TB
     IR-rep1-step4 -- 4. Repeat until done with studying --> IR-rep1-step1
   end
 ```
-
 #### Day 2
-
 ```mermaid
 
 graph TB
@@ -60,9 +58,7 @@ graph TB
     IR-rep2-step3 --> IR-rep2-step4
   end
 ```
-
 #### Day 3
-
 ```mermaid
 
 graph TB
