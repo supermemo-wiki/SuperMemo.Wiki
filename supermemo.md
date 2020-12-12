@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T19:00:55.016Z
+date: 2020-12-12T19:04:25.495Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -47,7 +47,7 @@ graph TB
 
 graph LR
     IR-rep2-step1>"Read articles in SuperMemo"]
-    IR-rep2-step2("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='93px'/>")
+    IR-rep2-step2("<p class='pt-0 mb-2'><b>Extracted text from Day 1 comes up</b></p><img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='93px'/>")
     IR-rep2-step3("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='98px'/>")
     IR-rep2-step4>"Continue Incremental Reading"]
     
