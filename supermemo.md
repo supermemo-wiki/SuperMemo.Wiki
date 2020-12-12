@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T19:05:36.261Z
+date: 2020-12-12T19:06:32.255Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -15,6 +15,40 @@ dateCreated: 2020-12-05T18:34:19.777Z
 SuperMemo is built on two novel learning techniques named [Spaced Repetition](/learning/spaced-repetition) and [Incremental Reading](/learning/incremental-reading), pioneered by Dr. [Piotr Wozniak](/supermemo/piotr-wozniak)[^1] the inventor of SuperMemo. They enable users to form long-lasting memories, and to gain new knowledge more efficiently compared with Traditional techniques.
 
 While the success of SuperMemo is often attributed to its cutting-edge  algorithms and techniques, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the central importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
+
+## Why can SuperMemo change your life ?
+
+Here are a few reasons why SuperMemo might **improve your life**:
+
+### Tabs{.tabset}
+#### I am Human
+
+1. **You can learn to love learning (again):**
+    - Learning is the best way to improve your life,
+    - SuperMemo is built to make learning pleasurable,
+    - As you progressively learn to love learning, your life will gradually improve!
+2. **You can meet amazing people:**
+    - [Our community](https://discord.gg/vUQhqCT) is oustandingly supportive and caring,
+    - You will have discussions on topics that you cannot have elsewhere,
+    - These discussions will spark new ideas and projects.
+
+#### I am a Student (TODO)
+
+TO DO !
+
+#### I am Salaried[^3] (TODO)
+
+TO DO !
+
+#### I am a Policy Maker
+
+1. **You can learn to better handle complexity**
+    - Understanding politics and societies demands a lot of knowledge,
+    - SuperMemo is built to handle large volume of information,
+    - You will become more informed, and better equipped to make good decisions.
+2. **You can spread the word**
+    - Once you rediscover the pleasure of learning, you will be able to promote policies that encourage it,
+    - People will become more educated, and more happy.
 
 ## Spaced Repetition
 
@@ -62,40 +96,6 @@ graph LR
 graph TB
     IR-rep3-step1["Work in progress"]
 ```
-
-## Why can SuperMemo change your life ?
-
-Here are a few reasons why SuperMemo might **improve your life**:
-
-### Tabs{.tabset}
-#### I am Human
-
-1. **You can learn to love learning (again):**
-    - Learning is the best way to improve your life,
-    - SuperMemo is built to make learning pleasurable,
-    - As you progressively learn to love learning, your life will gradually improve!
-2. **You can meet amazing people:**
-    - [Our community](https://discord.gg/vUQhqCT) is oustandingly supportive and caring,
-    - You will have discussions on topics that you cannot have elsewhere,
-    - These discussions will spark new ideas and projects.
-
-#### I am a Student (TODO)
-
-TO DO !
-
-#### I am Salaried[^3] (TODO)
-
-TO DO !
-
-#### I am a Policy Maker
-
-1. **You can learn to better handle complexity**
-    - Understanding politics and societies demands a lot of knowledge,
-    - SuperMemo is built to handle large volume of information,
-    - You will become more informed, and better equipped to make good decisions.
-2. **You can spread the word**
-    - Once you rediscover the pleasure of learning, you will be able to promote policies that encourage it,
-    - People will become more educated, and more happy.
 
 # Getting Started
 
