@@ -2,13 +2,13 @@
 title: SuperMemo: First Steps
 description: 
 published: true
-date: 2020-12-12T08:42:49.283Z
+date: 2020-12-12T08:44:17.973Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
 ---
 
-## Where can you get SuperMemo ?
+## Installing SuperMemo
 
 ### Supermemo 18
 
