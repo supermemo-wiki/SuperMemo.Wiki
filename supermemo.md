@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T19:28:21.342Z
+date: 2020-12-12T19:31:42.882Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -60,7 +60,7 @@ TO DO !
 {.is-info}
 
 
-### General flow of Incremental Reading
+### General flow of Incremental Reading (simplified)
 
 ```mermaid
 
