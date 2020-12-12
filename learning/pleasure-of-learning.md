@@ -2,9 +2,9 @@
 title: Pleasure of Learning
 description: 
 published: true
-date: 2020-12-06T12:47:50.948Z
+date: 2020-12-06T18:17:17.175Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-06T12:44:54.104Z
 ---
 

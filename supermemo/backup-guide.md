@@ -2,9 +2,9 @@
 title: Backup Strategy Guide
 description: 
 published: true
-date: 2020-12-07T09:21:20.225Z
+date: 2020-12-07T09:21:23.971Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-06T14:16:06.567Z
 ---
 

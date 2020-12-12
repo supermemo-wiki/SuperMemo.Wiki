@@ -2,9 +2,9 @@
 title: Piotr Wozniak
 description: Creator of SuperMemo and pioneer in education research.
 published: true
-date: 2020-12-06T20:47:23.989Z
+date: 2020-12-06T20:47:27.013Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-06T18:31:25.645Z
 ---
 

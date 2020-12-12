@@ -2,9 +2,9 @@
 title: Learn SuperMemo
 description: 
 published: true
-date: 2020-12-05T21:44:40.080Z
+date: 2020-12-05T21:44:43.373Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-05T21:40:12.974Z
 ---
 

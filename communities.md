@@ -2,9 +2,9 @@
 title: SuperMemo Communities
 description: 
 published: true
-date: 2020-12-05T21:29:22.839Z
+date: 2020-12-05T21:29:26.019Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-05T21:29:22.839Z
 ---
 

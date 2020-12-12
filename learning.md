@@ -2,9 +2,9 @@
 title: Learning Guide
 description: Exhaustive guides on topics related to Learning and to SuperMemo.
 published: true
-date: 2020-12-06T18:08:42.208Z
+date: 2020-12-06T18:08:45.156Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-06T12:24:56.357Z
 ---
 

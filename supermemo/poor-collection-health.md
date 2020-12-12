@@ -2,9 +2,9 @@
 title: Poor collection health
 description: 
 published: true
-date: 2020-12-08T07:47:49.066Z
+date: 2020-12-08T07:47:54.903Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-08T07:47:49.066Z
 ---
 
