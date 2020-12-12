@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T19:06:32.255Z
+date: 2020-12-12T19:09:26.559Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -70,9 +70,9 @@ graph TB
     
     IR-rep1-step1 -- 1. Locate interesting information --> IR-rep1-step2
     IR-rep1-step2 -- 2. Extract valuable text for later --> IR-rep1-step3
-    IR-rep1-step3 -- 3.a. Repeat until bored with current article --> IR-rep1-step1
-    IR-rep1-step3 -- 3.b. When bored with current article --> IR-rep1-step4
-    IR-rep1-step4 -- 4. Repeat until done with studying --> IR-rep1-step1
+    IR-rep1-step3 -- 3. Repeat until bored with current article --> IR-rep1-step1
+    IR-rep1-step3 -- 4. When bored with current article --> IR-rep1-step4
+    IR-rep1-step4 -- 5. Repeat until done with studying --> IR-rep1-step1
 
 ```
 
