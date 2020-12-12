@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T13:45:22.697Z
+date: 2020-12-12T13:45:48.044Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -31,8 +31,7 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 ```kroki
 mermaid
 
-graph TD
-  {"code":"graph TD\n  DIR(\"<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />\")","mermaid":{"theme":"default","securityLevel":"loose"},"updateEditor":false}
+{"code":"graph TD\n  DIR(\"<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />\")","mermaid":{"theme":"default","securityLevel":"loose"},"updateEditor":false}
 ```
 
 ```
