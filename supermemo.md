@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T18:22:44.277Z
+date: 2020-12-12T18:29:43.623Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -29,10 +29,10 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 
 graph TB
   subgraph "Day 1 of Incremental Reading"
-    IR-rep1-step1{"Read article"}
+    IR-rep1-step1["Read article"]
     IR-rep1-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
     IR-rep1-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
-    IR-rep1-step4{"Move to next article"}
+    IR-rep1-step4["Move to next article"]
     
     IR-rep1-step1 -- 1. Locate interesting information --> IR-rep1-step2
     IR-rep1-step2 -- 2. Extract valuable text for later --> IR-rep1-step3
@@ -45,13 +45,18 @@ graph TB
 ```mermaid
 
 graph TB
-  subgraph "A few days later (e.g. Day 5)"
-    IR-rep2-step1
+  subgraph "A few days later (e.g. Day 3)"
+    IR-rep2-step1["Read article"]
+    IR-rep2-step2("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='130px'/>")
+    IR-rep2-step3("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='154px'/>")
   end
-  
-  subgraph "Yet a few days later (e.g. Day 7)"
+```
+
+```mermaid
+
+graph TB
+  subgraph "Yet later (e.g. Day 4)"
     IR-rep3-step1
-  
   end
 ```
 
