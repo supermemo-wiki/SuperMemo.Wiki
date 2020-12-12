@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T19:31:42.882Z
+date: 2020-12-12T21:08:55.734Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -55,10 +55,82 @@ TO DO !
 > Main article: [Spaced Repetition](/learning/spaced-repetition)
 {.is-info}
 
+🚧 Work in progress.
+
 ## Incremental Reading
+<!--
 > Main article: [Incremental Reading](/learning/incremental-reading)
 {.is-info}
+-->
 
+**Incremental Reading (IR)** is a technique for organizing learning in a way that privileges *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic extended periods of time.
+
+In the context of this wiki, **material** designates any sort of media through which learning can be achieved. Some example of material include: books, web articles, videos, podcasts, etc.
+
+### Comparison Matrix
+
+The table below **compares the principles** of incremental reading (parallel) and traditional reading (linear), based on their "*average*" implementation. This is not representative of all the variations in which both of these methods can be executed.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="150">
+        <p>
+          <strong> </strong>
+        </p>
+      </td>
+      <td width="200">
+        <p>
+          <strong>Incremental Reading</strong>
+        </p>
+      </td>
+      <td width="200">
+        <p>
+          <strong>Traditional Reading</strong>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Mindset</strong>
+        </p>
+      </td>
+      <td>
+        <p>Read material until concentration or pleasure dwindles.</p>
+      </td>
+      <td>
+        <p>Read material for as long as possible.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Variety of material</strong>
+        </p>
+      </td>
+      <td>
+        <p>Many (up to hundreds).</p>
+      </td>
+      <td>
+        <p>Few (less than a dozen).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Avg. Duration</strong>
+        </p>
+      </td>
+      <td>
+        <p>Seconds to minutes for each material.</p>
+      </td>
+      <td>
+        <p>Hours for each material.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### General flow of Incremental Reading (simplified)
 
@@ -80,7 +152,7 @@ graph TB
 
 ### Example: Evolution over a few days
 
-This example describes the **evolution of a particular paragraph** taken from a [larger article](https://en.wikipedia.org/wiki/Learning#Non-associative_learning) about *Learning*.
+This example describes the **evolution of a paragraph** taken from a [larger article](https://en.wikipedia.org/wiki/Learning#Non-associative_learning) about *Learning*.
 
 The numbers assigned to each day are only meant as illustrations for the purpose of our example. Actual intervals between repetitions will typically be larger in SuperMemo.
 
