@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T16:09:53.218Z
+date: 2020-12-12T16:10:37.807Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -34,6 +34,8 @@ stateDiagram-v2
     s1 --> [*]
 ```
 
+<!--
+
 ```kroki
 {
   "diagram_source": "Bob -> Alice : hello",
@@ -64,6 +66,7 @@ graph TD
   subgraph Traditional reading
   end
 ```
+-->
 
 #### For School
 
