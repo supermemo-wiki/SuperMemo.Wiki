@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T13:45:00.994Z
+date: 2020-12-12T13:45:22.697Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -35,6 +35,7 @@ graph TD
   {"code":"graph TD\n  DIR(\"<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />\")","mermaid":{"theme":"default","securityLevel":"loose"},"updateEditor":false}
 ```
 
+```
 mermaid
 {
   "theme": "default",
