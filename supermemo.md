@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T10:35:44.861Z
+date: 2020-12-12T11:04:23.446Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -22,9 +22,9 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 {.is-info}
 
 ```kroki
-graphviz
+mermaid
 
-digraph G {
+graph Incremental Reading v.s. Traditional Reading {
   Hello->World
 }
 ```
