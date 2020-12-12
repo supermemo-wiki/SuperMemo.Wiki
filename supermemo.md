@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T18:53:24.148Z
+date: 2020-12-12T18:54:53.865Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -24,6 +24,8 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 ## Incremental Reading
 > Main article: [Incremental Reading](/learning/incremental-reading)
 {.is-info}
+
+### Day 1 of Incremental Reading
 ```mermaid
 
 graph TB
@@ -37,16 +39,13 @@ graph TB
     IR-rep1-step3 -- 3.a. Repeat until bored with current article --> IR-rep1-step1
     IR-rep1-step3 -- 3.b. When bored with current article --> IR-rep1-step4
     IR-rep1-step4 -- 4. Repeat until done with studying --> IR-rep1-step1
-  end
+
 ```
 
-### Tabs{.tabset}
-#### Day 1
-#### Day 2
+### Day 2 of Incremental Reading
 ```mermaid
 
 graph TB
-  subgraph "A few days later (e.g. Day 3)"
     IR-rep2-step1["Read articles in SuperMemo"]
     IR-rep2-step2("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='93px'/>")
     IR-rep2-step3("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='98px'/>")
@@ -55,15 +54,13 @@ graph TB
     IR-rep2-step1 -- Extracted text from Day 1 comes up --> IR-rep2-step2
     IR-rep2-step2 -- Create a 'fill the blank' question --> IR-rep2-step3
     IR-rep2-step3 --> IR-rep2-step4
-  end
 ```
-#### Day 3
+
+### Day 3 of Incremental Reading
 ```mermaid
 
 graph TB
-  subgraph "Yet later (e.g. Day 4)"
-    IR-rep3-step1
-  end
+    IR-rep3-step1["Work in progress"]
 ```
 
 ## Why can SuperMemo change your life ?
