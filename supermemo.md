@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T11:08:16.943Z
+date: 2020-12-12T13:26:26.880Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -21,19 +21,30 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 > Main article: [Spaced Repetition](/learning/spaced-repetition)
 {.is-info}
 
+## Incremental Reading
+> Main article: [Incremental Reading](/learning/incremental-reading)
+{.is-info}
+
+### Tabs{.tabset}
+#### For personal growth
+
 ```kroki
 mermaid
 
 graph TD
-  subgraph Incremental Reading
-  Hello-->World
+  subgraph Incremental reading
+  IR1["Read article"]
+  IR2["<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />"]
+  IR1-->IR2
   end
 
+  subgraph Traditional reading
+  end
 ```
 
-## Incremental Reading
-> Main article: [Incremental Reading](/learning/incremental-reading)
-{.is-info}
+#### For School
+
+Work in progress
 
 ## Why can SuperMemo change your life ?
 
