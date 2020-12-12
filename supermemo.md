@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T19:12:01.648Z
+date: 2020-12-12T19:28:21.342Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -59,38 +59,61 @@ TO DO !
 > Main article: [Incremental Reading](/learning/incremental-reading)
 {.is-info}
 
-### Day 1 of Incremental Reading
+
+### General flow of Incremental Reading
+
 ```mermaid
 
 graph TB
-    IR-rep1-step1>"Read article"]
-    IR-rep1-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
-    IR-rep1-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
-    IR-rep1-step4>"Move to next article"]
+    IR-step1>"Read article"]
+    IR-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
+    IR-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
+    IR-step4>"Move to next article"]
     
-    IR-rep1-step1 -- 1. Locate interesting information --> IR-rep1-step2
-    IR-rep1-step2 -- 2. Extract valuable text for later --> IR-rep1-step3
-    IR-rep1-step3 -- 3. Repeat until bored with current article --> IR-rep1-step1
-    IR-rep1-step3 -- 4. When bored with current article --> IR-rep1-step4
-    IR-rep1-step4 -- 5. Repeat until done with studying --> IR-rep1-step1
+    IR-step1 -- 1. Locate interesting information --> IR-step2
+    IR-step2 -- 2. Extract valuable text for later --> IR-step3
+    IR-step3 -- 3. Repeat until bored with current article --> IR-step1
+    IR-step3 -- 4. When bored with current article --> IR-step4
+    IR-step4 -- 5. Repeat until done with studying --> IR-step1
 
 ```
 
-### Day 2 of Incremental Reading
+### Example: Evolution over a few days
+
+This example describes the **evolution of a particular paragraph** taken from a [larger article](https://en.wikipedia.org/wiki/Learning#Non-associative_learning) about *Learning*.
+
+The numbers assigned to each day are only meant as illustrations for the purpose of our example. Actual intervals between repetitions will typically be larger in SuperMemo.
+
+#### Day 1 of Incremental Reading
 ```mermaid
 
 graph LR
-    IR-rep2-step1>"Read articles"]
+    IR-rep1-step1>"Do IR"]
+    IR-rep1-step2("<p class='pt-0 mb-2'><b>Locate interesting information</b></p><img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
+    IR-rep1-step3("<p class='pt-0 mb-2'><b>Extract valuable text</b></p><img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
+    IR-rep1-step4>"Continue IR"]
+    
+    IR-rep1-step1 --> IR-rep1-step2
+    IR-rep1-step2 --> IR-rep1-step3
+    IR-rep1-step3 --> IR-rep1-step4
+
+```
+
+#### Day 2 of Incremental Reading
+```mermaid
+
+graph LR
+    IR-rep2-step1>"Do IR"]
     IR-rep2-step2("<p class='pt-0 mb-2'><b>Extracted text from Day 1 comes up</b></p><img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='93px'/>")
     IR-rep2-step3("<p class='pt-0 mb-2'><b>Create a <i>fill the blank</i> question</b></p><img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='98px'/>")
-    IR-rep2-step4>"Move to next article"]
+    IR-rep2-step4>"Continue IR"]
     
     IR-rep2-step1 --> IR-rep2-step2
     IR-rep2-step2 --> IR-rep2-step3
     IR-rep2-step3 --> IR-rep2-step4
 ```
 
-### Day 3 of Incremental Reading
+#### Day 3 of Incremental Reading
 ```mermaid
 
 graph TB
