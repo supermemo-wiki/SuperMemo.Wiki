@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T18:29:43.623Z
+date: 2020-12-12T18:44:35.470Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -46,9 +46,14 @@ graph TB
 
 graph TB
   subgraph "A few days later (e.g. Day 3)"
-    IR-rep2-step1["Read article"]
-    IR-rep2-step2("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='130px'/>")
-    IR-rep2-step3("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='154px'/>")
+    IR-rep2-step1["Read articles in SuperMemo"]
+    IR-rep2-step2("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='93px'/>")
+    IR-rep2-step3("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='98px'/>")
+    IR-rep2-step4["Continue Incremental Reading"]
+    
+    IR-rep2-step1 -- Extracted text from Day 1 comes up --> IR-rep2-step2
+    IR-rep2-step2 -- Create a 'fill the blank' question --> IR-rep2-step3
+    IR-rep2-step3 --> IR-rep2-step4
   end
 ```
 
