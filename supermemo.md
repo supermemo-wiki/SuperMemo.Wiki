@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T18:54:53.865Z
+date: 2020-12-12T19:00:55.016Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -29,10 +29,10 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 ```mermaid
 
 graph TB
-    IR-rep1-step1["Read article"]
+    IR-rep1-step1>"Read article"]
     IR-rep1-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
     IR-rep1-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
-    IR-rep1-step4["Move to next article"]
+    IR-rep1-step4>"Move to next article"]
     
     IR-rep1-step1 -- 1. Locate interesting information --> IR-rep1-step2
     IR-rep1-step2 -- 2. Extract valuable text for later --> IR-rep1-step3
@@ -45,11 +45,11 @@ graph TB
 ### Day 2 of Incremental Reading
 ```mermaid
 
-graph TB
-    IR-rep2-step1["Read articles in SuperMemo"]
+graph LR
+    IR-rep2-step1>"Read articles in SuperMemo"]
     IR-rep2-step2("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='93px'/>")
     IR-rep2-step3("<img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='98px'/>")
-    IR-rep2-step4["Continue Incremental Reading"]
+    IR-rep2-step4>"Continue Incremental Reading"]
     
     IR-rep2-step1 -- Extracted text from Day 1 comes up --> IR-rep2-step2
     IR-rep2-step2 -- Create a 'fill the blank' question --> IR-rep2-step3
