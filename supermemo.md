@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T11:06:14.003Z
+date: 2020-12-12T11:07:12.507Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -25,7 +25,8 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 mermaid
 
 graph TD
-    Hello-->World
+  subgraph Incremental Reading
+  Hello-->World
 
 ```
 
