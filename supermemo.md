@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T16:10:37.807Z
+date: 2020-12-12T16:10:55.908Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -33,40 +33,6 @@ stateDiagram-v2
     [*] --> s1
     s1 --> [*]
 ```
-
-<!--
-
-```kroki
-{
-  "diagram_source": "Bob -> Alice : hello",
-  "diagram_type": "plantuml",
-  "output_format": "svg"
-}
-```
-```
-mermaid
-
-{"code":"graph TD\n  DIR(\"<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />\")","mermaid":{"theme":"default","securityLevel":"loose"},"updateEditor":false}
-```
-
-```
-mermaid
-{
-  "theme": "default",
-  "securityLevel": "loose"
-}
-
-graph TD
-  subgraph Incremental reading
-  IR1["Read article"]
-  IR2["<img src='https://iconscout.com/ms-icon-310x310.png' width='30' />"]
-  IR1-->IR2
-  end
-
-  subgraph Traditional reading
-  end
-```
--->
 
 #### For School
 
