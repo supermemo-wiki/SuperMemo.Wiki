@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T16:27:33.037Z
+date: 2020-12-12T16:27:47.292Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -25,14 +25,14 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 > Main article: [Incremental Reading](/learning/incremental-reading)
 {.is-info}
 
-### Tabs{.tabset}
-#### For personal growth
-
 ```mermaid
 stateDiagram-v2
     [*] --> s1
     s1 --> [*]
 ```
+
+### Tabs{.tabset}
+#### For personal growth
 
 #### For School
 
