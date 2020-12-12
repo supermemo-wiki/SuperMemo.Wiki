@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T11:08:00.546Z
+date: 2020-12-12T11:08:07.576Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -27,6 +27,7 @@ mermaid
 graph TD
   subgraph Incremental-Reading
   Hello-->World
+  end
 
 ```
 
