@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T16:38:42.710Z
+date: 2020-12-12T16:52:29.551Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -27,13 +27,9 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'securityLevel': 'loose', 'theme': 'default' } }%%
+
 graph TD
-  A[Christmas] -->|Get money| B(Go shopping)
-  B --> C{Let me think}
-  C -->|One| D[Laptop]
-  C -->|Two| E[iPhone]
-  C -->|Three| F[fa:fa-car Car]
-  DIR(&lt;img src&#61;&#39;https://iconscout.com/ms-icon-310x310.png&#39; width&#61;&#39;30px&#39; /&gt;)
+  DIR("<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />")
 ```
 
 ### Tabs{.tabset}
