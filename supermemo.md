@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-13T08:44:04.896Z
+date: 2020-12-13T08:54:01.107Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -155,7 +155,8 @@ graph TB
 
 This example describes the **evolution of a paragraph** taken from a [larger article](https://en.wikipedia.org/wiki/Learning#Non-associative_learning) about *Learning*.
 
-The numbers assigned to each day are only meant as illustrations for the purpose of our example. Actual intervals between repetitions will typically be larger in SuperMemo.
+> The numbers assigned to each day are only meant as an illustration for the purpose of our example. Actual intervals between repetitions will typically be larger within SuperMemo. A more accurate term here would have been **stage**, but **day** was used instead for its intuititivity.
+{.is-info}
 
 #### Day 1 of Incremental Reading
 ```mermaid
