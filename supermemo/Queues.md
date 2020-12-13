@@ -2,7 +2,7 @@
 title: SuperMemo Queues
 description: Queues are ways of ordering material yet to be reviewed.
 published: true
-date: 2020-12-13T09:19:29.591Z
+date: 2020-12-13T09:25:33.540Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T08:35:41.420Z
@@ -30,6 +30,9 @@ graph TB
 The **priority queue** contains all the elements ordered by priority. [Priorities](/supermemo/priority) are defined from 0% to 100%, with 0% being the most prioritized, and 100% the least prioritized.
 
 In our example, let's assume the following priorities:
+| test | test2 |
+|:----:|:-----:|
+| 5%   | 75%   |
 - Circadian rhythm: 5%
 - LTI: 75%
 - Anthropology: 30%
