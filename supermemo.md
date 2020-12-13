@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-12T21:11:09.700Z
+date: 2020-12-13T07:28:09.247Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -73,7 +73,7 @@ The table below **compares the principles** of incremental reading (parallel) an
 <table>
   <tbody>
     <tr>
-      <td width="150">
+      <td width="250">
         <p>
           <strong> </strong>
         </p>
