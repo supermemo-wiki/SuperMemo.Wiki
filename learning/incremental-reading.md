@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-12T18:22:45.601Z
+date: 2020-12-13T12:28:43.020Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -10,16 +10,148 @@ dateCreated: 2020-12-12T18:05:35.512Z
 
 # Incremental Reading
 
-Incremental reading is an incredibly enjoyable way of learning from thousands of sources in parallel. It was created by [Piotr Wozniak](/en/supermemo/piotr-wozniak).
+**Incremental Reading (IR)** is a technique for organizing learning in a way that privileges *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic extended periods of time.
 
-Aside from the more advanced algorithm, incremental reading is the main feature that distinguishes [SuperMemo](/en/supermemo) from other spaced repition applications.
+In the context of this wiki, **material** designates any sort of media through which learning can be achieved. Some example of material include: books, web articles, videos, podcasts, etc.
 
+With [spaced repetition](/supermemo/spaced-repetition), IR is one of the two fundamental paradigms of SuperMemo.
+
+## Comparison Matrix
+
+This table **compares the principles** of incremental reading (parallel) and traditional reading (linear), based on their *average* implementation and usage. This is not representative of all the variations in which both of these methods can be executed.
+
+<table>
+  <tbody>
+    <tr>
+      <td width="200">
+        <p>
+          <strong> </strong>
+        </p>
+      </td>
+      <td width="200">
+        <p>
+          <strong>Incremental Reading</strong>
+        </p>
+      </td>
+      <td width="200">
+        <p>
+          <strong>Traditional Reading</strong>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Mindset</strong>
+        </p>
+      </td>
+      <td>
+        <p>Read material until concentration or pleasure dwindles.</p>
+      </td>
+      <td>
+        <p>Read material for as long as possible.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Variety of material</strong>
+        </p>
+      </td>
+      <td>
+        <p>Many (up to hundreds).</p>
+      </td>
+      <td>
+        <p>Few (less than a dozen).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Avg. Duration</strong>
+        </p>
+      </td>
+      <td>
+        <p>Seconds to minutes for each material.</p>
+      </td>
+      <td>
+        <p>Hours for each material.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## General flow of Incremental Reading (simplified)
+
+In Incremental Reading, all the material yet to be processed is added into a [queue](/supermemo/queues). Each individual element in the queue is examined until the student decides to move to the next topic (in the queue). Typical triggers for making that decision include decreases in concentration or pleasure.
+
+```mermaid
+
+graph TB
+    IR-step1>"Read article"]
+    IR-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
+    IR-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
+    IR-step4>"Move to next article"]
+    
+    IR-step1 -- 1. Locate interesting information --> IR-step2
+    IR-step2 -- 2. Extract valuable text for later --> IR-step3
+    IR-step3 -- 3. Repeat until bored with current article --> IR-step1
+    IR-step3 -- 4. When bored with current article --> IR-step4
+    IR-step4 -- 5. Repeat until done with studying --> IR-step1
+
+```
+
+## Example: Evolution over a few days
+
+This example illustrates the **evolution of a paragraph** taken from the [wiki article](https://en.wikipedia.org/wiki/Learning#Non-associative_learning) about *Learning*. The actual order of reviews and formulation of items might differ from person to person.
+
+> The numbers assigned to each day are only meant as an illustration for the purpose of our example. Actual intervals between repetitions will typically be larger within SuperMemo.
+>
+> A more accurate term here would have been **stage**, but **day** was used instead for its intuititivity.
+{.is-info}
+
+### Day 1 of Incremental Reading
+```mermaid
+
+graph LR
+    IR-rep1-step1>"Do IR"]
+    IR-rep1-step2("<p class='pt-0 mb-2'><b>Locate interesting information</b></p><img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
+    IR-rep1-step3("<p class='pt-0 mb-2'><b>Extract valuable text</b></p><img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
+    IR-rep1-step4>"Continue IR"]
+    
+    IR-rep1-step1 --> IR-rep1-step2
+    IR-rep1-step2 --> IR-rep1-step3
+    IR-rep1-step3 --> IR-rep1-step4
+
+```
+
+### Day 2 of Incremental Reading
+```mermaid
+
+graph LR
+    IR-rep2-step1>"Do IR"]
+    IR-rep2-step2("<p class='pt-0 mb-2'><b>Extracted text from Day 1 comes up</b></p><img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='93px'/>")
+    IR-rep2-step3("<p class='pt-0 mb-2'><b>Create a <i>fill the blank</i> question</b></p><img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='98px'/>")
+    IR-rep2-step4>"Continue IR"]
+    
+    IR-rep2-step1 --> IR-rep2-step2
+    IR-rep2-step2 --> IR-rep2-step3
+    IR-rep2-step3 --> IR-rep2-step4
+```
+
+### Day 3 of Incremental Reading
+```mermaid
+
+graph TB
+    IR-rep3-step1["Work in progress"]
+```
+
+## History
+
+It was created by [Piotr Wozniak](/en/supermemo/piotr-wozniak) in xxxx.
 
 ## Benefits
 
-
--  Actually remember what you read (so you can apply it in real life!)
-  
 -  Simplicity in converting passive material into long-term active recall through quick cloze deletions
   
 - Gradual convertion of knowledge with low up-front costs
@@ -28,10 +160,9 @@ Aside from the more advanced algorithm, incremental reading is the main feature 
   
 - It's fun!
 
+## Incremental Reading in SuperMemo
 
-## What do you actually do in IR?
-
-After you have imported an article, it will eventually be shown to you again. You read the article and highlight and extract `(alt + x)` the bits you find important. 
+After importing an article, it will eventually be shown to you again. You read the article and highlight and extract `(alt + x)` the bits you find important. 
 
 Those extracts will then be shown to you later, and you are able to repeat the process, only extracting the most important material from the extract.
 
@@ -41,22 +172,22 @@ Your incremental reading will involve a pleasant mix of articles (topics), extra
 
 
 
-### What if I import more than I can get through?
+### Dealing with overabundant material
 
 SuperMemo allows you to set priorities for every element, postponing the lesser-important material for as long as it needs to be delayed for. This way you can always be sure you are learning the most important material.
 
 
-## How can I personalise my IR? 
+### Customization
 
 - You can edit the proportion of topics vs items that you see. This contributes greatly to the enjoyment.
 
 - Take care to quickly dismiss sources that are unpleasureable to learn from
 
-## Examples of IR
+### Video examples
 
-[Piotr Wozniak learning about nutrition](https://www.youtube.com/watch?v=DoQoeK3bP8)
-
-[2 Hours of IR in 10 minutes from Naess (advanced SuperMemo user)](https://www.youtube.com/watch?v=zinKj9nSYbM)
+- [Learning about nutrition *Learning about nutrition, by Piotr Wozniak.*](https://www.youtube.com/watch?v=DoQoeK3bP8)
+- [Timelapse of varied material *2 Hours of IR in 10 minutes, by Naess.*](https://www.youtube.com/watch?v=zinKj9nSYbM)
+{.links-list}
 
 
 
