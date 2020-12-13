@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-13T08:03:30.698Z
+date: 2020-12-13T08:08:26.400Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -88,7 +88,6 @@ The table below **compares the principles** of incremental reading (parallel) an
           <strong>Traditional Reading</strong>
         </p>
       </td>
-      <td class="autofill"></td>
     </tr>
     <tr>
       <td>
@@ -102,7 +101,6 @@ The table below **compares the principles** of incremental reading (parallel) an
       <td>
         <p>Read material for as long as possible.</p>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>
@@ -116,7 +114,6 @@ The table below **compares the principles** of incremental reading (parallel) an
       <td>
         <p>Few (less than a dozen).</p>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>
@@ -130,7 +127,6 @@ The table below **compares the principles** of incremental reading (parallel) an
       <td>
         <p>Hours for each material.</p>
       </td>
-      <td></td>
     </tr>
   </tbody>
 </table>
