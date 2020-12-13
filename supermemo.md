@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-13T08:08:26.400Z
+date: 2020-12-13T08:44:04.896Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -133,7 +133,7 @@ The table below **compares the principles** of incremental reading (parallel) an
 
 ### General flow of Incremental Reading (simplified)
 
-In Incremental Reading, all the material yet to be processed is added to the **Outstanding queue**. 
+In Incremental Reading, all the material yet to be processed is added to the [outstanding queue](/supermemo/queues). 
 
 ```mermaid
 
