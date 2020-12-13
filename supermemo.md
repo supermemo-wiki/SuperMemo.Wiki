@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-13T11:28:51.051Z
+date: 2020-12-13T11:31:56.629Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -58,9 +58,6 @@ Here are a few reasons why SuperMemo might **improve your life**:
 🚧 Work in progress.
 
 ## Incremental Reading
-
-> Main article: [Incremental Reading](/learning/incremental-reading)
-{.is-info}
 
 **Incremental Reading (IR)** is a technique for organizing learning in a way that privileges *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic extended periods of time.
 
