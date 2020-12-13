@@ -2,7 +2,7 @@
 title: SuperMemo Queues
 description: Queues are ways of ordering material yet to be reviewed.
 published: true
-date: 2020-12-13T09:33:24.975Z
+date: 2020-12-13T09:36:25.410Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T08:35:41.420Z
@@ -48,4 +48,8 @@ graph LR
 
 ## Outstanding queue
 
+🚧 Work in progress.
+
 ## Pending queue
+
+🚧 Work in progress.
