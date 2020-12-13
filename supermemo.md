@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-13T09:01:46.512Z
+date: 2020-12-13T09:04:39.903Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -68,7 +68,7 @@ In the context of this wiki, **material** designates any sort of media through w
 
 ### Comparison Matrix
 
-The table below **compares the principles** of incremental reading (parallel) and traditional reading (linear), based on their "*average*" implementation. This is not representative of all the variations in which both of these methods can be executed.
+This table **compares the principles** of incremental reading (parallel) and traditional reading (linear), based on their *average* implementation and usage. This is not representative of all the variations in which both of these methods can be executed.
 
 <table>
   <tbody>
