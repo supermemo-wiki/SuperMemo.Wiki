@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-13T09:08:01.261Z
+date: 2020-12-13T09:36:11.370Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -34,11 +34,11 @@ Here are a few reasons why SuperMemo might **improve your life**:
 
 #### I am a Student (TODO)
 
-TO DO !
+🚧 Work in progress.
 
 #### I am Salaried[^3] (TODO)
 
-TO DO !
+🚧 Work in progress.
 
 #### I am a Policy Maker
 
