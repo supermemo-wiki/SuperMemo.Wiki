@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-13T12:45:46.098Z
+date: 2020-12-13T12:56:28.052Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -179,9 +179,9 @@ SuperMemo allows you to set priorities for every element, postponing the lesser-
 
 ## Customization
 
-- You can edit the proportion of topics vs items that you see. This contributes greatly to the enjoyment.
+- You can edit the proportion of topics vs items that you see. This contributes greatly to the enjoyment. `(toolbar -> learn -> sorting -> sorting criteria)`
 
-- Take care to quickly dismiss sources that are unpleasureable to learn from
+- Take care to quickly dismiss sources that are unpleasureable to learn from `(ctrl + d)`
 
 ## Video examples
 
