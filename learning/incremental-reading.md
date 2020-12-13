@@ -2,13 +2,13 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-13T12:28:43.020Z
+date: 2020-12-13T12:29:39.914Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
 ---
 
-# Incremental Reading
+# Introduction
 
 **Incremental Reading (IR)** is a technique for organizing learning in a way that privileges *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic extended periods of time.
 
@@ -146,11 +146,11 @@ graph TB
     IR-rep3-step1["Work in progress"]
 ```
 
-## History
+# History
 
 It was created by [Piotr Wozniak](/en/supermemo/piotr-wozniak) in xxxx.
 
-## Benefits
+# Benefits
 
 -  Simplicity in converting passive material into long-term active recall through quick cloze deletions
   
@@ -160,7 +160,7 @@ It was created by [Piotr Wozniak](/en/supermemo/piotr-wozniak) in xxxx.
   
 - It's fun!
 
-## Incremental Reading in SuperMemo
+# Incremental Reading in SuperMemo
 
 After importing an article, it will eventually be shown to you again. You read the article and highlight and extract `(alt + x)` the bits you find important. 
 
@@ -172,18 +172,18 @@ Your incremental reading will involve a pleasant mix of articles (topics), extra
 
 
 
-### Dealing with overabundant material
+## Dealing with overabundant material
 
 SuperMemo allows you to set priorities for every element, postponing the lesser-important material for as long as it needs to be delayed for. This way you can always be sure you are learning the most important material.
 
 
-### Customization
+## Customization
 
 - You can edit the proportion of topics vs items that you see. This contributes greatly to the enjoyment.
 
 - Take care to quickly dismiss sources that are unpleasureable to learn from
 
-### Video examples
+## Video examples
 
 - [Learning about nutrition *Learning about nutrition, by Piotr Wozniak.*](https://www.youtube.com/watch?v=DoQoeK3bP8)
 - [Timelapse of varied material *2 Hours of IR in 10 minutes, by Naess.*](https://www.youtube.com/watch?v=zinKj9nSYbM)
