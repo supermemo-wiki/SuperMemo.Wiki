@@ -2,13 +2,13 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-13T12:29:39.914Z
+date: 2020-12-13T12:31:28.768Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
 ---
 
-# Introduction
+# Principles
 
 **Incremental Reading (IR)** is a technique for organizing learning in a way that privileges *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic extended periods of time.
 
