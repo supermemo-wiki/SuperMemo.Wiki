@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-13T12:31:28.768Z
+date: 2020-12-13T12:45:46.098Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -10,7 +10,7 @@ dateCreated: 2020-12-12T18:05:35.512Z
 
 # Principles
 
-**Incremental Reading (IR)** is a technique for organizing learning in a way that privileges *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic extended periods of time.
+**Incremental Reading (IR)** is a technique for organizing learning in a way that encourages *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic extended periods of time.
 
 In the context of this wiki, **material** designates any sort of media through which learning can be achieved. Some example of material include: books, web articles, videos, podcasts, etc.
 
