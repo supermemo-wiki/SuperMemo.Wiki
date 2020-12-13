@@ -2,7 +2,7 @@
 title: SuperMemo
 description: The essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-13T10:04:43.721Z
+date: 2020-12-13T11:28:51.051Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -133,7 +133,7 @@ This table **compares the principles** of incremental reading (parallel) and tra
 
 ### General flow of Incremental Reading (simplified)
 
-In Incremental Reading, all the material yet to be processed is added to an [outstanding queue](/supermemo/queues). Each individual element in the queue is examined until the student decides to move to the next topic (in the queue). Typical triggers for making that decision include decreases in concentration or pleasure.
+In Incremental Reading, all the material yet to be processed is added into a [queue](/supermemo/queues). Each individual element in the queue is examined until the student decides to move to the next topic (in the queue). Typical triggers for making that decision include decreases in concentration or pleasure.
 
 ```mermaid
 
