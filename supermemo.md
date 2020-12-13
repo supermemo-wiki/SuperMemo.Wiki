@@ -2,13 +2,13 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-13T11:58:33.827Z
+date: 2020-12-13T12:41:05.277Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
 ---
 
-# What is SuperMemo ?
+# What is SuperMemo?
 
 [**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} is a program that **makes learning easy and fun**.
 
@@ -16,7 +16,7 @@ SuperMemo is built on two novel learning techniques named [Spaced Repetition](/l
 
 While the success of SuperMemo is often attributed to its cutting-edge  algorithms and techniques, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the central importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
 
-## Why can SuperMemo change your life ?
+## Why can SuperMemo change your life?
 
 Here are a few reasons why SuperMemo might **improve your life**:
 
