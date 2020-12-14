@@ -2,17 +2,17 @@
 title: Learning Guide
 description: Exhaustive guides on topics related to Learning and to SuperMemo.
 published: true
-date: 2020-12-06T18:08:45.156Z
+date: 2020-12-14T13:19:22.132Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-06T12:24:56.357Z
 ---
 
 # Learning Guide
 
-- [Knowledge Formulation *Techniques for encoding knowledge.*](/reference-manual/knowledge-formulation)
-- [Incremental Reading *How to learn wide and deep, with a smile.*](/reference-manual/incremental-reading)
-- [Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/reference-manual/pleasure-of-learning)
-- [Studying for School *Guides for learning School Material.*](/reference-manual/school)
-- [Incremental Writing *Increase your creativity and writing quality.*](/reference-manual/incremental-writing)
+- [Knowledge Formulation *Techniques for encoding knowledge.*](/learning/knowledge-formulation)
+- [Incremental Reading *How to learn wide and deep, with a smile.*](/learning/incremental-reading)
+- [Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/learning/pleasure-of-learning)
+- [Studying for School *Guides for learning School Material.*](/learning/school)
+- [Incremental Writing *Increase your creativity and writing quality.*](/learning/incremental-writing)
 {.links-list}
