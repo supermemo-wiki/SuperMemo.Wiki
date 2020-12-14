@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-14T10:53:41.142Z
+date: 2020-12-14T10:55:49.057Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -145,7 +145,7 @@ This table **compares the principles** of incremental reading (parallel) and tra
 >
 > **Nothing precludes an incremental reader from deliberately reading one topic for hours** at a time. Typical motivations include:
 > - studying for school,
-> - personal keenship for a subject matter.
+> - acumen for a subject matter.
 > 
 > . <!-- The class is applied to the <ul> list otherwise -->
 {.is-info}
