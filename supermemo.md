@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-14T10:41:57.303Z
+date: 2020-12-14T10:47:24.459Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -115,7 +115,7 @@ This table **compares the principles** of incremental reading (parallel) and tra
     <tr>
       <td>
         <p>
-          <strong>Avg. Duration<sup class="footnote-ref"><a id="fnref4" href="#fn4">[4]</a></sup></strong>
+          <strong>Avg. Duration<sup>*</sup></strong>
         </p>
       </td>
       <td>
@@ -141,11 +141,12 @@ This table **compares the principles** of incremental reading (parallel) and tra
   </tbody>
 </table>
 
-<ol class="footnotes-list" start="4">
-  <li class="footnote-item" id="fn4">
-    <p>In IR, most material is gradually broken down into smaller chunks, hence the low average duration. <b>Nothing precludes an incremental reader from deliberately reading one topic for hours</b> at a time. Typical motivations include: studying for school, personal keenship for a subject matter, etc.  <a class="footnote-backref" href="#fnref4">↩︎</a></p>
-  </li>
-</ol>
+> **^*^**: In IR, most material is gradually broken down into smaller chunks, hence the low average duration.
+>
+> **Nothing precludes an incremental reader from deliberately reading one topic for hours** at a time. Typical motivations include:
+> - studying for school,
+> - personal keenship for a subject matter,
+{.is-info}
 
 ### General flow of Incremental Reading (simplified)
 
