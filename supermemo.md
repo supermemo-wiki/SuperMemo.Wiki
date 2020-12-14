@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-14T10:52:16.792Z
+date: 2020-12-14T10:53:41.142Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -147,8 +147,7 @@ This table **compares the principles** of incremental reading (parallel) and tra
 > - studying for school,
 > - personal keenship for a subject matter.
 > 
-> .
-{.is-info}
+> . <!-- The class is applied to the <ul> list otherwise -->
 {.is-info}
 
 ### General flow of Incremental Reading (simplified)
