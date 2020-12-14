@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-14T13:42:29.574Z
+date: 2020-12-14T13:45:00.166Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -143,7 +143,7 @@ This table **compares the principles** of incremental reading (parallel) and tra
 
 > **^*^**: In IR, most material is gradually broken down into smaller chunks, hence the low average duration.
 >
-> **Nothing precludes an incremental reader from deliberately reading one topic for hours** at a time. Typical motivations include:
+> **Nothing precludes an incremental reader from deliberately studying a single topic or material for hours** at a time. Typical motivations include:
 > - studying for school,
 > - acumen for a subject matter.
 > 
