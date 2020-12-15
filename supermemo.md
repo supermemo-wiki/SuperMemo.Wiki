@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T21:56:18.913Z
+date: 2020-12-15T22:10:48.310Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -192,15 +192,17 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
 
 In SuperMemo, flashcards are called **items**. Items are associations of knowledge such as the ones illustrated before that you want to remember.
 
-| Cloze items | Q&A items |
-|:===========:|:=========:|
+| Cloze item | Q&A item |
+|:==========:|:========:|
 | ![item-cloze.png](/supermemo/shared/item-cloze.png) | ![item-qa.png](/supermemo/shared/item-qa.png) |
 [***Two most common types of item***]
 
 Typically, items are created either by:
-- Generating them from imported content (e.g., a web article),
+- Generating them from imported content (e.g., a web article), a process called **Clozing**,
 - Copy-pasting content from another source (e.g., an e-book),
 - Manually typing content with the keyboard.
+
+**Clozing** is the process of creating a *gap question* by selecting the words to gap, and pressing <kbd>Alt</kbd> + <kbd>Z</kbd> on the keyboard. In the Cloze item above, `simultaneous rhythms` were the words selected.
 
 ## Incremental Reading
 
