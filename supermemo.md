@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T22:45:29.756Z
+date: 2020-12-15T22:46:31.429Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -202,7 +202,7 @@ Typically, items are created either by:
 - Copy-pasting content from another source (e.g., an e-book),
 - Manually typing content with the keyboard.
 
-**Clozing** is the process of creating a *gap question* by selecting the words to gap, and pressing <kbd>Alt</kbd> + <kbd>Z</kbd> on the keyboard. The cloze item presented above was created by clozing the words `simultaneous rhythms`.
+**Clozing** is the process of creating a *gap question* by selecting the words to hide, and pressing <kbd>Alt</kbd> + <kbd>Z</kbd> on the keyboard. The cloze item presented above was created by clozing the words `simultaneous rhythms`.
 
 Once an item is created in SuperMemo, it will be scheduled for review by the algorithm.
 
