@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T17:45:44.041Z
+date: 2020-12-15T17:49:21.485Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -75,7 +75,7 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
 
 ### Comparison Matrix
 
-<table>
+<table class="content-align-top">
   <tbody>
     <tr>
       <td width="180">
