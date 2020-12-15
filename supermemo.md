@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T17:17:18.667Z
+date: 2020-12-15T17:18:23.641Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -58,7 +58,7 @@ Here are a few reasons why SuperMemo might **improve your life**:
 1. Knowledge learned this way should be remembered forever,
 2. Remembering forever should use up the minimum time possible.
 
-In pratice SR is performed by creating **flashcards** and assigning them a [forgetting index](/supermemo/spaced-reptition#flashcards) within a computer software.
+In practice SR is performed by creating **flashcards** and assigning them a [forgetting index](/supermemo/spaced-reptition#flashcards) within a computer software.
 
 **Flashcard** is generic term for any association of knowledge. An example is the association between two words in different languages: "Hello" means "Bonjour" in French. The reciprocal association "Bonjour" -> "Hello" is another flashcard.
 
