@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-15T13:18:02.253Z
+date: 2020-12-15T13:23:32.532Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -57,8 +57,8 @@ graph TB
   IR-step4                -- 4. When bored with current article         --> step1
     
   
-  classDef state fill:#72F87C
-  classDef type fill:white,stroke-dasharray: 5 5
+  classDef state fill:white,stroke-dasharray: 5 5,stroke-width:2px
+  classDef type fill:#72F87C
 ```
 
 ## Benefits
