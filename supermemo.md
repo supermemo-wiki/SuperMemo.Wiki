@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T11:52:56.634Z
+date: 2020-12-15T11:53:02.360Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -170,7 +170,8 @@ graph TB
     IR-step3 -- 4. When bored with current article --> IR-step4
     IR-step4 -- 5. Repeat until done with studying --> IR-step1
 
-```{.flowchart}
+```
+{.flowchart}
 
 ### Example: Evolution over a few days
 
