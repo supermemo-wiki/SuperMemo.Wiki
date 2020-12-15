@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T20:28:35.754Z
+date: 2020-12-15T20:32:27.205Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -124,7 +124,7 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
         <p>Manually, either by:</p>
         <ul>
           <li>Planning in advance (e.g., for an exam),</li>
-          <li>Spontaneously rereading a note or a book.</li>
+          <li>Spontaneously (re-)reading a note or a book.</li>
         </ul>
       </td>
     </tr>
