@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-15T13:25:45.184Z
+date: 2020-12-15T13:28:01.200Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -42,7 +42,7 @@ graph TB
   end
   
   
-  step1                  o-- If writing article                 ----> IW-step1
+  step1                   -- If writing article                 -..-> IW-step1
   IW-step1                -- 1.a. Read and locate mistakes        --> IW-step2-a
   IW-step1                -- 1.b. New ideas                       --> IW-step2-b
   IW-step2-a & IW-step2-b                                         --> IW-step3
