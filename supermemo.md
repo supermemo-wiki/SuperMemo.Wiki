@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T17:49:21.485Z
+date: 2020-12-15T17:52:36.506Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -103,7 +103,7 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
         </p>
       </td>
       <td>
-        <p>Computer software[^4].</p>
+        <p>Computer software<sup><b>*</b></sup>.</p>
       </td>
       <td>
         <p>Any (usually pen &amp; paper).</p>
@@ -172,7 +172,7 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
         </p>
       </td>
       <td>
-        <p>Ideally daily[^5]. The least frequent, the more time you will spend re-learning lost knowledge.</p>
+        <p>Ideally daily<sup><b>**</b></sup>. The least frequent, the more time you will spend re-learning lost knowledge.</p>
       </td>
       <td>
         <p>Arbitrary or random.</p>
@@ -180,6 +180,10 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
     </tr>
   </tbody>
 </table>
+
+> **^\*^**: [Piotr Wozniak](/supermemo/piotr-wozniak) executed spaced repetition manually for months before writing the first version of supermemo, read [his article]().
+> **^\*\*^**: bb
+{.is-info}
 
 ## Incremental Reading
 
