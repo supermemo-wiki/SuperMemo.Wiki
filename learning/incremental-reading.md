@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-13T12:56:28.052Z
+date: 2020-12-15T14:47:07.488Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -10,7 +10,7 @@ dateCreated: 2020-12-12T18:05:35.512Z
 
 # Principles
 
-**Incremental Reading (IR)** is a technique for organizing learning in a way that encourages *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic extended periods of time.
+**Incremental Reading (IR)** is a technique for organizing learning in a way that encourages *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic for extended periods of time.
 
 In the context of this wiki, **material** designates any sort of media through which learning can be achieved. Some example of material include: books, web articles, videos, podcasts, etc.
 
@@ -68,7 +68,7 @@ This table **compares the principles** of incremental reading (parallel) and tra
     <tr>
       <td>
         <p>
-          <strong>Avg. Duration</strong>
+          <strong>Avg. Duration<sup>*</sup></strong>
         </p>
       </td>
       <td>
@@ -78,12 +78,36 @@ This table **compares the principles** of incremental reading (parallel) and tra
         <p>Hours for each material.</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Min/Max Duration</strong>
+        </p>
+      </td>
+      <td>
+        <p>Seconds to hours for each material.</p>
+      </td>
+      <td>
+        <p>Minutes to hours for each material.</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
+> **^*^**: In IR, most material is gradually broken down into smaller chunks, hence the low average duration.
+>
+> **Nothing precludes an incremental reader from deliberately studying a single topic or material for hours** at a time. Typical motivations include:
+> - studying for school,
+> - acumen for a subject matter.
+> 
+> . <!-- The class is applied to the <ul> list otherwise -->
+{.is-info}
+
 ## General flow of Incremental Reading (simplified)
 
-In Incremental Reading, all the material yet to be processed is added into a [queue](/supermemo/queues). Each individual element in the queue is examined until the student decides to move to the next topic (in the queue). Typical triggers for making that decision include decreases in concentration or pleasure.
+In Incremental Reading, all the material yet to be processed is added into a [queue](/supermemo/queues). **Each element** in the queue is **examined in succession**.
+
+How long to study each element before moving on to the next one is left at the discretion of the user's own heuristics. Typical triggers for making that decision include decreases in concentration or pleasure.
 
 ```mermaid
 
