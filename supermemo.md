@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T11:54:27.488Z
+date: 2020-12-15T15:58:50.376Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -52,12 +52,15 @@ Here are a few reasons why SuperMemo might **improve your life**:
 
 ## Spaced Repetition
 
-> Main article: [Spaced Repetition](/learning/spaced-repetition)
-{.is-info}
+*Main article: [Spaced Repetition](/learning/spaced-repetition)*
 
-🚧 Work in progress.
+**Spaced repetition (SR)** is a way of organizing your learning calendar in the most optimized way possible. It has two functions:
+1. Knowledge learned this way should be remembered forever,
+2. Knowledge remembered this way should take the least time possible.
 
 ## Incremental Reading
+
+*Main article: [Incremental Reading](/learning/incremental-reading)*
 
 **Incremental Reading (IR)** is a technique for organizing learning in a way that encourages *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic for extended periods of time.
 
