@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T20:25:49.541Z
+date: 2020-12-15T20:28:35.754Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -64,7 +64,7 @@ In practice SR is performed by creating **flashcards** and assigning them a [for
 
 **Flashcard** is generic term for any association of knowledge. An example is the association between two words in different languages: "Hello" means "Bonjour" in French. The reciprocal association "Bonjour" -> "Hello" is another flashcard. They can be physical (paper cards) or virtual (like in SuperMemo).
 
-![types-of-flashcard.png](/supermemo/spaced-repetition/types-of-flashcard.png)
+![types-of-flashcard.png](/supermemo/spaced-repetition/types-of-flashcard.png =820x)
 
 The **forgetting index** is a number that represents the likelihood (e.g. 10%) you will forget a given piece of knowledge (e.g. "Hello" -> "Bonjour") before the next date on the calendar when SR has scheduled a **review** for it. For example, if on the 1st of January you learned that "Hello" means "Bonjour" in French, you might only be able to recall that with 90% certainty until the 20th of January. Past that date, the likelihood of recalling it will keep decreasing. This is because forgetting is exponential in nature:
 
