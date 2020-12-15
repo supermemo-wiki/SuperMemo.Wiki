@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T21:51:02.998Z
+date: 2020-12-15T21:51:44.866Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -194,8 +194,8 @@ In SuperMemo, flashcards are called **items**. Items are associations of knowled
 
 There are two main types of text items:
 |:-:|:-:|
-| **Cloze items** | ![item-cloze.png](/supermemo/shared/item-cloze.png)
-| **Q&A items** | ![item-qa.png](/supermemo/shared/item-qa.png) |
+| **Cloze items** | ![item-cloze.png](/supermemo/shared/item-cloze.png =220x)
+| **Q&A items** | ![item-qa.png](/supermemo/shared/item-qa.png =220x) |
 
 Typically, items are created either by:
 - Generating them from imported content (e.g., a web article),
