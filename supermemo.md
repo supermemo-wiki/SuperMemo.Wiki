@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T21:12:00.980Z
+date: 2020-12-15T21:51:02.998Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -187,6 +187,20 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
 > 
 > **^\*\*^**: Missing out a few days is not the end of the world, but it will require more work later on!
 {.is-info}
+
+### Learning with Spaced Repetition
+
+In SuperMemo, flashcards are called **items**. Items are associations of knowledge such as the ones illustrated before that you want to remember.
+
+There are two main types of text items:
+|:-:|:-:|
+| **Cloze items** | ![item-cloze.png](/supermemo/shared/item-cloze.png)
+| **Q&A items** | ![item-qa.png](/supermemo/shared/item-qa.png) |
+
+Typically, items are created either by:
+- Generating them from imported content (e.g., a web article),
+- Copy-pasting content from another source (e.g., an e-book),
+- By manually typing content on the keyboard.
 
 ## Incremental Reading
 
