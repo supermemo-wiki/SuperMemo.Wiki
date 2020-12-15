@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T22:11:59.903Z
+date: 2020-12-15T22:43:54.909Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -190,7 +190,7 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
 
 ### Learning with Spaced Repetition
 
-In SuperMemo, flashcards are called **items**. Items are associations of knowledge such as the ones illustrated before that you want to remember.
+In SuperMemo, flashcards are called **items**. Items are associations of knowledge that you want to remember, such as the ones illustrated before.
 
 | Cloze item | Q&A item |
 |:==========:|:========:|
@@ -203,6 +203,14 @@ Typically, items are created either by:
 - Manually typing content with the keyboard.
 
 **Clozing** is the process of creating a *gap question* by selecting the words to gap, and pressing <kbd>Alt</kbd> + <kbd>Z</kbd> on the keyboard. The cloze item presented above was created by clozing the words `simultaneous rhythms`.
+
+Once an item is created in SuperMemo, it will be scheduled for review by the algorithm.
+
+When **review time** comes, the answer will be hidden. After reading the prompt (e.g. the gap), you will try to recall the answer. Depending on your ability to successfully recall it, and after revealing the real answer, you will **grade** yourself.
+
+![item-grading.png](/supermemo/shared/item-grading.png)
+
+From left to right, the first three grades and last two grades respectively represent different levels of ease for success and failure to recall.
 
 ## Incremental Reading
 
