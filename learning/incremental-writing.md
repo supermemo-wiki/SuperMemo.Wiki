@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-15T13:11:26.964Z
+date: 2020-12-15T13:18:02.253Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
