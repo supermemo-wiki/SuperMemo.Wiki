@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T20:32:27.205Z
+date: 2020-12-15T20:49:37.844Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -349,6 +349,12 @@ graph LR
 graph TB
     IR-rep3-step1["Work in progress"]
 ```
+
+## Pleasure of learning
+
+*Main article: [Pleasure of learning](/learning/pleasure-of-learning)*
+
+🚧 Work in progress.
 
 # Getting Started
 
