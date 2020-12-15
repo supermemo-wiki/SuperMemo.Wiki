@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T17:44:34.556Z
+date: 2020-12-15T17:45:44.041Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -78,19 +78,19 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
 <table>
   <tbody>
     <tr>
-      <td width="200">
+      <td width="180">
         <p>
           <strong>
             <em> </em>
           </strong>
         </p>
       </td>
-      <td width="200">
+      <td width="250">
         <p>
           <strong>Spaced repetition</strong>
         </p>
       </td>
-      <td width="200">
+      <td width="250">
         <p>
           <strong>Traditional learning</strong>
         </p>
