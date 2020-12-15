@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T17:11:54.093Z
+date: 2020-12-15T17:17:18.667Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -62,11 +62,14 @@ In pratice SR is performed by creating **flashcards** and assigning them a [forg
 
 **Flashcard** is generic term for any association of knowledge. An example is the association between two words in different languages: "Hello" means "Bonjour" in French. The reciprocal association "Bonjour" -> "Hello" is another flashcard.
 
-The **forgetting index** is a number that represents the likelihood (e.g. 10%) you forget a given piece of knowledge (e.g. "Hello" -> "Bonjour") before the next date on the calendar when SR has scheduled a **review** for it. For example, if on the 1st of January you learned that "Hello" means "Bonjour" in French, you might only be able to recall that with 90% certainty until the 20th of January. Past that date, the likelihood of recalling it will keep decreasing. This is because forgetting is exponential nature:
+The **forgetting index** is a number that represents the likelihood (e.g. 10%) you will forget a given piece of knowledge (e.g. "Hello" -> "Bonjour") before the next date on the calendar when SR has scheduled a **review** for it. For example, if on the 1st of January you learned that "Hello" means "Bonjour" in French, you might only be able to recall that with 90% certainty until the 20th of January. Past that date, the likelihood of recalling it will keep decreasing. This is because forgetting is exponential in nature:
 
 ![forgetting-curve.png](/supermemo/spaced-repetition/forgetting-curve.png)
 
-This is avoided by **reviewing** your knowledge. Reviewing is the process of refreshing knowledge to ensure that it is persisted in memory. For example, on the 20th of January, you might quiz yourself "What is the French translation for 'Hello'?". If you recalled correctly, then your memory of that knowledge will be persisted for an even longer time than you previously had, for example until March 31th with a 90% recall rate.
+Forgetting is avoided by **reviewing** your knowledge. Reviewing is the process of refreshing knowledge to ensure that it is persisted in memory. For example, on the 20th of January, you might quiz yourself:
+> *What is the French translation for 'Hello'?*.
+
+If you recalled correctly, then your memory of that knowledge will be persisted for an even longer time than you previously had, for example until March 31th with a 90% recall rate.
 
 ## Incremental Reading
 
