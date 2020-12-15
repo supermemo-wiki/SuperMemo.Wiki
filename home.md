@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-13T10:30:42.301Z
+date: 2020-12-15T11:34:44.852Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -15,7 +15,7 @@ dateCreated: 2020-12-05T18:21:42.959Z
 > The methods[^1][^2] it pioneered[^3] enable you to remember the things you **learn forever**, and to gain knowledge at an **unprecedented rate**.
 {.is-success}
 
-- [How can it change your life? *A list of cases why you should likely care.*](/supermemo#why-can-supermemo-change-your-life)
+- [Why it could change your life *Case-by-case illustration of why you should care.*](/supermemo#why-can-supermemo-change-your-life)
 - [Humans of SuperMemo *Personal stories from users of SuperMemo.*](/supermemo/humans-of-supermemo)
 {.links-list}
 
