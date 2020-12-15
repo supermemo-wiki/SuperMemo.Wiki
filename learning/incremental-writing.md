@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-15T13:44:28.097Z
+date: 2020-12-15T13:51:11.742Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -24,7 +24,7 @@ In IW, the decision of whether you should continue working on a particular text 
 
 ```mermaid
 
-graph TB
+flowchart TB
   step1{{"New article (next repetition)"}}:::state
   
   subgraph IR[" "]
@@ -49,13 +49,13 @@ graph TB
   IW-step3                -- 2. Repeat until bored                --> IW-step1
   IW-step3                -. 3. When bored with current article   .-> step1
   
+  
   step1                   -. If learning article                       -.-> IR-step1
   IR-step1                                                              --> IR-step2
   IR-step2                -- 1. Locate interesting information          --> IR-step3
   IR-step3                -- 2. Extract valuable text for later         --> IR-step4
   IR-step4                -- 3. Repeat until bored with current article --> IR-step2
   IR-step4                -. 4. When bored with current article         .-> step1
-    
   
   classDef state fill:#F3FFDA,stroke-width:2px
   classDef type fill:#72F87C
