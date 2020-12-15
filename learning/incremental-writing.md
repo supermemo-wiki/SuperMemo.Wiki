@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-15T13:51:29.673Z
+date: 2020-12-15T13:55:54.036Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -31,7 +31,7 @@ graph TB
     IR-step1["Do Incremental Reading"]:::type
     IR-step2>"Read article"]
     IR-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
-    IR-step4("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
+    IR-step4["Acquire knowledge"]
   end
   
   subgraph IW[" "]
