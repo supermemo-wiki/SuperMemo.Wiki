@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T17:52:36.506Z
+date: 2020-12-15T18:01:27.463Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -181,8 +181,9 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
   </tbody>
 </table>
 
-> **^\*^**: [Piotr Wozniak](/supermemo/piotr-wozniak) executed spaced repetition manually for months before writing the first version of supermemo, read [his article]().
-> **^\*\*^**: bb
+> **^\*^**: [Piotr Wozniak](/supermemo/piotr-wozniak) executed **spaced repetition on paper** for years before writing the first computer version with SuperMemo, read [his article](https://supermemo.guru/wiki/First_steps_of_SuperMemo#SuperMemo_on_paper).
+> 
+> **^\*\*^**: Missing out a few days is not the end of the world, but it will require more work later on!
 {.is-info}
 
 ## Incremental Reading
