@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-15T13:51:11.742Z
+date: 2020-12-15T13:51:29.673Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -24,7 +24,7 @@ In IW, the decision of whether you should continue working on a particular text 
 
 ```mermaid
 
-flowchart TB
+graph TB
   step1{{"New article (next repetition)"}}:::state
   
   subgraph IR[" "]
