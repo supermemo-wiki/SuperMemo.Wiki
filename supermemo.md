@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-15T18:01:27.463Z
+date: 2020-12-15T18:04:44.547Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -172,7 +172,7 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
         </p>
       </td>
       <td>
-        <p>Ideally daily<sup><b>**</b></sup>. The least frequent, the more time you will spend re-learning lost knowledge.</p>
+        <p>As frequent as desired<sup><b>**</b></sup>. The least frequent, the more time you will spend re-learning lost knowledge.</p>
       </td>
       <td>
         <p>Arbitrary or random.</p>
