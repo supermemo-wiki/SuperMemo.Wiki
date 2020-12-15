@@ -2,7 +2,7 @@
 title: Pleasure of Learning
 description: 
 published: true
-date: 2020-12-13T13:15:45.616Z
+date: 2020-12-15T11:51:38.184Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:44:54.104Z
@@ -10,6 +10,5 @@ dateCreated: 2020-12-06T12:44:54.104Z
 
 # Pleasure of Learning
 
-> **Q**: Learning is <span class="sm-cloze">[...]</span> !
-> **A**: **awesome**
-{.is-success}
+> Today, we realize that the pleasure is so inherently associated with all forms of learning in neural networks that it emerges as one of the best yardsticks in measuring learning progress.
+https://supermemo.guru/wiki/Fundamental_law_of_learning
