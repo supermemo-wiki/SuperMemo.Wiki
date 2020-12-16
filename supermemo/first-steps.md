@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T10:24:44.336Z
+date: 2020-12-16T10:27:52.333Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -52,7 +52,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 | **Algorithm**           | SM-18[^1]    | SM-15      | SM-18      | SM-2[^2]
 | **Incremental Reading** | Yes          | Yes        | No         | Partial[^3]
 | **Complexity**          | Complex      | Complex    | Simple     | Medium
-| **Mobile app**          | No           | No         | Yes        | Yes
+| **Mobile support**      | No           | No         | Yes        | Yes
 | **Web import**          | Yes          | Yes        | No         | No
 | **PDF import**          | Yes[^4]      | No         | No         | No
 | **Plugins**             | Yes[^5]      | No         | No         | Yes[^5]
