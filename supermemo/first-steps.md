@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T11:07:09.527Z
+date: 2020-12-16T11:08:18.063Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -13,9 +13,8 @@ dateCreated: 2020-12-05T18:34:56.312Z
 ## Choosing a SuperMemo edition
 
 There are two main editions of SuperMemo:
-1. :computer: Desktop edition, under the moniker **SuperMemo 1** through **SuperMemo 18**,
-2. :globe_with_meridians: Web edition, under the moniker SuperMemo.com.
-
+1. :computer: **Desktop** edition, under the moniker *SuperMemo 1* through *SuperMemo 18*,
+2. :globe_with_meridians: **Web** edition, under the moniker *<span>SuperMemo</span>.com*.
 
 ### SuperMemo 18
 
