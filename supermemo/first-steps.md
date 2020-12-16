@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T16:39:07.278Z
+date: 2020-12-16T16:40:11.759Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -103,7 +103,7 @@ This video will guide you through the process of **installing SuperMemo 18**. Th
 
 🚧 Work in progress.
 
-## (Easiest) 1 on 1 tutoring
+## 1 on 1 tutoring (recommended)
 
 In 1-2 hours, a proficient user can teach you the basics to get you started with the essential functionalities.
 
