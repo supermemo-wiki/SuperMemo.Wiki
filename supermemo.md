@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-16T16:15:30.939Z
+date: 2020-12-16T17:05:53.996Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -15,6 +15,8 @@ dateCreated: 2020-12-05T18:34:19.777Z
 SuperMemo is built on two novel learning techniques named [Spaced Repetition](/learning/spaced-repetition) and [Incremental Reading](/learning/incremental-reading) pioneered by Dr. [Piotr Wozniak](/supermemo/piotr-wozniak)[^1], the inventor of SuperMemo. They enable anyone to form long-lasting memories, and to gain new knowledge more efficiently compared with traditional techniques.
 
 While the success of SuperMemo is often attributed to its cutting-edge  algorithms and techniques, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the central importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
+
+![screenshot-sm18-001.png](/supermemo/screenshots/screenshot-sm18-001.png =800x)
 
 ## Why can SuperMemo change your life?
 
