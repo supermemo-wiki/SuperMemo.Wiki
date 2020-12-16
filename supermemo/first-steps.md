@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T10:37:40.845Z
+date: 2020-12-16T10:39:55.814Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -52,7 +52,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 | **Algorithm**           | SM-18[^1]    | SM-15      | SM-18      | SM-2[^2]
 | **Incremental Reading** | Yes          | Yes        | No         | Partial[^3]
 | **Complexity**          | Complex      | Complex    | Simple     | Medium
-| **Platforms**           | Windows      | Windows    | Web, Mobile | Windows, Linux, MacOS, Mobile
+| **Platforms**           | Windows, Linux[^7] | Windows, Linux | Web, Mobile | Windows, Linux, MacOS, Mobile
 | **Plugins**             | Yes[^5]      | No         | No         | Yes[^5]
 | **Web import**          | Yes          | Yes        | No         | No
 | **PDF import**          | Yes[^4]      | No         | No         | No
@@ -73,3 +73,4 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 [^4]: With the [PDF plugin](https://github.com/supermemo/SuperMemoAssistant.Plugins.PDF/).
 [^5]: SM 17+ has Plugins through [SMA](https://sma.supermemo.wiki/). Anki has a rich add-on [ecosystem](https://ankiweb.net/shared/addons/).
 [^6]: Anki decks [can be converted](https://www.youtube.com/watch?v=j6dmQHMGTJs) to SuperMemo.
+[^7]: SuperMemo 15 through 18 has partial [support for Linux](http://supermemopedia.com/wiki/SuperMemo_for_Linux). Plugins do not work in Linux.
