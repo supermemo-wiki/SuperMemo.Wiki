@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-16T17:25:05.203Z
+date: 2020-12-16T17:25:28.033Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -33,13 +33,6 @@ A few reasons why SuperMemo might **improve your life**:
     - [Our community](https://discord.gg/vUQhqCT) is oustandingly supportive and caring,
     - You will have discussions on topics that you cannot have elsewhere,
     - These discussions will spark new ideas and projects.
-    
-### User stories
-
-Learn from the stories of SuperMemo users:
-
-- [Humans of SuperMemo *Personal stories from users of SuperMemo.*](/supermemo/humans-of-supermemo)
-{.links-list}
 
 #### I am a Student (TODO)
 
@@ -58,6 +51,13 @@ Learn from the stories of SuperMemo users:
 2. **You can spread the word**
     - Once you rediscover the pleasure of learning, you will be able to promote policies that encourage it,
     - People will become more educated, and more happy.
+    
+### User stories
+
+Learn from the stories of SuperMemo users:
+
+- [Humans of SuperMemo *Personal stories from users of SuperMemo.*](/supermemo/humans-of-supermemo)
+{.links-list}
 
 ## Spaced Repetition
 
