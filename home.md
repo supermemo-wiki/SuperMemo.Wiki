@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-16T11:08:05.646Z
+date: 2020-12-16T11:08:40.878Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -133,7 +133,7 @@ dateCreated: 2020-12-05T18:21:42.959Z
   </tbody>
 </table>
 
-### Software Matrix
+## Software Matrix
 
 There are two main editions of SuperMemo:
 1. :computer: **Desktop** edition, under the moniker *SuperMemo 1* through *SuperMemo 18*,
