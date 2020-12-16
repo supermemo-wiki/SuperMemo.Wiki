@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T16:55:29.065Z
+date: 2020-12-16T17:53:10.211Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -115,7 +115,15 @@ In 1-2 hours, a proficient user can teach you the basics to get you started with
 - [👨‍🎓 &nbsp; Schedule a call *Learn the ropes with Raj of SuperMemo.wiki.*](https://calendly.com/test0009/raj)
 {.links-list}
 
-## Video guide
+## Video guides
+
+### The 3 minutes introduction
+
+Quick introduction to understanding the basic workflow of SuperMemo.
+
+<iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/WC260xK3QdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Complete guide
 
 This series of video will take you from beginner to advanced expertize level.
 
