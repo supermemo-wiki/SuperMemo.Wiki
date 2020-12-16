@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T16:32:54.664Z
+date: 2020-12-16T16:39:07.278Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -107,7 +107,8 @@ This video will guide you through the process of **installing SuperMemo 18**. Th
 
 In 1-2 hours, a proficient user can teach you the basics to get you started with the essential functionalities.
 
-Schedule a call [here](https://calendly.com/test0009/raj) with Raj of supermemo.wiki.
+- [👨‍🎓 &nbsp; Schedule a call *Learn the ropes with Raj of SuperMemo.wiki.*](https://calendly.com/test0009/raj)
+{.links-list}
 
 ## Video guide
 
@@ -117,17 +118,12 @@ This series of video will take you from beginner to advanced expertize level.
 
 ## Other online guides
 
-- [Step by Step to SuperMemo Mastery](https://help.supermemo.org/wiki/Step-by-step_to_SuperMemo_mastery): if followed over days, weeks, and months, can take you to confirmed proficiency, provided you start slow and ramp up over time without biting off more than you can chew.
-
-- [Incremental reading manual](https://help.supermemo.org/index.php?title=Incremental_learning): using incremental reading to go through the incremental reading manual is one of the best ways to attain deep proficiency in SuperMemo. You can follow the instructions [here](https://supermemo.guru/wiki/Incremental_reading_step_by_step#Big_test) under "big test" for how to do so. Note, there have been recent issues with references when importing. We plan to provide soon a pre-edited version.
-
-- [SuperMemo for Wizards](https://www.youtube.com/watch?v=NURjZuHvDaU): a video both on why memorization is valuable and how SuperMemo actually works 
-
-- [Comparison Between Anki and SuperMemo](https://www.masterhowtolearn.com/2018-11-11-my-comparison-between-anki-and-supermemo) : written by a long-term anki user who switched to SuperMemo, offers reasonable perspective on why SuperMemo can be a better choice 
-
-- [SuperMemo is Useless!](https://www.supermemo.com/en/archives1990-2015/articles/useless): Detailed explanations of why memorization is valuable and refutations of common arguments against SuperMemo 
-
-- [If SuperMemo/Anki Really is THE BEST Learning Tool, Why Isn't Every Student Using It?](https://www.masterhowtolearn.com/2020-03-15-If-supermemo-anki-really-is-the-best-learning-tool-why-isnt-every-student-using-it/)
+- [Step by Step to SuperMemo Mastery *If followed over days, weeks, and months, can take you to confirmed proficiency, provided you start slow and ramp up over time without biting off more than you can chew.*](https://help.supermemo.org/wiki/Step-by-step_to_SuperMemo_mastery)
+- [Incremental reading manual *Use incremental reading to go through the incremental reading manual is one of the best ways to attain deep proficiency in SuperMemo.*](https://help.supermemo.org/index.php?title=Incremental_learning)
+- [SuperMemo for Wizards *A video both on why memorization is valuable and how SuperMemo actually works.*](https://www.youtube.com/watch?v=NURjZuHvDaU)
+- [Comparison Between Anki and SuperMemo *Written by a long-term anki user who switched to SuperMemo, offers reasonable perspective on why SuperMemo can be a better choice.*](https://www.masterhowtolearn.com/2018-11-11-my-comparison-between-anki-and-supermemo)
+- [SuperMemo is Useless! *Detailed explanations of why memorization is valuable and refutations of common arguments against SuperMemo.*](https://www.supermemo.com/en/archives1990-2015/articles/useless)
+- [Why Isn't Every Student Using It? *If SuperMemo/Anki really is THE BEST learning tool, why isn't every student using it?*](https://www.masterhowtolearn.com/2020-03-15-If-supermemo-anki-really-is-the-best-learning-tool-why-isnt-every-student-using-it/)
 {.links-list}
 
 
