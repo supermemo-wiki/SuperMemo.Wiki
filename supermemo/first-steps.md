@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T09:22:42.153Z
+date: 2020-12-16T09:36:01.015Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -28,21 +28,22 @@ You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to re
 
 ### Comparison Matrix
 
-|                          | SM 18      | SM 15      | SM Web     |
-|-------------------------:|:==========:|:==========:|:==========:|
-| **Algorithm[^1]**       | SM-18    | SM-15    | SM-18    |
-| **Incremental Reading** | Yes      | Yes      | No       |
-| **Complexity** | Complex      | Complex      | Simple       |
-|  | Yes      | Yes      | No       |
-| | Yes      | Yes      | No       |
-| | Yes      | Yes      | No       |
-| | Yes      | Yes      | No       |
-| | Yes      | Yes      | No       |
-| | Yes      | Yes      | No       |
-| **Themes** | Yes      | Yes      | N/A      |
+|                          | SM 18        | SM 15      | SM Web     | Anki
+|-------------------------:|:============:|:==========:|:==========:|:==========:|
+| **Algorithm[^1]**       | SM-18        | SM-15      | SM-18      | SM-2[^2]
+| **Incremental Reading** | Yes          | Yes        | No         | Partial[^3]
+| **Complexity**          | Complex      | Complex    | Simple     | Medium
+| **Neural reviews**      | Yes          | No         | No         | No
+| **Concept maps**        | Yes          | No         | No         | No
+| **Themes**              | Yes          | No         | -          | Yes
+| **Premade courses**     | No           | No         | Yes        | Yes
+| **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | -          | -
+
 
 ### Video on Installation
 
 <iframe src="https://drive.google.com/file/d/1voa9P-ITGiqAQZkfNHUWNEiSdFqr0J5l/preview" width="640" height="480"></iframe>
 
 [^1]: SM-17 was a [significant leap](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) in the algorithm predictive efficiency. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
+[^2]: Based on SM-2, see [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html). For a comparison see [Universal metric](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms#Algorithmic_contest:_SuperMemo_2_vs._SuperMemo_17).
+[^3]: Partial implementation with Incremental Reading [add-on](https://ankiweb.net/shared/info/935264945)
