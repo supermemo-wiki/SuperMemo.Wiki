@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T16:19:08.116Z
+date: 2020-12-16T16:32:54.664Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -81,19 +81,23 @@ This video will guide you through the process of **installing SuperMemo 18**. Th
 
 ## Mac and Linux
 
-**SuperMemo** is a windows application, but these are some options that let you run it on other Operating systems:
+**SuperMemo** is a windows application, but these are some options for running it on other Operating systems:
 
 ### Mac
 
-- [Parallels](https://www.parallels.com/) (Mac): 40$/year with [student discount](https://www.parallels.com/landingpage/pd/education/) but has best user experience (has 14 day free trial) 
-- [VMWare Fusion](https://www.vmware.com/in/products/fusion.html): around 100$ for an[ academic license](https://store-us.vmware.com/vmware-in-education) but worse performance than parallels (has 30 day free trial) 
-- [VirtualBox](https://www.virtualbox.org/): free and open source but worst performing option of the three
+- [Parallels (retail) *$135, 14 days trial, best user experience.*](https://www.parallels.com/)
+- [Parallels (students) *50% discount for students.*](https://www.parallels.com/landingpage/pd/education/)
+- [VMWare Fusion (retail) *$149, 30 days trial, worse performance than parallels.*](https://www.vmware.com/in/products/fusion.html)
+- [VMWare Fusion (students) *$100, discounted for students and education workers.*](https://store-us.vmware.com/vmware-in-education)
+- [VirtualBox *Free and open source, worst experience of the three.*](https://www.virtualbox.org/)
+{.links-list}
 
 ### Linux
 
-- [VMware Workstation Player](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html): commercial with a free tier for Linux 
-- [VirtualBox](https://www.virtualbox.org/): free and open source, but poorer performance 
-- [Wine](https://github.com/alessivs/supermemo-wine): a user got SuperMemo mostly working on wine but there are various caveats and you will not be able to use[ SuperMemo Assistant](https://supermemo.wiki/sma/)
+- [VMware Player *Commercial with a free tier for Linux .*](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html)
+- [VirtualBox *Free and open source, worst experience of the three.*](https://www.virtualbox.org/)
+- [Wine *SuperMemo in Linux with some caveats, does not work with SMA.*](https://github.com/alessivs/supermemo-wine)
+{.links-list}
 
 # How to use SuperMemo?
 
