@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-16T17:25:28.033Z
+date: 2020-12-16T17:34:58.024Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -57,6 +57,8 @@ A few reasons why SuperMemo might **improve your life**:
 Learn from the stories of SuperMemo users:
 
 - [Humans of SuperMemo *Personal stories from users of SuperMemo.*](/supermemo/humans-of-supermemo)
+- [Master how to Learn *A journey through learning, by Hnous.*](https://www.masterhowtolearn.com/2018-10-28-why-i-switched-to-supermemo/)
+- [Antimoon *Me and SuperMemo, by Tomasz P. Szynalski.*](http://www.antimoon.com/how/tomandsm.htm)
 {.links-list}
 
 ## Spaced Repetition
