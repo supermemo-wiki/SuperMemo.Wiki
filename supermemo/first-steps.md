@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T10:33:40.444Z
+date: 2020-12-16T10:35:40.293Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -52,7 +52,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 | **Algorithm**           | SM-18[^1]    | SM-15      | SM-18      | SM-2[^2]
 | **Incremental Reading** | Yes          | Yes        | No         | Partial[^3]
 | **Complexity**          | Complex      | Complex    | Simple     | Medium
-| **Mobile support**      | No           | No         | Yes        | Yes
+| **Platforms**           | Windows      | Windows    | Web, Mobile | Windows, Linux, MacOS, Mobile
 | **Plugins**             | Yes[^5]      | No         | No         | Yes[^5]
 | **Web import**          | Yes          | Yes        | No         | No
 | **PDF import**          | Yes[^4]      | No         | No         | No
@@ -60,7 +60,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 | **Premade courses**     | Yes[^6]      | No         | Yes        | Yes
 | **Themes**              | Yes          | No         | -          | Yes
 | **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
-| **Price**               | $66          | Free       | Freemium   | Free
+| **Price**               | $66          | Free       | Freemium   | Free (except iOS)
 
 
 ## Video guide (SM 18)
