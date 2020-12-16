@@ -2,13 +2,21 @@
 title: Learn SuperMemo
 description: 
 published: true
-date: 2020-12-05T21:44:43.373Z
+date: 2020-12-16T17:04:24.385Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-05T21:40:12.974Z
 ---
 
 # Getting Started with SuperMemo
+
+:warning: **This page is outdated. Use the guides below instead.** :warning:
+
+- [📕 &nbsp; Introduction to SuperMemo *Essential concepts to understand SuperMemo.*](https://www.supermemo.wiki/supermemo)
+- [🧠 &nbsp; First steps *Learn how to use the core features of SuperMemo.*](https://www.supermemo.wiki/supermemo/first-steps)
+{.links-list}
+
+---
 
 [SuperMemo](https://help.supermemo.org/wiki/SuperMemo) is a program for converting knowledge material to **long-term memory**. It pioneered **Incremental reading**, a learning technique for processing vast amounts of material which deeply synergizes with SuperMemo.
 {.is-info}
