@@ -1,16 +1,20 @@
 ---
 title: SuperMemo: First Steps
-description: 
+description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-12T08:47:51.445Z
+date: 2020-12-16T09:22:42.153Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
 ---
 
-## Installing SuperMemo
+# Installing SuperMemo
+
+## Choosing a SuperMemo edition
 
 ### Supermemo 18
+
+
 
 You can [📥 download](https://super-memory.com/english/down.htm) and use SuperMemo 18 (latest version) at no cost for the duration of the trial.
 
@@ -20,6 +24,25 @@ You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to re
 
 [SuperMemo 15](http://supermemopedia.com/wiki/SuperMemo_15_Freeware) is completely free to use. However, the latest version (18) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
 
+### SuperMemo Web
+
+### Comparison Matrix
+
+|                          | SM 18      | SM 15      | SM Web     |
+|-------------------------:|:==========:|:==========:|:==========:|
+| **Algorithm[^1]**       | SM-18    | SM-15    | SM-18    |
+| **Incremental Reading** | Yes      | Yes      | No       |
+| **Complexity** | Complex      | Complex      | Simple       |
+|  | Yes      | Yes      | No       |
+| | Yes      | Yes      | No       |
+| | Yes      | Yes      | No       |
+| | Yes      | Yes      | No       |
+| | Yes      | Yes      | No       |
+| | Yes      | Yes      | No       |
+| **Themes** | Yes      | Yes      | N/A      |
+
 ### Video on Installation
 
 <iframe src="https://drive.google.com/file/d/1voa9P-ITGiqAQZkfNHUWNEiSdFqr0J5l/preview" width="640" height="480"></iframe>
+
+[^1]: SM-17 was a [significant leap](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) in the algorithm predictive efficiency. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
