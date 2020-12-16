@@ -2,9 +2,9 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-16T08:14:12.432Z
+date: 2020-12-16T14:47:53.293Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
 ---
 
@@ -16,9 +16,9 @@ It is born from the idea that understanding the benefits of learning from an int
 
 This initiative attempts to support the theoretical framework found on this wiki with **stories that are relatable to** us as **sentient creatures**.
 
-## User stories
+# User stories
 
-### Naess
+## Naess
 
 I found SuperMemo on my search for optimal learning methods. Passing the entrance exam for my university was the main motivator behind increasing productivity in learning.
 
@@ -28,7 +28,7 @@ Shortly after starting to use SM, I found Piotr’s writings about the pleasure 
 
 Whereas in the past it was all about exams and grades, these days it is about inherently enjoying the study material and nothing can beat that! It creates a force that pulls you to study the material without having to resort to discipline or external rewards and that is optimal.
 
-### Guillem Palau
+## Guillem Palau
 
 I always had a strong learn drive that luckily survived the school system. I knew the existence of SuperMemo when I installed Anki back in 2008, as Anki was based on SuperMemo. I read about it, but I never gave SuperMemo a try as it was not open source.
 
@@ -38,7 +38,7 @@ My initial thought was to document my transition to SuperMemo, recording my whol
 
 After using SuperMemo for about 4 months, I realized that SuperMemo is not a replacement for Anki, or vice versa. There is not a SM versus Anki. Most of what I do in SuperMemo I cannot do it on Anki. I am developing new habits of incrementalism in reading, writing, video and email, and this is a gamer changer, especially Incremental Reading.
 
-### mert1337
+## mert1337
 
 I have been watching anime for a long time. I wanted to learn japanese. I took japanese class at college. I memorized words and the alphabet by writing and repeating a lot.
 
@@ -46,7 +46,7 @@ After I graduated I wanted to develop my language skills even further. I found a
 
 I have found supermemo before but I thought it was complicated so I didn’t use it for like 6 months. Then I decided to give supermemo a chance. It was the best decision. At first it was hard but I got used to it. Now I read and learn about lots of different subjects. With supermemo I discovered the joy of learning.
 
-### gilgamesh
+## gilgamesh
 
 Let’s start with saying that highschool learning was a boring chore and any form of “Learning” was just learning how to most effectively ace the exam based on previous questions rather than actual learning and comprehension of information, I started researching better ways to learn and ended up learning about Spaced Repetition and Anki, I tried Anki for my 12th Grade year with some success but I found it difficult to keep up, although I knew about SuperMemo at the time, I choose not to use it due to how complex it seemed and not having time to put into it, but with the help of the SuperMemo.wiki discord and of course Ra, I was able to get into a pleasant workflow of learning, I am now in the process of using SuperMemo to target the areas of learning that I want to apply the most, namely Economics (College), Programming, and Music Theory.
 
@@ -54,7 +54,7 @@ Learning and Knowledge are stigmatized in my community due to how high school tr
 
 The joy of learning to me is in the concept of improving myself, we learn to become better and become better by learning, and then the final step in that is teaching someone else what I know, that’s why I learn.
 
-### TheTrueSquidward
+## TheTrueSquidward
 
 I had been using Anki for upwards of 2 years, and it had been the least pleasant of all the habits I’d tried to manifest. Learning was a pain I coerced myself into doing daily, joyless and forced. It was about a year before my Big Exams that I realised I’d have to convert the massive amount of material in my exams into Anki cards. 
 
@@ -70,7 +70,7 @@ I’d also faced a crisis of hobbies prior to learning of SuperMemo, thinking I 
 
 I soon discovered supermemo.guru’s brilliant array of articles and wisdom on genius. 
 
-### agdf
+## agdf
 
 **TL;DR**, I’m a Medical student and started using SRS in college:
 - _1st semester_: Anki 
