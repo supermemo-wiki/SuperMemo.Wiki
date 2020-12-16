@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T16:40:11.759Z
+date: 2020-12-16T16:51:01.439Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -100,6 +100,11 @@ This video will guide you through the process of **installing SuperMemo 18**. Th
 {.links-list}
 
 # How to use SuperMemo?
+
+The rest of this guide assumes a basic understanding of the principles of **Spaced Repetition** and **Incremental Reading**. The concepts presented in our Introduction will be explained in more details. If you haven't read it yet, click on the link below:
+
+- [📕 &nbsp; Introduction to SuperMemo *Essential concepts to understand SuperMemo.*](https://www.supermemo.wiki/supermemo)
+{.links-list}
 
 🚧 Work in progress.
 
