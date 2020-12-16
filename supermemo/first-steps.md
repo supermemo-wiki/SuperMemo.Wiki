@@ -2,11 +2,21 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T19:11:21.093Z
+date: 2020-12-16T19:23:30.819Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
 ---
+
+> 🙏 &nbsp;This wiki is new! If you are beginning with SuperMemo, **help me improve the quality of our articles**.
+>
+> Did you find this guide useful? Is there something I could improve?
+>
+> 1. [Create an account](https://www.supermemo.wiki/login) and leave a [comment](#discussion),
+> 2. Send me an [email](mailto:alexis@supermemo.wiki?subject=[SuperMemo.wiki]%20Feedback&body=Hello,%0D%0A%0D%0AAfter%20reading%20article%20[...]%20here%20is%20my%20feedback:%20[...]).
+>
+> Thank you!
+{.is-warning}
 
 This guide will **teach you the basics of SuperMemo** desktop edition. You will learn:
 - How to add knowledge in your SuperMemo collection,
