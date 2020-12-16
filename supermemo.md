@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-16T17:05:53.996Z
+date: 2020-12-16T17:22:45.649Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -20,10 +20,12 @@ While the success of SuperMemo is often attributed to its cutting-edge  algorith
 
 ## Why can SuperMemo change your life?
 
+1. Learn from the stories of SuperMemo users:
+
 - [Humans of SuperMemo *Personal stories from users of SuperMemo.*](/supermemo/humans-of-supermemo)
 {.links-list}
 
-Here are a few reasons why SuperMemo might **improve your life**:
+2. A few reasons why SuperMemo might **improve your life**:
 
 ### Tabs{.tabset}
 #### I am Human
