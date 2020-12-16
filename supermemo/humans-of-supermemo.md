@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-16T08:12:40.745Z
+date: 2020-12-16T08:13:39.903Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -73,9 +73,9 @@ I soon discovered supermemo.guru’s brilliant array of articles and wisdom on g
 ### agdf
 
 **TL;DR**, I’m a Medical student and started using SRS in college:
-- _1st semester_: Anki 
-- _2nd semester_: 1 week SM and dropped all SRS (COVID-19)
-- _3rd semester_: SM + discord community = success (started 1 month before the classes which I suggest)
+- __1st semester__: Anki 
+- __2nd semester__: 1 week SM and dropped all SRS (COVID-19)
+- __3rd semester__: SM + discord community = success (started 1 month before the classes which I suggest)
 
 I was the best student at my school in the last year of high school, then I entered medicine and felt like there was too much to memorize.
 
