@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T12:45:19.544Z
+date: 2020-12-16T13:04:33.265Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -65,7 +65,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 
 This video will guide you through the process of **installing SuperMemo 18**. The process should be similar for SuperMemo 15.
 
-<iframe src="https://drive.google.com/file/d/1voa9P-ITGiqAQZkfNHUWNEiSdFqr0J5l/preview" width="640" height="480" class="mt-4"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yU4_pQdF4yc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [^4]: SM-17 was a [significant leap](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) in the algorithm predictive efficiency. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
 [^5]: Based on SM-2, see [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html). For a comparison with SM-18 see [Universal metric](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms#Algorithmic_contest:_SuperMemo_2_vs._SuperMemo_17).
