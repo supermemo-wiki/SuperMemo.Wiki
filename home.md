@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-15T11:34:44.852Z
+date: 2020-12-16T11:07:03.191Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -132,6 +132,28 @@ dateCreated: 2020-12-05T18:21:42.959Z
     </tr>
   </tbody>
 </table>
+
+### Software Matrix
+
+There are two main editions of SuperMemo:
+1. :computer: Desktop edition, under the moniker **SuperMemo 1** through **SuperMemo 18**,
+2. :globe_with_meridians: Web edition, under the moniker **<span>SuperMemo</span>.com**.
+
+|                          | SM 18        | SM 15      | SM Web     | Anki
+|-------------------------:|:============:|:==========:|:==========:|:==========:|
+| **Algorithm**           | SM-18[^1]    | SM-15      | SM-18      | SM-2[^2]
+| **Incremental Reading** | Yes          | Yes        | No         | Partial[^3]
+| **Complexity**          | Complex      | Complex    | Simple     | Medium
+| **Platforms**           | Windows, Linux[^7] | Windows, Linux | Web, Mobile | Windows, Linux, MacOS, Mobile
+| **Plugins**             | Yes[^5]      | No         | No         | Yes[^5]
+| **Web import**          | Yes          | Yes        | No         | No
+| **PDF import**          | Yes[^4]      | No         | No         | No
+| **Neural reviews**      | Yes          | No         | No         | No
+| **Premade courses**     | Yes[^6]      | No         | Yes        | Yes
+| **Themes**              | Yes          | No         | -          | Yes
+| **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
+| **Price**               | $66          | Free       | Freemium   | Free (iOS $24.99)
+
 
 # About this wiki
 
