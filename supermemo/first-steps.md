@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T09:52:18.015Z
+date: 2020-12-16T09:53:27.277Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -40,7 +40,7 @@ You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to re
 | **Concepts**            | Yes          | No         | No         | No
 | **Themes**              | Yes          | No         | -          | Yes
 | **Premade courses**     | By proxy[^6] | No         | Yes        | Yes
-| **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | -          | -
+| **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
 
 
 ## Video guide (SM 18)
