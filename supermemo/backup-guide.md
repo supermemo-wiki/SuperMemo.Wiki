@@ -1,10 +1,10 @@
 ---
 title: Backup Strategy Guide
-description: 
+description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2020-12-07T09:21:23.971Z
+date: 2020-12-16T11:02:08.091Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
 ---
 
