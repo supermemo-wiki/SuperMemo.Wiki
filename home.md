@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-16T11:08:40.878Z
+date: 2020-12-16T11:13:37.188Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -141,15 +141,15 @@ There are two main editions of SuperMemo:
 
 |                          | SM 18        | SM 15      | SM Web     | Anki
 |-------------------------:|:============:|:==========:|:==========:|:==========:|
-| **Algorithm**           | SM-18[^1]    | SM-15      | SM-18      | SM-2[^2]
-| **Incremental Reading** | Yes          | Yes        | No         | Partial[^3]
+| **Algorithm**           | SM-18[^4]    | SM-15      | SM-18      | SM-2[^5]
+| **Incremental Reading** | Yes          | Yes        | No         | Partial[^6]
 | **Complexity**          | Complex      | Complex    | Simple     | Medium
 | **Platforms**           | Windows, Linux[^7] | Windows, Linux | Web, Mobile | Windows, Linux, MacOS, Mobile
-| **Plugins**             | Yes[^5]      | No         | No         | Yes[^5]
+| **Plugins**             | Yes[^8]      | No         | No         | Yes[^8]
 | **Web import**          | Yes          | Yes        | No         | No
-| **PDF import**          | Yes[^4]      | No         | No         | No
+| **PDF import**          | Yes[^9]      | No         | No         | No
 | **Neural reviews**      | Yes          | No         | No         | No
-| **Premade courses**     | Yes[^6]      | No         | Yes        | Yes
+| **Premade courses**     | Yes[^10]      | No         | Yes        | Yes
 | **Themes**              | Yes          | No         | -          | Yes
 | **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
 | **Price**               | $66          | Free       | Freemium   | Free (iOS $24.99)
@@ -177,5 +177,12 @@ To prevent spam we require **manual verification** for new accounts to receive e
 [^1]: https://supermemo.guru/wiki/Spaced_repetition
 [^2]: https://supermemo.guru/wiki/Incremental_reading
 [^3]: https://supermemo.guru/wiki/History_of_spaced_repetition
+[^4]: SM-17 was a [significant leap](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) in the algorithm predictive efficiency. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
+[^5]: Based on SM-2, see [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html). For a comparison with SM-18 see [Universal metric](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms#Algorithmic_contest:_SuperMemo_2_vs._SuperMemo_17).
+[^6]: Partial implementation with the Incremental Reading [add-on](https://ankiweb.net/shared/info/935264945).
+[^7]: SuperMemo 15 through 18 has partial [support for Linux](http://supermemopedia.com/wiki/SuperMemo_for_Linux). Plugins do not work in Linux.
+[^8]: SM 17+ has Plugins through [SMA](https://sma.supermemo.wiki/). Anki has a rich add-on [ecosystem](https://ankiweb.net/shared/addons/).
+[^9]: With the [PDF plugin](https://github.com/supermemo/SuperMemoAssistant.Plugins.PDF/).
+[^10]: Anki decks [can be converted](https://www.youtube.com/watch?v=j6dmQHMGTJs) to SuperMemo.
 
 ![SuperMemo.wiki](/supermemo-64.png){.align-abstopright}
