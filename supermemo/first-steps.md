@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T13:04:58.886Z
+date: 2020-12-16T13:10:49.583Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -26,7 +26,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 - [🔑 SuperMemo 18 (purchase) *Remove the trial expiration with a lifetime license.*](https://super-memo.com/supermemo18.html)
 {.links-list}
 
-> If you have not received your key within a few days, send a request on [SuperMemopedia](http://supermemopedia.com/wiki/Main_Page) (recommended) or by [email](mailto:help2020@supermemo.org).
+> If you have not received your key within a few days, send a request on [SuperMemopedia](http://supermemopedia.com/wiki/Main_Page) (recommended) or by [email](mailto:help2020@supermemo.org). Feel free to request assistance on our [Discord server](https://discord.gg/vUQhqCT) as well.
 {.is-warning}
 
 ## SuperMemo 15
