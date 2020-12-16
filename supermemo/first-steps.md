@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T12:45:01.522Z
+date: 2020-12-16T12:45:19.544Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -61,7 +61,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 | **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
 | **Price**               | $66          | Free       | Freemium   | Free (iOS $24.99)
 
-## Installation video guide
+# Installation video guide
 
 This video will guide you through the process of **installing SuperMemo 18**. The process should be similar for SuperMemo 15.
 
