@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-16T08:33:10.135Z
+date: 2020-12-16T08:45:12.172Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -135,10 +135,10 @@ If you recalled correctly, then your memory of that knowledge will be persisted 
         </p>
       </td>
       <td>
-        <p>High: the software knows everything you want to remember.</p>
+        <p>High: the software does not forget what you want to remember.</p>
       </td>
       <td>
-        <p>Low: you cannot list everything you've learned and remember to review it. It is a circular problem.</p>
+        <p>Low: as you gain new knowledge, you will forget what you had previously learned.</p>
       </td>
     </tr>
     <tr>
