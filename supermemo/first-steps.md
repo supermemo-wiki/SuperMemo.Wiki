@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T16:53:08.685Z
+date: 2020-12-16T16:54:20.062Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -30,8 +30,8 @@ This wiki focuses on SuperMemo desktop, and the techniques of learning in genera
 
 SuperMemo for desktop is the swiss army knife of learning: it offers a besotting array of tools that help both casual and expert students to optimize their learning to the fullest.
 
-- [📥 SuperMemo 18 (download) *Download the software and start your free trial.*](https://super-memory.com/english/down.htm)
-- [🔑 SuperMemo 18 (purchase) *Remove the trial expiration with a lifetime license.*](https://super-memo.com/supermemo18.html)
+- [📥 &nbsp; SuperMemo 18 (download) *Download the software and start your free trial.*](https://super-memory.com/english/down.htm)
+- [🔑 &nbsp; SuperMemo 18 (purchase) *Remove the trial expiration with a lifetime license.*](https://super-memo.com/supermemo18.html)
 {.links-list}
 
 > If you have not received your key within a few days, send a request on [SuperMemopedia](http://supermemopedia.com/wiki/Main_Page) (recommended) or by [email](mailto:help2020@supermemo.org). Feel free to request assistance on our [Discord server](https://discord.gg/vUQhqCT) as well.
@@ -41,15 +41,15 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 
 **SuperMemo 15** is completely free to use. However, the latest version (SM 18) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
 
-- [📥 SuperMemo 15 (download) *Download the software and use it for free.*](http://supermemopedia.com/wiki/SuperMemo_15_Freeware)
+- [📥 &nbsp; SuperMemo 15 (download) *Download the software and use it for free.*](http://supermemopedia.com/wiki/SuperMemo_15_Freeware)
 {.links-list}
 
 ## SuperMemo Web
 
 **SuperMemo Web** is a web platform for learning, with a focus on language learning. It uses the latest SM-18 algorithm and offers language courses with a Freemium model.
 
-- [SuperMemo.com (courses) *Browse all available courses*](https://www.supermemo.com/en/catalog/Languages?language=en&monolingual=true&author=supermemo&widget=true)
-- [SuperMemo.com (register) *Create an account and start learning for free.*](https://www.supermemo.com/en/authorization/login?skipLocationChange=true&returnUrl=en%2Fcart%2Fcheckout)
+- [🎓 &nbsp; SuperMemo.com (courses) *Browse all available courses*](https://www.supermemo.com/en/catalog/Languages?language=en&monolingual=true&author=supermemo&widget=true)
+- [:globe_with_meridians: &nbsp; SuperMemo.com (register) *Create an account and start learning for free.*](https://www.supermemo.com/en/authorization/login?skipLocationChange=true&returnUrl=en%2Fcart%2Fcheckout)
 {.links-list}
 
 ## Comparison Matrix
