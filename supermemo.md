@@ -2,9 +2,9 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-16T08:45:15.906Z
+date: 2020-12-16T16:15:30.939Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
 ---
 
@@ -17,6 +17,9 @@ SuperMemo is built on two novel learning techniques named [Spaced Repetition](/l
 While the success of SuperMemo is often attributed to its cutting-edge  algorithms and techniques, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the central importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
 
 ## Why can SuperMemo change your life?
+
+- [Humans of SuperMemo *Personal stories from users of SuperMemo.*](/supermemo/humans-of-supermemo)
+{.links-list}
 
 Here are a few reasons why SuperMemo might **improve your life**:
 
