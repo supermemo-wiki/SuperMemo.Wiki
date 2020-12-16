@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T10:27:52.333Z
+date: 2020-12-16T10:29:49.088Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -53,13 +53,12 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 | **Incremental Reading** | Yes          | Yes        | No         | Partial[^3]
 | **Complexity**          | Complex      | Complex    | Simple     | Medium
 | **Mobile support**      | No           | No         | Yes        | Yes
+| **Plugins**             | Yes[^5]      | No         | No         | Yes[^5]
 | **Web import**          | Yes          | Yes        | No         | No
 | **PDF import**          | Yes[^4]      | No         | No         | No
-| **Plugins**             | Yes[^5]      | No         | No         | Yes[^5]
 | **Neural reviews**      | Yes          | No         | No         | No
-| **Concepts**            | Yes          | No         | No         | No
-| **Themes**              | Yes          | No         | -          | Yes
 | **Premade courses**     | Yes[^6]      | No         | Yes        | Yes
+| **Themes**              | Yes          | No         | -          | Yes
 | **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
 | **Price**               | $66          | Free       | Freemium   | Free
 
