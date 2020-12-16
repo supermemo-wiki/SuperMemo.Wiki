@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T10:05:41.415Z
+date: 2020-12-16T10:24:44.336Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -12,19 +12,38 @@ dateCreated: 2020-12-05T18:34:56.312Z
 
 ## Choosing a SuperMemo edition
 
+There are two main editions to SuperMemo:
+- :computer: Desktop edition, under the moniker **SuperMemo 1** through **SuperMemo 18**,
+- :globe_with_meridians: Web edition, under the moniker SuperMemo.com.
+
+
 ### SuperMemo 18
 
-**SuperMemo 18** is the latest and most advanced version of the desktop edition. SM 18 is the swiss army knife of learning: it contains a besotting array of tools that help casual and expert students to optimize their learning to the fullest.
+**SuperMemo 18** is the latest and most advanced version of the desktop edition.
 
-You can [📥 download](https://super-memory.com/english/down.htm) and use SuperMemo 18 (latest version) at no cost for the duration of the trial.
+SuperMemo for desktop is the swiss army knife of learning: it offers a besotting array of tools that help both casual and expert students to optimize their learning to the fullest.
 
-You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to remove the trial expiration at any time. In the case that you do not get your key within a few days, it is a good idea to either post on [supermemopedia](http://supermemopedia.com/wiki/Main_Page) or to email [help2020@supermemo.org](mailto:help2020@supermemo.org). 
+- [📥 SuperMemo 18 (download) *Download the software and start your free trial.*](https://super-memory.com/english/down.htm)
+- [🔑 SuperMemo 18 (purchase) *Remove the trial expiration with a lifetime license.*](https://super-memo.com/supermemo18.html)
+{.links-list}
+
+> If you have not received your key within a few days, send a request on [SuperMemopedia](http://supermemopedia.com/wiki/Main_Page) (recommended) or by [email](mailto:help2020@supermemo.org).
+{.is-warning}
 
 ### SuperMemo 15
 
-[SuperMemo 15](http://supermemopedia.com/wiki/SuperMemo_15_Freeware) is completely free to use. However, the latest version (18) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
+**SuperMemo 15** is completely free to use. However, the latest version (SM 18) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
+
+- [📥 SuperMemo 15 (download) *Download the software and use it for free.*](http://supermemopedia.com/wiki/SuperMemo_15_Freeware)
+{.links-list}
 
 ### SuperMemo Web
+
+**SuperMemo Web** is a web platform for learning, with a focus on language learning. It uses the latest SM-18 algorithm and offers language courses with a Freemium model.
+
+- [SuperMemo.com (courses) *Browse all available courses*](https://www.supermemo.com/en/catalog/Languages?language=en&monolingual=true&author=supermemo&widget=true)
+- [SuperMemo.com (register) *Create an account and start learning for free.*](https://www.supermemo.com/en/authorization/login?skipLocationChange=true&returnUrl=en%2Fcart%2Fcheckout)
+{.links-list}
 
 ### Comparison Matrix
 
