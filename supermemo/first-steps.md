@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T09:53:27.277Z
+date: 2020-12-16T10:05:41.415Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -12,9 +12,9 @@ dateCreated: 2020-12-05T18:34:56.312Z
 
 ## Choosing a SuperMemo edition
 
-### Supermemo 18
+### SuperMemo 18
 
-
+**SuperMemo 18** is the latest and most advanced version of the desktop edition. SM 18 is the swiss army knife of learning: it contains a besotting array of tools that help casual and expert students to optimize their learning to the fullest.
 
 You can [📥 download](https://super-memory.com/english/down.htm) and use SuperMemo 18 (latest version) at no cost for the duration of the trial.
 
@@ -33,14 +33,16 @@ You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to re
 | **Algorithm**           | SM-18[^1]    | SM-15      | SM-18      | SM-2[^2]
 | **Incremental Reading** | Yes          | Yes        | No         | Partial[^3]
 | **Complexity**          | Complex      | Complex    | Simple     | Medium
-| **Web import** | Yes          | Yes        | No         | No
-| **PDF import** | Yes[^4]          | No         | No         | No
-| **Plugins** | Yes[^5]     | No         | No         | Yes[^5]
+| **Mobile app**          | No           | No         | Yes        | Yes
+| **Web import**          | Yes          | Yes        | No         | No
+| **PDF import**          | Yes[^4]      | No         | No         | No
+| **Plugins**             | Yes[^5]      | No         | No         | Yes[^5]
 | **Neural reviews**      | Yes          | No         | No         | No
 | **Concepts**            | Yes          | No         | No         | No
 | **Themes**              | Yes          | No         | -          | Yes
-| **Premade courses**     | By proxy[^6] | No         | Yes        | Yes
+| **Premade courses**     | Yes[^6]      | No         | Yes        | Yes
 | **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
+| **Price**               | $66          | Free       | Freemium   | Free
 
 
 ## Video guide (SM 18)
