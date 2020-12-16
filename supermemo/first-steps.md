@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T16:03:07.520Z
+date: 2020-12-16T16:19:08.116Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -79,6 +79,22 @@ This video will guide you through the process of **installing SuperMemo 18**. Th
 
 <iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/yU4_pQdF4yc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Mac and Linux
+
+**SuperMemo** is a windows application, but these are some options that let you run it on other Operating systems:
+
+### Mac
+
+- [Parallels](https://www.parallels.com/) (Mac): 40$/year with [student discount](https://www.parallels.com/landingpage/pd/education/) but has best user experience (has 14 day free trial) 
+- [VMWare Fusion](https://www.vmware.com/in/products/fusion.html): around 100$ for an[ academic license](https://store-us.vmware.com/vmware-in-education) but worse performance than parallels (has 30 day free trial) 
+- [VirtualBox](https://www.virtualbox.org/): free and open source but worst performing option of the three
+
+### Linux
+
+- [VMware Workstation Player](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html): commercial with a free tier for Linux 
+- [VirtualBox](https://www.virtualbox.org/): free and open source, but poorer performance 
+- [Wine](https://github.com/alessivs/supermemo-wine): a user got SuperMemo mostly working on wine but there are various caveats and you will not be able to use[ SuperMemo Assistant](https://supermemo.wiki/sma/)
+
 # How to use SuperMemo?
 
 🚧 Work in progress.
@@ -97,15 +113,9 @@ This series of video will take you from beginner to advanced expertize level.
 
 ## Other online guides
 
-[Step by Step to SuperMemo Mastery](https://help.supermemo.org/wiki/Step-by-step_to_SuperMemo_mastery): if followed over days, weeks, and months, can take you to confirmed proficiency, provided you start slow and ramp up over time without biting off more than you can chew.
+- [Step by Step to SuperMemo Mastery](https://help.supermemo.org/wiki/Step-by-step_to_SuperMemo_mastery): if followed over days, weeks, and months, can take you to confirmed proficiency, provided you start slow and ramp up over time without biting off more than you can chew.
 
-[Incremental reading manual](https://help.supermemo.org/index.php?title=Incremental_learning): using incremental reading to go through the incremental reading manual is one of the best ways to attain deep proficiency in SuperMemo. You can follow the instructions [here](https://supermemo.guru/wiki/Incremental_reading_step_by_step#Big_test) under "big test" for how to do so. Note, there have been recent issues with references when importing. We plan to provide soon a pre-edited version.
-
-# Frequently Asked Questions
-
-## Why use SuperMemo?
-
-Check out these resources to understand **how these features work** together and make SuperMemo such a powerful learning tool:
+- [Incremental reading manual](https://help.supermemo.org/index.php?title=Incremental_learning): using incremental reading to go through the incremental reading manual is one of the best ways to attain deep proficiency in SuperMemo. You can follow the instructions [here](https://supermemo.guru/wiki/Incremental_reading_step_by_step#Big_test) under "big test" for how to do so. Note, there have been recent issues with references when importing. We plan to provide soon a pre-edited version.
 
 - [SuperMemo for Wizards](https://www.youtube.com/watch?v=NURjZuHvDaU): a video both on why memorization is valuable and how SuperMemo actually works 
 
@@ -114,38 +124,7 @@ Check out these resources to understand **how these features work** together and
 - [SuperMemo is Useless!](https://www.supermemo.com/en/archives1990-2015/articles/useless): Detailed explanations of why memorization is valuable and refutations of common arguments against SuperMemo 
 
 - [If SuperMemo/Anki Really is THE BEST Learning Tool, Why Isn't Every Student Using It?](https://www.masterhowtolearn.com/2020-03-15-If-supermemo-anki-really-is-the-best-learning-tool-why-isnt-every-student-using-it/)
-
-
-## How can I run Supermemo on Mac or Linux? 
-
-**SuperMemo** is a windows application, but these are some options that let you run it on other Operating systems:
-
-### Mac
-
-- [Parallels](https://www.parallels.com/) (Mac): 40$/year with [student discount](https://www.parallels.com/landingpage/pd/education/) but has best user experience (has 14 day free trial) 
-- [VMWare Fusion](https://www.vmware.com/in/products/fusion.html): around 100$ for an[ academic license](https://store-us.vmware.com/vmware-in-education) but worse performance than parallels (has 30 day free trial) 
-- [VirtualBox](https://www.virtualbox.org/): free and open source but worst performing option of the three
-
-### Linux
-
-- [VMware Workstation Player](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html): commercial with a free tier for Linux 
-- [VirtualBox](https://www.virtualbox.org/): free and open source, but poorer performance 
-- [Wine](https://github.com/alessivs/supermemo-wine): a user got SuperMemo mostly working on wine but there are various caveats and you will not be able to use[ SuperMemo Assistant](https://supermemo.wiki/sma/)
-
-## How can I navigate the various SuperMemo sites for documentation and resources?
-
-For a more thorough list, check [here](http://supermemopedia.com/wiki/SuperMemo_Websites).
-
-[supermemo.guru](http://supermemo.guru/): writings from the[ creator of SuperMemo](https://supermemo.guru/wiki/Piotr_Wozniak) on learning, education, sleep and a plethora of other subjects 
-
-[supermemopedia.com](http://supermemopedia.com/wiki/Main_Page): site for user questions 
-
-[help.supermemo.org](https://help.supermemo.org/wiki/SuperMemo_18_Help): site with detailed, up-to-date documentation on SuperMemo 
-
-[super-memo.com](https://super-memo.com/): site for purchasing SuperMemo 
-
-[super-memory.com](https://super-memory.com/): site hosting some of[ creator of SuperMemo's](https://supermemo.guru/wiki/Piotr_Wozniak) older writings
-
+{.links-list}
 
 
 [^4]: SM-17 was a [significant leap](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) in the algorithm predictive efficiency. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
