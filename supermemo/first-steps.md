@@ -2,21 +2,21 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T11:13:57.849Z
+date: 2020-12-16T12:45:01.522Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
 ---
 
-# Installing SuperMemo
-
-## Choosing a SuperMemo edition
+# Choosing a SuperMemo edition
 
 There are two main editions of SuperMemo:
 1. :computer: **Desktop** edition, under the moniker *SuperMemo 1* through *SuperMemo 18*,
 2. :globe_with_meridians: **Web** edition, under the moniker *<span>SuperMemo</span>.com*.
 
-### SuperMemo 18
+This wiki focuses on SuperMemo desktop, and the techniques of learning in general.
+
+## SuperMemo 18
 
 **SuperMemo 18** is the latest and most advanced version of the desktop edition.
 
@@ -29,14 +29,14 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 > If you have not received your key within a few days, send a request on [SuperMemopedia](http://supermemopedia.com/wiki/Main_Page) (recommended) or by [email](mailto:help2020@supermemo.org).
 {.is-warning}
 
-### SuperMemo 15
+## SuperMemo 15
 
 **SuperMemo 15** is completely free to use. However, the latest version (SM 18) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
 
 - [📥 SuperMemo 15 (download) *Download the software and use it for free.*](http://supermemopedia.com/wiki/SuperMemo_15_Freeware)
 {.links-list}
 
-### SuperMemo Web
+## SuperMemo Web
 
 **SuperMemo Web** is a web platform for learning, with a focus on language learning. It uses the latest SM-18 algorithm and offers language courses with a Freemium model.
 
@@ -44,7 +44,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 - [SuperMemo.com (register) *Create an account and start learning for free.*](https://www.supermemo.com/en/authorization/login?skipLocationChange=true&returnUrl=en%2Fcart%2Fcheckout)
 {.links-list}
 
-### Comparison Matrix
+## Comparison Matrix
 
 |                          | SM 18        | SM 15      | SM Web     | Anki
 |-------------------------:|:============:|:==========:|:==========:|:==========:|
@@ -61,9 +61,11 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 | **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
 | **Price**               | $66          | Free       | Freemium   | Free (iOS $24.99)
 
-## Video guide (SM 18)
+## Installation video guide
 
-<iframe src="https://drive.google.com/file/d/1voa9P-ITGiqAQZkfNHUWNEiSdFqr0J5l/preview" width="640" height="480"></iframe>
+This video will guide you through the process of **installing SuperMemo 18**. The process should be similar for SuperMemo 15.
+
+<iframe src="https://drive.google.com/file/d/1voa9P-ITGiqAQZkfNHUWNEiSdFqr0J5l/preview" width="640" height="480" class="mt-4"></iframe>
 
 [^4]: SM-17 was a [significant leap](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) in the algorithm predictive efficiency. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
 [^5]: Based on SM-2, see [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html). For a comparison with SM-18 see [Universal metric](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms#Algorithmic_contest:_SuperMemo_2_vs._SuperMemo_17).
