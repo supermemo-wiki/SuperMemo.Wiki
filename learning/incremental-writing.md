@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-15T13:55:54.036Z
+date: 2020-12-16T08:31:24.661Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -12,9 +12,11 @@ dateCreated: 2020-12-06T12:18:40.220Z
 
 **Incremental Writing (IW)** is a method for boosting creativity, quality and pleasure of writing. It synergizes with the natural ability of your brain to update knowledge and organize it into concept networks.
 
+Incremental writing is an extension of [incremental reading](/learning/incremental-reading). You should be familiar with it before considering incremental writing.
+
 ## How does it work ?
 
-IW is typically assisted by software to maximize the usage of your time by interspacing:
+Incremental writing is typically assisted by software to maximize the usage of your time by interspacing:
 
 - Reviewing new learning material to develop new insights, 
 - Reviewing previously acquired knowledge to preserve it over time (forever !), 
