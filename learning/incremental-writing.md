@@ -2,9 +2,9 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-16T08:31:24.661Z
+date: 2020-12-16T08:31:27.717Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-06T12:18:40.220Z
 ---
 

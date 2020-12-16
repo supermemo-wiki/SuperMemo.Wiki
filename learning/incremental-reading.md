@@ -2,9 +2,9 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-15T14:47:07.488Z
+date: 2020-12-15T14:47:10.899Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-12T18:05:35.512Z
 ---
 

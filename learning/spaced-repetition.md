@@ -2,9 +2,9 @@
 title: Spaced repetition
 description: 
 published: true
-date: 2020-12-15T21:11:31.397Z
+date: 2020-12-15T21:11:35.950Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-15T21:11:31.397Z
 ---
 

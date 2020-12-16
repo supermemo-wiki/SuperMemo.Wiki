@@ -2,9 +2,9 @@
 title: Going Further With SuperMemo
 description: Advancing from a begginer
 published: true
-date: 2020-12-12T17:28:23.407Z
+date: 2020-12-12T17:28:26.985Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-12T17:28:23.407Z
 ---
 

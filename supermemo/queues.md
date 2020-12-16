@@ -2,9 +2,9 @@
 title: SuperMemo Queues
 description: Queues are ways of ordering material yet to be reviewed.
 published: true
-date: 2020-12-13T09:36:25.410Z
+date: 2020-12-13T09:39:00.454Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-13T08:35:41.420Z
 ---
 

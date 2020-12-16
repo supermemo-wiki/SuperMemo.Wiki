@@ -2,9 +2,9 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-16T08:14:09.336Z
+date: 2020-12-16T08:14:12.432Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-13T10:06:24.428Z
 ---
 

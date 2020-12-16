@@ -2,9 +2,9 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-16T08:45:12.172Z
+date: 2020-12-16T08:45:15.906Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-05T18:34:19.777Z
 ---
 
