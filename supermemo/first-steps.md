@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-16T19:10:58.711Z
+date: 2020-12-16T19:11:21.093Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -140,7 +140,7 @@ This series of video will take you from beginner to advanced expertize level.
 {.links-list}
 
 
-[^4]: SM-17 is significantly [better than SM-15](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) in the algorithm predictive efficiency. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
+[^4]: SM-17 is significantly [better than SM-15](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F). [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
 [^5]: Based on SM-2, see [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html). For a comparison with SM-18 see [Universal metric](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms#Algorithmic_contest:_SuperMemo_2_vs._SuperMemo_17).
 [^6]: Partial implementation with the Incremental Reading [add-on](https://ankiweb.net/shared/info/935264945).
 [^7]: SuperMemo 15 through 18 has partial [support for Linux](http://supermemopedia.com/wiki/SuperMemo_for_Linux). Plugins do not work in Linux.
