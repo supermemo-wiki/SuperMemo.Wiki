@@ -2,7 +2,7 @@
 title: Learn SuperMemo
 description: 
 published: true
-date: 2020-12-16T17:04:24.385Z
+date: 2020-12-17T13:14:12.118Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T21:40:12.974Z
@@ -10,11 +10,14 @@ dateCreated: 2020-12-05T21:40:12.974Z
 
 # Getting Started with SuperMemo
 
-:warning: **This page is outdated. Use the guides below instead.** :warning:
-
-- [📕 &nbsp; Introduction to SuperMemo *Essential concepts to understand SuperMemo.*](https://www.supermemo.wiki/supermemo)
-- [🧠 &nbsp; First steps *Learn how to use the core features of SuperMemo.*](https://www.supermemo.wiki/supermemo/first-steps)
-{.links-list}
+> :warning: **This page is OUTDATED. Use the guides below instead.** :warning:
+> 
+>- [📕 &nbsp; Introduction to SuperMemo *Essential concepts to understand SuperMemo.*](https://www.supermemo.wiki/supermemo)
+> - [🧠 &nbsp; First steps *Learn how to use the core features of SuperMemo.*](https://www.supermemo.wiki/supermemo/first-steps)
+> {.links-list}
+> 
+> :warning: **This page is OUTDATED. Use the guides above instead.** :warning:
+{.is-warning}
 
 ---
 
