@@ -2,7 +2,7 @@
 title: User Blogs
 description: 
 published: true
-date: 2020-12-17T22:32:17.611Z
+date: 2020-12-17T22:32:59.816Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -33,5 +33,6 @@ If you want to have your own subdomain such as https://alexis.supermemo.wiki/, s
 
 # User blogs
 
-- [Naess' Corner *The wacky journey of a well-schooled student.*](/en/blogs/naess)
+- [Naess' Corner *The wacky journey of a well-schooled student.*](/blogs/naess)
+- [Alexis Incogito *Work in progress.*](/blogs/alexis)
 {.links-list}
