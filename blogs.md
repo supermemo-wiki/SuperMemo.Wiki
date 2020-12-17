@@ -2,13 +2,15 @@
 title: User Blogs
 description: 
 published: true
-date: 2020-12-17T22:28:40.321Z
+date: 2020-12-17T22:32:17.611Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
 ---
 
 This is an index of SuperMemo.wiki **user blogs**.
+
+> Content published on user blogs does not reflect the views of SuperMemo.wiki or SuperMemo World.
 
 # Creating a blog
 
@@ -27,4 +29,9 @@ If you want to have your own subdomain such as https://alexis.supermemo.wiki/, s
 3. Include your username, and the link to your wiki page in the request.
 
 - [Request a subdomain *Request by email, please include your wiki username.*](mailto:alexis@supermemo.wiki?subject=[SuperMemo.wiki]%20I%20would%20like%20to%20create%20a%20blog&body=Hello,%0D%0A%0D%0ACould%20you%20please%20create%20a%20subdomain%20for%20my%20blog?%20My%20username%20is%20[username].%20My%20wiki%20page%20is%20[https://www.supermemo.wiki/blogs/[username].%0D%0A%0D%0AThanks!)
+{.links-list}
+
+# User blogs
+
+- [Naess' Corner *The wacky journey of a well-schooled student.*](/en/blogs/naess)
 {.links-list}
