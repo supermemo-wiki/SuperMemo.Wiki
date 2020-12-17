@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-17T22:35:11.424Z
+date: 2020-12-17T22:48:28.769Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -11,10 +11,17 @@ dateCreated: 2020-12-17T22:28:40.321Z
 This is an index of SuperMemo.wiki **user blogs**.
 
 > Content published on user blogs does not reflect the views of SuperMemo.wiki or SuperMemo World.
+{.is-warning}
 
 # Creating a blog
 
-If you are interested in having your personal page on this wiki, you can follow the procedure below:
+If you are interested in having your personal page on this wiki, you can follow the procedure below.
+
+## Content policy
+
+Please exercise judgement when publishing content on your user page. This is a wiki about SuperMemo, learning and personal progress.
+
+Offensive or inappropriate content (e.g. idealogical propaganda) will be removed.
 
 ## Creating pages
 
