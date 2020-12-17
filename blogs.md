@@ -1,8 +1,8 @@
 ---
 title: User Blogs
-description: 
+description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-17T22:33:26.607Z
+date: 2020-12-17T22:35:11.424Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
