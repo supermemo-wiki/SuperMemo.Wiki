@@ -2,9 +2,9 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-16T11:14:05.962Z
+date: 2020-12-17T19:04:27.722Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
 ---
 
@@ -173,6 +173,13 @@ To prevent spam we require **manual verification** for new accounts to receive e
 {.links-list}
 
 *[SuperMemopedia]: Official wiki published by the SuperMemo company
+
+# Sponsors
+
+Thanks to our sponsors for helping us build this website:
+
+- [![matomo-logo.webp](/shared/icons/matomo-logo.webp) *Privacy-focused web analytics platform with 100% data ownership.*](https://matomo.org/)
+{.links-list}
 
 [^1]: https://supermemo.guru/wiki/Spaced_repetition
 [^2]: https://supermemo.guru/wiki/Incremental_reading
