@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-17T22:56:53.107Z
+date: 2020-12-17T22:57:13.129Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -10,7 +10,7 @@ dateCreated: 2020-12-17T22:28:40.321Z
 
 This is an index of SuperMemo.wiki **user blogs**.
 
-> Content published on user blogs does not reflect the views of SuperMemo.wiki or SuperMemo World.
+> Content published in user blogs does not reflect the views of SuperMemo.wiki or SuperMemo World.
 {.is-warning}
 
 # Creating a blog
