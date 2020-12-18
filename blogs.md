@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T15:34:31.359Z
+date: 2020-12-18T17:19:14.395Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -86,9 +86,9 @@ If you want to have your own subdomain such as https://alexis.supermemo.wiki/, s
 
 # User blogs
 
-- [Naess' Corner *The wacky journey of a well-schooled student.*](https://naess.supermemo.wiki/)
-- [Alexis' Man Cave *Work in progress.*](https://alexis.supermemo.wiki/)
-- [Guillem's Corner *Non-descriptive generic text*](https://guillem.supermemo.wiki)
-- [Maths' Corner *Non-descriptive generic text*](https://maths.supermemo.wiki)
-- [Gilgamesh's Corner *Non-descriptive generic text*](https://gilgamesh.supermemo.wiki)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Naess' Corner *The wacky journey of a well-schooled student.*](https://naess.supermemo.wiki/)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Alexis' Man Cave *Work in progress.*](https://alexis.supermemo.wiki/)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Guillem's Corner *Non-descriptive generic text*](https://guillem.supermemo.wiki)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Maths' Corner *Non-descriptive generic text*](https://maths.supermemo.wiki)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Gilgamesh's Corner *Non-descriptive generic text*](https://gilgamesh.supermemo.wiki)
 {.links-list}
