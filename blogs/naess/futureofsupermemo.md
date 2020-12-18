@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T14:20:03.945Z
+date: 2020-12-18T14:20:35.785Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -37,6 +37,6 @@ github for the highlighter: https://github.com/jeromepl/highlighter
 ![web3.png](/web3.png)
 
 ## Benefits
-This script increased value of my collection by HUGE amount. When I am able to read in browser, I can QUICKLY shift away the garbage, navigate like a ninja and extract pieces from here and there, without importing slowing me down. I am more inclined to extract ONLY the golden nuggets because the shifting of garbage is so fast. In contrast, when I used to import every page to SM, I was more inclined to settle with lower value material, just because benefits of finding better alternative did not overcome the costs of importing. This definitely leads to deterioration in value of the collection as we rarely can predict the impact of exploring and finding only the greatest pieces of knowledge.
+This script increased value of my collection by HUGE amount. When I am able to read in browser, I can QUICKLY sift away the garbage, navigate like a ninja and extract pieces from here and there, without importing slowing me down. I am more inclined to extract ONLY the golden nuggets because the sifting through garbage is so fast. In contrast, when I used to import every page to SM, I was more inclined to settle with lower value material, just because benefits of finding better alternative did not overcome the costs of importing. This definitely leads to deterioration in value of the collection as we rarely can predict the impact of exploring and finding only the greatest pieces of knowledge.
 
-> Incremental web browsing takes shifting away the garbage and filling your collection ONLY with the most valuable stuff to the next level!
+> Incremental web browsing takes sifting away the garbage and filling your collection ONLY with the most valuable stuff to the next level!
