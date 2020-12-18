@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T15:04:10.806Z
+date: 2020-12-18T15:04:41.121Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -46,7 +46,8 @@ With alt+x you can extract from browser. The selected text will be marked with t
 
 Shift+alt+X pops up prompt which asks for note and/or priority. Same functionality as explained before, but note will be pasted above the highlighted text and priority will be assigned.
 
-Ctrl+alt+Enter will quickly filter (F6 + Ctrl+A + S to apply all but "spacing filter) the article, when user rather use SM stylesheet determined formatting.
+Ctrl+alt+Enter will quickly filter the article, when user rather use SM stylesheet determined formatting. 
+This sends the following keystrokes: F6 + Ctrl+A + S to apply all but "spacing filter)
 
 # #2 Prioritization framework
 Priorities determined by some framework instead of arbitrary priority ranges. It is easier to prioritize by categories (e.g. applicable / urgent / mildly interesting) than abstract ranges. See: [Youtube: Priority Heuristics in SuperMemo](https://youtu.be/OwV5HPKMrbg) for direction.
