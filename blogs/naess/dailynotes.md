@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T20:06:19.035Z
+date: 2020-12-18T20:08:20.729Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -10,6 +10,8 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 # Child learning to play
 What has been the most dominant change in my way of thinking in the past year, must be how I perceive uncertainty. There is few big ideas which shaped up my thinking for good. 
+
+## Missile metaphor
 
 The first idea which made me even acknowledge the importance of handling uncertainty in our lives is from Piotr Wozniak, which is [Missile metaphor](https://supermemo.guru/wiki/Missile_metaphor). It is about adaptability and goes like this:
 
