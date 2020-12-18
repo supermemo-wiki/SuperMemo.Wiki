@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T19:52:59.696Z
+date: 2020-12-18T19:54:25.993Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -24,7 +24,7 @@ Anyways, the ball about uncertainty started rolling and I became very intrigued 
 Some time passed and I started digging through a concept called "exploration" in my collection, which consists of tons of links and topics I am not familiar with. All of these have 100% priority and I explore the concept from time to time. Anyways, then I came across this very powerful idea...
 
 ## Cynefin Framework
-Cynefin Framework, sometimes called "sense-making device" is a framework used to aid decision-making. It has five domains: obvious, complicated, complex, chaotic, and disorder.
+Cynefin Framework, sometimes called "sense-making device" is a framework used to aid decision-making. It has five domains: obvious, complicated, complex, chaotic, and disorder. It helps managers to identify how they perceive situations and make sense of their own and other people's behaviour.[
 
 ![cynefin_as_of_1st_june_2014.png](/cynefin_as_of_1st_june_2014.png)
 
