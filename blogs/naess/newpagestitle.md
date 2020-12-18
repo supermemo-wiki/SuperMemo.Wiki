@@ -2,13 +2,11 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T14:04:55.707Z
+date: 2020-12-18T14:05:13.567Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
 ---
-
-# Future of SM
 
 In this page I will update features that I think would offer the biggest increase in learning productivity in SM. This list is not fixed and will be updated from time to time.
 
