@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T20:08:20.729Z
+date: 2020-12-18T20:22:50.331Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -42,6 +42,20 @@ There is just something very beautiful about this, after being schooled for so m
 > The path will be created with every step. The truth is out there... somewhere!
 
 Huge implications... I definitely am more comfortable with uncertainty these days and approach it with enthusiasm rather than getting anxious of not knowing what to do next! 
+
+## Civilization metaphor
+The last idea is some synthesis I produced from what I had learn. All this reminded me of a game I used to play called "Civilization". 
+
+![civ6.png](/civ6.png)
+
+In Civilization you start with a dark map. You know nothing about your surroundings. Sounds familiar? It can be generalized to so many domains! In Civilization your goal is to build some huge empire and become all powerful. You do this by initially exploring your surroundings, finding resources, building cities and armies. Any location you haven't explored is dark. This has great implications for life.
+
+Can you see how trying to work with reasoning and your prior knowledge is poor strategy when starting in initially dark place? "Where should I explore, what should I do, **how do I plan this**". These all are poor strategies! You have absolutely no idea of your surroundings, so your best bet is to bravely throw dart somewhere, start exploring and gather intelligence of your surroundings. Lean towards darkness, get feedback and adjust. If you don't find anything in North, go South! 
+
+![civcon.jpg](/civcon.jpg)
+
+With time, the map starts to brighten up. It is so much easier to work when you know your surroundings, tools and resources. One road connects to another, things start to make sense. We wouldn't have this civilization if we didn't bravely work with the uncertain.
+
 
 *18.12.2020*
 # Applicability of knowledge
