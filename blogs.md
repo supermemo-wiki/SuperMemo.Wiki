@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T15:20:52.810Z
+date: 2020-12-18T15:22:50.560Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -34,7 +34,6 @@ blockdiag
 {
   span_width = 128;  // default value is 64
   
-  wiki [label = "Wiki", color = "cyan"];
 	blogs [label = "Blogs", color = "greenyellow"];
   
   b-alexis [label = "Alexis' Man Cave"];
@@ -45,7 +44,6 @@ blockdiag
   b-a-page1[label = "How I Learned To Stop Worrying And Love Learning", width = 200];
   b-a-page2[label = "Theory of the traditional French baguette", width = 200];
   
-  wiki -> blogs [label="/blogs"];
   blogs -> b-alexis [label="/alexis"];
   
   group first_group {
