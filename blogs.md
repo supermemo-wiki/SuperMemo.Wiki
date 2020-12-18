@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T09:28:47.989Z
+date: 2020-12-18T09:31:59.887Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -30,7 +30,7 @@ Offensive or inappropriate content (e.g. idealogical propaganda) will be removed
 
 ## Requesting a subdomain
 
-If you want to have your own subdomain such as https://alexis.supermemo.wiki/, send an email to the following address. You must have:
+If you want to have your own subdomain such as https://alexis.supermemo.wiki/, send an email by clicking on the link below. You must have:
 1. Created an account on this wiki,
 2. Created a page for your blog on this wiki,
 3. Include your username, and the link to your wiki page in the request.
