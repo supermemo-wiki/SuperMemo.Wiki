@@ -2,7 +2,7 @@
 title: SuperMemo Communities
 description: 
 published: true
-date: 2020-12-18T10:03:31.307Z
+date: 2020-12-18T10:30:32.706Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T21:29:22.839Z
@@ -10,7 +10,9 @@ dateCreated: 2020-12-05T21:29:22.839Z
 
 # Western Communities
 
-
+- [<span class="mdi mdi-discord mr-1"></span> SuperMemo.wiki Discord *Home of the community maintaining this website.*](https://discord.gg/vUQhqCT){target="_blank"}
+- [<span style="color: #FF4500;" class="mdi mdi-reddit mr-1"></span> /r/super_memo *Most active reddit community.*](https://github.com/supermemo/awesome-supermemo){target="_blank"}
+{.links-list}
 
 # Chinese Community
 
