@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-18T08:27:47.133Z
+date: 2020-12-18T21:42:08.054Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -235,13 +235,29 @@ From left to right, the first three grades and last two grades respectively repr
 
 The choosen grade will define how long elapses before the next review. In case of failure, the item will be rescheduled in the next few days.
 
+## Knowledge Destructuring
+
+**Knowledge Destructuring (KD)** is the process of dividing complex information into smaller chunks until they become into atomic facts.
+
+In traditional learning, this is usually achieved by highlighting text and writing notes. With computers, this time consuming process can be significantly cut down by selecting, editing and **extracting** text directly.
+
+**Extracts** are chunks of knowledge (e.g. text, video, ...) that were clipped from a larger ensemble. For example, the first paragraph of a wikipedia article is usually dense with information and constitutes a good candidate for extraction.
+
+<!-- Insert diagram with pictures -->
+
+🚧 **Work in progress.**
+
 ## Incremental Reading
 
 *Main article: [Incremental Reading](/learning/incremental-reading)*
 
-**Incremental Reading (IR)** is a technique for organizing learning in a way that encourages *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic for extended periods of time.
+**Incremental Reading (IR)** is a technique for organizing learning in a way that encourages *variety of studying material* and *iterative problem solving*. By contrast, traditional reading involves a linear process of reading a single topic for extended periods of time.
 
 In the context of this wiki, **material** designates any sort of media through which learning can be achieved. Some example of material include: books, web articles, videos, podcasts, etc.
+
+### Incrementalism
+
+🚧 **Work in progress.**
 
 ### Comparison Matrix
 
@@ -316,6 +332,19 @@ This table **compares the principles** of incremental reading (parallel) and tra
       </td>
       <td>
         <p>Minutes to hours for each material.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Thinking process</strong>
+        </p>
+      </td>
+      <td>
+        <p>Incremental: knowledge is gradually revisited multiple times.</p>
+      </td>
+      <td>
+        <p>Linear: knowledge is processed only once or twice.</p>
       </td>
     </tr>
   </tbody>
