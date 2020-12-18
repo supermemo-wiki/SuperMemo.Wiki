@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T19:59:57.277Z
+date: 2020-12-18T20:06:19.035Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -34,10 +34,12 @@ Now the framework itself didn't mean much to me (though it seemed interesting!).
 
 I cropped the image but you can view the original [here](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cynefin_framework_by_Edwin_Stoop.jpg/1920px-Cynefin_framework_by_Edwin_Stoop.jpg).
 
-What was very powerful in this image was "**the art of learning how to play**". This had HUGE implications for me! Child who never kicked a football approaches it, kicks it, gets feedback and adjusts! He observes and adapts and is not afraid of not knowing what will happen! There is just something very beautiful about this, after being schooled for so many years and everything I knew revolved around direct instructions from teachers and parents. This is so impactful because it fighted (and won) my past life strategy how I should plan everything and I should always have step-by-step guidelines on things an so forth...
-**"The path will be created with every step"** (rather than following some predetermined steps). BEAUTIFUL!
+What was very powerful in this image was "**the art of learning how to play**". This had HUGE implications for me! Child who never kicked a football approaches it, kicks it, gets feedback and adjusts! He has no idea what to do and no idea what will happen when he does something! Yet he bravely approaches *the unknown*, sees what happens, gets feedback and goes from there. No step-by-step instructions, no manuals, no teachers, just uncertainty and a kid! 
 
+There is just something very beautiful about this, after being schooled for so many years and everything I knew revolved around direct instructions from teachers and parents. This is so impactful because it fighted (and won) my past life strategy how I should plan everything and how I should always have step-by-step guidelines and profound reasoning why I should do something and how I should go about doing it, when in reality in some domains there is so much uncertainty, it is very poor strategy to work with your prior knowledge. Way better approach is to *lean towards darkness*, see what it is like there and slowly start revealing your surroundings and adapt to it.
+> The path will be created with every step. The truth is out there... somewhere!
 
+Huge implications... I definitely am more comfortable with uncertainty these days and approach it with enthusiasm rather than getting anxious of not knowing what to do next! 
 
 *18.12.2020*
 # Applicability of knowledge
