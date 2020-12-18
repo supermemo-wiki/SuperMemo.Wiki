@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T14:16:03.103Z
+date: 2020-12-18T14:17:33.645Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -26,7 +26,7 @@ While it can be argued that the cost of importing is neglible as compared to the
 
 I made a simple AHK script which allows me to extract things from any website and leaving a highlight on the site, which will remain there even if you shut down your computer (the highlights are saved locally). 
 
-This is done with simple copy paste function and chrome extension called highlighter https://chrome.google.com/webstore/detail/highlighter/fdfcjfoifbjplmificlkdfneafllkgmn
+This is done with simple copy paste function (you can ask me for the script in discord, it's too dirty currently to be released) and chrome extension called highlighter https://chrome.google.com/webstore/detail/highlighter/fdfcjfoifbjplmificlkdfneafllkgmn
 
 github for the highlighter: https://github.com/jeromepl/highlighter
 
