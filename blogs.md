@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T17:19:14.395Z
+date: 2020-12-18T19:40:54.469Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -90,5 +90,5 @@ If you want to have your own subdomain such as https://alexis.supermemo.wiki/, s
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Alexis' Man Cave *Work in progress.*](https://alexis.supermemo.wiki/)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Guillem's Corner *Non-descriptive generic text*](https://guillem.supermemo.wiki)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Maths' Corner *Non-descriptive generic text*](https://maths.supermemo.wiki)
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Gilgamesh's Corner *Non-descriptive generic text*](https://gilgamesh.supermemo.wiki)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Gilgamesh's Corner *Learning, Improving, Creating...*](https://gilgamesh.supermemo.wiki)
 {.links-list}
