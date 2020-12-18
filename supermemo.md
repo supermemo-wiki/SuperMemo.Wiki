@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-16T19:24:53.172Z
+date: 2020-12-18T08:27:47.133Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -76,8 +76,8 @@ Learn from the stories of SuperMemo users:
 *Main article: [Spaced Repetition](/learning/spaced-repetition)*
 
 **Spaced repetition (SR)** is a method for organizing your learning calendar in the most optimized way possible. It has two functions:
-1. Knowledge learned this way should be remembered forever,
-2. Remembering forever should use up the minimum amount of time possible.
+1. Remember what you learn forever,
+2. In the minimum amount of time possible.
 
 ### How does it work?
 
