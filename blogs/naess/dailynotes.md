@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T19:35:57.564Z
+date: 2020-12-18T19:52:59.696Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -29,6 +29,12 @@ Cynefin Framework, sometimes called "sense-making device" is a framework used to
 ![cynefin_as_of_1st_june_2014.png](/cynefin_as_of_1st_june_2014.png)
 
 Now the framework itself didn't mean much to me (though it seemed interesting!). What had very powerful impact on me was this neat illustration by Edwin Stoop:
+
+![sainfin.jpg](/sainfin.jpg)
+
+I cropped the image but you can view the original [here](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cynefin_framework_by_Edwin_Stoop.jpg/1920px-Cynefin_framework_by_Edwin_Stoop.jpg).
+
+What was very powerful in this image was "**the art of learning how to play**". This had HUGE implications for me! Child who never kicked a football approaches it, kicks it, gets feedback and adjusts! He observes and adapts! For some reason this idea was very impactful to me, it just aligned so well with everything I knew. Also "The path will be created with every step" is so good.
 
 
 
