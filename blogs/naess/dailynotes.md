@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T20:33:20.303Z
+date: 2020-12-18T20:34:48.473Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -58,7 +58,9 @@ With time, the map starts to brighten up. It is so much easier to work when you 
 
 > Knowing that "this thing exists" is the starting point of changing your life for the better. Same quality thought is being aware of what you "can do". Awareness is the key to everything.
 
-Imagine it, if I didn't know that "SuperMemo exists", I wouldn't love learning today. If I didn't know that "I can get into university", I wouldn't be in university today. This sounds silly, but I actually wasn't aware that I could apply to university with papers from vocational school I went to. I thought you could do that only with papers from high school. The day I found out I actually have the chance to apply, the seed was planted and the path was adjusted towards great learning.
+Imagine it, if I didn't know that "SuperMemo exists", I wouldn't love learning today. If I didn't know that "I can get into university", I wouldn't be in university today. This sounds silly, but I actually wasn't aware that I could apply to university with papers from vocational school I went to. I thought you could do that only with papers from high school. The day I found out I actually have the chance to apply, the seed was planted and the path was adjusted towards great learning. 
+
+This all goes align with navigating uncertainty, going towards darkness, finding what is out there, revealing the unknown, gathering the tools and knowledge and discovering your capabilities. This is the essence of life and it is such a beautiful idea!
 
 
 *18.12.2020*
