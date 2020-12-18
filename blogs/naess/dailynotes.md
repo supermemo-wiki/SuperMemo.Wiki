@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T19:55:16.587Z
+date: 2020-12-18T19:59:23.406Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -34,7 +34,8 @@ Now the framework itself didn't mean much to me (though it seemed interesting!).
 
 I cropped the image but you can view the original [here](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cynefin_framework_by_Edwin_Stoop.jpg/1920px-Cynefin_framework_by_Edwin_Stoop.jpg).
 
-What was very powerful in this image was "**the art of learning how to play**". This had HUGE implications for me! Child who never kicked a football approaches it, kicks it, gets feedback and adjusts! He observes and adapts! For some reason this idea was very impactful to me, it just aligned so well with everything I knew. Also "The path will be created with every step" is so good.
+What was very powerful in this image was "**the art of learning how to play**". This had HUGE implications for me! Child who never kicked a football approaches it, kicks it, gets feedback and adjusts! He observes and adapts and is not afraid of not knowing what will happen! There is just something very beautiful about this, after being schooled for so many years and everything I knew revolved around direct instructions from teachers and parents. This is so impactful because it fighted (and won) my past life strategy how I should plan everything and I should always have step-by-step guidelines on things an so forth...
+**"The path will be created with every step"** (rather than following some predetermined steps). BEAUTIFUL!
 
 
 
