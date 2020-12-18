@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T20:22:50.331Z
+date: 2020-12-18T20:25:59.773Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -50,7 +50,7 @@ The last idea is some synthesis I produced from what I had learn. All this remin
 
 In Civilization you start with a dark map. You know nothing about your surroundings. Sounds familiar? It can be generalized to so many domains! In Civilization your goal is to build some huge empire and become all powerful. You do this by initially exploring your surroundings, finding resources, building cities and armies. Any location you haven't explored is dark. This has great implications for life.
 
-Can you see how trying to work with reasoning and your prior knowledge is poor strategy when starting in initially dark place? "Where should I explore, what should I do, **how do I plan this**". These all are poor strategies! You have absolutely no idea of your surroundings, so your best bet is to bravely throw dart somewhere, start exploring and gather intelligence of your surroundings. Lean towards darkness, get feedback and adjust. If you don't find anything in North, go South! 
+Can you see how trying to work with reasoning and your prior knowledge is poor strategy when starting in initially dark place? "Where should I explore, what should I do, **how do I plan this**". These all are poor strategies! **There is no good strategy**. You have absolutely no idea of your surroundings, so your best bet is to bravely throw dart somewhere, start exploring and gather intelligence of your surroundings. Lean towards darkness, get feedback and adjust. If you don't find anything in North, go South! 
 
 ![civcon.jpg](/civcon.jpg)
 
