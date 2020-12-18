@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T15:18:30.992Z
+date: 2020-12-18T15:20:13.586Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -34,6 +34,7 @@ blockdiag
 {
   span_width = 128;  // default value is 64
   
+  wiki [label = "Wiki", color = "cyan"];
 	blogs [label = "Blogs", color = "greenyellow"];
   
   b-alexis [label = "Alexis' Man Cave"];
@@ -44,7 +45,8 @@ blockdiag
   b-a-page1[label = "How I Learned To Stop Worrying And Love Learning", width = 192];
   b-a-page2[label = "Theory of the traditional French baguette", width = 192];
   
-  blogs -> b-alexis [label="/alexis"]
+  wiki -> blogs [label="/blogs"];
+  blogs -> b-alexis [label="/alexis"];
   
   group first_group {
     // Set group-label
@@ -53,13 +55,13 @@ blockdiag
     // Set background-color to this group.
     color = "#77FF77";
     
-           b-alexis -> b-a-page1 [label="/why-I-love-learning"]
-           b-alexis -> b-a-page2 [label="/theory-of-the-French-baguette"]
+           b-alexis -> b-a-page1 [label="/why-I-love-learning"];
+           b-alexis -> b-a-page2 [label="/theory-of-the-French-baguette"];
   }
   
-  blogs -> b-naess [label="/naess"]
+  blogs -> b-naess [label="/naess"];
   blogs -> b-dots [style = "none"];
-  blogs -> b-users
+  blogs -> b-users;
 }
 ```
 
