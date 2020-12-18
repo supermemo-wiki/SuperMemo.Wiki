@@ -1,8 +1,8 @@
 ---
-title: testing
+title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T14:02:01.273Z
+date: 2020-12-18T14:04:55.707Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
