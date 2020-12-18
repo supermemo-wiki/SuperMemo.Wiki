@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T15:04:41.121Z
+date: 2020-12-18T15:06:31.952Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -50,4 +50,7 @@ Ctrl+alt+Enter will quickly filter the article, when user rather use SM styleshe
 This sends the following keystrokes: F6 + Ctrl+A + S to apply all but "spacing filter)
 
 # #2 Prioritization framework
+> This feature is implemented in AHK but is desirable to be integrated in native SM or SMA. Also in the pre-existing framework (see the youtube video), there is room for improvement.
+{.is-warning}
+
 Priorities determined by some framework instead of arbitrary priority ranges. It is easier to prioritize by categories (e.g. applicable / urgent / mildly interesting) than abstract ranges. See: [Youtube: Priority Heuristics in SuperMemo](https://youtu.be/OwV5HPKMrbg) for direction.
