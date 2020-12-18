@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T14:32:02.761Z
+date: 2020-12-18T15:02:30.418Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -10,7 +10,7 @@ dateCreated: 2020-12-17T22:53:23.617Z
 
 In this page I will update features that I think would offer the biggest increase in learning productivity in SM. This list is not fixed and will be updated from time to time.
 
-# Incremental Web Browsing
+# #1 Incremental Web Browsing
 
 > This feature is currently implemented with very simple AHK script (and chrome extension) and I hope to see more robust version implemented in SMA or SM in the future.
 {.is-warning}
@@ -45,3 +45,6 @@ This script increased value of my collection by HUGE amount. When I am able to r
 With alt+x you can extract from browser. The selected text will be marked with the highlighter extension. Script will activate SM window and paste the text selected and also link for the website. After that, script will activate browser again
 
 Shift+alt+X pops up prompt which asks for note and/or priority. Same functionality as explained before, but note will be pasted above the highlighted text and priority will be assigned.
+
+# #2 Prioritization framework
+Priorities determined by some framework instead of arbitrary priority ranges. It is easier to prioritize by categories (e.g. applicable / urgent / mildly interesting) than abstract ranges. See: [Youtube: Priority Heuristics in SuperMemo](https://youtu.be/OwV5HPKMrbg) for direction.
