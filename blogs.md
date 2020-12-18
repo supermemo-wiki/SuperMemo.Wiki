@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T15:10:34.011Z
+date: 2020-12-18T15:12:39.259Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -33,13 +33,20 @@ blockdiag
 
 {
 	blogs [label = "Blogs", color = "greenyellow"];
+  
   b-alexis [label = "Alexis' Man Cave"];
   b-naess [label = "Naess' Corner"];
+  b-dots [shape = "dots"];
+  b-users [label ="Other users"]
+  
   b-a-page1[label = "How I Learned To Stop Worrying And Love Learning"];
   b-a-page2[label = "Theory of the traditional French baguette"];
   
   blogs -> b-naess [label="/naess"]
   blogs -> b-alexis [label="/alexis"]
+  blogs -> b-dots
+  blogs -> b-users
+  
            b-alexis -> b-a-page1 [label="/why-I-love-learning"]
            b-alexis -> b-a-page2 [label="/theory-of-the-French-baguette"]
 }
