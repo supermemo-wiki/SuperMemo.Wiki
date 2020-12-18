@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T14:07:23.685Z
+date: 2020-12-18T14:08:30.488Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -12,7 +12,9 @@ In this page I will update features that I think would offer the biggest increas
 
 # Incremental Web Browsing
 
-This feature is currently implemented with very simple AHK script (and chrome extension) and I hope to see more robust version of this in the future.
+> This feature is currently implemented with very simple AHK script (and chrome extension) and I hope to see more robust version implemented in SMA or SM in the future.
+{.is-warning}
+
 
 Import function in SM is old news and adds only extra friction for curious mind. The SM importing can be sped up with external tools. However, even with scripts to speed up importing, there is still a problem of not being able to jump around hyperlinks quickly, lack of formatting in some cases and not being able to utilize the increasing amount of interactive tools in websites. SM can not handle this, it is always more flexible to read in browser. The navigation and jumping around in browser is always superior and the benefits of this is not to be overlooked. When I find a goldmine, I do not want to stop to import the whole page! I might want only two sentences from different locations in the page. I want to read and extract only the greatest golden nuggets to SM! I.e. it will always be more flexible to read in browser than in SM.
 
