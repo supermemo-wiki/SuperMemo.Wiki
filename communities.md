@@ -1,8 +1,8 @@
 ---
 title: SuperMemo Communities
-description: 
+description: Exhaustive list of SuperMemo communities.
 published: true
-date: 2020-12-18T10:30:32.706Z
+date: 2020-12-18T10:31:06.962Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T21:29:22.839Z
