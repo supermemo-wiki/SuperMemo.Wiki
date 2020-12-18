@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T15:12:39.259Z
+date: 2020-12-18T15:12:55.063Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -44,7 +44,7 @@ blockdiag
   
   blogs -> b-naess [label="/naess"]
   blogs -> b-alexis [label="/alexis"]
-  blogs -> b-dots
+  blogs -> b-dots [style = "none"];
   blogs -> b-users
   
            b-alexis -> b-a-page1 [label="/why-I-love-learning"]
