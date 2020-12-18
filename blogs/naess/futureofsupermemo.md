@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T15:15:14.689Z
+date: 2020-12-18T15:18:42.192Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -61,3 +61,6 @@ I can't believe this is not natively supported! Alt+shift+Z on highlighted text 
 Result: exemplary cloze with `[...](hint)`
 
 Tons of alt+lefting and navigating saved! Luckily JamesB has created SMA plugin for this, however the prompt is to be improved.
+
+# #4 PDF Notes
+Alexis' PDF plugin is revolutionary! However as PDFs (textbooks) are usually full of verbiage, a lot of the time it's better to summarize what you are reading and then IR your summaries. Margin for notes would be super helpful here -> Write notes as you read (in margin of the PDF viewer), extract these notes and process them in SM.
