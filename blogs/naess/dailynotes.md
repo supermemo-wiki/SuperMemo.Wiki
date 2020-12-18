@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T19:59:23.406Z
+date: 2020-12-18T19:59:57.277Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -11,7 +11,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 # Child learning to play
 What has been the most dominant change in my way of thinking in the past year, must be how I perceive uncertainty. There is few big ideas which shaped up my thinking for good. 
 
-The first idea that made me even acknowledge the importance of handling uncertainty in our lives is from Piotr Wozniak, which is [Missile metaphor](https://supermemo.guru/wiki/Missile_metaphor). It is about adaptability and goes like this:
+The first idea which made me even acknowledge the importance of handling uncertainty in our lives is from Piotr Wozniak, which is [Missile metaphor](https://supermemo.guru/wiki/Missile_metaphor). It is about adaptability and goes like this:
 
 > Imagine a perfectly adaptable low flying missile that can learn to navigate terrain obstacles in search of a target. Like the human brain adapts to the environment, the missile adapts to the navigation in a difficult terrain. With each hour of flight, the missile will become more and more efficient in tackling unpredictable situations. However, if we try to control the missile manually, as it happens to brains at school, the adaptation may lead to poor control. Let's imagine the missile flying into a long dark tunnel. Very soon, the missile will master the art of staying on course. In the tunnel, there is no complex control, and no advanced navigation necessary. After many years in the tunnel, when we release the missile back to the freedom of complex terrain, it will likely crash for it will have lost its navigation capacity through years of disuse. At school we do get some knowledge that may assist the learn drive in the process of recovery. However, this knowledge is comparable to taking on board a load of navigation manuals. After leaving the tunnel, the missile needs to navigate. Reading manuals with comprehension may come too late. Intelligent navigation requires fluency in making choices. That fluency does not directly come from textbook knowledge, and requires hours or years of practice.
 > 
