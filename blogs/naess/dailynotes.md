@@ -2,13 +2,13 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T14:26:39.283Z
+date: 2020-12-18T14:39:25.892Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
-# Header
+# Applicability of knowledge
 I just watched a video for stretching lower back, did the exercise and I feel AMAZING. This made me think about a piece from the incremental learning manual: *"An item related to a Heimlich maneuver can save the life of a family member"*. 
 
 In our community, we often emphasize that the applicability of knowledge must be the top criteria in selecting material for consumption, but this experience once again highlighted the importance of it for me. I can read a whole book about elementary physics and not know much more about the world than I already did from my daily observations (e.g. how trees behave when there is wind). On the other hand, I can watch a 2 minute video about stretching and improve my life INSTANTLY and be able to do so in the future too. 
