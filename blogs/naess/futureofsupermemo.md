@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T15:13:50.768Z
+date: 2020-12-18T15:15:14.689Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -56,7 +56,7 @@ This sends the following keystrokes: F6 + Ctrl+A + S to apply all but "spacing f
 Priorities determined by some framework instead of arbitrary priority ranges. It is easier to prioritize by categories (e.g. applicable / urgent / mildly interesting) than abstract ranges. See: [Youtube: Priority Heuristics in SuperMemo](https://youtu.be/OwV5HPKMrbg) for direction.
 
 # #3 Cloze Hinter
-I can't believe this is not natively supported! Ctrl+shift+Z on highlighted text to pop up prompt for hint.
+I can't believe this is not natively supported! Alt+shift+Z on highlighted text to pop up prompt for hint.
 
 Result: exemplary cloze with `[...](hint)`
 
