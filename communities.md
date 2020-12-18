@@ -2,19 +2,24 @@
 title: SuperMemo Communities
 description: 
 published: true
-date: 2020-12-05T21:29:26.019Z
+date: 2020-12-18T09:59:26.965Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-05T21:29:22.839Z
 ---
 
-# How to join the SM Chinese communities
 
-The largest SM communities are using a Chinese software called [QQ](https://en.wikipedia.org/wiki/Tencent_QQ).
 
-⚠️ **Disclaimer**
-- QQ has a very poor privacy policy. We strongly discourage users to run QQ on computers with sensitive data.
-- QQ requires a working phone number to register an account.
+# Chinese Community
+
+The largest SM Chinese communities are using a software called [QQ](https://en.wikipedia.org/wiki/Tencent_QQ).
+
+> ⚠️ **Disclaimer**
+> - QQ has a very **poor privacy policy**. We strongly discourage users to run QQ on computers with sensitive data.
+> - QQ requires a working phone number to register an account.
+> 
+> You might be unable to register without a Chinese number.
+{.is-warning}
 
 ## Downloading QQ
 
