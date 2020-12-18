@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-18T21:42:08.054Z
+date: 2020-12-18T21:46:29.975Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -237,13 +237,13 @@ The choosen grade will define how long elapses before the next review. In case o
 
 ## Knowledge Destructuring
 
-**Knowledge Destructuring (KD)** is the process of dividing complex information into smaller chunks until they become into atomic facts.
+**Knowledge Destructuring (KD)** is the process of dividing complex information into smaller chunks until it impossible to divide it any longer. Information created that way is called **atomic knowledge**.
 
-In traditional learning, this is usually achieved by highlighting text and writing notes. With computers, this time consuming process can be significantly cut down by selecting, editing and **extracting** text directly.
+In traditional learning, this is usually achieved by highlighting text and writing notes. With computers, this time consuming process is significantly cut down by directly selecting, editing and **extracting** text.
 
-**Extracts** are chunks of knowledge (e.g. text, video, ...) that were clipped from a larger ensemble. For example, the first paragraph of a wikipedia article is usually dense with information and constitutes a good candidate for extraction.
+**Extracts** are chunks of knowledge (e.g. text, video, ...) clipped from a larger ensemble. For example, the first paragraph of a wikipedia article is usually dense with information and constitutes a good candidate for extraction.
 
-<!-- Insert diagram with pictures -->
+<!-- Insert diagram (tree view?) with pictures -->
 
 🚧 **Work in progress.**
 
