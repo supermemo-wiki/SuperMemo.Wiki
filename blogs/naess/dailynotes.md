@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T19:54:25.993Z
+date: 2020-12-18T19:55:16.587Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -28,7 +28,7 @@ Cynefin Framework, sometimes called "sense-making device" is a framework used to
 
 ![cynefin_as_of_1st_june_2014.png](/cynefin_as_of_1st_june_2014.png)
 
-Now the framework itself didn't mean much to me (though it seemed interesting!). What had very powerful impact on me was this neat illustration by Edwin Stoop:
+Now the framework itself didn't mean much to me (though it seemed interesting!). What had very powerful impact on me was this neat illustration of Cynefin framework by Edwin Stoop:
 
 ![sainfin.jpg](/sainfin.jpg)
 
