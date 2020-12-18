@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T19:40:54.469Z
+date: 2020-12-18T21:16:39.487Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -26,7 +26,7 @@ Offensive or inappropriate content (e.g. idealogical propaganda) will be removed
 ## Creating pages
 
 1. Create a new page underneath `/blogs/[username]`,
-2. If you want to create more than a single page, create additionals pages under `/blogs/[username]/[page-title]` (e.g. `/blogs/alexis/why-I-love-learning`.
+2. If you want to create more than a single page, create additionals pages under `/blogs/[username]/[page-title]` (e.g. `/blogs/alexis/why-I-love-learning`).
 
 ```kroki
 blockdiag
