@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-18T10:16:31.212Z
+date: 2020-12-18T10:17:51.033Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -103,31 +103,6 @@ dateCreated: 2020-12-05T18:21:42.959Z
       </td>
       <td>
         <p>Official channel with videos published by <a target="blank" href="https://supermemo.guru/wiki/Piotr_Wozniak">Piotr Wozniak</a>.</p>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-        <p>
-          <strong>Communities</strong>
-        </p>
-      </td>
-      <td>
-        <p>
-          <a target="_blank" href="https://discord.gg/vUQhqCT">SuperMemo.wiki Discord</a>
-        </p>
-      </td>
-      <td>
-        <p>Home of the community maintaining this website.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>
-          <a target="_blank" href="https://www.reddit.com/r/super_memo/">/r/super_memo</a>
-        </p>
-      </td>
-      <td>
-        <p>Most active reddit community.</p>
       </td>
     </tr>
   </tbody>
