@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T15:22:50.560Z
+date: 2020-12-18T15:34:31.359Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -19,7 +19,7 @@ If you are interested in having your personal page on this wiki, you can follow 
 
 ## Content policy
 
-Please exercise judgement when publishing content on your user page. This is a wiki about SuperMemo, learning and personal progress.
+Please **exercise judgement** when publishing content on your user page. This is a wiki about SuperMemo, learning and personal progress.
 
 Offensive or inappropriate content (e.g. idealogical propaganda) will be removed.
 
@@ -63,6 +63,17 @@ blockdiag
 }
 ```
 
+### Formatting guides
+
+[Wiki.js](https://wiki.js.org/) supports several types of **text editors**. The most common format is *Markdown*. The list below will teach you how to leverage the full power of the wiki.
+
+Another great to learn about this wiki's syntax is to look at the source code of other pages.
+
+- [<span style="color:black;" class="mdi mdi-pencil-outline mr-1"></span> Wiki Format *Wiki.js documentation for text editing (markdown, graphs, etc.).*](https://docs.requarks.io/editors)
+- [<span style="color:black;" class="mdi mdi-language-markdown mr-1"></span> Markdown *General guide to writing in Markdown.*](https://www.markdownguide.org/)
+- [<span style="color:black;" class="mdi mdi-table mr-1"></span> Table generator *Markdown table code generator.*](https://www.tablesgenerator.com/markdown_tables)
+{.links-list}
+
 ## Requesting a subdomain
 
 If you want to have your own subdomain such as https://alexis.supermemo.wiki/, send an email by clicking on the link below. Make sure that you:
@@ -76,7 +87,7 @@ If you want to have your own subdomain such as https://alexis.supermemo.wiki/, s
 # User blogs
 
 - [Naess' Corner *The wacky journey of a well-schooled student.*](https://naess.supermemo.wiki/)
-- [Alexis Incogito *Work in progress.*](https://alexis.supermemo.wiki/)
+- [Alexis' Man Cave *Work in progress.*](https://alexis.supermemo.wiki/)
 - [Guillem's Corner *Non-descriptive generic text*](https://guillem.supermemo.wiki)
 - [Maths' Corner *Non-descriptive generic text*](https://maths.supermemo.wiki)
 - [Gilgamesh's Corner *Non-descriptive generic text*](https://gilgamesh.supermemo.wiki)
