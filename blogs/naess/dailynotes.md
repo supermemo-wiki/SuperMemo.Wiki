@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T20:25:59.773Z
+date: 2020-12-18T20:27:20.049Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -55,6 +55,8 @@ Can you see how trying to work with reasoning and your prior knowledge is poor s
 ![civcon.jpg](/civcon.jpg)
 
 With time, the map starts to brighten up. It is so much easier to work when you know your surroundings, tools and resources. One road connects to another, things start to make sense. We wouldn't have this civilization if we didn't bravely work with the uncertain.
+
+> Sometimes, the greatest benefits comes from just knowing that "this thing exists"
 
 
 *18.12.2020*
