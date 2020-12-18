@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-18T15:13:22.052Z
+date: 2020-12-18T15:13:50.768Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -60,4 +60,4 @@ I can't believe this is not natively supported! Ctrl+shift+Z on highlighted text
 
 Result: exemplary cloze with `[...](hint)`
 
-Luckily JamesB has created SMA plugin for this, however the prompt is to be improved.
+Tons of alt+lefting and navigating saved! Luckily JamesB has created SMA plugin for this, however the prompt is to be improved.
