@@ -2,7 +2,7 @@
 title: Creating a Blog
 description: 
 published: true
-date: 2020-12-19T17:04:39.967Z
+date: 2020-12-19T17:19:19.681Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
@@ -65,6 +65,12 @@ blockdiag
   blogs -> b-users;
 }
 ```
+
+## Editing your page's properties
+
+After creating a page, start editing it and click on the <kbd>Page</kbd> button at the top right of the window.
+
+![wikijs-page-properties.png](/shared/wikijs/wikijs-page-properties.png)
 
 ## Adding images
 
