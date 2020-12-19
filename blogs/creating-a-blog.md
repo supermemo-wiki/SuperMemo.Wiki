@@ -2,7 +2,7 @@
 title: Creating a Blog
 description: 
 published: true
-date: 2020-12-19T17:27:29.230Z
+date: 2020-12-19T17:27:55.483Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
@@ -66,15 +66,15 @@ blockdiag
 }
 ```
 
-### Step 1
+### Creating your first page: Step 1
 
 ![Creating a blog step 1](/blogs/blogs-creation-1.png)
 
-### Step 2
+### Creating your first page: Step 2
 
 ![Creating a blog step 2](/blogs/blogs-creation-2.png)
 
-### Step 3
+### Creating your first page: Step 3
 
 ![Creating a blog step 3](/blogs/blogs-creation-3.png)
 
