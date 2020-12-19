@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-19T10:35:31.302Z
+date: 2020-12-19T14:17:13.865Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -32,11 +32,11 @@ This is done with simple copy paste function (you can ask me for the script in d
 
 github for the highlighter: https://github.com/jeromepl/highlighter
 
-![web1.png](/blogs/dailynotes/18-12-2020/web1.png)
+![web1.png](/blogs/naess/futureofsm/web1.png)
 
-![web2.png](/blogs/dailynotes/18-12-2020/web2.png)
+![web2.png](/blogs/naess/futureofsm/web2.png)
 
-![web3.png](/blogs/dailynotes/18-12-2020/web3.png)
+![web3.png](/blogs/naess/futureofsm/web3.png)
 
 ## Benefits
 This script increased value of my collection by HUGE amount. When I am able to read in browser, I can QUICKLY sift away the garbage, navigate like a ninja and extract pieces from here and there, without importing slowing me down. I am more inclined to extract ONLY the golden nuggets because the sifting through garbage is so fast. In contrast, when I used to import every page to SM, I was more inclined to settle with lower value material, just because benefits of finding better alternative did not overcome the costs of importing. This definitely leads to deterioration in value of the collection as we rarely can predict the impact of exploring and finding only the greatest pieces of knowledge.
