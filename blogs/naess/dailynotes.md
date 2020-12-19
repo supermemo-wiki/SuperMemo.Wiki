@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-19T08:43:23.735Z
+date: 2020-12-19T08:45:23.094Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -72,7 +72,7 @@ If he wanted to do it, there is no good strategy and his prior knowledge will be
 
 You could argue "he could analytically start thinking steps, planning or thinking the research through", however premise is that he knows nothing about it, so these all are inferior options to just taking action and "revealing the surroundings". He should start gathering information (googling about similar projects, basics of programming or whatever). The strategies don't matter all that much and his prior knowledge will be of little use (given he doesn't know reliable sites related to the domain and it is a whole new thing).
 
-It will always be superior to start "revealing your surroundings" in these situations. Maybe "child learning to play" is a tad extreme, but it's inspirational to me anyways and helps me focus on "revealing" what is out there, instead of talking myself to corner with prior knowledge and strategies, when i know of so little about the new domain.
+It will always be superior to start "revealing your surroundings" in these situations. Maybe "child learning to play" is a tad extreme, but it's inspirational to me anyways and helps me focus on "revealing" what is out there, instead of talking myself to corner with prior knowledge and strategies, when I know of so little about the new domain.
 
 
 *18.12.2020*
