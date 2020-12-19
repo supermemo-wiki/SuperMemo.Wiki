@@ -2,7 +2,7 @@
 title: Creating a Blog
 description: 
 published: true
-date: 2020-12-19T17:27:55.483Z
+date: 2020-12-19T17:34:59.672Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
@@ -68,19 +68,30 @@ blockdiag
 
 ### Creating your first page: Step 1
 
+Make sure that the page is located under `/blogs/`. Replace `username` with your pen name.
+
 ![Creating a blog step 1](/blogs/blogs-creation-1.png)
 
 ### Creating your first page: Step 2
 
+Select <kbd>From Template</kbd> to bootstrap your page with the default settings (markdown), or alternatively select a custom editor.
+
 ![Creating a blog step 2](/blogs/blogs-creation-2.png)
 
 ### Creating your first page: Step 3
+
+**If you have selected <kbd>From Template</kbd>, select **Blog Template** from the **User Blogs** folder.
 
 ![Creating a blog step 3](/blogs/blogs-creation-3.png)
 
 ## Editing your page's properties
 
 After creating a page, start editing it and click on the <kbd>Page</kbd> button at the top right of the window.
+
+You can adjust the properties of the current page here. For more details, see:
+
+- [![wikijs.svg](/shared/icons/wikijs.svg =x20){.align-middle} Documentation *Wiki.js page editing documentation.*](https://docs.requarks.io/guide/pages)
+{.links-list}
 
 ![wikijs-page-properties.png](/shared/wikijs/wikijs-page-properties.png)
 
