@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-19T08:45:23.094Z
+date: 2020-12-19T08:51:11.863Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -68,7 +68,7 @@ I was talking with my friend about starting a startup. We were coming up with di
 
 What puzzled me was that my friend who NEVER have programmed anything, started thinking: "how would this technically work". He was thinking how difficult would it be to write this program, when he does not know what simple "hello world" program requires. He started thinking and fiddling in paint about these technical parts and assessing how difficult/easy it would be (again, no idea about programming at all). And somehow he seemed to start thinking that maybe it would be too difficult, all while sitting on his computer chair, working in paint with nothing but his prior knowledge.
 
-If he wanted to do it, there is no good strategy and his prior knowledge will be of little help. What he needs to do is start investigating, gather data, see how it looks out there, reveal the map and start working on it. 
+If he wanted to do it, there is no good strategy (the strategy will emerge after the initial steps) and his prior knowledge will be of little help. What he needs to do is start investigating, gather data, see how it looks out there, reveal the map and start working on it. 
 
 You could argue "he could analytically start thinking steps, planning or thinking the research through", however premise is that he knows nothing about it, so these all are inferior options to just taking action and "revealing the surroundings". He should start gathering information (googling about similar projects, basics of programming or whatever). The strategies don't matter all that much and his prior knowledge will be of little use (given he doesn't know reliable sites related to the domain and it is a whole new thing).
 
