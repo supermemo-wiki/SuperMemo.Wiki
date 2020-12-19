@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2020-12-19T18:33:13.738Z
+date: 2020-12-19T18:35:24.208Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -52,7 +52,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 ![](/reference-manual/backup-guide/computer-management-disks.png 'SuperMemo partition')
 
 
-### II) Install & Configuration
+### II) Installation & Configuration
 
 #### Installing BitShelter
 
