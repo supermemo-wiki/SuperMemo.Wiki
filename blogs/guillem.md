@@ -2,14 +2,14 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-19T15:50:24.552Z
+date: 2020-12-19T15:56:06.150Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
 ---
 
 # Who I am
-I am Guillem Palau from Barcleona,Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and masters degress in college.
+I am Guillem Palau from Barcelona,Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and masters degress in college.
 
 Now I do learn purely following my learn drive, which luckily survived all years of coercion.
 
@@ -24,7 +24,7 @@ Now I do learn purely following my learn drive, which luckily survived all years
 
 ### [Schooling Coercion Artwork](https://www.supermemo.wiki/en/blogs/guillem/schooling-coercion-artwork) Gallery of thought-provoking illustrations.
 
-## Others
+## Notes
 - All writing is done incrementally. I'd tag pages as done once I am finished.
 - Do not hestitate do leave feedback here or privately in Discord if you prefer.
 
