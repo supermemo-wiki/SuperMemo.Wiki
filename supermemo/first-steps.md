@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-18T09:50:00.781Z
+date: 2020-12-19T12:22:16.632Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -93,7 +93,9 @@ This video will guide you through the process of **installing SuperMemo 18**. Th
 
 **SuperMemo** is a windows application, but these are some options for running it on other Operating systems:
 
-### Mac
+### Tabs{.tabset}
+
+#### Mac
 
 - [Parallels (retail) *$135, 14 days trial, best user experience.*](https://www.parallels.com/)
 - [Parallels (students) *50% discount for students.*](https://www.parallels.com/landingpage/pd/education/)
@@ -102,7 +104,7 @@ This video will guide you through the process of **installing SuperMemo 18**. Th
 - [VirtualBox *Free and open source, worst experience of the three.*](https://www.virtualbox.org/)
 {.links-list}
 
-### Linux
+#### Linux
 
 - [VMware Player *Commercial with a free tier for Linux .*](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html)
 - [VirtualBox *Free and open source, worst experience of the three.*](https://www.virtualbox.org/)
