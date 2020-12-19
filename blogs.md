@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-18T21:16:39.487Z
+date: 2020-12-19T11:01:20.829Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -16,6 +16,9 @@ This is an index of SuperMemo.wiki **user blogs**.
 # Creating a blog
 
 If you are interested in having your personal page on this wiki, you can follow the procedure below.
+
+> Please **carefully read the instructions** on this page before creating your personal page. Disregarding the policies established here, or abusing the wiki will result in a **permanent ban**.
+{.is-info}
 
 ## Content policy
 
@@ -62,6 +65,20 @@ blockdiag
   blogs -> b-users;
 }
 ```
+
+### Adding images
+
+> ⚠ _**Please respect the following before adding images and media content**_ ⚠
+{.is-warning}
+
+1. All your personal files should be placed under the `/blogs/[username]/` folder,
+2. The wiki is not a cloud provider, don't upload large files (e.g. larger than 2MB).
+
+![blogs-media-folder-1.png](/blogs/blogs-media-folder-1.png)
+
+![blogs-media-folder-2.png](/blogs/blogs-media-folder-2.png)
+
+![blogs-media-folder-2.png](/blogs/blogs-media-folder-3.png)
 
 ### Formatting guides
 
