@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-19T13:52:10.637Z
+date: 2020-12-19T15:50:24.552Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -22,7 +22,7 @@ Now I do learn purely following my learn drive, which luckily survived all years
 
 
 
-### [Schooling Coercion Artwork](https://www.supermemo.wiki/e/en/blogs/guillem/schooling-coercion-artwork) Gallery of thought-provoking illustrations.
+### [Schooling Coercion Artwork](https://www.supermemo.wiki/en/blogs/guillem/schooling-coercion-artwork) Gallery of thought-provoking illustrations.
 
 ## Others
 - All writing is done incrementally. I'd tag pages as done once I am finished.
