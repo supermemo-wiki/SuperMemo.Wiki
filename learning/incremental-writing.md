@@ -2,7 +2,7 @@
 title: Incremental Writing
 description: 
 published: true
-date: 2020-12-18T11:27:17.134Z
+date: 2020-12-19T18:18:43.986Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T12:18:40.220Z
@@ -14,12 +14,12 @@ dateCreated: 2020-12-06T12:18:40.220Z
 
 Incremental writing is an extension of [incremental reading](/learning/incremental-reading). You should be familiar with it before considering incremental writing.
 
-## How does it work ?
+## How does it work?
 
 Incremental writing is typically assisted by software to maximize the usage of your time by interspacing:
 
 - Reviewing new learning material to develop new insights, 
-- Reviewing previously acquired knowledge to preserve it over time (forever !), 
+- Reviewing previously acquired knowledge to preserve it over time (forever!), 
 - Creative work (writing, problem solving, ...).
 
 In IW, the decision of whether you should continue working on a particular text depends on your desire to do so. That desire is a compound of variables: [pleasure of writing](/reference-manual/pleasure-of-learning), state of flow, level of understanding of the topic, etc.
