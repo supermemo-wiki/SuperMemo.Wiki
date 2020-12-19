@@ -2,24 +2,24 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2020-12-16T11:02:13.812Z
+date: 2020-12-19T18:29:56.032Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
 ---
 
-# Why & How ?
+# Why & How?
 
-## Why should you backup ?
+## Why should you backup?
 
 > ⚠️ **Your collection is precious**. If you are using SuperMemo, you will likely be pouring weeks, months or years of your life into building it. Don't let it all go to waste. **Having frequent backups is vital**.
 {.is-warning}
 
-Do you care about your health ? Would you take a gamble with your life and forfeit your health insurance ? If your answer is no, then keep reading.
+Do you care about your health? Would you take a gamble with your life and forfeit your health insurance? If your answer is no, then keep reading.
 
 Just like health issues, computer glitches can happen at any time. It is precisely because we cannot anticipate these events, that we take measures to mitigate their potential damage. This is what we propose to do in this guide.
 
-> *Still not convinced* ? [Read testimonies](#testimonies) of SuperMemo users who remained skeptic, until it was too late.
+> *Still not convinced?* [Read testimonies](#testimonies) of SuperMemo users who remained skeptic, until it was too late.
 {.is-info}
 
 ## Proposed strategy
@@ -119,7 +119,7 @@ Your final BitShelter settings should look similar to the following configuratio
 
 Try out the following instructions and see if you're actually able to open up and use a copy made by BitShelter.
 
-#### Oh no. Something happened to my Collection. How to save the day ?
+#### Oh no. Something happened to my Collection. How to save the day?
 
 Don't panic! Restoring your collection to an earlier version is easy with BitShelter! 
 
