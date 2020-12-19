@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2020-12-19T18:29:56.032Z
+date: 2020-12-19T18:33:13.738Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -112,7 +112,7 @@ Your final BitShelter settings should look similar to the following configuratio
 
 ![](/reference-manual/backup-guide/bitshelter-rules.png)
 
-### You are done... Almost !
+### You are done... Almost!
 
 > It is highly recommended that you **make sure everything is working as intended**.
 {.is-info}
@@ -218,7 +218,7 @@ git push
 > Every time you finish using SuperMemo, make sure to run `sm-main-commit.bat`.
 {.is-info}
 
-That's all ! Your collection is synchronized online, congratulations !
+That's all! Your collection is synchronized online, congratulations!
 
 ### Optional: Pin commit script to taskbar
 
@@ -252,7 +252,7 @@ Admittedly, these are much more user friendly and require very little set up. Ho
 
 # Suggestions to improve your backup strategy
 
-> Work in progress. Come back later !
+> Work in progress. Come back later!
 
 - [Encrypt your GitHub repository](https://github.com/AGWA/git-crypt).
 - Implement the [3-2-1 Backup Rule](https://www.acronyms-it.co.uk/blog/backup-rule-of-three/) [(Visual Guide)](/reference-manual/backup-guide/321backup.png){target="_blank"}.
