@@ -1,8 +1,8 @@
 ---
-title: Username's Corner
+title: Blog Template
 description: Enter a description of the topics discussed on your personal page.
 published: true
-date: 2020-12-19T17:10:01.825Z
+date: 2020-12-19T17:23:38.438Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T17:08:48.560Z
