@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-19T13:47:18.543Z
+date: 2020-12-19T13:52:10.637Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -29,3 +29,7 @@ Now I do learn purely following my learn drive, which luckily survived all years
 - Do not hestitate do leave feedback here or privately in Discord if you prefer.
 
 ## Networks
+- Email: pleasurable learning ^at¿ gmail.
+- YouTube channel (focus on SuperMemo): [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
+- Twitter (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
+- Twitch (kind of inactive ATM): [guillempalausalva](https://www.twitch.tv/guillempalausalva)
