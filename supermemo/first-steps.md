@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-19T12:33:33.085Z
+date: 2020-12-19T12:43:24.344Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -64,20 +64,21 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 
 ## Comparison Matrix
 
-|                          | SM 18        | SM 15      | SM Web     | Anki
-|-------------------------:|:============:|:==========:|:==========:|:==========:|
-| **Algorithm**           | SM-18[^100]    | SM-15      | SM-18      | SM-2[^101]
-| **Incremental Reading** | Yes          | Yes        | No         | Partial[^102]
-| **Complexity**          | Complex      | Complex    | Simple     | Medium
-| **Platforms**           | Windows, Linux[^103] | Windows, Linux | Web, Mobile | Windows, Linux, MacOS, Mobile
-| **Plugins**             | Yes[^104]      | No         | No         | Yes[^104]
-| **Web import**          | Yes          | Yes        | No         | No
-| **PDF import**          | Yes[^105]      | No         | No         | Yes[^106]
-| **Neural reviews**      | Yes          | No         | No         | No
-| **Premade courses**     | Yes[^107]      | No         | Yes        | Yes
-| **Themes**              | Yes          | No         | -          | Yes
-| **Misc**                | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
-| **Price**               | $66          | Free       | Freemium   | Free (iOS $24.99)
+|                              | SM 18        | SM 15      | SM Web     | Anki
+|-----------------------------:|:============:|:==========:|:==========:|:==========:|
+| **Algorithm**               | SM-18[^100]   | SM-15      | SM-18      | SM-2[^101]
+| **Incremental Reading**     | Yes           | Yes        | No         | Partial[^102]
+| **Knowledge Destructuring** | Yes           | Yes        | No         | No
+| **Complexity**              | Complex       | Complex    | Simple     | Medium to Very Complex[^108]
+| **Platforms**               | Windows, Linux[^103] | Windows, Linux | Web, Mobile | Windows, Linux, MacOS, Mobile
+| **Plugins**                 | Yes[^104]     | No         | No         | Yes[^104]
+| **Web import**              | Yes           | Yes        | No         | No
+| **PDF import**              | Yes[^105]     | No         | No         | Yes[^106]
+| **Neural reviews**          | Yes           | No         | No         | No
+| **Premade courses**         | Yes[^107]     | No         | Yes        | Yes
+| **Themes**                  | Yes           | No         | -          | Yes
+| **Misc**                    | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
+| **Price**                   | $66           | Free       | Freemium   | Free (iOS $24.99)
 
 # Installing SuperMemo
 
@@ -159,3 +160,4 @@ This series of video will take you from beginner to advanced expertize level.
 [^105]: With the [PDF plugin](https://github.com/supermemo/SuperMemoAssistant.Plugins.PDF/).
 [^106]: With the [SIAC addon](https://ankiweb.net/shared/info/1781298089).
 [^107]: Anki decks [can be converted](https://www.youtube.com/watch?v=j6dmQHMGTJs) to SuperMemo.
+[^108]: Using PDF, IR and other Anki addons significantly increases the complexity.
