@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-19T12:22:16.632Z
+date: 2020-12-19T12:33:33.085Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -95,20 +95,20 @@ This video will guide you through the process of **installing SuperMemo 18**. Th
 
 ### Tabs{.tabset}
 
-#### Mac
+#### MacOS
 
-- [Parallels (retail) *$135, 14 days trial, best user experience.*](https://www.parallels.com/)
-- [Parallels (students) *50% discount for students.*](https://www.parallels.com/landingpage/pd/education/)
-- [VMWare Fusion (retail) *$149, 30 days trial, worse performance than parallels.*](https://www.vmware.com/in/products/fusion.html)
-- [VMWare Fusion (students) *$100, discounted for students and education workers.*](https://store-us.vmware.com/vmware-in-education)
-- [VirtualBox *Free and open source, worst experience of the three.*](https://www.virtualbox.org/)
+- [![Parallels](/shared/icons/macos-parallels.png =x20){.align-middle} Parallels (retail) *$135, 14 days trial, best user experience.*](https://www.parallels.com/)
+- [![Parallels](/shared/icons/macos-parallels.png =x20){.align-middle} Parallels (students) *50% discount for students.*](https://www.parallels.com/landingpage/pd/education/)
+- [![VMWare Fusion](/shared/icons/vmware-fusion.png =x20){.align-middle} VMWare Fusion (retail) *$149, 30 days trial, worse performance than parallels.*](https://www.vmware.com/in/products/fusion.html)
+- [![VMWare Fusion](/shared/icons/vmware-fusion.png =x20){.align-middle} VMWare Fusion (students) *$100, discounted for students and education workers.*](https://store-us.vmware.com/vmware-in-education)
+- [![VirtualBox](/shared/icons/virtualbox.png =x20){.align-middle} VirtualBox *Free and open source, worst experience of the three.*](https://www.virtualbox.org/)
 {.links-list}
 
 #### Linux
 
-- [VMware Player *Commercial with a free tier for Linux .*](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html)
-- [VirtualBox *Free and open source, worst experience of the three.*](https://www.virtualbox.org/)
-- [Wine *SuperMemo in Linux with some caveats, does not work with SMA.*](https://github.com/alessivs/supermemo-wine)
+- [![VMWare Player](/shared/icons/vmware-player.png =x20){.align-middle} VMware Player *Commercial with a free tier for Linux .*](https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html)
+- [![VirtualBox](/shared/icons/virtualbox.png =x20){.align-middle} VirtualBox *Free and open source, worst experience of the three.*](https://www.virtualbox.org/)
+- [![Linux Wine](/shared/icons/linux-wine.png =x20){.align-middle} Wine *SuperMemo in Linux with some caveats, does not work with SMA.*](https://github.com/alessivs/supermemo-wine)
 {.links-list}
 
 # How to use SuperMemo?
