@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-19T10:34:45.759Z
+date: 2020-12-19T11:02:33.940Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -28,11 +28,11 @@ Some time passed and I started digging through a concept called "exploration" in
 ## Cynefin Framework
 Cynefin Framework, sometimes called "sense-making device" is a framework used to aid decision-making. It has five domains: obvious, complicated, complex, chaotic, and disorder. It helps managers to identify how they perceive situations and make sense of their own and other people's behaviour.
 
-![cynefin_as_of_1st_june_2014.png](/blogs/dailynotes/18-12-2020/cynefin_as_of_1st_june_2014.png)
+![cynefin_as_of_1st_june_2014.png](/blogs/naess/dailynotes/18-12-2020/cynefin_as_of_1st_june_2014.png)
 
 Now the framework itself didn't mean much to me (though it seemed interesting!). What had very powerful impact on me was this neat illustration of Cynefin framework by Edwin Stoop:
 
-![sainfin.jpg](/blogs/dailynotes/18-12-2020/sainfin.jpg)
+![sainfin.jpg](/blogs/naess/dailynotes/18-12-2020/sainfin.jpg)
 
 I cropped the image but you can view the original [here](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cynefin_framework_by_Edwin_Stoop.jpg/1920px-Cynefin_framework_by_Edwin_Stoop.jpg).
 
@@ -46,13 +46,13 @@ Huge implications... I definitely am more comfortable with uncertainty these day
 ## Civilization metaphor
 The last idea is some synthesis I produced from what I had learn. All this reminded me of a game I used to play called "Civilization". 
 
-![civ6.png](/blogs/dailynotes/18-12-2020/civ6.png)
+![civ6.png](/blogs/naess/dailynotes/18-12-2020/civ6.png)
 
 In Civilization you start with a dark map. You know nothing about your surroundings. Sounds familiar? It can be generalized to so many domains! In Civilization your goal is to build some huge empire and become all powerful. You do this by initially exploring your surroundings, finding resources, building cities and armies. Any location you haven't explored is dark. This has great implications for life.
 
 Can you see how trying to work with reasoning and your prior knowledge is poor strategy when starting in initially dark place? "Where should I explore, what should I do, how do I plan this". These all are poor strategies! **There is no good strategy** (the strategy will emerge after the initial steps). You have absolutely no idea of your surroundings, so your best bet is to bravely throw dart somewhere, start exploring and gather intelligence of your surroundings. Lean towards darkness, get feedback and adjust. If you don't find anything in North, go South! 
 
-![civcon.jpg](/blogs/dailynotes/18-12-2020/civcon.jpg)
+![civcon.jpg](/blogs/naess/dailynotes/18-12-2020/civcon.jpg)
 
 With time, the map starts to brighten up. It is so much easier to work when you know your surroundings, tools and resources. One road connects to another, things start to make sense. We wouldn't have this civilization if we didn't bravely work with the uncertain.
 
