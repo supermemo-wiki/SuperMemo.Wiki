@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-19T12:43:11.440Z
+date: 2020-12-19T18:08:41.077Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -111,7 +111,7 @@ dateCreated: 2020-12-05T18:21:42.959Z
 ## SuperMemo Communities
 
 - [<span class="mdi mdi-discord mr-1"></span> SuperMemo.wiki Discord *Home of the community maintaining this website.*](https://discord.gg/vUQhqCT){target="_blank"}
-- [<span style="color: #FF4500;" class="mdi mdi-reddit mr-1"></span> /r/super_memo *Most active reddit community.*](https://github.com/supermemo/awesome-supermemo){target="_blank"}
+- [<span style="color: #FF4500;" class="mdi mdi-reddit mr-1"></span> /r/super_memo *Most active reddit community.*](https://www.reddit.com/r/super_memo/){target="_blank"}
 - [<span style="color: #444;" class="mdi mdi-account-group mr-1"></span> All communities *Exhaustive list of SuperMemo communities.*](/communities){target="_blank"}
 {.links-list}
 
