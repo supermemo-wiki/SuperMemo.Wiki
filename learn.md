@@ -2,7 +2,7 @@
 title: Learn SuperMemo
 description: 
 published: true
-date: 2020-12-17T13:15:31.356Z
+date: 2020-12-19T19:03:51.662Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T21:40:12.974Z
@@ -49,7 +49,7 @@ dateCreated: 2020-12-05T21:40:12.974Z
 4. Where can you get SuperMemo?
 -->
 
-## Where can you get SuperMemo ?
+## Where can you get SuperMemo from?
 
 ### Supermemo 18
 
@@ -66,7 +66,7 @@ You can [🔑 purchase](https://super-memo.com/supermemo18.html) a license to re
 The same company publishes [supermemo.com](http://supermemo.com/), a completely different product. It is a simplified version meant for a broader public, and as such lacks many of SuperMemo 18's advanced features.
 {.is-info}
 
-## Where to meet and get help from other SuperMemo users ?
+## Where to meet and get help from other SuperMemo users?
 
 ### Chat servers
 
@@ -100,7 +100,7 @@ Check out these resources to understand **how these features work** together and
 
 ## How can you learn to use SuperMemo?
 
-### (Easiest) 1 on 1 tutoring
+### (Easiest) 1-on-1 tutoring
 
 In 1-2 hours, a proficient user can teach you the basics to get you started with the essential functionalities.
 
@@ -108,11 +108,11 @@ Schedule a call [here](https://calendly.com/test0009/raj) with Raj of supermemo.
 
 ### Online guides
 
-[Step by Step to SuperMemo Mastery](https://help.supermemo.org/wiki/Step-by-step_to_SuperMemo_mastery): if followed over days, weeks, and months, can take you to confirmed proficiency, provided you start slow and ramp up over time without biting off more than you can chew.
+[Step-by-step to SuperMemo Mastery](https://help.supermemo.org/wiki/Step-by-step_to_SuperMemo_mastery): if followed over days, weeks, and months, can take you to confirmed proficiency, provided you start slow and ramp up over time without biting off more than you can chew.
 
-[Incremental reading manual](https://help.supermemo.org/index.php?title=Incremental_learning): using incremental reading to go through the incremental reading manual is one of the best ways to attain deep proficiency in SuperMemo. You can follow the instructions [here](https://supermemo.guru/wiki/Incremental_reading_step_by_step#Big_test) under "big test" for how to do so. Note, there have been recent issues with references when importing. We plan to provide soon a pre-edited version.
+[Incremental reading manual](https://help.supermemo.org/index.php?title=Incremental_learning): using incremental reading to go through the incremental reading manual is one of the best ways to attain deep proficiency in SuperMemo. You can follow the instructions [here](https://supermemo.guru/wiki/Incremental_reading_step_by_step#Big_test) under "Big test" for how to do so. Note, there have been recent issues with references when importing. We plan to provide soon a pre-edited version.
 
-## How can you run Supermemo on Mac or Linux? 
+## How can you run SuperMemo on Mac or Linux? 
 
 **SuperMemo** is a windows application, but these are some options that let you run it on other Operating systems:
 
