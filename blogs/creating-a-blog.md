@@ -2,20 +2,23 @@
 title: Creating a Blog
 description: 
 published: true
-date: 2020-12-19T16:59:52.998Z
+date: 2020-12-19T17:04:39.967Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
 ---
 
-If you are interested in having your personal page on this wiki, you can follow the procedure below.
-
-> Please **carefully read the instructions** on this page before creating your personal page. Disregarding the policies established here, or abusing the wiki will result in a **permanent ban**.
-{.is-info}
+> Please **carefully read the instructions** on this page before creating your personal page.
+> 
+> Disregarding the policies established here, or abusing the wiki will result in a **permanent ban**.
+{.is-warning}
 
 # Content policy
 
-Please **exercise judgement** when publishing content on your user page. This is a wiki about SuperMemo, learning and personal progress.
+Please **exercise judgement** when publishing content on your user page. This is a wiki about:
+- SuperMemo,
+- Learning,
+- Personal progress.
 
 Offensive or inappropriate content (e.g. idealogical propaganda) will be removed.
 
