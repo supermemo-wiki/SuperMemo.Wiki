@@ -2,7 +2,7 @@
 title: SuperMemo Communities
 description: Exhaustive list of SuperMemo communities.
 published: true
-date: 2020-12-18T10:31:06.962Z
+date: 2020-12-19T18:09:47.814Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T21:29:22.839Z
@@ -11,7 +11,7 @@ dateCreated: 2020-12-05T21:29:22.839Z
 # Western Communities
 
 - [<span class="mdi mdi-discord mr-1"></span> SuperMemo.wiki Discord *Home of the community maintaining this website.*](https://discord.gg/vUQhqCT){target="_blank"}
-- [<span style="color: #FF4500;" class="mdi mdi-reddit mr-1"></span> /r/super_memo *Most active reddit community.*](https://github.com/supermemo/awesome-supermemo){target="_blank"}
+- [<span style="color: #FF4500;" class="mdi mdi-reddit mr-1"></span> /r/super_memo *Most active reddit community.*](https://www.reddit.com/r/super_memo/){target="_blank"}
 {.links-list}
 
 # Chinese Community
