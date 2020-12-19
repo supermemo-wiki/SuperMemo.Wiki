@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-19T17:20:03.622Z
+date: 2020-12-19T17:20:22.592Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -17,7 +17,7 @@ This is an index of SuperMemo.wiki **user blogs**.
 
 Find out how to create and edit your personal page on this wiki by clicking on the link below:
 
-- [<span class="mdi mdi-playlist-edit mr-1"></span> Creating a Blog *Guide to creating your personal page on the wiki.*](/blogs/creating-a-blog)
+- [<span class="mdi mdi-playlist-edit mr-1"></span> Creating a Blog *Guide to creating and editing your personal page on the wiki.*](/blogs/creating-a-blog)
 {.links-list}
 
 # User blogs
