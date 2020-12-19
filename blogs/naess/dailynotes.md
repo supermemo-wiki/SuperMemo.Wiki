@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-18T20:38:04.141Z
+date: 2020-12-19T08:41:58.156Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -61,6 +61,16 @@ With time, the map starts to brighten up. It is so much easier to work when you 
 Imagine it, if I didn't know that "SuperMemo exists", I wouldn't love learning today. If I didn't know that "I can get into university", I wouldn't be in university today. This sounds silly, but I actually wasn't aware that I could apply to university with papers from vocational school I went to. I thought you could do that only with papers from high school. The day I found out I actually have the chance to apply, the seed was planted and the path was adjusted towards great learning (finding SuperMemo). 
 
 This all goes align with navigating uncertainty, going towards darkness, finding what is out there, revealing the unknown, gathering the tools and knowledge and discovering your capabilities. This is the essence of life and it is such a beautiful idea!
+
+I was talking with my friend about starting a startup. We were coming up with different ideas and one of these was a software idea. My friend was streaming for me in Discord and sketching out ideas on paint. We settled with this software that works like slot machine for stocks. 
+
+What puzzled me was that my friend who NEVER have programmed anything, started thinking: "how would this technically work". He was thinking how difficult would it be to write this program, when he does not know what simple "hello world" program requires. He started thinking and fiddling in paint about these technical parts and assessing how difficult/easy it would be (again, no idea about programming at all). And somehow he seemed to start thinking that maybe it would be too difficult, all while sitting on his computer chair, working in paint with nothing but his prior knowledge.
+
+If he wanted to do it, there is no good strategy and his prior knowledge will be of little help. What he needs to do is start investigating, gather data, see how it looks out there, reveal the map and start working on it. 
+
+You could argue "he could analytically start thinking steps, planning or thinking the research through", however premise is that he knows nothing about it, so these all are inferior options to just taking action and "revealing the surroundings". He should start gathering information (googling about similar projects, basics of programming or whatever). The strategies don't matter all that much and his prior knowledge will be of little use (given he doesn't know reliable sites related to the domain and it is a whole new thing).
+
+It will always be superior to start "revealing your surroundings" in these situations. Maybe "child learning to play" is a tad extreme, but it's inspirational to me anyways and helps me focus on "revealing" what is out there, instead of talking myself to corner with prior knowledge and strategies, when i know of so little about the new domain.
 
 
 *18.12.2020*
