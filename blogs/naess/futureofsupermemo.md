@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-20T16:08:15.162Z
+date: 2020-12-20T16:08:47.794Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -45,7 +45,7 @@ This script increased value of my collection by HUGE amount. When I am able to r
 
 ## Compared to old way of importing
 
-At any given moment, the value of your collection equals value of the information in your collection divided by amount of the information. When you import a whole wikipedia article and all you want from the article is couple sentences, the ratio goes down drastically. There is a lot of noise and little value. When you come back to the article later after importing, it might be the case that you can't locate the essential pieces you imported the article for in the first place, so you have to resort to sift through the noise. Value is lost here and unnecessary time spent. This affects the pleasure of learning also. 
+At any given moment, the value of your collection equals value of the information in your collection divided by amount of the information. When you import a whole wikipedia article and all you want from the article is couple sentences, the ratio goes down drastically (a lot of noise added with little value). When you come back to the article later after importing, it might be the case that you can't locate the essential pieces you imported the article for in the first place, so you have to resort to sift through the noise. Value is lost here and unnecessary time spent. This affects the pleasure of learning also. 
 
 In contrast, with the direct extracting from websites, you are getting only the essentials and not importing associated noise with these. It's easy to see how this increases value of your collection drastically. Lot of value with no noise whatsoever. 
 
