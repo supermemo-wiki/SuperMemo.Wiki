@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-20T17:47:22.257Z
+date: 2020-12-20T17:48:44.562Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -15,7 +15,7 @@ In the past, there was days when I was wondering to myself: "Why don't I want to
 
 The issue was my back! Nothing wrong with my learn drive, just that my physiological needs was overriding the call for learning. I was so glad that I was able to distinguish this. It can be actually quite difficult to notice whether it is a "boring learning material" issue in your SuperMemo collection or whether something else is screaming for your attention louder than the learn drive (e.g. poor sleep, stress or pain). The back pain wasn't loud enough for me to instantly notice it, but loud enough to override my desire to learn.
 
-My back needed more immediate attention than my learn drive did. When I noticed this, instantly "Maslow's hierarchy of needs" came to my mind. It's a hierarchy of motivation and suggests that people are motivated to fulfill basic needs before moving on to other, more advanced needs.
+My back needed more immediate attention than my learn drive did. When I noticed this, instantly **Maslow's hierarchy of needs** came to my mind. It's a hierarchy of motivation and suggests that people are motivated to fulfill basic needs before moving on to other, more advanced needs.
 
 ![maslow-needs2.jpg](/blogs/naess/dailynotes/20-12-2020/maslow-needs2.jpg)
 
