@@ -2,7 +2,7 @@
 title: Schooling Coercion Artwork
 description: I will be recollecting pieces of art, sketches and pictures that metaphorically show the reality of the coercion in the schooling system.
 published: true
-date: 2020-12-20T17:29:47.819Z
+date: 2020-12-20T17:38:15.105Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:36:44.068Z
@@ -37,3 +37,11 @@ dateCreated: 2020-12-19T13:36:44.068Z
 
 ![schooling_anxiety_drawing.jpg](/blogs/guillem/schooling_anxiety_drawing.jpg =800x)
 [Source](https://www.nytimes.com/2016/01/03/opinion/sunday/is-the-drive-for-success-making-our-children-sick.html) Is the Drive for Success Making Our Children Sick?, NY Times.
+
+
+## Artist: Kelsey Wroten (USA)
+> Kelsey Wroten is a Brooklyn based freelance illustrator and comics artist. She earned a BFA in Illustration from The Kansas City Art Institute in 2015. Kelsey has worked with clients including The New York Times, The New Yorker, NPR, Lucky Peach, Vice, Slack, and many others
+{.is-info}
+
+![kelsey_wroten_how_to_counter_back-to-school_anxiety.jpg](/blogs/kelsey_wroten_how_to_counter_back-to-school_anxiety.jpg =800x)
+[Source](https://www.npr.org/sections/ed/2017/08/28/545393966/how-to-counter-back-to-school-anxiety?t=1608485626533) How To Counter Back-To-School Anxiety (2017)
