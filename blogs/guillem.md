@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-20T10:56:07.740Z
+date: 2020-12-20T11:42:10.747Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -13,26 +13,37 @@ I am Guillem Palau from Barcelona,Spain. I did suffered a lot in the school syst
 
 Now I do learn purely following my learn drive, which luckily survived all years of coercion.
 
-## How I ended up here
-
-
-
-## Why I do bother writing here
- Motivation to help other people to undo to harm done by the years of schooling coercion. Introduce people to the pleasure of learning, to restore their learn drive.
-
-
-
+## Pages
 ### [Schooling Coercion Artwork](https://www.supermemo.wiki/en/blogs/guillem/schooling-coercion-artwork) Gallery of thought-provoking illustrations.
 
 ### [Humor](/en/blogs/guillem/schooling-system-humor) Gallery of amusing illustrations 
 
 
+
+
+## How I ended up here
+
+
+
+## Motivation for writing here
+ Motivation to help other people to undo to harm done by the years of schooling coercion. Introduce people to the pleasure of learning, to restore their learn drive.
+
+
+
+
+
 ## Notes
-- All writing is done incrementally. I'd tag pages as done once I am finished.
-- Do not hestitate do leave feedback here or privately in Discord if you prefer.
+> All writing is done incrementally. I'd tag pages as done once I am finished.
+{.is-warning}
+
+
+> Do not hestitate do leave feedback here or privately in Discord if you prefer.
+{.is-info}
+
 
 ## Networks
-- Email: pleasurable learning ^at¿ gmail.
+- Email: pleasurable learning ^at¿ gmail. ~*just to avoid crawlers*~
+- Discord: guippemPalau#1890
 - YouTube channel (focus on SuperMemo): [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
 - Twitter (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
 - Twitch (kind of inactive ATM): [guillempalausalva](https://www.twitch.tv/guillempalausalva)
