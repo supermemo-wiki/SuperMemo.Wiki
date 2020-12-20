@@ -2,7 +2,7 @@
 title: Schooling System Humor
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2020-12-20T17:09:37.360Z
+date: 2020-12-20T17:10:07.265Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
@@ -20,3 +20,4 @@ Source: unkown
 
 ## High sementic distance - Low learntrophy
 ![lentrophy_comic.jpg](/blogs/humor/lentrophy_comic.jpg =400x)
+Source: unknown
