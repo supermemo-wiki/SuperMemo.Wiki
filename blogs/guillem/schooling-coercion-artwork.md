@@ -2,7 +2,7 @@
 title: Schooling Coercion Artwork
 description: I will be recollecting pieces of art, sketches and pictures that metaphorically show the reality of the coercion in the schooling system.
 published: true
-date: 2020-12-20T11:34:41.530Z
+date: 2020-12-20T17:22:04.556Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:36:44.068Z
@@ -26,3 +26,8 @@ dateCreated: 2020-12-19T13:36:44.068Z
 
 ![coerced_schooling__face_to_book.jpg](/blogs/guillem/coerced_schooling__face_to_book.jpg =800x)
 ![book_hammering_kid.jpg](/blogs/book_hammering_kid.jpg =800x)
+
+## Artist: Moacır Knorr Gutterres (Brazil)
+![moacır_knorr_gutterresbrezilya_2018.jpg](/blogs/guillem/moacır_knorr_gutterresbrezilya_2018.jpg =800x)
+
+[Source](https://sanalmuze.aydindoganvakfi.org.tr/yarismalar/35-aydin-dogan-uluslararasi-karikatur-yarismasi-2018-62) (2018)
