@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-19T18:44:18.794Z
+date: 2020-12-20T15:30:15.504Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -42,6 +42,14 @@ github for the highlighter: https://github.com/jeromepl/highlighter
 This script increased value of my collection by HUGE amount. When I am able to read in browser, I can QUICKLY sift away the garbage, navigate like a ninja and extract pieces from here and there, without importing slowing me down. I am more inclined to extract ONLY the golden nuggets because the sifting through garbage is so fast. In contrast, when I used to import every page to SM, I was more inclined to settle with lower value material, just because benefits of finding better alternative did not overcome the costs of importing. This definitely leads to deterioration in value of the collection as we rarely can predict the impact of exploring and finding only the greatest pieces of knowledge.
 
 > Incremental web browsing takes sifting away the garbage and filling your collection ONLY with the most valuable stuff to the next level!
+
+## Compared to old way of importing
+
+At any given moment, the value of your collection equals amount of information in your collection divided by the value of the information. When you import a whole wikipedia article and all you want from the article is couple sentences, the ratio goes down drastically. There is a lot of noise and little value. When you come back to the article later after importing, it might be the case that you can't locate the essential pieces you imported the article for in the first place, so you have to resort to sift through the noise. Value is lost here and unnecessary time spent. This affects the pleasure of learning also. 
+
+In contrast, with the direct extracting from websites, you are getting only the essentials and not importing associated noise with these. It's easy to see how this increases value of your collection drastically. Lot of value with no noise whatsoever. 
+
+I'm aware that you could highlight text in IE and import only the highlighted text, however you can't take one sentence from top of the article and one from the bottom (you can only highlight one chunk). 
 
 ## Functionality
 With alt+x you can extract from browser. The selected text will be marked with the highlighter extension. Script will activate SM window and paste the text selected and also link for the website. After that, script will activate browser again
