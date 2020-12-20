@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-20T12:03:40.136Z
+date: 2020-12-20T12:10:11.242Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -25,9 +25,8 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 ### [Humor](/en/blogs/guillem/schooling-system-humor) Gallery of amusing illustrations 
 
 ## Articles
-- My schooling experience
-- Learning as a remedy to depression *Free learning has been my therapy to depression.*
-- Overdrive
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> My schooling experience *Personal anecdotes*](https://guillem.supermemo.wiki)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Learning as a remedy to depression *Free learning has been my therapy to depression*](https://guillem.supermemo.wiki)
 {.links-list}
 
 ## How I ended up here
