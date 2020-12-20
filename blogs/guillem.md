@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-20T12:20:42.009Z
+date: 2020-12-20T12:21:15.128Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -21,7 +21,7 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 
 ## Pages
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.*](/en/blogs/guillem/schooling-system-humor)
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Schooling Coercion Artwork *Gallery of thought-provoking illustrations*](en/blogs/guillem/schooling-coercion-artwork)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Schooling Coercion Artwork *Gallery of thought-provoking illustrations*](/en/blogs/guillem/schooling-coercion-artwork)
 {.links-list}
 
 ## Articles
