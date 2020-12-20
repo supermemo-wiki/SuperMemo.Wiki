@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-20T20:08:09.602Z
+date: 2020-12-20T20:12:58.733Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -44,7 +44,7 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 
 
 ## Contact & Networks
-> Email: pleasurable learning ^at¿ gmail. ~*just to avoid crawlers*~
+> Email: pleasurablelearning ^at¿ gmail. ~*just to avoid crawlers*~ com
 
 > Discord: guillemPalau#1890
 
