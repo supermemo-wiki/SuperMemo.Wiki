@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-20T18:17:15.148Z
+date: 2020-12-20T18:17:54.559Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -11,7 +11,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 # New chair
 I finally got a new chair. Years of poor posture, hours of abusing my back with poor chairs. Feels amazing to be able to sit straight and comfortably! 
 
-In the past, there was days when I was wondering to myself: "Why don't I want to study? I am not feeling the same passion I usually have for learning, what's up?" I thought my [learn drive](https://supermemo.guru/wiki/Learn_drive) was dying!
+In the past, there was days when I was wondering to myself: "Why don't I want to study? I am not feeling the same passion I usually have for learning, what's up?" I thought my [**learn drive**](https://supermemo.guru/wiki/Learn_drive) was dying!
 
 The issue was my back! Nothing wrong with my learn drive, just that my physiological needs was overriding the call for learning. I was so glad that I was able to distinguish this. It can be actually quite difficult to notice whether it is a "boring learning material" issue in your SuperMemo collection or whether something else is screaming for your attention louder than the learn drive (e.g. poor sleep, stress or pain). The back pain wasn't loud enough for me to instantly notice it, but loud enough to override my desire to learn.
 
