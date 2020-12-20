@@ -2,11 +2,13 @@
 title: Schooling Coercion Artwork
 description: I will be recollecting pieces of art, sketches and pictures that metaphorically show the reality of the coercion in the schooling system.
 published: true
-date: 2020-12-20T11:32:17.981Z
+date: 2020-12-20T11:33:27.199Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:36:44.068Z
 ---
+
+# Schooling Coercion Artwork Gallery
 
 ## Artist: [Tetsuya Ishida](https://en.wikipedia.org/wiki/Tetsuya_Ishida) (Japan)
 Tetsuya Ishida was a talented Japanese painter whose paintings were known for their dark portrayal of Japanese life.
