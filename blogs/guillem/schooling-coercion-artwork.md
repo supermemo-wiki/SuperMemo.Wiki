@@ -2,7 +2,7 @@
 title: Schooling Coercion Artwork
 description: I will be recollecting pieces of art, sketches and pictures that metaphorically show the reality of the coercion in the schooling system.
 published: true
-date: 2020-12-20T17:22:04.556Z
+date: 2020-12-20T17:29:47.819Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:36:44.068Z
@@ -29,5 +29,11 @@ dateCreated: 2020-12-19T13:36:44.068Z
 
 ## Artist: Moacır Knorr Gutterres (Brazil)
 ![moacır_knorr_gutterresbrezilya_2018.jpg](/blogs/guillem/moacır_knorr_gutterresbrezilya_2018.jpg =800x)
-
 [Source](https://sanalmuze.aydindoganvakfi.org.tr/yarismalar/35-aydin-dogan-uluslararasi-karikatur-yarismasi-2018-62) (2018)
+
+## Artist: Lale Westvind (USA)
+> Lale Westvind is a cartoonist and animator based in Philadelphia, PA. Her work has been published in comics and anthologies internationally such as Best American Comics, Kramers Ergot, The Lifted Brow, Strapazin and Lagon Revue. She has self-published over a dozen comic books and two anthologies.
+{.is-info}
+
+![schooling_anxiety_drawing.jpg](/blogs/guillem/schooling_anxiety_drawing.jpg =800x)
+[Source](https://www.nytimes.com/2016/01/03/opinion/sunday/is-the-drive-for-success-making-our-children-sick.html) Is the Drive for Success Making Our Children Sick?, NY Times.
