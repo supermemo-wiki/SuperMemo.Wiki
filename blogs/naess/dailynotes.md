@@ -2,11 +2,29 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-19T18:52:13.743Z
+date: 2020-12-20T17:46:25.526Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
+
+# New chair
+I finally got a new chair. Years of poor posture, hours of abusing my back with poor chairs. Feels amazing! 
+
+In the past, there was days when I was wondering to myself: "Why I don't want to study? I am not feeling the same passion I usually have for learning, what's up?" I thought my learn drive was dying!
+
+The issue was my back! Nothing wrong with my learn drive, just that my physiological needs was overriding the call for learning. I was so glad that I was able to distinguish this. It can be actually quite difficult to notice whether it is a "boring learning material" issue in your SuperMemo collection or whether something else is screaming for your attention louder than the learn drive (e.g. poor sleep, stress or pain). The back pain wasn't loud enough for me to instantly notice it, but loud enough to override my desire to learn.
+
+My back needed more immediate attention than my learn drive did. When I noticed this, instantly "Maslow's hierarchy of needs" came to my mind. It's a hierarchy of motivation and suggests that people are motivated to fulfill basic needs before moving on to other, more advanced needs.
+
+![maslow-needs2.jpg](/blogs/naess/dailynotes/20-12-2020/maslow-needs2.jpg)
+
+So in my case, physiological needs started dominating my motivation. I was slow to notice this as the back pain wasn't critical, but strong enough to override my "self-fulfillment needs". So the lesson here is: if you have days of not "feeling it" for learning, make sure you have your basic needs covered before jumping to conclusion that something is wrong with your material or learn drive :)
+
+![chair.png](/blogs/naess/dailynotes/20-12-2020/chair.png)
+Here's the chair (or atleast it is pretty identical. This is image i got from web). The back pillow is a life saver!
+
+*20.12.2020*
 
 # Child learning to play
 What has been the most dominant change in my way of thinking in the past year, must be how I perceive uncertainty. There are few big ideas which shaped up my thinking for good. 
