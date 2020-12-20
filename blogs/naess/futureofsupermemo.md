@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-20T15:30:15.504Z
+date: 2020-12-20T15:31:28.910Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -49,7 +49,7 @@ At any given moment, the value of your collection equals amount of information i
 
 In contrast, with the direct extracting from websites, you are getting only the essentials and not importing associated noise with these. It's easy to see how this increases value of your collection drastically. Lot of value with no noise whatsoever. 
 
-I'm aware that you could highlight text in IE and import only the highlighted text, however you can't take one sentence from top of the article and one from the bottom (you can only highlight one chunk). 
+I'm aware that you could highlight text in IE and import only the highlighted text, however you can't take one sentence from top of the article and one from the bottom (you can only highlight one chunk). On top of that, you need to stop the consumption and extraction of the information to do unnecessary function of importing to SM.
 
 ## Functionality
 With alt+x you can extract from browser. The selected text will be marked with the highlighter extension. Script will activate SM window and paste the text selected and also link for the website. After that, script will activate browser again
