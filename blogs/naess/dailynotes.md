@@ -2,14 +2,14 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-20T17:46:25.526Z
+date: 2020-12-20T17:46:56.674Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
 # New chair
-I finally got a new chair. Years of poor posture, hours of abusing my back with poor chairs. Feels amazing! 
+I finally got a new chair. Years of poor posture, hours of abusing my back with poor chairs. Feels amazing to be able to sit straight and comfortably! 
 
 In the past, there was days when I was wondering to myself: "Why I don't want to study? I am not feeling the same passion I usually have for learning, what's up?" I thought my learn drive was dying!
 
