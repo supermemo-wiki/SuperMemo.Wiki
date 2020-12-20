@@ -2,7 +2,7 @@
 title: Schooling Coercion Artwork
 description: I will be recollecting pieces of art, sketches and pictures that metaphorically show the reality of the coercion in the schooling system.
 published: true
-date: 2020-12-20T17:38:15.105Z
+date: 2020-12-20T17:39:24.023Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:36:44.068Z
@@ -44,4 +44,4 @@ dateCreated: 2020-12-19T13:36:44.068Z
 {.is-info}
 
 ![kelsey_wroten_how_to_counter_back-to-school_anxiety.jpg](/blogs/kelsey_wroten_how_to_counter_back-to-school_anxiety.jpg =800x)
-[Source](https://www.npr.org/sections/ed/2017/08/28/545393966/how-to-counter-back-to-school-anxiety?t=1608485626533) How To Counter Back-To-School Anxiety (2017)
+[Source](https://www.npr.org/sections/ed/2017/08/28/545393966/how-to-counter-back-to-school-anxiety?t=1608485626533) How To Counter Back-To-School Anxiety, NPR (2017)
