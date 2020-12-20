@@ -2,14 +2,14 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-20T11:42:10.747Z
+date: 2020-12-20T11:47:09.896Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
 ---
 
 # Who I am
-I am Guillem Palau from Barcelona,Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and masters degress in college.
+I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and masters degress in college.
 
 Now I do learn purely following my learn drive, which luckily survived all years of coercion.
 
@@ -41,9 +41,13 @@ Now I do learn purely following my learn drive, which luckily survived all years
 {.is-info}
 
 
-## Networks
-- Email: pleasurable learning ^at¿ gmail. ~*just to avoid crawlers*~
-- Discord: guippemPalau#1890
-- YouTube channel (focus on SuperMemo): [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
-- Twitter (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
-- Twitch (kind of inactive ATM): [guillempalausalva](https://www.twitch.tv/guillempalausalva)
+## Contact & Networks
+> Email: pleasurable learning ^at¿ gmail. ~*just to avoid crawlers*~
+
+> Discord: guillemPalau#1890
+
+> YouTube channel (focus on SuperMemo): [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
+
+> Twitter (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
+
+> Twitch (kind of inactive ATM): [guillempalausalva](https://www.twitch.tv/guillempalausalva)
