@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-21T13:03:22.818Z
+date: 2020-12-21T13:05:01.675Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -48,6 +48,8 @@ This script increased value of my collection by HUGE amount. When I am able to r
 At any given moment, value/sentence ratio of your collection equals total value of the sentences divided by the number of sentences in your collection. When you import a whole wikipedia article and all you want from the article is couple sentences, the value/sentence ratio goes down drastically (a lot of noise added with little value). When you come back to the article later after importing, it might be the case that you can't locate the essential pieces you imported the article for in the first place, so you have to resort to sift through the noise. Worse yet, you might be inclined to start reading from top to down just because SM presents you that article. Value is lost here and unnecessary time spent. This affects the pleasure of learning also.
 
 Proficient SM user can cope with these pitfalls, however they will always slow him down and make the process less fun. For a beginner, the consequences might be worse: there is more noise which he is inclined to create poor items of, he might drown in countless of noisy extracts from the noisy article with only little value realized. This brings the efficiency of SM down drastically. Beginner forced to import the whole articles (or atleast noisy chunks), pleasure of learning decreases significantly.
+
+> The importing functionality of SuperMemo might lead to deterioration of the pleasure of learning and decrease efficiency of the whole learning process
 
 In contrast, with the direct extracting from websites, you are getting only the essentials and not importing the associated noise with these. It's easy to see how this increases value of your collection drastically. Lot of value with no noise whatsoever. 
 
