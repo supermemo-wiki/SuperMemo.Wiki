@@ -1,10 +1,10 @@
 ---
 title: Maths' Corner
-description: 
+description: w.i.p
 published: true
-date: 2020-12-18T09:26:51.783Z
+date: 2020-12-21T17:52:07.155Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-18T09:26:42.503Z
 ---
 
