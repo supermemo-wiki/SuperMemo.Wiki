@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-20T21:10:47.848Z
+date: 2020-12-21T10:00:45.162Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -19,7 +19,7 @@ My back needed more immediate attention than my learn drive did. When I noticed 
 
 ![maslow-needs2.jpg](/blogs/naess/dailynotes/20-12-2020/maslow-needs2.jpg)
 
-So in my case, physiological needs started to dominate my motivation. I was slow to notice this as the back pain wasn't critical, but strong enough to override my "self-fulfillment needs". So **the lesson** here is: if you have days of not "feeling it" for learning, make sure you have your basic needs covered before jumping to conclusion that something is wrong with your material or learn drive :)
+So in my case, physiological needs started to dominate my motivation. I was slow to notice this as the back pain wasn't critical, but strong enough to override my "self-fulfillment needs". So **the lesson** here is: if you have days of not "feeling it" for learning, make sure you have your basic needs covered before jumping to conclusion that something is wrong with your material or learn drive :) And in contrast (maybe more common pitfall), make sure your material selection is on point before blaming your lack of enthusiasm for learning on external factors like your PC setup.
 
 ![chair.png](/blogs/naess/dailynotes/20-12-2020/chair.png)
 Here's the chair (or atleast it is pretty identical. This is image i got from web). The back pillow is a life saver!
