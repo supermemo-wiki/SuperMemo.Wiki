@@ -2,7 +2,7 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-21T13:06:54.234Z
+date: 2020-12-21T13:07:10.354Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
@@ -49,7 +49,7 @@ At any given moment, value/sentence ratio of your collection equals total value 
 
 Proficient SM user can cope with these pitfalls, however they will always slow him down and make the process less fun. For a beginner, the consequences might be worse: there is more noise which he is inclined to create poor items of, he might drown in countless of noisy extracts from the noisy article with only little value realized. This brings the efficiency of SuperMemo down drastically. For beginner forced to import the whole articles (or atleast noisy chunks), pleasure and efficiency of learning decreases significantly.
 
-> The importing functionality of SuperMemo might lead to deterioration of the pleasure of learning and decrease efficiency of the whole learning process
+> The importing functionality of SuperMemo might lead to deterioration of the pleasure and efficiency of learning
 
 In contrast, with the direct extracting from websites, you are getting only the essentials and not importing the associated noise with these. It's easy to see how this increases value of your collection drastically. Lot of value with no noise whatsoever. 
 
