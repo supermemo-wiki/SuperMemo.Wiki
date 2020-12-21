@@ -2,7 +2,7 @@
 title: Creating a Blog
 description: Learn how to create and edit your personal wiki page. Tips & Tricks included!
 published: true
-date: 2020-12-19T17:36:14.277Z
+date: 2020-12-21T12:13:25.032Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
@@ -118,6 +118,13 @@ Another great to learn about this wiki's syntax is to look at the source code of
 - [<span style="color:black;" class="mdi mdi-pencil-outline mr-1"></span> Wiki Format *Wiki.js documentation for text editing (markdown, graphs, etc.).*](https://docs.requarks.io/editors)
 - [<span style="color:black;" class="mdi mdi-language-markdown mr-1"></span> Markdown *General guide to writing in Markdown.*](https://www.markdownguide.org/)
 - [<span style="color:black;" class="mdi mdi-table mr-1"></span> Table generator *Markdown table code generator.*](https://www.tablesgenerator.com/markdown_tables)
+{.links-list}
+
+## Presentation examples
+
+Find inspiration by looking at the page of other users:
+
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Guillem's Corner *Inspiring others to discover the pleasure of self-directed learning*](https://guillem.supermemo.wiki)
 {.links-list}
 
 # Requesting a subdomain
