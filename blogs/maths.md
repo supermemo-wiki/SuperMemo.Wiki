@@ -2,9 +2,9 @@
 title: Maths' Corner
 description: 
 published: true
-date: 2020-12-18T09:26:42.503Z
+date: 2020-12-18T09:26:51.783Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-18T09:26:42.503Z
 ---
 

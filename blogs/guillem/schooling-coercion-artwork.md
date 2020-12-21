@@ -2,9 +2,9 @@
 title: Schooling Coercion Artwork
 description: I will be recollecting pieces of art, sketches and pictures that metaphorically show the reality of the coercion in the schooling system.
 published: true
-date: 2020-12-20T17:39:24.023Z
+date: 2020-12-20T17:39:27.295Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-19T13:36:44.068Z
 ---
 

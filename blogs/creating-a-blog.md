@@ -2,9 +2,9 @@
 title: Creating a Blog
 description: Learn how to create and edit your personal wiki page. Tips & Tricks included!
 published: true
-date: 2020-12-21T12:13:25.032Z
+date: 2020-12-21T12:13:28.666Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-19T16:59:52.998Z
 ---
 

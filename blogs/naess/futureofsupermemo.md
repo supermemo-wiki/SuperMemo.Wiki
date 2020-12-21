@@ -2,9 +2,9 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-20T16:09:14.037Z
+date: 2020-12-20T16:09:17.113Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-17T22:53:23.617Z
 ---
 

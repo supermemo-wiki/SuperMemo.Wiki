@@ -2,9 +2,9 @@
 title: Naess' Corner
 description: 
 published: true
-date: 2020-12-18T15:48:51.933Z
+date: 2020-12-18T15:48:54.966Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-17T20:56:55.156Z
 ---
 

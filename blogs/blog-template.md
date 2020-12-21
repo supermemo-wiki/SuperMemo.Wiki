@@ -2,9 +2,9 @@
 title: Blog Template
 description: Enter a description of the topics discussed on your personal page.
 published: true
-date: 2020-12-19T17:23:38.438Z
+date: 2020-12-19T17:23:41.489Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-19T17:08:48.560Z
 ---
 

@@ -2,9 +2,9 @@
 title: The Squid Eater
 description: Enter a description of the topics discussed on your personal page.
 published: true
-date: 2020-12-20T07:41:30.297Z
+date: 2020-12-20T07:41:33.321Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-20T07:41:30.297Z
 ---
 

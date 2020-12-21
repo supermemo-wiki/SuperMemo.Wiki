@@ -2,9 +2,9 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-20T22:05:23.838Z
+date: 2020-12-20T22:05:27.082Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-18T09:26:43.841Z
 ---
 
