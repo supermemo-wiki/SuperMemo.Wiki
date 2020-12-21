@@ -2,9 +2,9 @@
 title: The future of SuperMemo
 description: 
 published: true
-date: 2020-12-20T16:09:17.113Z
+date: 2020-12-21T12:53:19.057Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-17T22:53:23.617Z
 ---
 
@@ -16,7 +16,7 @@ In this page I will update features that I think would offer the biggest increas
 {.is-warning}
 
 
-Import function in SM is old news and adds only extra friction to the curious mind. The SM importing can be sped up with external tools. However, even with scripts to speed up importing, there is still a problem of not being able to jump around hyperlinks quickly, lack of formatting in some cases and not being able to utilize the increasing number of interactive tools in websites. SM cannot handle this; it is always more flexible to read in browser. The navigation and jumping around in browser are always superior and the benefits of this is not to be overlooked. When I find a goldmine, I do not want to stop to import the whole page! I might want only two sentences from different locations in the page. I want to read and extract only the greatest golden nuggets to SM! I.e., it will always be more flexible to read in browser than in SM.
+Import function in SM is old news and adds only extra friction to the curious mind. The SM importing can be sped up with external tools. However, even with scripts to speed up importing, there is still a problem of not being able to jump around hyperlinks quickly, lack of formatting in some cases and not being able to utilize the increasing number of interactive tools in websites. SM cannot handle this; it is always more flexible to read in browser. The navigation and jumping around in browser are always superior and the benefits of this is not to be overlooked. When I find a goldmine, I do not want to stop to import the whole page! I might want only two sentences from different locations in the page. I want to read and extract only the greatest golden nuggets to SM! I.e., it will always be more flexible to read (initially) in browser than in SM.
 
 This is the plan: read initially in browser, review and create items in SM.
 
