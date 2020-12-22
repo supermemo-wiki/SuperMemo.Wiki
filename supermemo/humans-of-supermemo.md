@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T12:46:48.825Z
+date: 2020-12-22T12:47:05.141Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -38,6 +38,7 @@ After using SuperMemo for about 4 months, I realized that SuperMemo is not a rep
   <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
     <div class="v-card__title">
     	Naess
+      <span style="margin-left: auto;"><small><i><a href="https://naess.supermemo.wiki/">View blog</a></i></small></span>
     </div>
     <div class="v-card__text">
 I found SuperMemo on my search for optimal learning methods. Passing the entrance exam for my university was the main motivator behind increasing productivity in learning.
