@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T12:25:42.080Z
+date: 2020-12-22T12:34:01.416Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -97,7 +97,8 @@ I soon discovered supermemo.guru’s brilliant array of articles and wisdom on g
     	agdf
     </div>
     <div class="v-card__text">
-**TL;DR**, I’m a Medical student and started using SRS in college:
+<p><b>tl;dr</b>, I’m a Medical student and started using SRS in college:</p>
+      
 - _1st semester_: Anki 
 - _2nd semester_: 1 week SM and dropped all SRS (COVID-19)
 - _3rd semester_: SM + discord community = success (started 1 month before the classes which I suggest)
