@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T12:34:01.416Z
+date: 2020-12-22T12:45:53.008Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -22,6 +22,7 @@ This initiative attempts to support the theoretical framework found on this wiki
   <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
     <div class="v-card__title">
     	Guillem Palau
+      <span style="margin-left: auto;"><small>View blog</small></span>
     </div>
     <img class="align-right" style="max-width:150px" src="/blogs/guillem/2018-removebg-preview.png" />
     <div class="v-card__text">
