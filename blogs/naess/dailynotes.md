@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T21:16:30.206Z
+date: 2020-12-22T21:16:45.592Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -19,7 +19,7 @@ Strongly **disagree** here Woz. Took me over 1 year to develop atleast some sort
 
 What my girlfriend does with netflix seems shallow, but she is operating in environment with limited time, attention and information. She needs to use such heuristics to find the "optimal" movie in the shortest possible time. Sure my girlfriend can stop to read the descriptions, but that costs time and she has found it better method to do the first step filtering by the cover. She indeed is a notorious netflix flick killer but you know what? Without exception she enjoys what she watches. I bet you do too (when you are watching these movies alone). Atleast until you decide the garbage threshold is reached and you ditch the movie. You get a little "regret" and your inbuilt heuristics are adjusted just a little bit. You are more careful next time selecting similar looking movies.
 
-Why I say selecting a netflix movie is the purest form of a learn drive is because we are selecting the movie **only for ourselves**. There is no cultural pressure, your parents are not intervening, nobody is telling you that this is more important than that. In other words, no **external valuations**. It's just your **internal valuations** and the movie. Here we rely solely on our brains and the instincts. Our learn drive is guiding us 100%. Schooling does not affect me selecting a movie. I want the most enjoyable movie for the next couple hours and no external forces are going to affect that. Pure learn drive! 
+Why I say selecting a netflix movie is the purest form of a learn drive is because we are selecting the movie **only for ourselves**. There is no cultural pressure, your parents are not intervening, nobody is telling you that this is more important than that. In other words, no **external valuations**. It's just your **internal valuations** and the movies. Here we rely solely on our brains and the instincts. Our learn drive is guiding us 100%. Schooling does not affect me selecting a movie. I want the most enjoyable movie for the next couple hours and no external forces are going to affect that. Pure learn drive! 
 
 > Next time you are selecting an article for learning, do it the same way you would select a netflix movie to watch. Just that this is an important movie that contributes to great things.
 
