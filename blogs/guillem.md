@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-22T14:03:33.083Z
+date: 2020-12-22T14:18:37.154Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -23,16 +23,17 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 <iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/WzoEws4XPow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Tabs{.tabset}
+
 #### Pages
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.*](/en/blogs/guillem/schooling-system-humor)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Schooling Coercion Artwork *Gallery of thought-provoking illustrations*](/en/blogs/guillem/schooling-coercion-artwork)
 {.links-list}
 
 #### Articles
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> My schooling experience *Personal anecdotes*](https://guillem.supermemo.wiki)
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Learning as a remedy to depression *Free learning has been my therapy to depression*](https://guillem.supermemo.wiki)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> My schooling experience *Personal anecdotes*](/en/blogs/guillem/my-experience-in-the-school-system)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Learning as a remedy to depression *Free learning has been my therapy to depression*](/en/blogs/guillem/learning-as-a-remedy-to-depression)
 {.links-list}
+
 
 ## How I ended up here
 
