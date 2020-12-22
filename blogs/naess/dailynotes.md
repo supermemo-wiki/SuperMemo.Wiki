@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T21:17:32.731Z
+date: 2020-12-22T22:34:06.340Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -15,7 +15,7 @@ You want to see [learn drive](https://supermemo.guru/wiki/Learn_drive) in its pu
 In incremental reading, you will quickly develop skills needed to instantly differentiate between high quality articles and articles that are full of fluff and wasteful prose. You will indeed fish for catchy headlines, meaningful sections, minimum off-topic commentary, etc. Article quality will determine your ability to employ speed-reading, and to quickly prioritize your material. This has nothing to do with instant gratification obtained from social media, instant news, and other net distractions. 
 http://super-memory.org/archive/help16/il_full.htm
 
-Strongly **disagree** here Woz. Took me over 1 year to develop atleast some sort of skills to differentiate the high quality articles and I still suck at it. Incremental reading wasn't the big factor helping me to achieve atleast some sort of "sense of smell for value". It was about ditching intervening my brain doing the job it does the best, that is quick filtering of information based on the inbuilt heuristics. I wouldn't let these heuristics thrive. What I would do is let external factors, comparasions and thinking what culturally is viewed as noble thing to intervene my selection heuristics. This lead to piles of uninteresting material which would not stick to my memory. 
+Strongly **disagree** here Woz. Took me over 1 year to develop atleast some sort of skills to differentiate the high quality articles and I still suck at it. Incremental reading wasn't the big factor helping me to achieve atleast some sort of "sense of smell for value". It was about when I stopped intervening my brain doing the job it does the best, that is quick filtering of information based on the inbuilt heuristics. I wouldn't let these heuristics thrive. What I would do is let external factors, comparasions and thinking what culturally is viewed as noble thing to intervene my selection heuristics. This lead to piles of uninteresting material which would not stick to my memory. 
 
 What my girlfriend does with netflix seems shallow, but she is operating in environment with limited time, attention and information. She needs to use such heuristics to find the "optimal" movie in the shortest possible time. Sure my girlfriend can stop to read the descriptions, but that costs time and she has found it better method to do the first step filtering by the cover. She indeed is a notorious netflix flick killer but you know what? Without exception she enjoys what she watches. I bet you do too (when you are watching these movies alone). Atleast until you decide the garbage threshold is reached and you ditch the movie. You get a little "regret" and your inbuilt heuristics are adjusted just a little bit. You are more careful next time selecting similar looking movies.
 
