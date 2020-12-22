@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T13:14:38.550Z
+date: 2020-12-22T13:15:23.841Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -50,7 +50,7 @@ Shortly after starting to use SM, I found Piotr’s writings about the pleasure 
 Whereas in the past it was all about exams and grades, these days it is about inherently enjoying the study material and nothing can beat that! It creates a force that pulls you to study the material without having to resort to discipline or external rewards and that is optimal.
   
   </div></div></div>
-  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
     <div class="v-card__title">
     	mert1337
     </div>
@@ -62,7 +62,7 @@ After I graduated I wanted to develop my language skills even further. I found a
 I have found supermemo before but I thought it was complicated so I didn’t use it for like 6 months. Then I decided to give supermemo a chance. It was the best decision. At first it was hard but I got used to it. Now I read and learn about lots of different subjects. With supermemo I discovered the joy of learning.
   
   </div></div></div>
-  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
     <div class="v-card__title">
     	Gilgamesh
     </div>
@@ -74,7 +74,7 @@ Learning and Knowledge are stigmatized in my community due to how high school tr
 The joy of learning to me is in the concept of improving myself, we learn to become better and become better by learning, and then the final step in that is teaching someone else what I know, that’s why I learn.
   
   </div></div></div>
-  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
     <div class="v-card__title">
     	TheTrueSquidward
     </div>
@@ -94,7 +94,7 @@ I’d also faced a crisis of hobbies prior to learning of SuperMemo, thinking I 
 I soon discovered supermemo.guru’s brilliant array of articles and wisdom on genius. 
     </div>
   </div></div>
-  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
     <div class="v-card__title">
     	agdf
     </div>
