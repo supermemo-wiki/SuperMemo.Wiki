@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T19:31:33.101Z
+date: 2020-12-22T19:32:14.943Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -21,23 +21,6 @@ What my girlfriend does with netflix seems shallow, but she is operating in envi
 Why I say selecting a netflix movie is the purest form of a learn drive is because we are selecting the movie **only for ourselves**. There is no cultural pressure, your parents are not intervening, nobody is telling you that this is more important than that. It's just you and the movie. Here we rely solely on our brains and the instincts. Our learn drive is guiding us 100%. Schooling does not affect me selecting a movie. I want the most enjoyable movie for the next couple hours and no external forces are going to affect that. Pure learn drive! 
 
 
-# Incremental inspiration
-
-You want to achieve great things, don't you? You think watching videos is inferior to reading heavy textbooks huh? No time for videos in the hardcore student's learning schedule?! Productivity guru? GET OUT OF HERE! We are seeding passions here, building dreams and reaching for them. Applicability and aspirations.  
-
-You think your learning is optimal but you view optimal from the wrong angle. Your pragmatic friend who you think is an idiot is more optimal. You just don't see it but he knows it alright. This type is succesful in life and does always fine yet is not too smart or analytical (says you). Their learning is based on needs and problems, trial and error, sensory input and corrections. The hallmark of efficient learning! 
-
-You are optimizing the technology and methods. You are analyzing the steps but they don't need to think about it and yet they learn more efficiently than you do. Pragmatic "no-brain" approach beats analytical. Instincts beats intervention. They listen to what their brain is signaling to them! They do just fine without items and SuperMemo. 
-
-You think the productivity stems from your fine-tuned schedule but your buddy knows the real productivity stems from dreams and passions. The INSPIRATION is what drives him, no tools or methods can replace that. I would give up SuperMemo for life if I would receive in return a great aspiration for something. Just because I know I wouldn't need SM then. Everything would build on top of the aspiration no problem. SM would help but the inner drive is more powerful tool than SM.
-
-Without dreams or goals your learning is mundane. No efficiency for you buddy. Why don't you like inspiration or dreams? Your "dumb" friend does and he seems to do GREAT! Just because he knows how to dream. He probably watched a motivational speaker telling him he can do things and he really believes what the speaker is telling him. Your friend is PUMPED UP and ready for action. He is doing things and dreaming and meanwhile you are sitting there worrying about your SuperMemo collection and "optimal learning". 
-
-We say "go from basic to details", "understand the fundamentals first" and 
-
-
-
-*22.12.2020*
 # New chair
 I finally got a new chair. Years of poor posture, hours of abusing my back with poor chairs. Feels amazing to be able to sit straight and comfortably! 
 
