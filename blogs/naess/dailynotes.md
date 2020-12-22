@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T19:38:07.044Z
+date: 2020-12-22T19:38:56.202Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -17,7 +17,7 @@ http://super-memory.org/archive/help16/il_full.htm
 
 Strongly **disagree** here Woz. Took me over 1 year to develop atleast some sort of skills to differentiate the high quality articles and I still suck at it. Incremental reading wasn't the big factor helping me to achieve atleast some sort of "sense of smell for value". It was about ditching intervening my brain doing the job it does the best, that is quick filtering of information based on the inbuilt heuristics. I wouldn't let these heuristics thrive. What I would do is let external factors, comparasions and thinking what culturally is viewed as noble thing to intervene my selection heuristics. This lead to piles of uninteresting material which would not stick to my memory. 
 
-What my girlfriend does with netflix seems shallow, but she is operating in environment with limited time, attention and information. She needs to use such heuristics to find the "optimal" movie in the shortest possible time. This is what we do with finding romantic partners initially if we are not working with no information other than their looks. The looks are the information. Sure my girlfriend can stop to read the descriptions, but that costs time and she has found it better method to do the first step filtering by the cover. 
+What my girlfriend does with netflix seems shallow, but she is operating in environment with limited time, attention and information. She needs to use such heuristics to find the "optimal" movie in the shortest possible time. Sure my girlfriend can stop to read the descriptions, but that costs time and she has found it better method to do the first step filtering by the cover. 
 
 Why I say selecting a netflix movie is the purest form of a learn drive is because we are selecting the movie **only for ourselves**. There is no cultural pressure, your parents are not intervening, nobody is telling you that this is more important than that. It's just you and the movie. Here we rely solely on our brains and the instincts. Our learn drive is guiding us 100%. Schooling does not affect me selecting a movie. I want the most enjoyable movie for the next couple hours and no external forces are going to affect that. Pure learn drive! 
 
