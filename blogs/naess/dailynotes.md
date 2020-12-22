@@ -2,12 +2,42 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-21T12:43:18.414Z
+date: 2020-12-22T19:31:33.101Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
+# Learn drive in its purest form
+You want to see learn drive in its purest form? Go observe someone choosing a netflix movie to watch. I do this all the time on my girlfriend. I see her skipping movies like a madman! She is RUTHLESS on jumping over movie which has "stupid looking cover". No fear of missing out, nobody is stopping her. Once she told me to change Simpsons episode because the one on the TV looked lame. SHE SAW ONLY ONE FRAME. A SINGLE PAUSED FRAME. These kinds of heuristics are full of errors and leads to dismissing great things, but it's the best we have in the endless stream of information. We have only limited attention and we need to have these quick filters. We need to rely on catchy headlines.
+
+> In incremental reading, **you will quickly develop skills** needed to instantly differentiate between high quality articles and articles that are full of fluff and wasteful prose. You will indeed fish for catchy headlines, meaningful sections, minimum off-topic commentary, etc. Article quality will determine your ability to employ speed-reading, and to quickly prioritize your material. This has nothing to do with instant gratification obtained from social media, instant news, and other net distractions. 
+http://super-memory.org/archive/help16/il_full.htm
+
+Strongly **disagree** here Woz. Took me over 1 year to develop atleast some sort of skills to differentiate the high quality articles and I still suck at it. Incremental reading wasn't the big factor helping me to achieve atleast some sort of "sense of smell for value". It was about ditching intervening my brain doing the job it does the best, that is quick filtering of information based on the inbuilt heuristics. I wouldn't let these heuristics thrive. What I would do is let external factors, comparasions and thinking what culturally is viewed as noble thing to intervene my selection heuristics. This lead to piles of uninteresting material which would not stick to my memory. 
+
+What my girlfriend does with netflix seems shallow, but she is operating in environment with limited time, attention and information. She needs to use such heuristics to find the "optimal" movie in the shortest possible time. This is what we do with finding romantic partners initially if we are not working with no information other than their looks. The looks are the information. Sure my girlfriend can stop to read the descriptions, but that costs time and she has found it better method to do the first step filtering by the cover. 
+
+Why I say selecting a netflix movie is the purest form of a learn drive is because we are selecting the movie **only for ourselves**. There is no cultural pressure, your parents are not intervening, nobody is telling you that this is more important than that. It's just you and the movie. Here we rely solely on our brains and the instincts. Our learn drive is guiding us 100%. Schooling does not affect me selecting a movie. I want the most enjoyable movie for the next couple hours and no external forces are going to affect that. Pure learn drive! 
+
+
+# Incremental inspiration
+
+You want to achieve great things, don't you? You think watching videos is inferior to reading heavy textbooks huh? No time for videos in the hardcore student's learning schedule?! Productivity guru? GET OUT OF HERE! We are seeding passions here, building dreams and reaching for them. Applicability and aspirations.  
+
+You think your learning is optimal but you view optimal from the wrong angle. Your pragmatic friend who you think is an idiot is more optimal. You just don't see it but he knows it alright. This type is succesful in life and does always fine yet is not too smart or analytical (says you). Their learning is based on needs and problems, trial and error, sensory input and corrections. The hallmark of efficient learning! 
+
+You are optimizing the technology and methods. You are analyzing the steps but they don't need to think about it and yet they learn more efficiently than you do. Pragmatic "no-brain" approach beats analytical. Instincts beats intervention. They listen to what their brain is signaling to them! They do just fine without items and SuperMemo. 
+
+You think the productivity stems from your fine-tuned schedule but your buddy knows the real productivity stems from dreams and passions. The INSPIRATION is what drives him, no tools or methods can replace that. I would give up SuperMemo for life if I would receive in return a great aspiration for something. Just because I know I wouldn't need SM then. Everything would build on top of the aspiration no problem. SM would help but the inner drive is more powerful tool than SM.
+
+Without dreams or goals your learning is mundane. No efficiency for you buddy. Why don't you like inspiration or dreams? Your "dumb" friend does and he seems to do GREAT! Just because he knows how to dream. He probably watched a motivational speaker telling him he can do things and he really believes what the speaker is telling him. Your friend is PUMPED UP and ready for action. He is doing things and dreaming and meanwhile you are sitting there worrying about your SuperMemo collection and "optimal learning". 
+
+We say "go from basic to details", "understand the fundamentals first" and 
+
+
+
+*22.12.2020*
 # New chair
 I finally got a new chair. Years of poor posture, hours of abusing my back with poor chairs. Feels amazing to be able to sit straight and comfortably! 
 
