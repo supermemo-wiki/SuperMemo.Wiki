@@ -2,9 +2,9 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-20T22:05:27.082Z
+date: 2020-12-22T14:03:33.083Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
 ---
 
@@ -49,12 +49,14 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 
 
 ## Contact & Networks
-> Email: pleasurablelearning ^at¿ gmail. ~*just to avoid crawlers*~ com
+> <b>Email</b>: pleasurablelearning ^at¿ gmail. ~*just to avoid crawlers*~ com
 
-> Discord: guillemPalau#1890
+> <b>Discord</b>: guillemPalau#1890
 
-> YouTube channel (focus on SuperMemo): [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
+> <b>Support my work on [Patreon](https://www.patreon.com/pleasurable_learning)</b>: Coming in 2021: new YouYube channel, a podcast and writings focused on introducing people to slef-learning, plus undoing damage done by coerced schooling system.
 
-> Twitter (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
+> <b>YouTube channel</b> (focus on SuperMemo): [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
 
-> Twitch (kind of inactive ATM): [guillempalausalva](https://www.twitch.tv/guillempalausalva)
+> <b>Twitter</b> (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
+
+> <b>Twitch</b> (kind of inactive ATM): [guillempalausalva](https://www.twitch.tv/guillempalausalva)
