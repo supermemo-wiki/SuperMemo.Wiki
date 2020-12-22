@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T19:43:53.679Z
+date: 2020-12-22T19:54:48.227Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -23,6 +23,14 @@ Why I say selecting a netflix movie is the purest form of a learn drive is becau
 
 > Next time you are selecting an article for learning, do it the same way you would select a netflix movie to watch. Just that this is an important movie that contributes to great things.
 
+*22.12.2020*
+
+# Dreams and passion
+You think the productivity stems from your fine-tuned schedule and top notch tools but the real productivity stems from dreams and passions. The inspiration is what drives greatness, no tools or methods can replace that. I would give up SuperMemo for life if I would receive in return a great aspiration for something. Just because I know I wouldn't need SM then. Everything would build on top of the aspiration no problem. SM would be helpful but the inner drive is more powerful tool than that.
+
+Incremental video is great for building inspiration and dreams. Vivid and living things inspire us greatly.
+
+*22.12.2020*
 
 # New chair
 I finally got a new chair. Years of poor posture, hours of abusing my back with poor chairs. Feels amazing to be able to sit straight and comfortably! 
