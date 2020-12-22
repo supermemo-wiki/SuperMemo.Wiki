@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T13:35:50.451Z
+date: 2020-12-22T13:40:21.990Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -36,6 +36,40 @@ After growing my collection during a decade and suffering from Anki limitations,
 My initial thought was to document my transition to SuperMemo, recording my whole experience as not every day you see a user with ten years of intense use of SRS being brand new to SuperMemo. One of my initial surprises was the community, which has been very engaging and good-hearted, as well as contributing high quality insights about learning and related topics.
 
 After using SuperMemo for about 4 months, I realized that SuperMemo is not a replacement for Anki, or vice versa. There is not a SM versus Anki. Most of what I do in SuperMemo I cannot do it on Anki. I am developing new habits of incrementalism in reading, writing, video and email, and this is a gamer changer, especially Incremental Reading.
+    </div>
+  </div></div>
+  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2">
+    <div class="v-card__title">
+    	agdf
+    </div>
+    <div class="v-card__text">
+<p><b>tl;dr</b>, I’m a Medical student and started using SRS in college:</p>
+      
+- _1st semester_: Anki 
+- _2nd semester_: 1 week SM and dropped all SRS (COVID-19)
+- _3rd semester_: SM + discord community = success (started 1 month before the classes which I suggest)
+
+I was the best student at my school in the last year of high school, then I entered medicine and felt like there was too much to memorize.
+
+I knew if I didn’t use efficient methods I would:
+- Forget “everything” by the time the information was requested.
+- Not have time to review everything (And not have time to spend with friends and family).
+
+I made some quick searches on the internet and rediscovered Anki (I had already found it but never dedicated the time to start using it properly) I watched the Med School Insiders’ Youtube playlist to start that has the basics of formulation and the Anki program.
+
+But I still felt like there was a disconnection between making cards and learning.
+
+At the end of the first semester I got some free time and I started searching for ways to improve my learning method, that’s when I came across the Master How to Learn Blog, where I was introduced to SM and IR.
+
+On the second semester I started using [SuperMemo 15 Freeware](http://supermemopedia.com/wiki/SuperMemo_15_Freeware) - SuperMemopedia made a bunch of cards and then I just messed around and didn’t study/use any SRS program at all during the semester (COVID-19 lockdowns started and I discovered that my motivation to study came mostly from the learning college community), therefore I barely passed the exams.
+
+I was pretty reticent about starting using SM because the amount of material I have to learn as a medical student is absurdly high, just like Woz says “the demands of a medical school go well beyond the human capacity to learn” ([Dealing with material overload in medical school](http://supermemopedia.com/wiki/Dealing_with_material_overload_in_medical_school) - SuperMemopedia), but after reading so much good things about IR and SM, I could stop thinking I was doing suboptimally.
+
+So I decided to take action and e-mailed Master How to Learn author that had written about using SM on some different college degrees, namely Medical school, he suggested giving SM a try, and I did, I simultaneously entered the discord community which helped me get through the arduous learning curve to start using SM (namely Incremental Reading).
+
+Today it’s the 110th day I’ve been using SM basically non-stop and I don’t imagine myself stopping using SM while I can do it (dementia, or death may make it impossible XD).
+
+Medical students only:During COVID-19 my college decided to buy AMBOSS and I discovered yesterday that I can import whole articles into SM directly. You can also set the search on the internet to AMBOSS ([Useful web search definition](http://supermemopedia.com/wiki/Useful_web_search_definition) - SuperMemopedia).
     </div>
   </div></div>
   <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2">
@@ -95,40 +129,6 @@ I slowly moved away from using Instaper (for articles), anki (for learning), and
 I’d also faced a crisis of hobbies prior to learning of SuperMemo, thinking I had to fill up something to do with my time. But learning was the best hobby! Now I am thoroughly addicted to consolidating knowledge and learning new things, and have grown far quicker with supermemo than I did before.
 
 I soon discovered supermemo.guru’s brilliant array of articles and wisdom on genius. 
-    </div>
-  </div></div>
-  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2">
-    <div class="v-card__title">
-    	agdf
-    </div>
-    <div class="v-card__text">
-<p><b>tl;dr</b>, I’m a Medical student and started using SRS in college:</p>
-      
-- _1st semester_: Anki 
-- _2nd semester_: 1 week SM and dropped all SRS (COVID-19)
-- _3rd semester_: SM + discord community = success (started 1 month before the classes which I suggest)
-
-I was the best student at my school in the last year of high school, then I entered medicine and felt like there was too much to memorize.
-
-I knew if I didn’t use efficient methods I would:
-- Forget “everything” by the time the information was requested.
-- Not have time to review everything (And not have time to spend with friends and family).
-
-I made some quick searches on the internet and rediscovered Anki (I had already found it but never dedicated the time to start using it properly) I watched the Med School Insiders’ Youtube playlist to start that has the basics of formulation and the Anki program.
-
-But I still felt like there was a disconnection between making cards and learning.
-
-At the end of the first semester I got some free time and I started searching for ways to improve my learning method, that’s when I came across the Master How to Learn Blog, where I was introduced to SM and IR.
-
-On the second semester I started using [SuperMemo 15 Freeware](http://supermemopedia.com/wiki/SuperMemo_15_Freeware) - SuperMemopedia made a bunch of cards and then I just messed around and didn’t study/use any SRS program at all during the semester (COVID-19 lockdowns started and I discovered that my motivation to study came mostly from the learning college community), therefore I barely passed the exams.
-
-I was pretty reticent about starting using SM because the amount of material I have to learn as a medical student is absurdly high, just like Woz says “the demands of a medical school go well beyond the human capacity to learn” ([Dealing with material overload in medical school](http://supermemopedia.com/wiki/Dealing_with_material_overload_in_medical_school) - SuperMemopedia), but after reading so much good things about IR and SM, I could stop thinking I was doing suboptimally.
-
-So I decided to take action and e-mailed Master How to Learn author that had written about using SM on some different college degrees, namely Medical school, he suggested giving SM a try, and I did, I simultaneously entered the discord community which helped me get through the arduous learning curve to start using SM (namely Incremental Reading).
-
-Today it’s the 110th day I’ve been using SM basically non-stop and I don’t imagine myself stopping using SM while I can do it (dementia, or death may make it impossible XD).
-
-Medical students only:During COVID-19 my college decided to buy AMBOSS and I discovered yesterday that I can import whole articles into SM directly. You can also set the search on the internet to AMBOSS ([Useful web search definition](http://supermemopedia.com/wiki/Useful_web_search_definition) - SuperMemopedia).
     </div>
   </div></div>
 </div>
