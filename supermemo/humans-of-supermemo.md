@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T11:53:36.054Z
+date: 2020-12-22T12:07:19.319Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -19,12 +19,12 @@ This initiative attempts to support the theoretical framework found on this wiki
 # User stories
 
 <div class="layout wrap row">
-  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2"><div class="v-card__text">
-
-## Guillem Palau
-
-![2018-removebg-preview.png](/blogs/guillem/2018-removebg-preview.png =100x){.align-right}
-
+  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+    <div class="v-card__title">
+    	Guillem Palau
+    </div>
+    <img class="align-right" style="max-width:150px" src="/blogs/guillem/2018-removebg-preview.png" />
+    <div class="v-card__text">
 I always had a strong learn drive that luckily survived the school system. I knew the existence of SuperMemo when I installed Anki back in 2008, as Anki was based on SuperMemo. I read about it, but I never gave SuperMemo a try as it was not open source.
 
 After growing my collection during a decade and suffering from Anki limitations, I finally decided to give SuperMemo a try because of Incremental Reading. I was having a very strong cognitive dissonance about Wozniak’s writings and SuperMemo being proprietary software.
@@ -32,12 +32,13 @@ After growing my collection during a decade and suffering from Anki limitations,
 My initial thought was to document my transition to SuperMemo, recording my whole experience as not every day you see a user with ten years of intense use of SRS being brand new to SuperMemo. One of my initial surprises was the community, which has been very engaging and good-hearted, as well as contributing high quality insights about learning and related topics.
 
 After using SuperMemo for about 4 months, I realized that SuperMemo is not a replacement for Anki, or vice versa. There is not a SM versus Anki. Most of what I do in SuperMemo I cannot do it on Anki. I am developing new habits of incrementalism in reading, writing, video and email, and this is a gamer changer, especially Incremental Reading.
-  
-  </div></div></div>
-  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2"><div class="v-card__text">
-
-## Naess
-
+    </div>
+  </div></div>
+  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+    <div class="v-card__title">
+    	Naess
+    </div>
+    <div class="v-card__text">
 I found SuperMemo on my search for optimal learning methods. Passing the entrance exam for my university was the main motivator behind increasing productivity in learning.
 
 Before SM I used Anki for 6 months. As someone who was obsessed with ‘optimality’, SM’s superior algorithm over Anki was the selling point for me.
@@ -47,10 +48,11 @@ Shortly after starting to use SM, I found Piotr’s writings about the pleasure 
 Whereas in the past it was all about exams and grades, these days it is about inherently enjoying the study material and nothing can beat that! It creates a force that pulls you to study the material without having to resort to discipline or external rewards and that is optimal.
   
   </div></div></div>
-  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2"><div class="v-card__text">
-
-## mert1337
-
+  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+    <div class="v-card__title">
+    	mert1337
+    </div>
+    <div class="v-card__text">
 I have been watching anime for a long time. I wanted to learn japanese. I took japanese class at college. I memorized words and the alphabet by writing and repeating a lot.
 
 After I graduated I wanted to develop my language skills even further. I found anki to memorize words and kanji. I used it 1,5 years. It worked pretty well at the start then repetitions piled up.
@@ -58,10 +60,11 @@ After I graduated I wanted to develop my language skills even further. I found a
 I have found supermemo before but I thought it was complicated so I didn’t use it for like 6 months. Then I decided to give supermemo a chance. It was the best decision. At first it was hard but I got used to it. Now I read and learn about lots of different subjects. With supermemo I discovered the joy of learning.
   
   </div></div></div>
-  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2"><div class="v-card__text">
-
-## gilgamesh
-
+  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+    <div class="v-card__title">
+    	Gilgamesh
+    </div>
+    <div class="v-card__text">
 Let’s start with saying that highschool learning was a boring chore and any form of “Learning” was just learning how to most effectively ace the exam based on previous questions rather than actual learning and comprehension of information, I started researching better ways to learn and ended up learning about Spaced Repetition and Anki, I tried Anki for my 12th Grade year with some success but I found it difficult to keep up, although I knew about SuperMemo at the time, I choose not to use it due to how complex it seemed and not having time to put into it, but with the help of the SuperMemo.wiki discord and of course Ra, I was able to get into a pleasant workflow of learning, I am now in the process of using SuperMemo to target the areas of learning that I want to apply the most, namely Economics (College), Programming, and Music Theory.
 
 Learning and Knowledge are stigmatized in my community due to how high school treated it, I hope that I can be of an effect to lift this stigma a bit and give them their deserved attention.
@@ -69,10 +72,11 @@ Learning and Knowledge are stigmatized in my community due to how high school tr
 The joy of learning to me is in the concept of improving myself, we learn to become better and become better by learning, and then the final step in that is teaching someone else what I know, that’s why I learn.
   
   </div></div></div>
-  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2"><div class="v-card__text">
-
-## TheTrueSquidward
-
+  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+    <div class="v-card__title">
+    	TheTrueSquidward
+    </div>
+    <div class="v-card__text">
 I had been using Anki for upwards of 2 years, and it had been the least pleasant of all the habits I’d tried to manifest. Learning was a pain I coerced myself into doing daily, joyless and forced. It was about a year before my Big Exams that I realised I’d have to convert the massive amount of material in my exams into Anki cards. 
 
 Hundreds of cards… made one… by one… by one…
@@ -86,12 +90,13 @@ I slowly moved away from using Instaper (for articles), anki (for learning), and
 I’d also faced a crisis of hobbies prior to learning of SuperMemo, thinking I had to fill up something to do with my time. But learning was the best hobby! Now I am thoroughly addicted to consolidating knowledge and learning new things, and have grown far quicker with supermemo than I did before.
 
 I soon discovered supermemo.guru’s brilliant array of articles and wisdom on genius. 
-  
-  </div></div></div>
-  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2"><div class="v-card__text">
-
-## agdf
-
+    </div>
+  </div></div>
+  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+    <div class="v-card__title">
+    	agdf
+    </div>
+    <div class="v-card__text">
 **TL;DR**, I’m a Medical student and started using SRS in college:
 - _1st semester_: Anki 
 - _2nd semester_: 1 week SM and dropped all SRS (COVID-19)
@@ -118,6 +123,6 @@ So I decided to take action and e-mailed Master How to Learn author that had wri
 Today it’s the 110th day I’ve been using SM basically non-stop and I don’t imagine myself stopping using SM while I can do it (dementia, or death may make it impossible XD).
 
 Medical students only:During COVID-19 my college decided to buy AMBOSS and I discovered yesterday that I can import whole articles into SM directly. You can also set the search on the internet to AMBOSS ([Useful web search definition](http://supermemopedia.com/wiki/Useful_web_search_definition) - SuperMemopedia).
-
-  </div></div></div>
+    </div>
+  </div></div>
 </div>
