@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T19:41:44.798Z
+date: 2020-12-22T19:42:02.912Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -17,7 +17,7 @@ http://super-memory.org/archive/help16/il_full.htm
 
 Strongly **disagree** here Woz. Took me over 1 year to develop atleast some sort of skills to differentiate the high quality articles and I still suck at it. Incremental reading wasn't the big factor helping me to achieve atleast some sort of "sense of smell for value". It was about ditching intervening my brain doing the job it does the best, that is quick filtering of information based on the inbuilt heuristics. I wouldn't let these heuristics thrive. What I would do is let external factors, comparasions and thinking what culturally is viewed as noble thing to intervene my selection heuristics. This lead to piles of uninteresting material which would not stick to my memory. 
 
-What my girlfriend does with netflix seems shallow, but she is operating in environment with limited time, attention and information. She needs to use such heuristics to find the "optimal" movie in the shortest possible time. Sure my girlfriend can stop to read the descriptions, but that costs time and she has found it better method to do the first step filtering by the cover. She indeed is a notorious netflix flick killer but you know what? Without exception she enjoys what she watches. I bet you do too (when you are watching these movies alone). Atleast until you decide the garbage threshold is reached and you ditch the movie. You get a little "regret" and your inbuilt heuristics are modified just a bit. You are more careful next time selecting similar looking movies.
+What my girlfriend does with netflix seems shallow, but she is operating in environment with limited time, attention and information. She needs to use such heuristics to find the "optimal" movie in the shortest possible time. Sure my girlfriend can stop to read the descriptions, but that costs time and she has found it better method to do the first step filtering by the cover. She indeed is a notorious netflix flick killer but you know what? Without exception she enjoys what she watches. I bet you do too (when you are watching these movies alone). Atleast until you decide the garbage threshold is reached and you ditch the movie. You get a little "regret" and your inbuilt heuristics are adjusted just a little bit. You are more careful next time selecting similar looking movies.
 
 Why I say selecting a netflix movie is the purest form of a learn drive is because we are selecting the movie **only for ourselves**. There is no cultural pressure, your parents are not intervening, nobody is telling you that this is more important than that. It's just you and the movie. Here we rely solely on our brains and the instincts. Our learn drive is guiding us 100%. Schooling does not affect me selecting a movie. I want the most enjoyable movie for the next couple hours and no external forces are going to affect that. Pure learn drive! 
 
