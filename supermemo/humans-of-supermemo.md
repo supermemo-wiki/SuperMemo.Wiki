@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T13:15:23.841Z
+date: 2020-12-22T13:27:02.060Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -20,6 +20,9 @@ This initiative attempts to support the theoretical framework found on this wiki
 
 <div class="layout wrap row">
   <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+    <div class="v-image v-responsive theme--light" style="height: 150px;">
+      <div class="v-image__image v-image__image--cover" style="background-image: url(&quot;/blogs/guillem/pleasurable-learning-banner.png&quot;); background-position: center center;"></div>
+    </div>
     <div class="v-card__title">
     	Guillem Palau
       <span style="margin-left: auto;"><small><i><a href="https://guillem.supermemo.wiki/">View blog</a></i></small></span>
