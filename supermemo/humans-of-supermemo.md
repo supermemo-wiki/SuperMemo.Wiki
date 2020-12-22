@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T12:55:06.713Z
+date: 2020-12-22T13:14:38.550Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -19,7 +19,7 @@ This initiative attempts to support the theoretical framework found on this wiki
 # User stories
 
 <div class="layout wrap row">
-  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
     <div class="v-card__title">
     	Guillem Palau
       <span style="margin-left: auto;"><small><i><a href="https://guillem.supermemo.wiki/">View blog</a></i></small></span>
@@ -35,7 +35,7 @@ My initial thought was to document my transition to SuperMemo, recording my whol
 After using SuperMemo for about 4 months, I realized that SuperMemo is not a replacement for Anki, or vice versa. There is not a SM versus Anki. Most of what I do in SuperMemo I cannot do it on Anki. I am developing new habits of incrementalism in reading, writing, video and email, and this is a gamer changer, especially Incremental Reading.
     </div>
   </div></div>
-  <div class="flex xs12 xl6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
+  <div class="flex xs12 lg6 d-flex"><div class="v-card v-sheet theme--light v-sheet--shaped elevation-2 pa-2 ma-2">
     <div class="v-card__title">
     	Naess
       <span style="margin-left: auto;"><small><i><a href="https://naess.supermemo.wiki/">View blog</a></i></small></span>
