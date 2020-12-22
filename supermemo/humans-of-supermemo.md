@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-22T12:45:53.008Z
+date: 2020-12-22T12:46:04.693Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -24,8 +24,8 @@ This initiative attempts to support the theoretical framework found on this wiki
     	Guillem Palau
       <span style="margin-left: auto;"><small>View blog</small></span>
     </div>
-    <img class="align-right" style="max-width:150px" src="/blogs/guillem/2018-removebg-preview.png" />
     <div class="v-card__text">
+    <img class="align-right" style="max-width:150px" src="/blogs/guillem/2018-removebg-preview.png" />
 I always had a strong learn drive that luckily survived the school system. I knew the existence of SuperMemo when I installed Anki back in 2008, as Anki was based on SuperMemo. I read about it, but I never gave SuperMemo a try as it was not open source.
 
 After growing my collection during a decade and suffering from Anki limitations, I finally decided to give SuperMemo a try because of Incremental Reading. I was having a very strong cognitive dissonance about Wozniak’s writings and SuperMemo being proprietary software.
