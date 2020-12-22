@@ -2,14 +2,14 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T21:16:45.592Z
+date: 2020-12-22T21:17:32.731Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
 # Learn drive in its purest form
-You want to see learn drive in its purest form? Go observe someone choosing a netflix movie to watch. I do this all the time on my girlfriend. I see her skipping movies like a madman! She is RUTHLESS on jumping over movie which has "stupid looking cover". No fear of missing out, nobody is stopping her. Once she told me to change Simpsons episode because the one on the TV looked lame. SHE SAW ONLY ONE FRAME. A SINGLE PAUSED FRAME. These kinds of heuristics are full of errors and leads to dismissing great things, but it's the best we have in the endless stream of information. There is always more and better things. We have only limited attention and we need these quick filters.
+You want to see [learn drive](https://supermemo.guru/wiki/Learn_drive) in its purest form? Go observe someone choosing a netflix movie to watch. I do this all the time on my girlfriend. I see her skipping movies like a madman! She is RUTHLESS on jumping over movie which has "stupid looking cover". No fear of missing out, nobody is stopping her. Once she told me to change Simpsons episode because the one on the TV looked lame. SHE SAW ONLY ONE FRAME. A SINGLE PAUSED FRAME. These kinds of heuristics are full of errors and leads to dismissing great things, but it's the best we have in the endless stream of information. There is always more and better things. We have only limited attention and we need these quick filters.
 
 > **Article quality matters in learning**
 In incremental reading, you will quickly develop skills needed to instantly differentiate between high quality articles and articles that are full of fluff and wasteful prose. You will indeed fish for catchy headlines, meaningful sections, minimum off-topic commentary, etc. Article quality will determine your ability to employ speed-reading, and to quickly prioritize your material. This has nothing to do with instant gratification obtained from social media, instant news, and other net distractions. 
