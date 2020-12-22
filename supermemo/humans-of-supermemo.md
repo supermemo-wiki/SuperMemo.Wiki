@@ -2,9 +2,9 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2020-12-16T14:47:57.868Z
+date: 2020-12-22T09:31:04.975Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
 ---
 
@@ -28,7 +28,7 @@ Shortly after starting to use SM, I found Piotr’s writings about the pleasure 
 
 Whereas in the past it was all about exams and grades, these days it is about inherently enjoying the study material and nothing can beat that! It creates a force that pulls you to study the material without having to resort to discipline or external rewards and that is optimal.
 
-## Guillem Palau
+## Guillem Palau![2018-removebg-preview.png](/blogs/guillem/2018-removebg-preview.png =100x){.align-right}
 
 I always had a strong learn drive that luckily survived the school system. I knew the existence of SuperMemo when I installed Anki back in 2008, as Anki was based on SuperMemo. I read about it, but I never gave SuperMemo a try as it was not open source.
 
