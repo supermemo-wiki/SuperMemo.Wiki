@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T19:36:35.017Z
+date: 2020-12-22T19:38:07.044Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -11,7 +11,8 @@ dateCreated: 2020-12-18T14:23:19.314Z
 # Learn drive in its purest form
 You want to see learn drive in its purest form? Go observe someone choosing a netflix movie to watch. I do this all the time on my girlfriend. I see her skipping movies like a madman! She is RUTHLESS on jumping over movie which has "stupid looking cover". No fear of missing out, nobody is stopping her. Once she told me to change Simpsons episode because the one on the TV looked lame. SHE SAW ONLY ONE FRAME. A SINGLE PAUSED FRAME. These kinds of heuristics are full of errors and leads to dismissing great things, but it's the best we have in the endless stream of information. There is always more and better things. We have only limited attention and we need these quick filters.
 
-> In incremental reading, **you will quickly develop skills** needed to instantly differentiate between high quality articles and articles that are full of fluff and wasteful prose. You will indeed fish for catchy headlines, meaningful sections, minimum off-topic commentary, etc. Article quality will determine your ability to employ speed-reading, and to quickly prioritize your material. This has nothing to do with instant gratification obtained from social media, instant news, and other net distractions. 
+> **Article quality matters in learning**
+In incremental reading, you will quickly develop skills needed to instantly differentiate between high quality articles and articles that are full of fluff and wasteful prose. You will indeed fish for catchy headlines, meaningful sections, minimum off-topic commentary, etc. Article quality will determine your ability to employ speed-reading, and to quickly prioritize your material. This has nothing to do with instant gratification obtained from social media, instant news, and other net distractions. 
 http://super-memory.org/archive/help16/il_full.htm
 
 Strongly **disagree** here Woz. Took me over 1 year to develop atleast some sort of skills to differentiate the high quality articles and I still suck at it. Incremental reading wasn't the big factor helping me to achieve atleast some sort of "sense of smell for value". It was about ditching intervening my brain doing the job it does the best, that is quick filtering of information based on the inbuilt heuristics. I wouldn't let these heuristics thrive. What I would do is let external factors, comparasions and thinking what culturally is viewed as noble thing to intervene my selection heuristics. This lead to piles of uninteresting material which would not stick to my memory. 
