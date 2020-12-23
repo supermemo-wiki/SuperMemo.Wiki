@@ -2,9 +2,9 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-19T17:20:25.530Z
+date: 2020-12-23T08:02:25.412Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
 ---
 
@@ -22,8 +22,8 @@ Find out how to create and edit your personal page on this wiki by clicking on t
 
 # User blogs
 
+<!-- - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Alexis' Man Cave *Work in progress.*](https://alexis.supermemo.wiki/) -->
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Naess' Corner *The wacky journey of a well-schooled student.*](https://naess.supermemo.wiki/)
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Alexis' Man Cave *Work in progress.*](https://alexis.supermemo.wiki/)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Guillem's Corner *Inspiring others to discover the pleasure of self-directed learning*](https://guillem.supermemo.wiki)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Maths' Corner *Non-descriptive generic text*](https://maths.supermemo.wiki)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Gilgamesh's Corner *Learning, Improving, Creating...*](https://gilgamesh.supermemo.wiki)
