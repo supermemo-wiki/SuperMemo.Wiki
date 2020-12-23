@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-23T15:43:05.967Z
+date: 2020-12-23T15:44:00.340Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -387,17 +387,16 @@ graph TD
 mermaid
 
 graph TB
-    IR-step1>"Read article"]
-    IR-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
-    IR-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
-    IR-step4>"Move to next article"]
-    
-    IR-step1 -- 1. Locate interesting information --> IR-step2
-    IR-step2 -- 2. Extract valuable text for later --> IR-step3
-    IR-step3 -- 3. Repeat until bored with current article --> IR-step1
-    IR-step3 -- 4. When bored with current article --> IR-step4
-    IR-step4 -- 5. Repeat until done with studying --> IR-step1
-
+  IR-step1>"Read article"]
+  IR-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
+  IR-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
+  IR-step4>"Move to next article"]
+  
+  IR-step1 -- 1. Locate interesting information --> IR-step2
+  IR-step2 -- 2. Extract valuable text for later --> IR-step3
+  IR-step3 -- 3. Repeat until bored with current article --> IR-step1
+  IR-step3 -- 4. When bored with current article --> IR-step4
+  IR-step4 -- 5. Repeat until done with studying --> IR-step1
 ```
 
 ### Example: Evolution over a few days
