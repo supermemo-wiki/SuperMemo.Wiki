@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-23T15:37:12.422Z
+date: 2020-12-23T15:40:38.024Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -374,7 +374,8 @@ In Incremental Reading, all the material yet to be processed is added into a [qu
 
 How long to study each element before moving on to the next one is left at the discretion of the user's own heuristics. Typical triggers for making that decision include decreases in concentration or pleasure.
 
-```mermaid
+```kroki
+mermaid
 
 graph TB
     IR-step1>"Read article"]
@@ -400,7 +401,8 @@ This example illustrates the **evolution of a paragraph** taken from the [wiki a
 {.is-info}
 
 #### Day 1 of Incremental Reading
-```mermaid
+```kroki
+mermaid
 
 graph LR
     IR-rep1-step1>"Do IR"]
@@ -415,7 +417,8 @@ graph LR
 ```
 
 #### Day 2 of Incremental Reading
-```mermaid
+```kroki
+mermaid
 
 graph LR
     IR-rep2-step1>"Do IR"]
