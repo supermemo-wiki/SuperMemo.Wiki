@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-23T14:48:58.599Z
+date: 2020-12-23T14:53:58.376Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -19,13 +19,17 @@ dateCreated: 2020-12-18T09:26:43.841Z
 ## Bio
 I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion.
 
-## Learning how to usde SuperMemo18
-Here is the uncut footage I recorded during my initial familiarization to SuperMemo.
-> Notice that the playlist contains unlisted videos.
+## Learning how to use SuperMemo18 footage
+[Here is the uncut footage](
+https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded during my initial familiarization to SuperMemo.
+> Videos are meant to serve as proof, rather than being watched on its entirety.
+{.is-info}
+
+
+> Notice that the playlist contains unlisted videos, so they won't show up on Youtube channel or search.
 {.is-warning}
 
-https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF
-<iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/WzoEws4XPow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
