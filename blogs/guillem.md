@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2020-12-23T14:53:58.376Z
+date: 2020-12-23T14:55:28.837Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -16,6 +16,7 @@ dateCreated: 2020-12-18T09:26:43.841Z
 
 > Do not hestitate do leave feedback here or privately if you prefer.
 {.is-info}
+
 ## Bio
 I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion.
 
@@ -46,17 +47,8 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 {.links-list}
 
 
-## How I ended up here
-
-
-
 ## Motivation for writing here
  Motivation to help other people to undo to harm done by the years of schooling coercion. Introduce people to the pleasure of learning, to restore their learn drive.
-
-
-
-
-
 
 
 
