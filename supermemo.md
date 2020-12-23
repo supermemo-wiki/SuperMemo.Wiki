@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-23T15:44:00.340Z
+date: 2020-12-23T15:54:17.688Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -373,30 +373,21 @@ This table **compares the principles** of incremental reading (parallel) and tra
 In Incremental Reading, all the material yet to be processed is added into a [queue](/supermemo/queues). **Each element** in the queue is **examined in succession**.
 
 How long to study each element before moving on to the next one is left at the discretion of the user's own heuristics. Typical triggers for making that decision include decreases in concentration or pleasure.
-```kroki
-mermaid
 
-graph TD
-  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
-  B --> C{ How to contribute? }
-  C --> D[ Reporting bugs ]
-  C --> E[ Sharing ideas ]
-  C --> F[ Advocating ]
-```
-```kroki
-mermaid
+```mermaid
 
 graph TB
-  IR-step1>"Read article"]
-  IR-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
-  IR-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
-  IR-step4>"Move to next article"]
-  
-  IR-step1 -- 1. Locate interesting information --> IR-step2
-  IR-step2 -- 2. Extract valuable text for later --> IR-step3
-  IR-step3 -- 3. Repeat until bored with current article --> IR-step1
-  IR-step3 -- 4. When bored with current article --> IR-step4
-  IR-step4 -- 5. Repeat until done with studying --> IR-step1
+    IR-step1>"Read article"]
+    IR-step2("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
+    IR-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-2.png'; width='250px' height='161px'/>")
+    IR-step4>"Move to next article"]
+    
+    IR-step1 -- 1. Locate interesting information --> IR-step2
+    IR-step2 -- 2. Extract valuable text for later --> IR-step3
+    IR-step3 -- 3. Repeat until bored with current article --> IR-step1
+    IR-step3 -- 4. When bored with current article --> IR-step4
+    IR-step4 -- 5. Repeat until done with studying --> IR-step1
+
 ```
 
 ### Example: Evolution over a few days
@@ -409,8 +400,7 @@ This example illustrates the **evolution of a paragraph** taken from the [wiki a
 {.is-info}
 
 #### Day 1 of Incremental Reading
-```kroki
-mermaid
+```mermaid
 
 graph LR
     IR-rep1-step1>"Do IR"]
@@ -425,8 +415,7 @@ graph LR
 ```
 
 #### Day 2 of Incremental Reading
-```kroki
-mermaid
+```mermaid
 
 graph LR
     IR-rep2-step1>"Do IR"]
