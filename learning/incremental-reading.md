@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-24T08:56:12.808Z
+date: 2020-12-24T08:59:13.028Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -14,7 +14,7 @@ dateCreated: 2020-12-12T18:05:35.512Z
 
 In the context of this wiki, **material** designates any sort of media through which learning can be achieved. Some example of material include: books, web articles, videos, podcasts, etc.
 
-With [spaced repetition](/supermemo/spaced-repetition), IR is one of the two fundamental paradigms of SuperMemo.
+With [spaced repetition](/supermemo/spaced-repetition) and [knowledge destructuring](/supermemo#knowledge-destructuring), IR is one of the three fundamental paradigms of SuperMemo.
 
 ## Comparison Matrix
 
