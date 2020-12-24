@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2020-12-21T19:28:48.230Z
+date: 2020-12-24T13:14:21.235Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -46,7 +46,7 @@ dateCreated: 2020-12-05T18:21:42.959Z
 <table>
   <tbody>
     <tr>
-      <td rowspan="3">
+      <td rowspan="2">
         <p>
           <strong>Official websites</strong>
         </p>
@@ -71,6 +71,11 @@ dateCreated: 2020-12-05T18:21:42.959Z
       </td>
     </tr>
     <tr>
+      <td rowspan="2">
+        <p>
+          <strong>Official wiki</strong>
+        </p>
+      </td>
       <td>
         <p>
           <a target="_blank" href="http://supermemopedia.com/">SuperMemopedia</a>
@@ -78,6 +83,16 @@ dateCreated: 2020-12-05T18:21:42.959Z
       </td>
       <td>
         <p>Official SuperMemo wiki.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <a target="_blank" href="http://supermemo.guru/">SuperMemopedia</a>
+        </p>
+      </td>
+      <td>
+        <p><a target="blank" href="/supermemo/piotr-wozniak">Piotr Wozniak</a>'s online book on SuperMemo, learning and education.</p>
       </td>
     </tr>
     <tr>
@@ -102,7 +117,7 @@ dateCreated: 2020-12-05T18:21:42.959Z
         </p>
       </td>
       <td>
-        <p>Official channel with videos published by <a target="blank" href="https://supermemo.guru/wiki/Piotr_Wozniak">Piotr Wozniak</a>.</p>
+        <p>Official channel with videos published by Piotr Wozniak.</p>
       </td>
     </tr>
   </tbody>
