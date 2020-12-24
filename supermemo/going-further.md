@@ -1,8 +1,8 @@
 ---
 title: Going Further With SuperMemo
-description: Advancing from a begginer
+description: Tips for progressing from amateur level to expert.
 published: true
-date: 2020-12-24T08:47:49.515Z
+date: 2020-12-24T08:49:05.328Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T17:28:23.407Z
