@@ -2,7 +2,7 @@
 title: Going Further With SuperMemo
 description: Tips for progressing from amateur level to expert.
 published: true
-date: 2020-12-24T12:52:45.113Z
+date: 2020-12-24T12:53:16.620Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T17:28:23.407Z
@@ -16,11 +16,11 @@ If you have become familiar with [the essentials](/supermemo) of SuperMemo and w
 
 These **in-depth learning guides** introduce advanced techniques for maximizing your learning potential. 
 
-- [Knowledge Formulation *Techniques for encoding knowledge.*](/learning/knowledge-formulation)
-- [Incremental Reading *How to learn wide and deep, with a smile.*](/learning/incremental-reading)
-- [Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/learning/pleasure-of-learning)
-- [Studying for School *Guides for learning School Material.*](/learning/school)
-- [Incremental Writing *Increase your creativity and writing quality.*](/learning/incremental-writing)
+- [<span style="color: #666;" class="mdi mdi-text-box-check mr-1"></span> Knowledge Formulation *Techniques for encoding knowledge.*](/learning/knowledge-formulation)
+- [<span style="color: #666;" class="mdi mdi-book-open-page-variant-outline mr-1"></span> Incremental Reading *How to learn wide and deep, with a smile.*](/learning/incremental-reading)
+- [<span style="color: #666;" class="mdi mdi-emoticon mr-1"></span> Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/learning/pleasure-of-learning)
+- [<span style="color: #666;" class="mdi mdi-school-outline mr-1"></span> Studying for School *Guides for learning School Material.*](/learning/school)
+- [<span style="color: #666;" class="mdi mdi-fountain-pen-tip mr-1"></span> Incremental Writing *Increase your creativity and writing quality.*](/learning/incremental-writing)
 {.links-list}
 
 ## Incremental learning with IR
