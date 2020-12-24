@@ -2,7 +2,7 @@
 title: Going Further With SuperMemo
 description: Tips for progressing from amateur level to expert.
 published: true
-date: 2020-12-24T08:49:05.328Z
+date: 2020-12-24T12:52:45.113Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T17:28:23.407Z
@@ -14,9 +14,7 @@ If you have become familiar with [the essentials](/supermemo) of SuperMemo and w
 
 # Guides
 
-## In-depth guides
-
-These in-depth learning guides introduce advanced techniques for maximizing your learning potential. 
+These **in-depth learning guides** introduce advanced techniques for maximizing your learning potential. 
 
 - [Knowledge Formulation *Techniques for encoding knowledge.*](/learning/knowledge-formulation)
 - [Incremental Reading *How to learn wide and deep, with a smile.*](/learning/incremental-reading)
