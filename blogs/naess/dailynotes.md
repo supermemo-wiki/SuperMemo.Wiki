@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-24T23:56:22.600Z
+date: 2020-12-24T23:58:09.288Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -46,7 +46,9 @@ Some authors make connections easy with their rich examples and metaphors. With 
 
 
 ## If you don't use it, it is useless.
-I am confident my goals will emerge with time, I know I will create something. It takes time and time worries me. Maybe this desperation and worry is crucial integrident of the recipe for greatness? Maybe my worries of not achieving great things will paradoxically be the driving force to achieve great things. These driving forces are scarce I think. 
+Simple as that, skills and knowledge that doesn't contribute to anything are useless. If the skills are there but the execution is not, you wasted your time. 
+
+I am confident my goals and action will emerge with time, I know I will create something. It takes time and time worries me. Maybe this desperation and worry is crucial integrident of the recipe for greatness? Maybe my worries of not achieving great things will paradoxically be the driving force to achieve great things. These driving forces are scarce I think. 
 
 
 > To really love math you need to experience a beautiful coincidence of (1) super-interesting problem to solve and (2) super-effective solutions (known or found). This coincidence is rare and is more likely if you keep studying for long years without ever imposing the study on yourself by self-coercion. You know incremental reading so stay incremental and keep having fun. - Piotr Wozniak
@@ -54,8 +56,6 @@ I am confident my goals will emerge with time, I know I will create something. I
 If I some problem is in my mind every day — in my case starting to take action in life — I think the probablity of "collision" of problem and the solution increases drastically. It's like having a gate open 24/7 to connect a solution to a problem. Again, connections can be found anywhere and if the solution is to be found of a very unexpected place, it is helpful that I have my "problem" back in my mind there, ready to receive a solution.  
 ![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
-
-Currently my big problem or goal is to build a startup. The question is: do I lack knowledge or action? Do I lack experience or will?  Probably everything. My pragmatic friends don't seem to have troubles with building various of companies. They are men of action. I am man of learning in a vacuum. It's no good. I think better and I am creative, but it's no good. I have small output.
 
 I like this phrasing somebdoy mumbled in discord about "big output".. "output being big" or something like that. To this day, the guy is unknown who said this, I asked around in discord. I know it¨s one of my friends because it was in the voice chat. This "big output" translated to me as a question
 
