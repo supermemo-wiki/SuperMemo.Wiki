@@ -2,7 +2,7 @@
 title: SuperMemo Code 2021
 description: Hackathon event during which users collaborate to create a new SuperMemo plugin (TBA 2021).
 published: true
-date: 2020-12-24T19:07:16.296Z
+date: 2020-12-24T19:08:17.680Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-24T15:42:24.625Z
@@ -18,8 +18,6 @@ On the occasion of this SuperMemo Coding event, users will gather together to de
 | **Date**       | TBD (2021)                         |
 | **Duration**   | 1 week-end (Sat + Sun)             |
 | **Theme**      | Coding a new SuperMemo plugin      |
-
-**🚧&nbsp; Page in construction.**
 
 ## Participating
 
