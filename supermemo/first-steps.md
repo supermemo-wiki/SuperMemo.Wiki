@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-24T09:07:00.022Z
+date: 2020-12-24T09:08:56.091Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -19,8 +19,7 @@ dateCreated: 2020-12-05T18:34:56.312Z
 {.is-warning}
 
 <br/>
-
----
+<br/>
 
 This guide will **teach you the basics of SuperMemo** desktop edition. You will learn:
 - How to add knowledge in your SuperMemo collection,
