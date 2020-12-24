@@ -2,7 +2,7 @@
 title: Community Events
 description: A list of all events organized by the SuperMemo.wiki community, past and future.
 published: true
-date: 2020-12-24T14:59:37.576Z
+date: 2020-12-24T15:09:27.326Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-24T14:56:04.358Z
@@ -19,7 +19,7 @@ A listing of all **events organized by** the **SuperMemo.wiki** community. Most 
 ## SuperMemo anniversaries
 
 - [🎂&nbsp; 34th anniversary *Upcoming 2021 anniversary celebration event (2021/12/13).*](/community/events/anniversary/34th)
-- [🎂&nbsp; 33th anniversary *Inaugural anniversary celebration event (2020/12/13).*](/community/events/anniversary/33th)
+- [🎂&nbsp; 33rd anniversary *Inaugural anniversary celebration event (2020/12/13).*](/community/events/anniversary/33rd)
 {.links-list}
 
 ## Hackathons
