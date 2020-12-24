@@ -2,7 +2,7 @@
 title: Community Events
 description: A list of all events organized by the SuperMemo.wiki community, past and future.
 published: true
-date: 2020-12-24T14:56:04.358Z
+date: 2020-12-24T14:59:37.576Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-24T14:56:04.358Z
@@ -24,7 +24,7 @@ A listing of all **events organized by** the **SuperMemo.wiki** community. Most 
 
 ## Hackathons
 
-- [<span style="color:black" class="mdi mdi-xml mr-1"></span> SuperMemo Coding 2021 *Collaborate to create a new SuperMemo plugin with other users (TBA 2021).*]()
+- [<span style="color:black" class="mdi mdi-xml mr-1"></span> SuperMemo Coding 2021 *Collaborate to create a new SuperMemo plugin with other users (TBA 2021).*](/community/events/hackathons/2021-supermemo-coding-1)
 {.links-list}
 
 ## Voice chats
