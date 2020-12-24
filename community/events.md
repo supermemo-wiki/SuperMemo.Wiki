@@ -2,7 +2,7 @@
 title: Community Events
 description: A list of all events organized by the SuperMemo.wiki community, past and future.
 published: true
-date: 2020-12-24T15:09:27.326Z
+date: 2020-12-24T15:42:39.518Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-24T14:56:04.358Z
