@@ -2,15 +2,15 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2020-12-20T19:47:26.989Z
+date: 2020-12-24T08:56:12.808Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
 ---
 
 # Principles
 
-**Incremental Reading (IR)** is a technique for organizing learning in a way that encourages *variety of studying material*. By contrast, traditional reading involves a linear process of reading a single topic for extended periods of time.
+**Incremental Reading (IR)** is a technique for organizing learning in a way that encourages *variety of studying material* and *iterative problem solving*. By contrast, traditional reading involves a linear process of reading a single topic for extended periods of time.
 
 In the context of this wiki, **material** designates any sort of media through which learning can be achieved. Some example of material include: books, web articles, videos, podcasts, etc.
 
@@ -91,17 +91,39 @@ This table **compares the principles** of incremental reading (parallel) and tra
         <p>Minutes to hours for each material.</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <p>
+          <strong>Thinking process</strong>
+        </p>
+      </td>
+      <td>
+        <p>Incremental: knowledge is gradually revisited multiple times.</p>
+      </td>
+      <td>
+        <p>Linear: knowledge is processed only once or twice.</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
+<blockquote data-line="304" class="is-info line">
+  <p><strong><sup>*</sup></strong>: In IR, most material is gradually broken down into smaller chunks, hence the low average duration.</p>
+  <p><strong>Nothing precludes an incremental reader from deliberately studying a single topic or material for hours</strong> at a time. Typical motivations include:</p>
+  <ul>
+    <li>Studying for school,</li>
+    <li>Acumen for a subject matter.</li>
+  </ul>
+</blockquote>
+
+<!--
 > **^*^**: In IR, most material is gradually broken down into smaller chunks, hence the low average duration.
 >
 > **Nothing precludes an incremental reader from deliberately studying a single topic or material for hours** at a time. Typical motivations include:
 > - studying for school,
 > - acumen for a subject matter.
-> 
-> . <!-- The class is applied to the <ul> list otherwise -->
 {.is-info}
+-->
 
 ## General flow of Incremental Reading (simplified)
 
@@ -170,27 +192,34 @@ graph TB
     IR-rep3-step1["Work in progress"]
 ```
 
-# History
+## History
+
+🚧 **Work in progress.**
 
 It was created by [Piotr Wozniak](/en/supermemo/piotr-wozniak) in xxxx.
 
-# Benefits
+## Benefits
+
+🚧 **Work in progress.**
 
 -  Simplicity in converting passive material into long-term active recall through quick cloze deletions
-  
 - Gradual convertion of knowledge with low up-front costs
-  
 - Peace of mind knowing you can import anything you wish to learn about and know it will come to you eventually
-  
 - It's fun!
 
-# Incremental Reading in SuperMemo
+## Incrementalism
 
-After importing an article, it will eventually be shown to you again. You read the article and highlight and extract `(alt + x)` the bits you find important. 
+🚧 **Work in progress.**
+
+# Using IR in SuperMemo
+
+🚧 **Work in progress.**
+
+In SuperMemo, After importing an article, it will eventually be shown to you again. You read the article and highlight and extract <kbd>Alt</kbd> + <kbd>X</kbd> the bits you find important. 
 
 Those extracts will then be shown to you later, and you are able to repeat the process, only extracting the most important material from the extract.
 
-Incrementally you will painlessly be boiled down to information-dense sentences, of which you can select the key information you wish to remember and make a cloze deletion `(alt + z)`.
+Incrementally you will painlessly be boiled down to information-dense sentences, of which you can select the key information you wish to remember and make a cloze deletion <kbd>Alt</kbd> + <kbd>Z</kbd>.
 
 Your incremental reading will involve a pleasant mix of articles (topics), extracts, and question-and-answers to learn from.
 
@@ -205,7 +234,7 @@ SuperMemo allows you to set priorities for every element, postponing the lesser-
 
 - You can edit the proportion of topics vs items that you see. This contributes greatly to the enjoyment. `(toolbar -> learn -> sorting -> sorting criteria)`
 
-- Take care to quickly dismiss sources that are unpleasureable to learn from `(ctrl + d)`
+- Take care to quickly dismiss sources that are unpleasureable to learn from <kbd>Ctrl</kbd> + <kbd>D</kbd>.
 
 ## Video examples
 
