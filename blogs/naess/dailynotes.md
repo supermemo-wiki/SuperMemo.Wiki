@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-24T23:56:08.428Z
+date: 2020-12-24T23:56:22.600Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -54,7 +54,6 @@ I am confident my goals will emerge with time, I know I will create something. I
 If I some problem is in my mind every day — in my case starting to take action in life — I think the probablity of "collision" of problem and the solution increases drastically. It's like having a gate open 24/7 to connect a solution to a problem. Again, connections can be found anywhere and if the solution is to be found of a very unexpected place, it is helpful that I have my "problem" back in my mind there, ready to receive a solution.  
 ![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
-This is because it enables the collision of solution. It's like shuttleship lander, platform (problem) is OPENED 24/7 so when I come to solution they are ready to collide. I think the probability of collision is not very good if the only time I think of the problem is some dedicated time slot. 
 
 Currently my big problem or goal is to build a startup. The question is: do I lack knowledge or action? Do I lack experience or will?  Probably everything. My pragmatic friends don't seem to have troubles with building various of companies. They are men of action. I am man of learning in a vacuum. It's no good. I think better and I am creative, but it's no good. I have small output.
 
