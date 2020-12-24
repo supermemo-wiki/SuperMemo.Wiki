@@ -2,9 +2,9 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-19T12:43:28.079Z
+date: 2020-12-24T09:05:03.131Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
 ---
 
@@ -18,12 +18,16 @@ dateCreated: 2020-12-05T18:34:56.312Z
 > Thank you!
 {.is-warning}
 
+<br/>
+
+---
+
 This guide will **teach you the basics of SuperMemo** desktop edition. You will learn:
 - How to add knowledge in your SuperMemo collection,
 - How to review your items,
 - The basics of [Incremental Reading](/learning/incremental-reading) and [Knowledge Formulation](/learning/knowledge-formulation).
 
-> :question: If at any step of the process you feel lost, or **need assistance**, feel free to get in touch with us on our [Discord server](https://discord.gg/vUQhqCT).
+> If at any step of the process you feel lost, or **need assistance**, feel free to get in touch with us on our [Discord server](https://discord.gg/vUQhqCT).
 {.is-info}
 
 # Choosing a SuperMemo edition
