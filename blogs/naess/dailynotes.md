@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-24T23:39:33.351Z
+date: 2020-12-24T23:56:08.428Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -30,7 +30,7 @@ I used snuff for about 6 years and didn't have strong urge to quit. However, aft
 
 *I used snuff for ~6 years.*
 
-Now I'm not implying everything you learn needs to have such a great effect, but I'm implying everything should contribute directly or indirectly to your big goals or your life in general. I find it useful to think of applicability in terms of connection: 
+Now I'm not implying everything you learn needs to have such a great effect, but I'm implying everything should contribute **directly** or **indirectly** to your big goals or your life in general. Applicability can be kinda broad term. It is if it shapes your thinking. Almost everything shapes our thinking. I find it useful to think of applicability in terms of connection: 
 
 ## If there is no connection, it is useless
 
@@ -40,18 +40,21 @@ I think this quote has huge implications. Imagine reading an article and you abs
 
 When you are reading an article, first thing you should do is to try find the connections or create the connections. **Connections can be found anywhere!** I think we can create applicability. However it will always be more efficient to study things that are directly connected to your life than going reinventing the wheel via analogies yourself. I think it is the root of creativity and genius to be able to connect things like nobody else does. In contrast, if you are reading something that fundamentally is applicable and could help you, but if you don't make the connection to your life, it is useless. This  aligns with what I wrote in my article about [knowledge being an asset](https://lehtola.blog/blog/adding-value-realizing-value/). 
 
+Some authors make connections easy with their rich examples and metaphors. With some material you really need to concentrate to **create the connection yourself**.
+
 > If you can't connect it, it's useless. Connections can be found and created from pretty much anything. Usefulness depends on the nature of the connection and nature of the resource.
+
 
 ## If you don't use it, it is useless.
 I am confident my goals will emerge with time, I know I will create something. It takes time and time worries me. Maybe this desperation and worry is crucial integrident of the recipe for greatness? Maybe my worries of not achieving great things will paradoxically be the driving force to achieve great things. These driving forces are scarce I think. 
 
-I think we all have big goals, just that for some people it's more broad than others. I think we all have some filters. If I were to ask you what do you want from life? Maybe you couldn't answer precisely, but if I were to ask you if you want to work with something that enables making money, that's a filter. It narrows down things that don't make money, maybe you are filtering down artistic work. So I think it comes down to filtering. 
 
-Maybe you know to filter out family life for now. Maybe you know to filter down working for somebody vs working for yourself. Maybe you can filter down to finance sector. Maybe it's a top down process. 
+> To really love math you need to experience a beautiful coincidence of (1) super-interesting problem to solve and (2) super-effective solutions (known or found). This coincidence is rare and is more likely if you keep studying for long years without ever imposing the study on yourself by self-coercion. You know incremental reading so stay incremental and keep having fun. - Piotr Wozniak
 
-"To really love math you need to experience a beautiful coincidence of (1) super-interesting problem to solve and (2) super-effective solutions (known or found). This coincidence is rare and is more likely if you keep studying for long years without ever imposing the study on yourself by self-coercion. You know incremental reading so stay incremental and keep having fun."
+If I some problem is in my mind every day — in my case starting to take action in life — I think the probablity of "collision" of problem and the solution increases drastically. It's like having a gate open 24/7 to connect a solution to a problem. Again, connections can be found anywhere and if the solution is to be found of a very unexpected place, it is helpful that I have my "problem" back in my mind there, ready to receive a solution.  
+![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
-If I worry about some matter every day (achieving great things/starting to take action) I think it is an important fertile ground on which something can grow. This is because it enables the collision of solution. It's like shuttleship lander, platform (problem) is OPENED 24/7 so when I come to solution they are ready to collide. I think the probability of collision is not very good if the only time I think of the problem is some dedicated time slot. 
+This is because it enables the collision of solution. It's like shuttleship lander, platform (problem) is OPENED 24/7 so when I come to solution they are ready to collide. I think the probability of collision is not very good if the only time I think of the problem is some dedicated time slot. 
 
 Currently my big problem or goal is to build a startup. The question is: do I lack knowledge or action? Do I lack experience or will?  Probably everything. My pragmatic friends don't seem to have troubles with building various of companies. They are men of action. I am man of learning in a vacuum. It's no good. I think better and I am creative, but it's no good. I have small output.
 
