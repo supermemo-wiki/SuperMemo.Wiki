@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-24T08:58:37.787Z
+date: 2020-12-24T09:07:19.717Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -10,13 +10,15 @@ dateCreated: 2020-12-05T18:34:19.777Z
 
 > 🙏 &nbsp;This wiki is new! If you are beginning with SuperMemo, **help me improve the quality of our articles**.
 >
-> Did you find this guide useful? Is there something I could improve?
+> Did you find this guide useful? Is there something you did not understand? Let me know and either:
 >
-> 1. [Create an account](//supermemo.wiki/login) and leave a [comment](#discussion),
-> 2. Send me an [email](mailto:alexis@supermemo.wiki?subject=[SuperMemo.wiki]%20Feedback&body=Hello,%0D%0A%0D%0AAfter%20reading%20article%20[...]%20here%20is%20my%20feedback:%20[...]).
+> 1. Send me an [email](mailto:alexis@supermemo.wiki?subject=[SuperMemo.wiki]%20Feedback&body=Hello,%0D%0A%0D%0AAfter%20reading%20article%20[...]%20here%20is%20my%20feedback:%20[...]),
+> 2. [Create an account](//supermemo.wiki/login) and leave a [comment](#discussion).
 >
 > Thank you!
 {.is-warning}
+
+<br/>
 
 # What is SuperMemo?
 
