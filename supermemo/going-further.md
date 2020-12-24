@@ -2,48 +2,75 @@
 title: Going Further With SuperMemo
 description: Advancing from a begginer
 published: true
-date: 2020-12-12T17:28:26.985Z
+date: 2020-12-24T08:47:49.515Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-12T17:28:23.407Z
 ---
 
-# Incremental Reading Manual
+_**🚧 Work in progress.**_
 
+If you have become familiar with [the essentials](/supermemo) of SuperMemo and would like to go further, this page contains a variety of paths to explore.
 
-Using incremental reading to go through the [Incremental reading manual](https://help.supermemo.org/index.php?title=Incremental_learning) is one of the best ways to attain deep proficiency in SuperMemo. You can follow the instructions [here](https://supermemo.guru/wiki/Incremental_reading_step_by_step#Big_test) under "big test" for how to do so. Note, there have been recent issues with references when importing. We plan to provide soon a pre-edited version.
+# Guides
 
+## In-depth guides
 
+These in-depth learning guides introduce advanced techniques for maximizing your learning potential. 
 
-# Video 
+- [Knowledge Formulation *Techniques for encoding knowledge.*](/learning/knowledge-formulation)
+- [Incremental Reading *How to learn wide and deep, with a smile.*](/learning/incremental-reading)
+- [Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/learning/pleasure-of-learning)
+- [Studying for School *Guides for learning School Material.*](/learning/school)
+- [Incremental Writing *Increase your creativity and writing quality.*](/learning/incremental-writing)
+{.links-list}
 
-## Guides
+## Incremental learning with IR
+
+Using incremental reading to go through the **incremental learning guide** is one of the best ways to quickly gain in proficiency with SuperMemo and learning techniques.
+
+- [Incremental learning *Comprehensive guide on learning and IR.*](https://help.supermemo.org/index.php?title=Incremental_learning#What_is_incremental_learning.3F)
+{.links-list}
+
+### Recommended approach
+
+The **official recommendations**[^1] for processing the incremental learning guide is to splinter the entire manual into 340 daily tips:
+
+1. Open the [incremental learning](https://help.supermemo.org/index.php?title=Incremental_learning) page in Internet Explorer
+2. In SuperMemo, import the article with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
+3. In SuperMemo, open the *Commander* with <kbd>Ctrl</kbd> + <kbd>Enter</kbd>
+4. Type `sp` to highlight the **Split article** option, and press <kbd>Enter</kbd>.
+
+Your current speed of learning and level of proficiency are largely irrelevant. If you **process one per day**, you will be **done in a year**.
+
+If you get **1% better each day**, in comparison with today, you will be 365 times better in one year.
+
+> The secret to good life is **constant, incremental progress**.
+{.is-info}
+
+To optimize a little further, you can process important facts faster if you send low priority articles to later dates, or give them lower priority with <kbd>Alt</kbd> + <kbd>P</kbd>. 
+
+## Video guides
 
 - [Fowl's Guide to SuperMemo *A series of video that will take you from Beginner to Advanced level.*](https://www.youtube.com/playlist?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1)
 - [YouTube channel *Educative videos published by the SuperMemo.wiki community.*](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ)
 {.links-list}
 
-## Examples of Advanced SuperMemo usage
+# Other sources
 
-[Learning For The World](https://www.youtube.com/watch?v=CXvMQOk9pW4) A Livestream of user Raj using SuperMemo to solve grand problems
+Learning is your own journey, these are some paths you might consider exploring.
 
+- [<span style="color: black;" class="mdi mdi-github mr-1"></span> Awesome-SuperMemo *Exhaustive list of SuperMemo resources.*](https://github.com/supermemo/awesome-supermemo){target="_blank"}
+- [![supermemo-world.png](/shared/icons/supermemo-world.png =x19){.mr-1} SuperMemo.guru *Piotr Wozniak's website, highly recommended.*](https://supermemo.guru/)
+- [![supermemo-64.png](/supermemo-64.png =x19){.mr-1} SuperMemopedia *Support site for SuperMemo.*](http://supermemopedia.com/)
+{.links-list}
 
+## Blogs
 
+Pick up new insights by reading other users' experiences.
 
-
-# SuperMemopedia
-
-Supermemopedia.com is a user-driver support site for users of SuperMemo. Many insights from Piotr Wozniak and other SuperMemo users about using SuperMemo more effectively can be found here.
-
-# Other SuperMemo Blogs
-
-More specific skills can be picked up from reading about what other users are using SuperMemo.
-
-[Master How to Learn](masterhowtolearn.wordpress.com)
-[The SuperMemo Blog](thesupermemoblog.wordpress.com) (inactive)
-[Again](https://again.blog/)
+- [<span style="color: black;" class="mdi mdi-github mr-1"></span> SuperMemo blogs *List of SuperMemo blogs on awesome-supermemo.*](https://github.com/supermemo/awesome-supermemo#blogs)
+{.links-list}
 
 
-
-
-
+[^1]: https://supermemo.guru/wiki/Incremental_reading_step_by_step#Big_test
