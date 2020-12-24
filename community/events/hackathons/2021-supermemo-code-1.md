@@ -2,7 +2,7 @@
 title: SuperMemo Code 2021
 description: Hackathon event during which users collaborate to create a new SuperMemo plugin (TBA 2021).
 published: true
-date: 2020-12-24T17:50:35.965Z
+date: 2020-12-24T17:51:38.976Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-24T15:42:24.625Z
@@ -28,7 +28,7 @@ On the occasion of this SuperMemo Coding event, users will gather together to de
 
 ## Organization
 
-This event is organized by [Alexis Incogito](https://github.com/alexis-), creator of [SuperMemo Assistant](https://sma.supermemo.wiki). I will supervize the entire duration of the hackathon to help participants setup their project and solve blocking issues.
+This event is organized by [Alexis Incogito](https://github.com/alexis-), creator of [SuperMemo Assistant](https://sma.supermemo.wiki). He will supervize the entire duration of the hackathon to help participants setup their project and solve blocking issues.
 
 ## Prerequisites
 
