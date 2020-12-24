@@ -2,11 +2,71 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-22T22:34:06.340Z
+date: 2020-12-24T23:39:33.351Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
+
+# Circle of output
+
+Will I ever be great?
+
+I envy craftmen. I want to solve problems and create things. Today I am [seeding passions](https://supermemo.guru/wiki/Setting_goals_can_change_your_life#Seeding_passions), building dreams, I want to thrive. See [(Youtube) How bad do you want it?](https://www.youtube.com/watch?v=lsSC2vx7zFQ). Motivational videos can be kinda cheesy but the core idea is killer in this one, it fits my world view. When you want something as bad as you want to breathe, then you'll achieve it. I used to watch this every morning when I was younger. 
+
+## **Anything but applicable is useless**
+
+> Frequently, you will find more benefit in memorizing the three best things you have learnt today than in memorizing a whole monothematic article to the last detail!
+http://super-memory.com/help/il_full.htm
+
+I am slowly reaching to this generalization. I found myself in spiral of jamming my head full of tens of different articles, then at the end of the day trace back and think, "man, that was pretty useless". In contrast, some days I learn one GREAT thing and it has huge impact on my life. For instance, one day I googled about nicotine withdrawal symptoms and read this:
+
+> Withdrawal symptoms usually peak after 1–3 days and then decrease over a period of 3–4 weeks.
+
+
+I used snuff for about 6 years and didn't have strong urge to quit. However, after reading this sentence, something clicked. I figured, alright 3 weeks, that's a challenge. I'll be off for 3 weeks and if I still crave snuff, I will buy some. After this seemingly random event and somewhat randomly googling this information, I've been off snuff for almost a year now. 
+
+<img src=/blogs/naess/dailynotes/25-12-2020/odensvanillawdopen.jpg alt="Snuff" width="500" height="350">
+
+*I used snuff for ~6 years.*
+
+Now I'm not implying everything you learn needs to have such a great effect, but I'm implying everything should contribute directly or indirectly to your big goals or your life in general. I find it useful to think of applicability in terms of connection: 
+
+## If there is no connection, it is useless
+
+> You can't remember what you can't connect. - Elon Musk
+
+I think this quote has huge implications. Imagine reading an article and you absolutely cannot connect it to anything in your life and you don't plan to build on it. What use it has? This has implications in a sense that **the greater the number (or magnitude) of connections, the more applicable the thing**. This is word twisting of things you probably already know. But it's a way of thinking, a heuristic. 
+
+When you are reading an article, first thing you should do is to try find the connections or create the connections. **Connections can be found anywhere!** I think we can create applicability. However it will always be more efficient to study things that are directly connected to your life than going reinventing the wheel via analogies yourself. I think it is the root of creativity and genius to be able to connect things like nobody else does. In contrast, if you are reading something that fundamentally is applicable and could help you, but if you don't make the connection to your life, it is useless. This  aligns with what I wrote in my article about [knowledge being an asset](https://lehtola.blog/blog/adding-value-realizing-value/). 
+
+> If you can't connect it, it's useless. Connections can be found and created from pretty much anything. Usefulness depends on the nature of the connection and nature of the resource.
+
+## If you don't use it, it is useless.
+I am confident my goals will emerge with time, I know I will create something. It takes time and time worries me. Maybe this desperation and worry is crucial integrident of the recipe for greatness? Maybe my worries of not achieving great things will paradoxically be the driving force to achieve great things. These driving forces are scarce I think. 
+
+I think we all have big goals, just that for some people it's more broad than others. I think we all have some filters. If I were to ask you what do you want from life? Maybe you couldn't answer precisely, but if I were to ask you if you want to work with something that enables making money, that's a filter. It narrows down things that don't make money, maybe you are filtering down artistic work. So I think it comes down to filtering. 
+
+Maybe you know to filter out family life for now. Maybe you know to filter down working for somebody vs working for yourself. Maybe you can filter down to finance sector. Maybe it's a top down process. 
+
+"To really love math you need to experience a beautiful coincidence of (1) super-interesting problem to solve and (2) super-effective solutions (known or found). This coincidence is rare and is more likely if you keep studying for long years without ever imposing the study on yourself by self-coercion. You know incremental reading so stay incremental and keep having fun."
+
+If I worry about some matter every day (achieving great things/starting to take action) I think it is an important fertile ground on which something can grow. This is because it enables the collision of solution. It's like shuttleship lander, platform (problem) is OPENED 24/7 so when I come to solution they are ready to collide. I think the probability of collision is not very good if the only time I think of the problem is some dedicated time slot. 
+
+Currently my big problem or goal is to build a startup. The question is: do I lack knowledge or action? Do I lack experience or will?  Probably everything. My pragmatic friends don't seem to have troubles with building various of companies. They are men of action. I am man of learning in a vacuum. It's no good. I think better and I am creative, but it's no good. I have small output.
+
+I like this phrasing somebdoy mumbled in discord about "big output".. "output being big" or something like that. To this day, the guy is unknown who said this, I asked around in discord. I know it¨s one of my friends because it was in the voice chat. This "big output" translated to me as a question
+
+"How big can your output get?" 
+
+This has been my screenshot for a while. It's silly but speaks to me. I just like the phrasing so much. How big can my output get. It instantly sparked an imaginary circle in my head. "Circle of output" that is. My circle of output is very small. This is actually my desktop background, just because I liked the phrase so much. My goal is to enlarge this circle as much as possible in a lifetime. Bigger the impact, the larger the circle grows.  
+
+<img src=/blogs/naess/dailynotes/25-12-2020/circleofoutput.png alt="Circle of output" width="500" height="350">
+
+*My desktop background*
+
+
+
 
 # Learn drive in its purest form
 You want to see [learn drive](https://supermemo.guru/wiki/Learn_drive) in its purest form? Go observe someone choosing a netflix movie to watch. I do this all the time on my girlfriend. I see her skipping movies like a madman! She is RUTHLESS on jumping over movie which has "stupid looking cover". No fear of missing out, nobody is stopping her. Once she told me to change Simpsons episode because the one on the TV looked lame. SHE SAW ONLY ONE FRAME. A SINGLE PAUSED FRAME. These kinds of heuristics are full of errors and leads to dismissing great things, but it's the best we have in the endless stream of information. There is always more and better things. We have only limited attention and we need these quick filters.
