@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T00:00:22.257Z
+date: 2020-12-25T00:00:29.360Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -53,7 +53,7 @@ I am confident my goals and action will emerge with time, I know I will create s
 
 > To really love math you need to experience a beautiful coincidence of (1) super-interesting problem to solve and (2) super-effective solutions (known or found). This coincidence is rare and is more likely if you keep studying for long years without ever imposing the study on yourself by self-coercion. You know incremental reading so stay incremental and keep having fun. - Piotr Wozniak
 
-If I some problem is in my mind every day — in my case starting to take action in life — I think the probablity of "collision" of problem and the solution increases drastically. It's like having a gate open 24/7 to connect a solution to a problem. Again, connections can be found anywhere and if the solution is to be found of a very unexpected place, it is helpful that I have my "problem" back in my mind there, ready to receive a solution.  
+If some problem is in my mind every day — in my case starting to take action in life — I think the probablity of "collision" of problem and the solution increases drastically. It's like having a gate open 24/7 to connect a solution to a problem. Again, connections can be found anywhere and if the solution is to be found of a very unexpected place, it is helpful that I have my "problem" back in my mind there, ready to receive a solution.  
 ![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
 
