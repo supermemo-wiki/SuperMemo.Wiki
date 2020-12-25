@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T00:20:06.063Z
+date: 2020-12-25T00:21:52.301Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -57,7 +57,7 @@ I think this is a great quote. If we have super-interesting problem and super-ef
 ![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
 
-I like this phrasing somebdoy mumbled in discord about "big output".. "output being big" or something like that. To this day, the guy is unknown who said this, I asked around in discord. I know it's one of my friends because I heard it in the voice chat. This "big output" translated to me as a question:
+One day someone mumbled in Discord voice chat about: "big output".. "output being big" or something like that. To this day, I don't know who said it, I tried to ask around in discord. I know it's one of my friends because I heard it in the voice chat. I really liked the sound of "big output", it translated to me as a question:
 
 **"How big can your output get?"** 
 
