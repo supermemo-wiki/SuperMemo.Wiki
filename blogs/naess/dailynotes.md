@@ -2,13 +2,13 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T13:27:32.651Z
+date: 2020-12-25T13:32:13.263Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
-# Circle of output
+# Connections matter
 
 Will I ever be great?
 
