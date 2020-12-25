@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T22:06:11.186Z
+date: 2020-12-25T22:12:53.920Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -17,6 +17,10 @@ I am at a point in my life where I don't have the one thing I do all day. It's w
 I had a lot of success in League but I failed too. When I watched the vid mentioned earlier, it stroke me: I didn't love the game on every moment. I rage quitted a lot! I remember when things wouldn't make sense to me and I felt like a failure, I hated the game. I would get so angry. On later years I ditched those poor habits, but these memories were delightful to me today. That's because I falsely recalled that the journey was all fun and laughs. It was more like adrenaline, excitement, success and failure. It is lovely, I want that. There is no adrenaline in pure learning really. I loved winning!
 
 I've been getting my feet wet on programming but I can't find moments of success in that. Nobody likes losing. Reason I got so hooked into gaming because I found moments of success early on. Or maybe it was more about having fun initially and finding success later on, I can't really tell. Just that I know having moments of success is critical to really love something. Maybe it's self-evident but it's an important angle to take. Go find those moments of success buddy. **Chase the success!**
+
+<img src=/blogs/naess/dailynotes/26-12-2020/dopa.jpg alt="Dopa" width="500" height="350">
+
+*The moment in the video I realized that my gaming journey wasn't all joy and laughs.*
 
 *26.12.2020*
 # Connections matter
