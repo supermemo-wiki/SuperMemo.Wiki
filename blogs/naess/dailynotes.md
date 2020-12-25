@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T14:04:37.550Z
+date: 2020-12-25T17:59:56.208Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -10,9 +10,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 # Connections matter
 
-Will I ever be great?
-
-I envy craftmen. I want to solve problems and create things. Today I am [seeding passions](https://supermemo.guru/wiki/Setting_goals_can_change_your_life#Seeding_passions), building dreams, I want to thrive. See [(Youtube) How bad do you want it?](https://www.youtube.com/watch?v=lsSC2vx7zFQ). Motivational videos can be kinda cheesy but the core idea is killer in this one, it connects to my world view. When you want something as bad as you want to breathe, then you'll achieve it. I used to watch this every morning when I was younger. 
+This article started out to be about applicability, output and my desire to take action in life, build and achieve things. It turned out to be more about connections and their profound importance in learning.
 
 ## **Anything but applicable is useless**
 
