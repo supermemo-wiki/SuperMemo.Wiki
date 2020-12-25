@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T22:14:12.147Z
+date: 2020-12-25T22:16:25.866Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -17,7 +17,7 @@ I am at a point in my life where I don't have the one thing I do all day. It's w
 I had a lot of success in League but I failed too. When I watched the vid mentioned earlier, it stroke me: I didn't love the game on every moment. I rage quitted a lot! I remember when things wouldn't make sense to me and I felt like a failure, I hated the game. I would get so angry. On later years I ditched those poor habits, but these memories were delightful to me today. That's because I falsely recalled that the journey was all fun and laughs. It was more like adrenaline, excitement, success and failure. It is lovely, I want that. There is no adrenaline in pure learning really. I loved winning!
 
 I've been getting my feet wet on programming but I can't find moments of success in that. Nobody likes losing. Reason I got so hooked into gaming because I found moments of success early on. Or maybe it was more about having fun initially and finding success later on, I can't really tell. Just that I know having moments of success is critical to really love something. Maybe it's self-evident but it's an important angle to take. Go find those moments of success buddy. **Chase the success!**
-
+<p>
 <img src=/blogs/naess/dailynotes/26-12-2020/dopa.jpg alt="Dopa" width="500" height="350">
 
 *The moment in the video I realized that my gaming journey wasn't all joy and laughs. In the video is one the best Korean solo queue players (atleast he was back in my days).*
@@ -38,7 +38,7 @@ I am slowly reaching to this generalization. I found myself in spiral of jamming
 
 
 I used snuff for about 6 years and didn't have strong urge to quit. However, after reading this sentence, something clicked. The connection between quitting and the symptoms was laid out for me, **direct applicability**. Problem of addiction was very evident and the solution was being 3 weeks without nicotine. I figured, alright 3 weeks, that's a challenge. I'll be off for 3 weeks and if I still crave snuff, I will buy some. After this seemingly random event and somewhat randomly googling this information, I've been off snuff for almost a year now. A very simple connection between a fact and a problem changed my life for the better. **The information itself wasn't anything new but the connection at that moment had a profound meaning to me.**
-
+<p>
 <img src=/blogs/naess/dailynotes/25-12-2020/odensvanillawdopen.jpg alt="Snuff" width="500" height="350">
 
 *I used snuff for ~6 years. When I look at this image, I still can smell the stench of this product.*
@@ -72,6 +72,7 @@ I am confident my goals and action will emerge with time, I know I will create s
 I think this is a great quote. This "coincidence" of an interesting problem and a super-effective solution definitely is rare, however if some problem is in my mind every day — in my case starting to take action in life — I think the probablity of "collision" of the problem and the solution increases drastically. 
 
 If the problem worries and is on my mind all the time, it's like having a gate open 24/7, waiting to connect a solution to the problem. Again, connections can be found anywhere and if the solution is to be found from a very unexpected place, suddenly and unexpectedly, it is helpful that I have my problem back in my mind there, ready to receive a solution. Otherwise that beautiful opportunity and coincidence will be missed, meaning that I don't make **a connection between the problem and the solution.**  
+  
 ![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
 > Connections matter.
@@ -81,7 +82,7 @@ One day someone mumbled in Discord voice chat about: "big output".. "output bein
 **"How big can your output get?"** 
 
 I just like the phrasing so much. I made "Circle of output" into my desktop background inspired by the phrase. How big can my output get? It instantly sparked an imaginary circle in my head. "Circle of output" that is. My circle of output is very small today. My goal is to enlarge my "circle of output" as much as possible in a lifetime. Bigger the impact, the larger the circle grows.  
-
+<p>
 <img src=/blogs/naess/dailynotes/25-12-2020/circleofoutput.png alt="Circle of output" width="500" height="350">
 
 *My desktop background*
