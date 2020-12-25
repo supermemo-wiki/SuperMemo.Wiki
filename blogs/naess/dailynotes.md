@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T00:00:29.360Z
+date: 2020-12-25T00:04:35.622Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -57,11 +57,11 @@ If some problem is in my mind every day — in my case starting to take action i
 ![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
 
-I like this phrasing somebdoy mumbled in discord about "big output".. "output being big" or something like that. To this day, the guy is unknown who said this, I asked around in discord. I know it¨s one of my friends because it was in the voice chat. This "big output" translated to me as a question
+I like this phrasing somebdoy mumbled in discord about "big output".. "output being big" or something like that. To this day, the guy is unknown who said this, I asked around in discord. I know it's one of my friends because I heard it in the voice chat. This "big output" translated to me as a question:
 
-"How big can your output get?" 
+"**How big can your output get?**" 
 
-This has been my screenshot for a while. It's silly but speaks to me. I just like the phrasing so much. How big can my output get. It instantly sparked an imaginary circle in my head. "Circle of output" that is. My circle of output is very small. This is actually my desktop background, just because I liked the phrase so much. My goal is to enlarge this circle as much as possible in a lifetime. Bigger the impact, the larger the circle grows.  
+I just like the phrasing so much. I made it into my desktop background. How big can my output get? It instantly sparked an imaginary circle in my head. "Circle of output" that is. My circle of output is very small today. My goal is to enlarge my "circle of output" as much as possible in a lifetime. Bigger the impact, the larger the circle grows.  
 
 <img src=/blogs/naess/dailynotes/25-12-2020/circleofoutput.png alt="Circle of output" width="500" height="350">
 
