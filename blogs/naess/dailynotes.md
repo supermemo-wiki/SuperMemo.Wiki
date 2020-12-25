@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T22:12:53.920Z
+date: 2020-12-25T22:14:12.147Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -20,7 +20,7 @@ I've been getting my feet wet on programming but I can't find moments of success
 
 <img src=/blogs/naess/dailynotes/26-12-2020/dopa.jpg alt="Dopa" width="500" height="350">
 
-*The moment in the video I realized that my gaming journey wasn't all joy and laughs.*
+*The moment in the video I realized that my gaming journey wasn't all joy and laughs. In the video is one the best Korean solo queue players (atleast he was back in my days).*
 
 *26.12.2020*
 # Connections matter
