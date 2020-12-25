@@ -2,14 +2,11 @@
 title: Spaced repetition
 description: 
 published: true
-date: 2020-12-15T21:11:35.950Z
+date: 2020-12-25T07:58:43.803Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-15T21:11:31.397Z
 ---
-
-
-*Main article: [Spaced Repetition](/learning/spaced-repetition)*
 
 **Spaced repetition (SR)** is a method for organizing your learning calendar in the most optimized way possible. It has two functions:
 1. Knowledge learned this way should be remembered forever,
