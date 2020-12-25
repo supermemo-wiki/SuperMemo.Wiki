@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T13:39:57.640Z
+date: 2020-12-25T13:40:58.037Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -30,7 +30,7 @@ I used snuff for about 6 years and didn't have strong urge to quit. However, aft
 
 *I used snuff for ~6 years.*
 
-Now I'm not implying everything you learn needs to have such a great effect, but I'm implying everything should contribute **directly** or **indirectly** to your big goals or your life in general. Applicability can be kinda broad term. It is applicable if it shapes your thinking. Almost everything shapes our thinking. I find it useful to think of applicability in terms of connections: 
+Now I'm not implying everything you learn needs to have such a great effect, but I'm implying everything should contribute **directly** or **indirectly** to your big goals or to your life in general. Applicability can be kinda broad term. It is applicable if it shapes your thinking. Almost everything shapes our thinking. I find it useful to think of applicability in terms of connections: 
 
 ## If there is no connection, it is useless
 
