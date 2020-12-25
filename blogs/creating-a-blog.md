@@ -2,7 +2,7 @@
 title: Creating a Blog
 description: Learn how to create and edit your personal wiki page. Tips & Tricks included!
 published: true
-date: 2020-12-25T07:32:05.784Z
+date: 2020-12-25T07:36:29.849Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
@@ -76,7 +76,7 @@ blockdiag
 ```
 ### Creating your first page: Step 1
 
-Click on the new page button in the top right:
+Click on the <i class="v-icon mdi mdi-text-box-plus-outline grey--text"></i> new page button in the top right:
 
 ![Creating a blog step 1](/blogs/blogs-creation-1.png)
 
