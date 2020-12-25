@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T11:14:58.124Z
+date: 2020-12-25T11:16:40.346Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -59,6 +59,7 @@ I think this is a great quote. This "coincidence" of an interesting problem and 
 If the problem worries and is on my mind all the tine, it's like having a gate open 24/7, waiting to connect a solution to the problem. Again, connections can be found anywhere and if the solution is to be found from a very unexpected place, suddenly and unexpectedly, it is helpful that I have my problem back in my mind there, ready to receive a solution. Otherwise that beautiful opportunity and coincidence will be missed, meaning that I don't make a connection between the problem and the solution.  
 ![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
+> Connections matter
 
 One day someone mumbled in Discord voice chat about: "big output".. "output being big" or something like that. To this day, I don't know who said it, I tried to ask around in discord. I know it's one of my friends because I heard it in the voice chat. I really liked the sound of "big output", it translated to me as a question:
 
