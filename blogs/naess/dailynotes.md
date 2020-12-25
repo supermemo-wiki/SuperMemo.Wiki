@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T00:36:43.532Z
+date: 2020-12-25T00:42:58.337Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -61,7 +61,7 @@ One day someone mumbled in Discord voice chat about: "big output".. "output bein
 
 **"How big can your output get?"** 
 
-I just like the phrasing so much. I made it into my desktop background. How big can my output get? It instantly sparked an imaginary circle in my head. "Circle of output" that is. My circle of output is very small today. My goal is to enlarge my "circle of output" as much as possible in a lifetime. Bigger the impact, the larger the circle grows.  
+I just like the phrasing so much. I made "Circle of output" into my desktop background inspired by the phrase. How big can my output get? It instantly sparked an imaginary circle in my head. "Circle of output" that is. My circle of output is very small today. My goal is to enlarge my "circle of output" as much as possible in a lifetime. Bigger the impact, the larger the circle grows.  
 
 <img src=/blogs/naess/dailynotes/25-12-2020/circleofoutput.png alt="Circle of output" width="500" height="350">
 
