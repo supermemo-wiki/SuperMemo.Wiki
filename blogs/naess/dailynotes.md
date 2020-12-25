@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T13:34:41.470Z
+date: 2020-12-25T13:35:53.771Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -24,7 +24,7 @@ I am slowly reaching to this generalization. I found myself in spiral of jamming
 > Withdrawal symptoms usually peak after 1–3 days and then decrease over a period of 3–4 weeks.
 
 
-I used snuff for about 6 years and didn't have strong urge to quit. However, after reading this sentence, something clicked. The connection between quitting and the symptoms was laid out for me, **direct applicability**. Problem was very evident and solution was 3 weeks. I figured, alright 3 weeks, that's a challenge. I'll be off for 3 weeks and if I still crave snuff, I will buy some. After this seemingly random event and somewhat randomly googling this information, I've been off snuff for almost a year now. 
+I used snuff for about 6 years and didn't have strong urge to quit. However, after reading this sentence, something clicked. The connection between quitting and the symptoms was laid out for me, **direct applicability**. Problem of addiction was very evident and the solution was being 3 weeks without nicotine. I figured, alright 3 weeks, that's a challenge. I'll be off for 3 weeks and if I still crave snuff, I will buy some. After this seemingly random event and somewhat randomly googling this information, I've been off snuff for almost a year now. 
 
 <img src=/blogs/naess/dailynotes/25-12-2020/odensvanillawdopen.jpg alt="Snuff" width="500" height="350">
 
