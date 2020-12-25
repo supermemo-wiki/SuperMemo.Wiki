@@ -2,7 +2,7 @@
 title: Creating a Blog
 description: Learn how to create and edit your personal wiki page. Tips & Tricks included!
 published: true
-date: 2020-12-25T07:36:29.849Z
+date: 2020-12-25T07:44:35.312Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
@@ -130,7 +130,8 @@ You can adjust the properties of the current page here. For more details, see:
 
 Another great to learn about this wiki's syntax is to look at the source code of other pages.
 
-- [<span style="color:black;" class="mdi mdi-pencil-outline mr-1"></span> Wiki Format *Wiki.js documentation for text editing (markdown, graphs, etc.).*](https://docs.requarks.io/editors)
+- [<span style="color:black;" class="mdi mdi-pencil-outline mr-1"></span> Basic Editing *General documentation on text editing (markdown, graphs, etc.).*](https://docs.requarks.io/editors)
+- [<span style="color:black;" class="mdi mdi-pencil-plus-outline mr-1"></span> Advanced Editing *Learn about the special editing features available on this wiki.*](https://docs.requarks.io/en/rendering)
 - [<span style="color:black;" class="mdi mdi-language-markdown mr-1"></span> Markdown *General guide to writing in Markdown.*](https://www.markdownguide.org/)
 - [<span style="color:black;" class="mdi mdi-table mr-1"></span> Table generator *Markdown table code generator.*](https://www.tablesgenerator.com/markdown_tables)
 {.links-list}
