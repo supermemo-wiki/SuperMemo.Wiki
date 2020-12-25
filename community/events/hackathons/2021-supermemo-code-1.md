@@ -2,7 +2,7 @@
 title: SuperMemo Code 2021
 description: Hackathon event during which users collaborate to create a new SuperMemo plugin (TBA 2021).
 published: true
-date: 2020-12-25T08:22:53.692Z
+date: 2020-12-25T08:25:09.890Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-24T15:42:24.625Z
@@ -51,7 +51,7 @@ While it isn't required to be familiar with SMA plugin writing, it is strongly e
 
 Any preparation you put into those two aspects will **make the event more enjoyable for you**.
 
-- [<i class="mdi mdi-xml black--text"></i> Plugin development *Learn the basics of plugin writing with SMA.*](https://dev.supermemo.wiki/)
+- [<i class="mdi mdi-xml black--text"></i> Plugin development *Learn the basics of plugin writing with SMA.*](https://dev.supermemo.wiki/#/plugin-dev-guide-1-setup)
 - [<i class="mdi mdi-puzzle brown--text"></i> Coding puzzles *Online games to practice programming concepts.*](https://www.codingame.com/training)
 - [<i class="mdi mdi-youtube red--text"></i> Learn C# (YouTube) *Full introduction to Programming and C#.*](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 - [<i class="mdi mdi-book"></i> Learn C# (E-Book) *Free, acclaimed book for beginning with C#.*](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf)
