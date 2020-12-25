@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-24T23:58:09.288Z
+date: 2020-12-25T00:00:22.257Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -48,7 +48,7 @@ Some authors make connections easy with their rich examples and metaphors. With 
 ## If you don't use it, it is useless.
 Simple as that, skills and knowledge that doesn't contribute to anything are useless. If the skills are there but the execution is not, you wasted your time. 
 
-I am confident my goals and action will emerge with time, I know I will create something. It takes time and time worries me. Maybe this desperation and worry is crucial integrident of the recipe for greatness? Maybe my worries of not achieving great things will paradoxically be the driving force to achieve great things. These driving forces are scarce I think. 
+I am confident my goals and action will emerge with time, I know I will create something. It takes time and time worries me. Maybe this desperation and worry is crucial integrident of the recipe for greatness? Maybe my worries of not achieving great things will paradoxically be the driving force to achieve great things. These driving forces are scarce I think. I had similar feeling of one topic bothering my mind every day probably years ago. 
 
 
 > To really love math you need to experience a beautiful coincidence of (1) super-interesting problem to solve and (2) super-effective solutions (known or found). This coincidence is rare and is more likely if you keep studying for long years without ever imposing the study on yourself by self-coercion. You know incremental reading so stay incremental and keep having fun. - Piotr Wozniak
