@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T18:02:11.859Z
+date: 2020-12-25T18:04:26.246Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -61,7 +61,7 @@ If the problem worries and is on my mind all the time, it's like having a gate o
 
 > Connections matter.
 
-One day someone mumbled in Discord voice chat about: "big output".. "output being big" or something like that. To this day, I don't know who said it, I tried to ask around in discord. I know it's one of my friends because I heard it in the voice chat. I really liked the sound of "big output", it translated to me as a question:
+One day someone mumbled in Discord voice chat about: "big output".. "output being big" or something like that. To this day, I don't know who said it, I tried to ask around in Discord. I know it's one of my friends because I heard it in the voice chat. I really liked the sound of "big output", it translated to me as a question:
 
 **"How big can your output get?"** 
 
