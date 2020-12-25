@@ -2,9 +2,9 @@
 title: Creating a Blog
 description: Learn how to create and edit your personal wiki page. Tips & Tricks included!
 published: true
-date: 2020-12-21T12:13:28.666Z
+date: 2020-12-25T05:57:40.150Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
 ---
 
@@ -65,20 +65,26 @@ blockdiag
   blogs -> b-users;
 }
 ```
-
 ### Creating your first page: Step 1
+
+Click on the new page button in the top right:
+
+![new_page2.png](/blogs/new_page2.png)
+
+
+### Creating your first page: Step 2
 
 Make sure that the page is located under `/blogs/`. Replace `username` with your pen name.
 
 ![Creating a blog step 1](/blogs/blogs-creation-1.png)
 
-### Creating your first page: Step 2
+### Creating your first page: Step 3
 
 Select <kbd>From Template</kbd> to bootstrap your page with the default settings (markdown), or alternatively select a custom editor.
 
 ![Creating a blog step 2](/blogs/blogs-creation-2.png)
 
-### Creating your first page: Step 3
+### Creating your first page: Step 4
 
 **If you have selected <kbd>From Template</kbd>, select **Blog Template** from the **User Blogs** folder.
 
