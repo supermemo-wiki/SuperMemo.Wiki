@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T18:00:10.662Z
+date: 2020-12-25T18:00:36.424Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -10,7 +10,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 # Connections matter
 
-This article started out to be about applicability, output and my desire to take action in life, building and achieving things. It turned out to be more about connections and their profound importance in learning.
+This post started out to be about applicability, output and my desire to take action in life, building and achieving things. It turned out to be more about connections and their profound importance in learning.
 
 ## **Anything but applicable is useless**
 
