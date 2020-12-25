@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T11:10:58.651Z
+date: 2020-12-25T11:14:01.758Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -56,7 +56,7 @@ I am confident my goals and action will emerge with time, I know I will create s
 
 I think this is a great quote. This "coincidence" of an interesting problem and a super-effective solution definitely is rare, however if some problem is in my mind every day — in my case starting to take action in life — I think the probablity of "collision" of the problem and the solution increases drastically. 
 
-It's like having a gate open 24/7 to connect a solution to a problem. Again, connections can be found anywhere and if the solution is to be found from a very unexpected place, suddenly and unexpectedly, it is helpful that I have my "problem" back in my mind there, ready to receive a solution. Otherwise that beautiful opportunity and coincidence will be missed, meaning that I don't make a connection between the problem and the solution.  
+If the problem worries and is on my mind all the tine, it's like having a gate open 24/7, waiting to connect a solution to the problem. Again, connections can be found anywhere and if the solution is to be found from a very unexpected place, suddenly and unexpectedly, it is helpful that I have my "problem" back in my mind there, ready to receive a solution. Otherwise that beautiful opportunity and coincidence will be missed, meaning that I don't make a connection between the problem and the solution.  
 ![lataa.jpg](/blogs/naess/dailynotes/25-12-2020/lataa2.jpg)
 
 
