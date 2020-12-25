@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T22:04:40.692Z
+date: 2020-12-25T22:05:27.496Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -12,7 +12,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 I was watching a video of my favorite League of Legends streamer. I wanted to go back to my gaming days, see the environment. It felt crazy watching a video of LoL after not playing or watching any content in the past couple years. Hundreds of memories and connections were lightened up.
 
-I am at a point of life where I don't have the one thing I do all day. It's weird, I always had such activity. Learning is close, but you can't really learn all day. Learning for sake of learning is not efficient either. Learning is best guided by needs.
+I am at a point in my life where I don't have the one thing I do all day. It's weird, I always had such activity. Learning is close, but you can't really learn all day. Learning for sake of learning is not efficient either. Learning is best guided by needs.
 
 I had a lot of success in League but I failed too. When I watched the vid mentioned earlier, it stroke me: I didn't love the game on every moment. I rage quitted a lot! I remember when things wouldn't make sense to me and I felt like a failure, I hated the game. I would get so angry. On later years I ditched those poor habits, but these memories were delightful to me today. That's because I falsely recalled that the journey was all fun and laughs. It was more like adrenaline, excitement, success and failure. It is lovely, I want that. There is no adrenaline in pure learning really. I loved winning!
 
