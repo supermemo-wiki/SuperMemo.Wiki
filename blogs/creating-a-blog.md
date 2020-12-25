@@ -2,7 +2,7 @@
 title: Creating a Blog
 description: Learn how to create and edit your personal wiki page. Tips & Tricks included!
 published: true
-date: 2020-12-25T05:57:40.150Z
+date: 2020-12-25T07:32:05.784Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
@@ -25,6 +25,15 @@ Offensive or inappropriate content (e.g. idealogical propaganda) will be removed
 # Writing your blog
 
 To create your personal page on the wiki, simply follow the steps below.
+
+## Creating your account
+
+To prevent spam we require **manual verification** for new accounts to receive editing permission on the Wiki.
+
+- [1. Create an Account *Register your personal account on this wiki.*](//supermemo.wiki/login){target="_blank"}
+- [2.a. Become an Editor - Option 1: *Contact `Alexis Incogito#8606` on Discord.*](https://discord.gg/vUQhqCT){target="_blank"}
+- [2.b. Become an Editor - Option 2: *Contact me by email `alexis (at) supermemo.wiki`.*](mailto:alexis%20(add%20an%20arobase%20here)%20supermemo.wiki?subject=[SuperMemo.wiki]%20I%20would%20like%20to%20become%20an%20editor&body=Hello,%0D%0A%0D%0APlease%20add%20me%20to%20the%20editor%20group,%20my%20wiki%20email%20account%20is...%0D%0A%0D%0AThanks!%0D%0AP.S.%20SuperMemo%20is%20amazing.)
+{.links-list}
 
 ## Creating pages
 
@@ -69,26 +78,26 @@ blockdiag
 
 Click on the new page button in the top right:
 
-![new_page2.png](/blogs/new_page2.png)
+![Creating a blog step 1](/blogs/blogs-creation-1.png)
 
 
 ### Creating your first page: Step 2
 
 Make sure that the page is located under `/blogs/`. Replace `username` with your pen name.
 
-![Creating a blog step 1](/blogs/blogs-creation-1.png)
+![Creating a blog step 2](/blogs/blogs-creation-2.png)
 
 ### Creating your first page: Step 3
 
 Select <kbd>From Template</kbd> to bootstrap your page with the default settings (markdown), or alternatively select a custom editor.
 
-![Creating a blog step 2](/blogs/blogs-creation-2.png)
+![Creating a blog step 3](/blogs/blogs-creation-3.png)
 
 ### Creating your first page: Step 4
 
 **If you have selected <kbd>From Template</kbd>, select **Blog Template** from the **User Blogs** folder.
 
-![Creating a blog step 3](/blogs/blogs-creation-3.png)
+![Creating a blog step 4](/blogs/blogs-creation-4.png)
 
 ## Editing your page's properties
 
