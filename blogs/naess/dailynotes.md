@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T00:21:52.301Z
+date: 2020-12-25T00:25:56.023Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -68,7 +68,7 @@ I just like the phrasing so much. I made it into my desktop background. How big 
 *My desktop background*
 
 
-
+*25.12.2012*
 
 # Learn drive in its purest form
 You want to see [learn drive](https://supermemo.guru/wiki/Learn_drive) in its purest form? Go observe someone choosing a netflix movie to watch. I do this all the time on my girlfriend. I see her skipping movies like a madman! She is RUTHLESS on jumping over movie which has "stupid looking cover". No fear of missing out, nobody is stopping her. Once she told me to change Simpsons episode because the one on the TV looked lame. SHE SAW ONLY ONE FRAME. A SINGLE PAUSED FRAME. These kinds of heuristics are full of errors and leads to dismissing great things, but it's the best we have in the endless stream of information. There is always more and better things. We have only limited attention and we need these quick filters.
