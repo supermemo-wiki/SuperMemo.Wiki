@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T13:22:16.135Z
+date: 2020-12-25T13:23:41.564Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -42,11 +42,11 @@ When you are reading an article, first thing you should do is to try to find the
 
 > Applicability can be created by forming connections.
 
-Some authors make connections easy with their rich examples and metaphors. With some material you really need to concentrate to **create the connection yourself**.
+Some authors make connections easy with their rich examples and metaphors. With some material you really need to concentrate to **form the connection yourself**.
 
-> If you can't connect it, it's useless. Connections can be found and created from pretty much anything. Usefulness depends on the nature of the connection and nature of the resource.
+> If you can't connect it, it's useless. Connections can be found and formed from pretty much anything. Usefulness depends on the nature of the connection and nature of the resource.
 
-If you backtrack to the Elon Musk quote in the beginning of this section, you see that this single quote created multiple connections for me, reinforced some ideas and really touched my world. I viewed things differently after this single sentence. If on the other hand I were to read this quote passively and rush over it, I probably would have missed on the rewards. In the same fashion, you can turn even words from 5 year old into gold, if the nature of the connection allows it. 
+If you backtrack to the Elon Musk quote in the beginning of this section, you see that this single quote formed multiple connections for me, reinforced some ideas and really touched my world. I viewed things differently after this single sentence. If on the other hand I were to read this quote passively and rush over it, I probably would have missed on the rewards. In the same fashion, you can turn even words from 5 year old into gold, if the nature of the connection allows it. 
 
 ## If you don't use it, it is useless.
 Simple as that, skills and knowledge that doesn't contribute to anything are useless. If the skills are there but the execution is not, you wasted your time. 
