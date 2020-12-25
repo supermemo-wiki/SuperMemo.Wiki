@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T13:23:41.564Z
+date: 2020-12-25T13:27:32.651Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -46,7 +46,7 @@ Some authors make connections easy with their rich examples and metaphors. With 
 
 > If you can't connect it, it's useless. Connections can be found and formed from pretty much anything. Usefulness depends on the nature of the connection and nature of the resource.
 
-If you backtrack to the Elon Musk quote in the beginning of this section, you see that this single quote formed multiple connections for me, reinforced some ideas and really touched my world. I viewed things differently after this single sentence. If on the other hand I were to read this quote passively and rush over it, I probably would have missed on the rewards. In the same fashion, you can turn even words from 5 year old into gold, if the nature of the connection allows it. 
+If you backtrack to the Elon Musk quote in the beginning of this section, you see that this single quote formed multiple connections for me, reinforced some ideas and really touched my world. I viewed things differently after this single sentence. If on the other hand I were to read this quote passively and rush over it, I probably would have missed on the rewards. In the same fashion, you can turn even words from 5 year old into gold, if the nature of the connection allows it (for example, if the words from the kid sparks an unexpected connection that generates a fresh business idea).
 
 ## If you don't use it, it is useless.
 Simple as that, skills and knowledge that doesn't contribute to anything are useless. If the skills are there but the execution is not, you wasted your time. 
