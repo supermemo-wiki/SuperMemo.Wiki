@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-24T09:07:19.717Z
+date: 2020-12-25T08:31:04.299Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -352,7 +352,7 @@ This table **compares the principles** of incremental reading (parallel) and tra
   </tbody>
 </table>
 
-<blockquote data-line="304" class="is-info line">
+<blockquote class="is-info line">
   <p><strong><sup>*</sup></strong>: In IR, most material is gradually broken down into smaller chunks, hence the low average duration.</p>
   <p><strong>Nothing precludes an incremental reader from deliberately studying a single topic or material for hours</strong> at a time. Typical motivations include:</p>
   <ul>
