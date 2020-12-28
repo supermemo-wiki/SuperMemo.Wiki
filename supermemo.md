@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-25T08:31:04.299Z
+date: 2020-12-28T08:22:12.982Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -235,7 +235,7 @@ When **review time** comes, the answer will be hidden. After reading the prompt 
 
 From left to right, the first three grades and last two grades respectively represent different levels of ease for success and failure to recall.
 
-The choosen grade will define how long elapses before the next review. In case of failure, the item will be rescheduled in the next few days.
+The chosen grade will define how long elapses before the next review. In case of failure, the item will be rescheduled in the next few days.
 
 ## Knowledge Destructuring
 
