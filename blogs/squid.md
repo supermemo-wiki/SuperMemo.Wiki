@@ -2,19 +2,17 @@
 title: The Squid Eater
 description: Enter a description of the topics discussed on your personal page.
 published: true
-date: 2020-12-20T07:41:33.321Z
+date: 2020-12-28T11:57:39.374Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-20T07:41:30.297Z
 ---
 
-# My Internet Corner
+# The Squid Eater
 
-Welcome to your personal page! To get started, check out our guide and our tips for writing your blog:
+I enjoy eating squids. Roughly 0% of my content here is regarding the consumption of squids. Make of that what you will.
 
-- [Creating a Blog *Guide to creating your personal page on the wiki.*](https://www.supermemo.wiki/en/blogs/creating-a-blog)
+- [Urgency-Importance Matrix in SuperMemo Tasklist](squid/urgency-importance-tasklist)
 {.links-list}
 
-Have fun!
 
-![piotr_wozniak_icon.png](/supermemo/piotr_wozniak_icon.png){.align-center}
