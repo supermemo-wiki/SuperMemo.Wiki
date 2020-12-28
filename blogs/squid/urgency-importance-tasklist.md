@@ -2,7 +2,7 @@
 title: Urgency-importance Matrix for SuperMemo Tasklists
 description: How to boost SuperMemo's tasklist feature by 200%
 published: true
-date: 2020-12-28T11:47:06.533Z
+date: 2020-12-28T18:21:10.864Z
 tags: tasklist
 editor: markdown
 dateCreated: 2020-12-28T11:47:06.533Z
@@ -13,11 +13,31 @@ dateCreated: 2020-12-28T11:47:06.533Z
 
 Urgency-Importance Matrices, or Eisenhower Matrices, are well known tools for organising tasklists. They are incredibly powerful. 
 
-![2020-12-28_11_43-the_eisenhower_matrix__introduction_&_3-minute_video_tutorial_and_2_more_pages_-.png](/2020-12-28_11_43-the_eisenhower_matrix__introduction_&_3-minute_video_tutorial_and_2_more_pages_-.png)
+![urengy-importance_matrix.png](/blogs/squid/urengy-importance_matrix.png)
 
 In SuperMemo, we can replicate this by making four different tasklists for each of the quadrants. I've found this has boosted the quality of my tasklist usage DRAMATICALLY and am never going back.
 
-For additional simplicity, I have also started only using a 1-5 rankng for the values of tasks, making giving tasks a value far simpler than before.
+## Simmplified Values
+
+For additional simplicity, I have also started only using a 1-5 rankng for the values of tasks, making giving tasks a value far simpler and quicker than before.
+
+## Rapid Task Adding
+If a task has friction we're less likely to do it. For that reason here's an AutoHotkey script I made that lets you add a task from anywhere with the tap of Alt + Space:
+
+``` 
+#IfWinActive
+
+Alt & Space::
+WinActivate ahk_class TElWind
+send, !{F1}
+sleep, 500
+send, !s
+keywait, Enter, D T10
+send, !d
+return
+
+
+```
 
 
 
