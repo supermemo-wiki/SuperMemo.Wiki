@@ -2,10 +2,10 @@
 title: Gilgamesh's Corner
 description: 
 published: true
-date: 2020-12-18T09:26:55.302Z
+date: 2020-12-29T13:50:15.330Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-18T09:26:43.322Z
 ---
 
-![piotr_wozniak_icon.png](/supermemo/piotr_wozniak_icon.png)
+yare yare daze...
