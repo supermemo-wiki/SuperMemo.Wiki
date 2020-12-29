@@ -1,8 +1,8 @@
 ---
-title: Matt's Corner
-description: Enter a description of the topics discussed on your personal page.
+title: Matt's Learning Experiments
+description: My log is an experiment in project-based learning & application. I am currently interested in learning C# and Xamarin for cross-platform native mobile app development. I'm also interested in behavioral design & health optimization. 
 published: true
-date: 2020-12-25T05:38:34.119Z
+date: 2020-12-29T23:09:51.010Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-25T05:38:34.119Z
