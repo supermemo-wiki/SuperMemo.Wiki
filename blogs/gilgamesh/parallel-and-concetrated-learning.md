@@ -1,8 +1,8 @@
 ---
-title: Parallel Learning and Concetrated Learning: In Light of a System That Doesn't Forget
+title: Parallel Learning and Concentrated Learning: In Light of a System That Doesn't Forget
 description: A view on why learning one material at a time is more effecient.
 published: true
-date: 2020-12-29T08:32:34.775Z
+date: 2020-12-29T08:32:45.865Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-29T08:18:39.078Z
