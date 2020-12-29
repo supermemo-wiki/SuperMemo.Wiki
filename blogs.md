@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2020-12-29T07:27:10.840Z
+date: 2020-12-29T08:05:35.223Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -28,4 +28,5 @@ Find out how to create and edit your personal page on this wiki by clicking on t
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Guillem's Corner *Inspiring others to discover the pleasure of self-directed learning*](https://guillem.supermemo.wiki)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Maths' Corner *Non-descriptive generic text*](https://maths.supermemo.wiki)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Squid's Corner *Enamoured by freedom*](https://squid.supermemo.wiki)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> gilgamesh's Corner *we learn to be better and we are better by learning*](https://gilgamesh.supermemo.wiki)
 {.links-list}
