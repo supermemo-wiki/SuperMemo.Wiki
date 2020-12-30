@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-24T09:09:57.466Z
+date: 2020-12-30T10:10:15.867Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -123,7 +123,7 @@ The rest of this guide assumes a basic understanding of the principles of **Spac
 
 ## 1 on 1 tutoring (recommended)
 
-In 1-2 hours, a proficient user can teach you the basics to get you started with the essential functionalities.
+In 1-2 hours, a proficient user can teach you the basics to get you started with the essential features of SuperMemo.
 
 - [👨‍🎓 &nbsp; Schedule a call *Learn the ropes with Raj of SuperMemo.wiki.*](https://calendly.com/test0009/raj)
 {.links-list}
@@ -132,13 +132,13 @@ In 1-2 hours, a proficient user can teach you the basics to get you started with
 
 ### The 3 minutes introduction
 
-Quick introduction to understanding the basic workflow of SuperMemo.
+Quick introduction to understanding the workflow in SuperMemo.
 
 <iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/WC260xK3QdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Complete guide
 
-This series of video will take you from beginner to advanced expertize level.
+This series of video will take you from beginner to advanced levels of proficiency.
 
 <iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/i33BTuwTgAs?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1&index=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
