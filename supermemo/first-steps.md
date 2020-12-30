@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-30T10:10:15.867Z
+date: 2020-12-30T10:14:24.799Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
