@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2020-12-28T08:22:12.982Z
+date: 2021-01-01T13:06:06.991Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -454,7 +454,7 @@ graph TB
 ## Video guides
 
 - [Video guides *A series of video that will take you from Beginner to Advanced level.*](https://www.youtube.com/playlist?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1)
-- [YouTube channel *Educative videos published by the SuperMemo.wiki community.*](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ)
+- [YouTube channel *Educative videos published by the SuperMemo.wiki community.*](https://youtube.com/c/SuperMemoWiki)
 {.links-list}
 
 <div class="mt-8">
