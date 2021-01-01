@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2021-01-01T13:06:06.991Z
+date: 2021-01-01T20:40:34.782Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -461,8 +461,8 @@ graph TB
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i33BTuwTgAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[^1]: https://supermemo.guru/wiki/History_of_spaced_repetition
-[^2]: https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation:_Signatories
-[^3]: Word chosen on purpose. Salary does not equate income https://www.youtube.com/watch?v=eyrEykrcQi0
+[^1]: [History of spaced repetition](https://supermemo.guru/wiki/History_of_spaced_repetition)
+[^2]: [Declaration of Educational Emancipation](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation:_Signatories)
+[^3]: Word chosen on purpose. [Salary does not equate income YouTube video](https://www.youtube.com/watch?v=eyrEykrcQi0)
 
 ![SuperMemo.wiki](/supermemo-64.png){.align-abstopright}
