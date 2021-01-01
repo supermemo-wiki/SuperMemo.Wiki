@@ -2,7 +2,7 @@
 title: Going Further With SuperMemo
 description: Tips for progressing from amateur level to expert.
 published: true
-date: 2020-12-24T12:53:16.620Z
+date: 2021-01-01T13:07:14.811Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T17:28:23.407Z
@@ -51,7 +51,7 @@ To optimize a little further, you can process important facts faster if you send
 ## Video guides
 
 - [Fowl's Guide to SuperMemo *A series of video that will take you from Beginner to Advanced level.*](https://www.youtube.com/playlist?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1)
-- [YouTube channel *Educative videos published by the SuperMemo.wiki community.*](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ)
+- [YouTube channel *Educative videos published by the SuperMemo.wiki community.*](https://www.youtube.com/c/SuperMemoWiki)
 {.links-list}
 
 # Other sources
