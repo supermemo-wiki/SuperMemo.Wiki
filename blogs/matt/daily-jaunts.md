@@ -2,11 +2,11 @@
 title: Daily Jaunts
 description: Ramblings with the Old Man
 published: true
-date: 2020-12-30T00:05:14.557Z
+date: 2021-01-01T17:51:09.833Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-30T00:00:32.662Z
 ---
 
-# Header
-Your content here
+# 1/1/21
+Placeholder
