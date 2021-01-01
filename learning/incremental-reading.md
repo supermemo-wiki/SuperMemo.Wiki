@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2021-01-01T20:46:26.993Z
+date: 2021-01-01T20:46:47.993Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -241,7 +241,7 @@ SuperMemo allows you to set priorities for every element, postponing the lesser-
 - [Learning about nutrition *Learning about nutrition, by Dr Piotr Wozniak.*](https://www.youtube.com/watch?v=DoQoeK53bP8)
 - [Learning about WWII *Learning history of World War 2, by Dr Piotr Wozniak.*](https://www.youtube.com/watch?v=XRuLV2_A3Ts)
 - [Timelapse of varied material *2 Hours of IR in 10 minutes, by Naess.*](https://www.youtube.com/watch?v=zinKj9nSYbM)
-- [Timelapse of medical material (with commentary) *1.5 Hours of IR in 10 minutes, by Fowl*](https://youtu.be/jN7LM6wr8lE)
+- [Timelapse of medical material (with commentary) *1.5 Hours of IR in 10 minutes, by Fowl*](https://www.youtube.com/watch?v=jN7LM6wr8lE)
 {.links-list}
 
 
