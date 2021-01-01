@@ -2,7 +2,7 @@
 title: Fowl's Journal
 description: 
 published: true
-date: 2021-01-01T18:25:57.106Z
+date: 2021-01-01T18:43:47.091Z
 tags: university, medicine, italy, neural review, coercion
 editor: markdown
 dateCreated: 2021-01-01T18:11:10.297Z
@@ -29,5 +29,5 @@ The standard structure is going to be:
 
 ## January
 
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> 1\1\2021 *Most proficient user of SuperMemo journal entries.*](https://www.supermemo.wiki/e/en/blogs/fowls-journal/1-1-2021)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> 1\1\2021 *First day of the great journey.*](https://www.supermemo.wiki/e/en/blogs/fowls-journal/1-1-2021)
 {.links-list}
