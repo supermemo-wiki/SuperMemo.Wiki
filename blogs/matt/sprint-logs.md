@@ -2,13 +2,29 @@
 title: Sprint logs
 description: Sprint review & retrospective for each 4-week sprint.
 published: true
-date: 2020-12-31T03:43:07.332Z
+date: 2021-01-01T17:49:15.614Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-29T23:56:32.635Z
 ---
 
-# 12/30/2020 - What is this crazy old man talking about with "sprints"?
+# 1/1/21 - Sprint #1
+
+Sprint #1 is off and running! For this month, I have a couple of expected outputs:
+
+### **Project Outcomes**
+1. Finish C# Intermediate course
+1. Finish C# Advanced Course
+1. Finish C# Xamarin course (bonus)
+1. Develop basic user flow in Balsamiq
+
+### **Health & Fitness Outcomes**
+1. Eliminate thoracic spine pain (sub out row variation in strength training)
+1. Reduce shoulder pain (switch to OA OHP)
+1. Gain 1.5 lbs bodyweight (end: 202.5 lbs)
+
+
+# 12/30/20 - What is this crazy old man talking about with "sprints"?
 
 The idea of "sprints" comes from the world of programming (more precisely, from the management philosophy called [Agile](https://www.wrike.com/project-management-guide/faq/what-is-a-sprint-in-agile/)). A sprint is typically a 2-4 week time-boxed period in which a specific amount of work is to be completed. Each sprint should produce some type of deliverable. As for the purpose of a sprint, I like this definition from the article linked above:
 
