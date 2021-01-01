@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2020-12-25T22:16:25.866Z
+date: 2021-01-01T02:33:56.860Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -49,9 +49,9 @@ Now I'm not implying everything you learn needs to have such a great effect, but
 
 > You can't remember what you can't connect. - Elon Musk
 
-I think this quote has huge implications. Imagine reading an article and you absolutely cannot connect it to anything in your life and you don't plan to build on it. What use it has? This has implications in a sense that **the greater the number (or magnitude) of the connections, the more applicable the thing**. You can read an article passively and miss all the potential connections you could make between the article and your life. This is maybe word twisting of things you probably already know, however I find it a nice way of thinking, a heuristic. 
+I think this quote has huge implications. Imagine reading an article and you absolutely cannot connect it to anything in your life and you don't plan to build on it. Not only it is asemantic, but what use it has? This has implications in a sense that **the greater the number (or magnitude) of the connections, the more applicable the thing**. You can read an article passively and miss all the potential connections you could make between the article and your life. This is maybe word twisting of things you probably already know, however I find it a nice way of thinking, a heuristic. 
 
-When you are reading an article, first thing you should do is to try to find the connections or form the connections. **Connections can be found from anywhere!** I think we can create applicability by forming connections. I think being able to connect things like nobody else does is the root of creativity and genius. In contrast, if you are reading something that fundamentally is applicable and related to your life, but you don't make the connection between the knowledge and your life, it is useless. This  aligns with what I wrote in my article about [knowledge being an asset](https://lehtola.blog/blog/adding-value-realizing-value/). 
+When you are reading an article, first thing you should do is to try to find the connections or form the connections. **Connections can be found from anywhere!** I think we can create applicability by forming connections. Connections need resemblances and properties of similar nature. I think being able to connect things like nobody else does is the root of creativity and genius. In contrast, if you are reading something that fundamentally is applicable and related to your life, but you don't make the connection between the knowledge and your life, it is useless. This  aligns with what I wrote in my article about [knowledge being an asset](https://lehtola.blog/blog/adding-value-realizing-value/). 
 
 > Applicability can be created by forming connections.
 
