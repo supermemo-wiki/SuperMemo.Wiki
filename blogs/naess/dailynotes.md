@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-04T17:54:53.010Z
+date: 2021-01-04T18:02:21.693Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -11,7 +11,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 # Mediocritization vs optimization
 **Never getting stuck**
 
-Something that has been affecting my world view is the idea of mediocritization vs optimization setting. I just wanted to share this nice series on that: [Mediocratopia](https://www.ribbonfarm.com/series/mediocratopia-2/). 
+Something that has been affecting my world view lately is the idea of mediocritization vs optimization setting. I just wanted to share this nice series on that: [Mediocratopia](https://www.ribbonfarm.com/series/mediocratopia-2/). 
 
 To be honest, I had this in my incremental reading queue for a while but I did just really hazy and quick skim of it and all that is left in my hands is the big idea of mediocritization vs optimization. In other words, I just took the general idea from the author and started making connections to this idea in my own life. 
 
