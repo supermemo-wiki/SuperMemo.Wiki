@@ -2,7 +2,7 @@
 title: User Blogs
 description: Index of SuperMemo.wiki user blogs.
 published: true
-date: 2021-01-01T19:16:03.772Z
+date: 2021-01-04T17:58:43.636Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T22:28:40.321Z
@@ -29,4 +29,6 @@ Find out how to create and edit your personal page on this wiki by clicking on t
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Squid's Corner *Enamoured by freedom*](https://squid.supermemo.wiki)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Gilgamesh's Corner *We learn to be better and we are better by learning*](https://gilgamesh.supermemo.wiki)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Fowl's Journal *Most proficient user of SuperMemo journal entries.*](https://www.supermemo.wiki/en/blogs/fowls-journal)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Matt's Journal *Learning experiments of a salesman*](https://www.supermemo.wiki/en/blogs/matt)
+
 {.links-list}
