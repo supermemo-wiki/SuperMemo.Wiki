@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-04T17:50:41.512Z
+date: 2021-01-04T17:51:03.664Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -19,7 +19,7 @@ I see these connections everywhere: minimum viable product, kaizen, incrementali
 
 This is a disruptive thinking of world where people admire excellence, expertise, perfection, details and all that. Wanting everything to be "just the greatest" can be paralyzing. Rather focus on getting the momentum going.
 
-*4.01.2021*
+*4.1.2021*
 
 
 # Chasing success
