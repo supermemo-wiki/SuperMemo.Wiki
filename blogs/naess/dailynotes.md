@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-04T17:51:03.664Z
+date: 2021-01-04T17:51:45.728Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -17,7 +17,7 @@ To be honest, I had this in my incremental reading queue but I did just really h
 
 I see these connections everywhere: minimum viable product, kaizen, incrementalism, premature optimization, fundamental principles vs details, inertia... They're not all the same, but revolve around this big idea of not getting stuck and keeping the momentum going. Not going for the "big homerun" but to consistently do small progress. Not to go for the "perfect" initially but let it emerge from uncertain events. 
 
-This is a disruptive thinking of world where people admire excellence, expertise, perfection, details and all that. Wanting everything to be "just the greatest" can be paralyzing. Rather focus on getting the momentum going.
+This is a disruptive thinking in our world where people admire excellence, expertise, perfection, details and all that. Nobody wants to be mediocre. Wanting everything to be "just the greatest" can be paralyzing. Rather focus on getting the momentum going and let the excellence emerge.
 
 *4.1.2021*
 
