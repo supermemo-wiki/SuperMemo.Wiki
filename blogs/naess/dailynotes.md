@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-04T17:50:18.538Z
+date: 2021-01-04T17:50:41.512Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -18,6 +18,8 @@ To be honest, I had this in my incremental reading queue but I did just really h
 I see these connections everywhere: minimum viable product, kaizen, incrementalism, premature optimization, fundamental principles vs details, inertia... They're not all the same, but revolve around this big idea of not getting stuck and keeping the momentum going. Not going for the "big homerun" but to consistently do small progress. Not to go for the "perfect" initially but let it emerge from uncertain events. 
 
 This is a disruptive thinking of world where people admire excellence, expertise, perfection, details and all that. Wanting everything to be "just the greatest" can be paralyzing. Rather focus on getting the momentum going.
+
+*4.01.2021*
 
 
 # Chasing success
