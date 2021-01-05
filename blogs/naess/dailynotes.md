@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-05T20:40:11.228Z
+date: 2021-01-05T20:40:23.814Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -16,13 +16,12 @@ This post is something I wanted to write quite some time ago. It is an analogy a
 
 Main takeaway (probably) is going to be shifting from min-maxing to max-maxing! 
 
-*Initiated 5.1.2020*
 
 ## Planting value
 
 You want to plant only valuable resources to your island. Given enough time, everything in your island will be consumed or thrown away. You are what you eat. Material selection determines how your brain will look like in the upcoming years, so choose and prioritize wisely!
 
-
+*Initiated 5.1.2020*
 
 
 # Mediocritization vs optimization
