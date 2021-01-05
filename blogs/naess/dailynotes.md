@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-05T06:12:56.903Z
+date: 2021-01-05T20:29:32.433Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -19,7 +19,7 @@ I see these connections everywhere: minimum viable product, kaizen, incrementali
 
 > Mediocritization is about solving for survival first.
 
-This is a disruptive thinking in our world where people admire excellence, expertise, perfection, details and all that. Nobody wants to be mediocre. Wanting everything to be "just the greatest" can be paralyzing. Rather focus on getting the momentum going and worry about the excellence later.
+This is disruptive thinking in our world where people admire excellence, expertise, perfection, details and all that. Nobody wants to be mediocre. Wanting everything to be "just the greatest" can be paralyzing. Rather focus on getting the momentum going and worry about the excellence later.
 
 *4.1.2021*
 
