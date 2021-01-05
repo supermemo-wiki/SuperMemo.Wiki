@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-05T06:06:23.995Z
+date: 2021-01-05T06:07:53.534Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -13,7 +13,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 Something that has been affecting my world view lately is the idea of mediocritization vs optimization setting. I just wanted to share this nice series on that: [Mediocratopia](https://www.ribbonfarm.com/series/mediocratopia-2/). 
 
-To be honest, I had this in my incremental reading queue for a while but I did just really hazy and quick skim of it and all that is left in my hands is the big idea of mediocritization vs optimization. In other words, I just took the general idea from the author and started making connections to this idea in my own life. 
+To be honest, I had this in my incremental reading queue for a while but I did just really hazy and quick skim of it and all that is left in my hands is the big idea of mediocritization vs optimization. In other words, I just took the general idea from the author and started noticing a lot of connections from this idea to many other domains. 
 
 I see these connections everywhere: minimum viable product, kaizen, incrementalism, premature optimization, fundamental principles vs details, inertia... They're not all the same, but revolve around this big idea of not getting stuck and keeping the momentum going. Not going for the "big homerun" but to consistently do small progress. Not to go for the "perfect" initially but let it emerge from uncertain events. Not to focus on what it ought to be, but to focus on what you actually can do right now.
 
