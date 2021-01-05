@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-05T20:39:54.252Z
+date: 2021-01-05T20:40:11.228Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -16,6 +16,7 @@ This post is something I wanted to write quite some time ago. It is an analogy a
 
 Main takeaway (probably) is going to be shifting from min-maxing to max-maxing! 
 
+*Initiated 5.1.2020*
 
 ## Planting value
 
