@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-05T06:06:14.979Z
+date: 2021-01-05T06:06:23.995Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -17,7 +17,7 @@ To be honest, I had this in my incremental reading queue for a while but I did j
 
 I see these connections everywhere: minimum viable product, kaizen, incrementalism, premature optimization, fundamental principles vs details, inertia... They're not all the same, but revolve around this big idea of not getting stuck and keeping the momentum going. Not going for the "big homerun" but to consistently do small progress. Not to go for the "perfect" initially but let it emerge from uncertain events. Not to focus on what it ought to be, but to focus on what you actually can do right now.
 
-> Mediocritization is about solving for survival first
+> Mediocritization is about solving for survival first.
 
 This is a disruptive thinking in our world where people admire excellence, expertise, perfection, details and all that. Nobody wants to be mediocre. Wanting everything to be "just the greatest" can be paralyzing. Rather focus on getting the momentum going and let the excellence emerge.
 
