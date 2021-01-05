@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-05T21:03:38.766Z
+date: 2021-01-05T21:05:04.598Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -17,7 +17,7 @@ This post is something I wanted to write quite some time ago. It is an analogy a
 
 ## Planting value
 
-You want to plant only the best available resources to your island. Given enough time, everything in your island will be consumed or thrown away. You are what you eat. Material selection determines how your brain will look like in the upcoming years, so choose wisely! 
+You want to plant only the best available resources on your island. Given enough time, everything in your island will be consumed or thrown away. You are what you eat. Material selection determines how your brain will look like in the upcoming years, so choose wisely! 
 
 *Initiated 5.1.2020*
 
