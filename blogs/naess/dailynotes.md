@@ -2,11 +2,27 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-05T20:29:32.433Z
+date: 2021-01-05T20:39:54.252Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
+
+# Virtual island of knowledge
+> This post is going to be updated (hopefully) frequently. Lacks source material and ideas! 
+{.is-warning}
+
+This post is something I wanted to write quite some time ago. It is an analogy aimed to explain some nuances of incremental learning and to highlight the most important levers (macro aspects) we should focus on in learning. It started from an idea "from micro issues to macro issues". 
+
+Main takeaway (probably) is going to be shifting from min-maxing to max-maxing! 
+
+
+## Planting value
+
+You want to plant only valuable resources to your island. Given enough time, everything in your island will be consumed or thrown away. You are what you eat. Material selection determines how your brain will look like in the upcoming years, so choose and prioritize wisely!
+
+
+
 
 # Mediocritization vs optimization
 **Never getting stuck**
