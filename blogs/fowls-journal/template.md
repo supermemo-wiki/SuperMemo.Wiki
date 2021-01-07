@@ -2,7 +2,7 @@
 title: Template
 description: 
 published: true
-date: 2021-01-07T09:06:11.762Z
+date: 2021-01-07T09:06:27.427Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-07T09:06:11.762Z
@@ -10,7 +10,6 @@ dateCreated: 2021-01-07T09:06:11.762Z
 
 # X/X/2021
 
-# 3/1/2021
 
 ## Daily Goals 
 ### Health
