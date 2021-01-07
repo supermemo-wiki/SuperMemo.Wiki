@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-05T21:05:04.598Z
+date: 2021-01-07T15:35:16.879Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -12,7 +12,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 > This post is going to be updated (hopefully) frequently. Lacks source material and ideas! 
 {.is-warning}
 
-This post is something I wanted to write quite some time ago. It is an analogy aimed to explain some nuances of incremental learning and to highlight the most important levers (macro aspects) we should focus on in learning. It started from an idea "from micro issues to macro issues". 
+This post is something I wanted to write quite some time ago. It is an analogy aimed to explain some nuances of incremental learning and to highlight the most important levers (macro aspects) we should focus on in learning. It started of an idea "from micro issues to macro issues". 
 
 
 ## Planting value
