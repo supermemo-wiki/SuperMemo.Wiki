@@ -2,7 +2,7 @@
 title: Fowl's Journal
 description: 
 published: true
-date: 2021-01-08T10:43:48.482Z
+date: 2021-01-08T10:46:57.108Z
 tags: university, medicine, italy, neural review, coercion
 editor: markdown
 dateCreated: 2021-01-01T18:11:10.297Z
