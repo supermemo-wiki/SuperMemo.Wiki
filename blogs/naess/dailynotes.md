@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-10T08:20:34.866Z
+date: 2021-01-10T08:43:20.234Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -10,7 +10,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 # From semantic world to the sensory world
 
-I finally decided to give SuperMemo a break and focus on working with my senses, body parts, with the physical me. I want to do something actual and utilize all my senses. For too long it's been just me, SM and my mind. If you are tunnel visioning only on the "consuming the knowledge" part of learning, you are being highly inefficient. It's never the extreme.
+I finally decided to give SuperMemo a break and focus on working with my senses, body parts, with the physical me. I want to do something actual and utilize all my senses. For too long it's been just SM and my mind. If you are tunnel visioning only on the "consuming the knowledge" part of learning, you are being highly inefficient. It's never the extreme.
 
 ![mapvsterritory2.png](/blogs/naess/dailynotes/10-1-2021/mapvsterritory2.png)
 
