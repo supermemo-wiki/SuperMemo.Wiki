@@ -2,12 +2,33 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-07T15:35:16.879Z
+date: 2021-01-10T08:03:50.930Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
+# From semantic world to the sensory world
+
+I finally decided to give SuperMemo a break and focus on working with my senses, body parts, with the physical me. I want to do something actual and utilize all my senses. For too long it's been just me, SM and my mind. If you are tunnel visioning only on the "consuming the knowledge" part of learning, you are being highly inefficient. It's never the extreme.
+
+![mapvsterritory2.png](/blogs/naess/dailynotes/10-1-2021/mapvsterritory2.png)
+
+For years I've been polishing "the map" in my brain. Goal of the map is to help me operate in the real world. This is the reason why I am studying anything in the first place. To operate better with the physical me in the actual world, produce something using my physical hands, interact with real people and to experience life. The map helps but the biggest learning and rewards lies in the actual territory, adapating, imitating and adjusting to it.
+
+
+> Katona (1975) argued that social learning is simpler and more selective than individual learning. With social learning, people prefer short cuts and follow simplifying rules of thumb and routines. Imitation qualifies as a ‘fast and frugal heuristic’ in social situations (Gigerenzer & Goldstein 1996).
+
+Learning by incremental reading and creating items is very low effort and fun. It is what I inclined towards every day. However, the moment the tool turns into an ultimate, it is a bad sign. Learning for the learning's sake is very weak and won't amount to much. Having a thing you want to accomplish in the "sensory world" and learning for it makes a world difference. The efficiency of learning goes through the roof. Learning "just because" and for "stockpiling" knowledge — just in case — is weak.
+
+My plan is to give a break to my unhealthy relationship with SuperMemo and focus on other, "real" stuff. I will come back when I start seeing SuperMemo only as a tool and not my main thing I make progress on. Alternatively, I will come back when I find a real goal and passion to work on and need to resort to this magnificent tool. 
+
+For now, I've been looking up things in SkillShare. I switched my focus to actual skills and will gather only the necessary knowledge for them, instead of gathering the knowledge upfront and hope the skills follow!
+
+SuperMemo is probably the greatest software there is, but softwares are always secondary. Outcomes, skills and the real world should rule the process. 
+
+*10.1.2021*
+ 
 # Virtual island of knowledge
 > This post is going to be updated (hopefully) frequently. Lacks source material and ideas! 
 {.is-warning}
