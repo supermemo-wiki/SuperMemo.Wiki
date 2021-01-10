@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-10T08:09:03.254Z
+date: 2021-01-10T08:10:51.261Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -21,9 +21,12 @@ For years I've been polishing "the map" in my brain. Goal of the map is to help 
 
 Learning by incremental reading and creating items is very low effort and fun. It is what I inclined towards every day. However, the moment the tool turns into an ultimate, it is a bad sign. Learning for the learning's sake is very weak and won't amount to much. On the other hand, having a thing you want to accomplish in the "sensory world" and learning for it makes a world difference — the efficiency of learning goes through the roof. Learning "just because" and for "stockpiling" knowledge — just in case — is weak.
 
+
 My plan is to give a break to my unhealthy relationship with SuperMemo and focus on other, "real" stuff. I will come back when I start seeing SuperMemo only as a tool and not my main thing I make progress on. Alternatively, I will come back when I find a real goal and passion to work on and need to resort to this magnificent tool. 
 
-For now, I've been looking up things in SkillShare. I switched my focus to actual skills and will gather only the necessary knowledge for them, instead of gathering the knowledge upfront and hope the skills follow!
+> The single most important principle of effective learning is that it has strong sense of purpose and meaning. - Michael Nielsen
+
+For now, I've been looking up things in SkillShare. I switched my focus to actual skills and will gather only the necessary knowledge for them, instead of gathering the knowledge upfront and hope the skills follow.
 
 SuperMemo is probably the greatest software there is, but softwares are always secondary. Outcomes, skills and the real world should rule the process. 
 
