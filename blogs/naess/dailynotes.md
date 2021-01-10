@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-10T08:16:20.864Z
+date: 2021-01-10T08:17:28.358Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -14,7 +14,7 @@ I finally decided to give SuperMemo a break and focus on working with my senses,
 
 ![mapvsterritory2.png](/blogs/naess/dailynotes/10-1-2021/mapvsterritory2.png)
 
-For years I've been polishing "the map" in my brain. Goal of the map is to help me operate in the real world. Operating better in the real world is why I am studying anything in the first place. I am studying to help my physical self navigate in the physical world, to produce something using my physical hands, interact with real people and to experience life. You probably see how one can feel lost if he tunnel visions only on improving the map instead of having frequent encounters with the actual territory. The map helps but the biggest learning and rewards lies in the actual territory, adapating, imitating and adjusting to it.
+For years I've been polishing "the map" in my brain. Goal of the map is to help me operate in the real world. Operating better in the real world is why I am studying anything in the first place. I am studying to help my physical self navigate in the physical world, to produce something using my physical hands, interact with real people and to experience life. You probably see how one can feel lost if he tunnel visions only on improving the map instead of having frequent encounters with the actual territory. The map helps but the biggest learning and rewards lies in adapating, imitating and adjusting to the real thing.
 
 
 > Katona (1975) argued that social learning is simpler and more selective than individual learning. With social learning, people prefer short cuts and follow simplifying rules of thumb and routines. Imitation qualifies as a ‘fast and frugal heuristic’ in social situations (Gigerenzer & Goldstein 1996).
