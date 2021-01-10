@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-10T08:10:51.261Z
+date: 2021-01-10T08:12:21.636Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -24,7 +24,8 @@ Learning by incremental reading and creating items is very low effort and fun. I
 
 My plan is to give a break to my unhealthy relationship with SuperMemo and focus on other, "real" stuff. I will come back when I start seeing SuperMemo only as a tool and not my main thing I make progress on. Alternatively, I will come back when I find a real goal and passion to work on and need to resort to this magnificent tool. 
 
-> The single most important principle of effective learning is that it has strong sense of purpose and meaning. - Michael Nielsen
+> The single most important principle of effective learning is that it has a strong sense of purpose and meaning. - Michael Nielsen
+
 
 For now, I've been looking up things in SkillShare. I switched my focus to actual skills and will gather only the necessary knowledge for them, instead of gathering the knowledge upfront and hope the skills follow.
 
