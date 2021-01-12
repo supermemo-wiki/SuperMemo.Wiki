@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-10T22:11:51.005Z
+date: 2021-01-12T19:43:07.108Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -31,9 +31,6 @@ For now, I've been looking up things in SkillShare. I switched my focus to actua
 
 SuperMemo is probably the greatest software there is, but softwares are always secondary. Outcomes, skills and the real world should rule the process. 
 
-P.S. Here's two very inspirational videos which I found by chance in youtube. It mentioned the idea of confusing the map with territory briefly which sparked this whole post: 
-[Get Better At Any Skill In 5 Easy Steps...](https://www.youtube.com/watch?v=z3Glt58g4vM)
-[Why People Struggle to Apply What They Know (Top 5 Reasons)](https://www.youtube.com/watch?v=fOfTzLP4ai0)
 
 *10.1.2021*
  
