@@ -2,9 +2,9 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2020-12-19T18:35:27.938Z
+date: 2021-01-19T11:58:30.203Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
 ---
 
@@ -257,6 +257,72 @@ Admittedly, these are much more user friendly and require very little set up. Ho
 - [Encrypt your GitHub repository](https://github.com/AGWA/git-crypt).
 - Implement the [3-2-1 Backup Rule](https://www.acronyms-it.co.uk/blog/backup-rule-of-three/) [(Visual Guide)](/reference-manual/backup-guide/321backup.png){target="_blank"}.
 - Make your SuperMemo partition a [Mirrored Volume (RAID 1)](https://www.windowscentral.com/how-set-mirrored-volume-file-redundancy-windows-10).
+
+## Duplicati Backup Guide
+
+### Installing Duplicati on Windows
+
+I assume you're on Windows. Go to [Duplicati download page](https://www.duplicati.com/download), click the "Windows 2.0.5.1" icon to download the Windows installer. If you have a 32-bit version Windows, download the Windows 32 bit installer instead.
+
+During installation, no change is needed: just keep pressing Next until complete. After installation, a new Duplicati tray icon in the System Tray will appear. Right click on it-> Click open to open the app:
+
+![icon.png](/duplicatibackup/duplicatibackup/icon.png)
+
+It's a browser-based app. Your default browser will open and launch a new tab at http://localhost:8200/ngax/index.html.
+
+### First backup
+
+In this tutorial I'll back up the whole SuperMemo Drive (:S) to Google Drive as an example. The following are my suggested settings. Feel free to modify as you see fit.
+
+In the Duplicati homepage, click "Add backup":
+
+![t05.png](/duplicatibackup/duplicatibackup/t05.png)
+
+The default "Configure a new backup" should be selected. Click Next.
+
+#### 1. General
+
+![t1.png](/duplicatibackup/duplicatibackup/t1.png)
+
+I __highly recommend__ that you choose Encryption: "AES-256 encryption, built in". Without encryption all your data is exposed.
+
+Passphrase is another term for password. Please make it long and store it to a secure location. If you lose this passphrase you won't be able to decrypt your precious precious collection when needed.
+
+Click Next
+
+#### 2. Backup destination
+
+![t2.png](/duplicatibackup/duplicatibackup/t2.png)
+
+"Path on server" means the folder name in your Google Drive. Don't worry if it doesn't exist yet. Duplicati will create it for you later.
+
+Click the blue AuthID link. Choose your login credentials. After authentication a string will appear in the input field.
+
+Click Test connection. It'll prompt "The folder SuperMemoBackup does not exist. Create it now?" Click yes.
+
+Click Next
+
+#### 3. Source data
+
+![t3.png](/duplicatibackup/duplicatibackup/t3.png)
+
+I've followed the "Local backups: BitShelter" guide, so I choose the whole drive as source data.
+
+#### 4. Schedule
+
+![t4.png](/duplicatibackup/duplicatibackup/t4.png)
+
+I choose to back up every 3 hours. Feel free to change it.
+
+#### 5. Options
+
+Keep the default. Click Save
+
+After this, go back to the homepage and you'll see a new task has appeared. Click Run. After that Duplicati will run your task automatically.
+
+![t5.png](/duplicatibackup/duplicatibackup/t5.png)
+
+For more please read [Duplicati 2 User's Manual](https://docs.duplicati.com).
 
 # Testimonies
 
