@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-01-19T12:06:24.917Z
+date: 2021-01-19T12:09:40.650Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -306,7 +306,7 @@ Click Next
 
 ![t3_1.png](/duplicatibackup/t3_1.png)
 
-I've followed the "Local backups: BitShelter" guide, so I choose the whole drive as source data.
+I've followed the above "Local backups: BitShelter" guide, so I choose the whole drive as source data.
 
 #### 4. Schedule
 
