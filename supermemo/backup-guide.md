@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-01-19T11:58:30.203Z
+date: 2021-01-19T12:06:24.917Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -266,7 +266,7 @@ I assume you're on Windows. Go to [Duplicati download page](https://www.duplicat
 
 During installation, no change is needed: just keep pressing Next until complete. After installation, a new Duplicati tray icon in the System Tray will appear. Right click on it-> Click open to open the app:
 
-![icon.png](/duplicatibackup/duplicatibackup/icon.png)
+![icon_1.png](/duplicatibackup/icon_1.png)
 
 It's a browser-based app. Your default browser will open and launch a new tab at http://localhost:8200/ngax/index.html.
 
@@ -276,13 +276,13 @@ In this tutorial I'll back up the whole SuperMemo Drive (:S) to Google Drive as 
 
 In the Duplicati homepage, click "Add backup":
 
-![t05.png](/duplicatibackup/duplicatibackup/t05.png)
+![t05_1.png](/duplicatibackup/t05_1.png)
 
 The default "Configure a new backup" should be selected. Click Next.
 
 #### 1. General
 
-![t1.png](/duplicatibackup/duplicatibackup/t1.png)
+![t1_1.png](/duplicatibackup/t1_1.png)
 
 I __highly recommend__ that you choose Encryption: "AES-256 encryption, built in". Without encryption all your data is exposed.
 
@@ -292,7 +292,7 @@ Click Next
 
 #### 2. Backup destination
 
-![t2.png](/duplicatibackup/duplicatibackup/t2.png)
+![t2_1.png](/duplicatibackup/t2_1.png)
 
 "Path on server" means the folder name in your Google Drive. Don't worry if it doesn't exist yet. Duplicati will create it for you later.
 
@@ -304,13 +304,13 @@ Click Next
 
 #### 3. Source data
 
-![t3.png](/duplicatibackup/duplicatibackup/t3.png)
+![t3_1.png](/duplicatibackup/t3_1.png)
 
 I've followed the "Local backups: BitShelter" guide, so I choose the whole drive as source data.
 
 #### 4. Schedule
 
-![t4.png](/duplicatibackup/duplicatibackup/t4.png)
+![t4_1.png](/duplicatibackup/t4_1.png)
 
 I choose to back up every 3 hours. Feel free to change it.
 
@@ -320,7 +320,7 @@ Keep the default. Click Save
 
 After this, go back to the homepage and you'll see a new task has appeared. Click Run. After that Duplicati will run your task automatically.
 
-![t5.png](/duplicatibackup/duplicatibackup/t5.png)
+![t5_1.png](/duplicatibackup/t5_1.png)
 
 For more please read [Duplicati 2 User's Manual](https://docs.duplicati.com).
 
