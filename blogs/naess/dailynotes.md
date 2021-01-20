@@ -2,11 +2,29 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-12T19:43:07.108Z
+date: 2021-01-20T04:14:29.855Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
+
+# Learning should be a follower, not a leader
+
+> Practice reveals your weaknesses the best. It is the ultimate screener.
+
+For the past two years I have been hoping that if I (declaratively) learn a lot, somehow I turn to be more capable in processes and operating in the real world. Somehow a bunch of skills will follow if I just read a lot. That didn't turn out to be the case. While I'm definitely smarter and time wasn't exactly wasted in the past two years, but if you were to ask me: "What can you do better after studying with SuperMemo heavily for the past two years?", I wouldn't have much to show for *concretely*.
+
+Now I do process information better, I can represent knowledge efficiently in my mind, I am smarter in a lot of domains. These all contribute to operating in real world, but they are not any domain specific skills that allow me to make any meaningful contribution in the real world.
+
+For some reason the order in my head was **learn -> skills follow *automatically***, while in reality it should be **practice -> learning follows** **->** **skills develop**. This is very evident but for some reason I was ignoring this. I don't know why my learning process was so distorted. You wouldn't study how muscles work before starting to bike. 
+
+This is one of the stronger ideas guiding me lately. I don't remember where I read this:
+> Study just enough to take the next step
+
+I do realize that there is still a place for reading without combining it with practice, there is still a place for learning things upfront. This leads me to one of the bigger laws guiding me in life:
+
+> It's always about balance and it's almost never the extreme. 
+
 
 # From semantic world to the sensory world
 
