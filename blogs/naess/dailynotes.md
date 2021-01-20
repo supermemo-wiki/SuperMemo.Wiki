@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T04:24:30.503Z
+date: 2021-01-20T04:25:44.409Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -12,7 +12,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 *Practice reveals your weaknesses the best. It is the ultimate screener. It acts as a guiding signal to highlight the most fragile aspect to learn for.*
 
-For the past two years I have been hoping that if I (declaratively) learn a lot, somehow I turn to be more capable in processes and operating in the real world. Somehow a bunch of skills will follow if I just read a lot. That didn't turn out to be the case. While I'm definitely smarter and time wasn't exactly wasted in the past two years, but if you were to ask me: "What can you do better after studying with SuperMemo heavily for the past two years?", I wouldn't have much to show for *concretely*.
+For the past two years I have been hoping that if I (declaratively) learn a lot, somehow I turn to be more capable in processes and operating in the real world. Somehow a bunch of skills will follow if I just read a lot. That didn't turn out to be the case. While I'm definitely smarter and time wasn't exactly wasted in the past two years, but if you were to ask me: "What can you do better after studying with SuperMemo heavily for the past two years?", I wouldn't have much to show for *concretely*. This is not a flaw of SuperMemo, but it was a flaw of my approach with it. 
 
 Now I do process information better, I can represent knowledge efficiently in my mind, I am smarter in a lot of domains. These all contribute to operating in real world, but they are not any domain specific skills that allow me to make any meaningful contribution in the real world.
 
