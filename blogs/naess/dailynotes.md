@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T15:50:39.866Z
+date: 2021-01-20T15:55:53.215Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -16,7 +16,7 @@ For the past two years I have been hoping that if I (declaratively) learn a lot,
 
 While I'm definitely smarter and time wasn't exactly wasted in the past two years, but if you were to ask me: "What can you do better after studying with SuperMemo heavily for the past two years?", I wouldn't have much to show for *concretely*. This is not a flaw of SuperMemo (which is in extreme just a reading technique), but it was a flaw of my approach with it. You wouldn't blame *reading* for not giving you the outcomes you want.
 
-Now I do process information better, I can represent knowledge efficiently in my mind, I am smarter in a lot of domains. These all contribute to operating in real world, but they are not any domain specific skills that allow me to make any meaningful contribution in the real world.
+Now I do process information better, I can represent knowledge efficiently in my mind, I am smarter in a lot of domains. These all contribute to operating in the real world, but they are not any domain specific skills that allow me to make any meaningful contribution in the real world.
 
 For some reason the order in my head was **learn --> skills follow *automatically***, while in reality it should be **practice --> learning follows** **-->** **skills develop**. This is very evident but for some reason I was ignoring this. I don't know why my learning process was so distorted. You wouldn't study how muscles work before starting to bike. 
 
