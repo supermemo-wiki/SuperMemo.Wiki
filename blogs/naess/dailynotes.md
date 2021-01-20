@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T04:28:22.114Z
+date: 2021-01-20T04:30:04.657Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -27,6 +27,7 @@ I do realize that there is still a place for reading without combining it with p
 
 > It's always about balance and it's almost never the extreme. 
 
+*20.1.2021*
 
 # From semantic world to the sensory world
 
