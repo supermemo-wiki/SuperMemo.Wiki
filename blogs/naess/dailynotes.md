@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T08:14:42.243Z
+date: 2021-01-20T08:21:51.741Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -27,7 +27,7 @@ So the activity you desire to do is the leader and learning is the follower, eve
 
 I do realize that there is still a place for reading without combining it with practice, there is still a place for learning things upfront. This leads me to one of the bigger laws guiding me in life:
 
-> It's always about the balance and it's almost never the extreme. 
+> It's always about a balance and it's almost never the extreme. 
 
 From now on, I want to optimize for outcomes, *whatever that means...*
 
