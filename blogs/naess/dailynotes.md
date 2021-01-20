@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T04:41:49.401Z
+date: 2021-01-20T04:43:14.362Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -12,7 +12,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 *Practice reveals your weaknesses the best. It is the ultimate screener. It acts as a guiding signal to highlight the most fragile aspect to learn for.*
 
-For the past two years I have been hoping that if I (declaratively) learn a lot, somehow I turn to be more capable in processes and operating in the real world. Somehow a bunch of skills will follow if I just read a lot. That didn't turn out to be the case and I feel stupid saying this out loud. 
+For the past two years I have been hoping that if I (declaratively) learn a lot, somehow I turn to be more capable in processes and operating in the real world. Somehow a bunch of skills will follow if I just read a lot. That didn't turn out to be the case and I feel stupid saying this out loud because every regular Joe around me knows this. 
 
 While I'm definitely smarter and time wasn't exactly wasted in the past two years, but if you were to ask me: "What can you do better after studying with SuperMemo heavily for the past two years?", I wouldn't have much to show for *concretely*. This is not a flaw of SuperMemo (which is in extreme just a reading technique), but it was a flaw of my approach with it. You wouldn't blame *reading* for not giving you the outcomes you want.
 
