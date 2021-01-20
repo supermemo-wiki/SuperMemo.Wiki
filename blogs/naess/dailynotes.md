@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T15:50:06.170Z
+date: 2021-01-20T15:50:39.866Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
