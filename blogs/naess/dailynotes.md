@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T04:14:29.855Z
+date: 2021-01-20T04:17:55.158Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -19,7 +19,9 @@ Now I do process information better, I can represent knowledge efficiently in my
 For some reason the order in my head was **learn -> skills follow *automatically***, while in reality it should be **practice -> learning follows** **->** **skills develop**. This is very evident but for some reason I was ignoring this. I don't know why my learning process was so distorted. You wouldn't study how muscles work before starting to bike. 
 
 This is one of the stronger ideas guiding me lately. I don't remember where I read this:
-> Study just enough to take the next step
+> Study just enough to take the next step.
+
+So the activity you desire to do is the leader and learning is the follower, even if you do the learning before the execution. That is because the activity sets up the path for learning and practice signals the areas to focus on. 
 
 I do realize that there is still a place for reading without combining it with practice, there is still a place for learning things upfront. This leads me to one of the bigger laws guiding me in life:
 
