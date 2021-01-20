@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T09:04:45.486Z
+date: 2021-01-20T15:50:06.170Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -23,7 +23,7 @@ For some reason the order in my head was **learn --> skills follow *automaticall
 This is one of the stronger ideas guiding me lately. I don't remember where I read this:
 > Study just enough to take the next step.
 
-So the activity you desire to do is *the leader* and learning is *the follower*, even if you were to do the learning before the execution. That is because **the activity sets up the path for learning** and practice gives signals about the areas to improve on. 
+So the activity you desire to do is *the leader* and learning is *the follower*, even if you were to do the learning before the execution. That is because **the activity sets up the path for learning** and practice gives signals about the areas to improve on. Human problems are the leader, our goals are the leader, skill I want to acquire is the leader.
 
 I do realize that there is still a place for reading without combining it with practice, there is still a place for learning things upfront. This leads me to one of the bigger laws guiding me in life:
 
