@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T04:20:44.186Z
+date: 2021-01-20T04:24:30.503Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -10,18 +10,18 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 # Learning should be a follower, not a leader
 
-> Practice reveals your weaknesses the best. It is the ultimate screener. It acts as a guiding signal to highlight the most fragile aspect to learn for.
+*Practice reveals your weaknesses the best. It is the ultimate screener. It acts as a guiding signal to highlight the most fragile aspect to learn for.*
 
 For the past two years I have been hoping that if I (declaratively) learn a lot, somehow I turn to be more capable in processes and operating in the real world. Somehow a bunch of skills will follow if I just read a lot. That didn't turn out to be the case. While I'm definitely smarter and time wasn't exactly wasted in the past two years, but if you were to ask me: "What can you do better after studying with SuperMemo heavily for the past two years?", I wouldn't have much to show for *concretely*.
 
 Now I do process information better, I can represent knowledge efficiently in my mind, I am smarter in a lot of domains. These all contribute to operating in real world, but they are not any domain specific skills that allow me to make any meaningful contribution in the real world.
 
-For some reason the order in my head was **learn -> skills follow *automatically***, while in reality it should be **practice -> learning follows** **->** **skills develop**. This is very evident but for some reason I was ignoring this. I don't know why my learning process was so distorted. You wouldn't study how muscles work before starting to bike. 
+For some reason the order in my head was **learn --> skills follow *automatically***, while in reality it should be **practice --> learning follows** **-->** **skills develop**. This is very evident but for some reason I was ignoring this. I don't know why my learning process was so distorted. You wouldn't study how muscles work before starting to bike. 
 
 This is one of the stronger ideas guiding me lately. I don't remember where I read this:
 > Study just enough to take the next step.
 
-So the activity you desire to do is the leader and learning is the follower, even if you do the learning before the execution. That is because **the activity sets up the path for learning** and **practice signals the areas to focus on**. 
+So the activity you desire to do is the leader and learning is the follower, even if you do the learning before the execution. That is because **the activity sets up the path for learning** and practice signals the areas to focus on. 
 
 I do realize that there is still a place for reading without combining it with practice, there is still a place for learning things upfront. This leads me to one of the bigger laws guiding me in life:
 
