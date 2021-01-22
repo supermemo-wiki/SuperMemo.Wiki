@@ -2,11 +2,23 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-20T15:55:53.215Z
+date: 2021-01-22T08:47:04.054Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
+
+# Back after a break from SuperMemo
+
+Just a quick update. I had a short break from SuperMemo and it was very helpful. I did some soul searching, pondering about learning, goals and such. 
+
+What I realized that declarative learning without real direction dominated my day way too much. My previous post talks about this. 
+
+During my week off from SuperMemo I watched some SkillShare courses like presentation skills, discovered the world of UX/design and started progressing on a project of mine. It was about getting touch with "get hands dirty" way of learning and just generally, I think it was a healthy thing to have a break after such a heavy usage of SM for the past couple years. I spent more time outside of the world of learning also.
+
+In conclusion, my "navigator" was adjusted and today my learning is more about goals, direction, purpose, skills, problems. It is about the real world and things that serve a purpose, about outcomes. I found a handy way to keep a purpose in learning with concept goals: https://youtu.be/plvVNEt2D54. 
+
+*22.1.2021*
 
 # Learning should be a follower, not a leader
 
