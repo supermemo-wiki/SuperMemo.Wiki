@@ -2,7 +2,7 @@
 title: Daily Jaunts
 description: Ramblings with the Old Man
 published: true
-date: 2021-01-24T18:10:57.982Z
+date: 2021-01-24T18:22:09.106Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-30T00:00:32.662Z
@@ -36,31 +36,24 @@ Let's briefly look at each of them:
 
 Vision is about knowing what we want out of life. In Lewis Carroll's popular book *Alice in Wonderland*, there is an iconic exchange between Alice and the Cheshire Cat: 
 
- 
-
-“Would you tell me, please, which way I ought to go from here?” 
-
-"That depends a good deal on where you want to get to,” said the Cat. 
-
-“I don’t much care where–” said Alice. 
-
-“Then it doesn’t matter which way you go,” said the Cat. 
-
-“–so long as I get SOMEWHERE,” Alice added as an explanation. 
-
-“Oh, you’re sure to do that,” said the Cat, “if you only walk long enough.”
-
- 
+> **Alice:** “Would you tell me, please, which way I ought to go from here?”
+**Cat:** "That depends a good deal on where you want to get to,” said the Cat.
+**Alice:** “I don’t much care where–” said Alice. 
+**Cat:** “Then it doesn’t matter which way you go,” said the Cat. 
+**Alice:** “–so long as I get SOMEWHERE,” Alice added as an explanation. 
+**Cat:** “Oh, you’re sure to do that,” said the Cat, “if you only walk long enough.”
 
 There are many ways to interpret this conversation, but one that has always stood out to me is the importance of knowing where you want to go. One of the most rewarding parts of life is that there are a nearly infinite number of paths you can take to live it. But the sheer magnitude of the options presents a challenge: which path should you take?
-
-> *"Where there is no vision, the people perish..."* (Proverbs 29:18)
 
 In the time-honored tradition of philosophers, the answer is: it depends. It depends on what you want out of life. It depends on your interests, skills, strengths, weaknesses, environment, culture, upbringing, and a thousand other things. But at the end of the day, you have to decide which direction to move in if you want to make progress.
 
 It's instructive to think about what a decision is. The root of the word "decide" comes from Latin and means "to kill, to cut off". When you decide to do something, you necessarily cut off the option of doing something else. There are always trade-offs with the decisions that we make.
 
 Developing a vision is about clarifying what you most want out of life. Based on the definition above, you can take a two-pronged approach to discover your vision: positive reinforcement and negative elimination. Positive reinforcement is about pursuing those things that instill in you a strong sense of purpose, meaning, and pleasure. Obviously, we want more of those things in our lives! Negative elimination, on the other hand, is about progressively discovering what takes away from those feelings of purpose, meaning, and pleasure, and removing/mitigating them in your life.
+
+This idea of needing Vision is certainly not new. Over 3,000 years ago, the writer of the Bible book called Proverbs put it succinctly:
+
+> *"Where there is no vision, the people perish..."* (Proverbs 29:18)
 
 For most people, Vision is something that develops slowly over time. While there are a lucky few who seem to have a strong internal Vision early in life, my experience is that most people have to slowly develop their vision over years and decades. This process can be sped up by conducting lots of A/B tests (i.e. performing many small experiments that provide fast feedback), but discovering one's Vision is - and, in my opinion, should be - a life-long pursuit.
 
@@ -78,7 +71,7 @@ Serge Faguet has described the mark of an intelligent person (i.e. a person who 
 
 If we're honest with ourselves, how many of us can truly say that that description of "deep work" describes our daily work? 
 
-Our modern world is very, very good at stealing our Focus. Over 80 years of behavioral science has resulted in increasingly sophisticated strategies for capturing and manipulating attention. Think about the modern smartphone. I have written a separate article dedicated to this topic, but consider one simple example: "badges". Those little red icons on your app are not innocuous reminders designed for your benefit. Badges are designed to leverage the well-known psychological concept known as the "fear of missing out" (FOMO). Fearful that you are missing something, you click on the app and see the missing content, which rewards your brain with a little shot of dopamine. Do that a few more times, and your brain quickly learns that clicking on badges is good for your survival; after all, that's what the reward system evolved to detect. And badges are one of the simpler attention devices - your phone is literally packed with hundreds of other (and more sophisticated) techniques.
+Our modern world is very, very good at stealing our Focus. Over 80 years of behavioral science has resulted in increasingly sophisticated strategies for capturing and manipulating attention. Think about the modern smartphone. I have written a separate article dedicated to this topic, but consider one simple example: "badges". Those little red icons on your app are not innocuous reminders designed for your benefit. Badges are designed to leverage the well-known psychological concept called "fear of missing out" (FOMO). Fearful that you are missing something, you click on the app and see the missing content, which rewards your brain with a little shot of dopamine. Do that a few more times, and your brain quickly learns that clicking on badges is good for your survival (after all, that's what the reward system evolved to detect). And badges are one of the simpler attention devices - your phone is literally packed with hundreds of other (and more sophisticated) techniques.
 
 Every successful person that I have met - whether in finance, career, relationships, science, or any other discipline - has known the importance of controlling where their attention is directed. I can think of zero exceptions to that observation. We even have common expressions in our culture for people who achieve great things but then fall from their position of glory due to mis-managed attention: "They took their eye off the ball", "They forgot what matters most", and perhaps the most concise, "They got distracted". 
 
