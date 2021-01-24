@@ -2,7 +2,7 @@
 title: Daily Jaunts
 description: Ramblings with the Old Man
 published: true
-date: 2021-01-24T18:09:24.408Z
+date: 2021-01-24T18:10:57.982Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-30T00:00:32.662Z
@@ -10,7 +10,7 @@ dateCreated: 2020-12-30T00:00:32.662Z
 
 # 1/24/21 - Vision, Focus, & Energy
 
-This is an article that I've been incrementally working on recently. It's not finished, but I was prompted to post it based on a recent conversation with Naess.
+This is an article that I've been incrementally working on as part of a larger series. It's not finished, but I was prompted to post it based on a recent conversation with Naess.
 
 -Matt
 
