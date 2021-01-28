@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T06:54:45.283Z
+date: 2021-01-28T06:57:02.260Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -25,7 +25,7 @@ I have a reason why clozes don't work for some people and why Q&A's work better.
 
 ***Repeated analogies expand concepts***
 
-This has absolutely crucial implications, it is a sentence from a great video [Analogy as the core of cognition](https://www.youtube.com/watch?v=n8m7lFQ3njk) you should all watch.
+This has absolutely crucial implications, it is a sentence from a great video [Analogy as the core of cognition](https://youtu.be/n8m7lFQ3njk?t=1955) you should all watch.
 
 With SRS, we can repeat these analogies in a scale that hasn't been possible in the past. We can form concept groups effortlessly. We can create items to "repeat the analogies". There's so much to say about this but I don't find a great moment to sit and write it down.
 
