@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T06:54:36.654Z
+date: 2021-01-28T06:54:45.283Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -29,7 +29,7 @@ This has absolutely crucial implications, it is a sentence from a great video [A
 
 With SRS, we can repeat these analogies in a scale that hasn't been possible in the past. We can form concept groups effortlessly. We can create items to "repeat the analogies". There's so much to say about this but I don't find a great moment to sit and write it down.
 
-Feynmann technique, self explaining, making Q&A's (the encoding process), ELI5, teaching to others , they are all in essence just a way of forming connections. Assembling the semantics and encoding the information in a way that it connects to the students current fabric. About categorizing things in a way that makes sense. So connections/categorizing whatever we call it is the higher order thing and all these "learning methods" are derived from it. They're just variations which all follow the same principle of analogies/categories/connections. Even mnemonics is just forming an artificial category
+Feynmann technique, self explaining, making Q&A's (the encoding process), ELI5, teaching to others , they are all in essence just a way of forming connections. Assembling the semantics and encoding the information in a way that it connects to the students current fabric. About categorizing things in a way that makes sense. So connections/categorizing whatever we call it is the higher order thing and all these "learning methods" are derived from it. They're just variations which all follow the same principle of analogies/categories/connections. Even mnemonics is just forming an artificial category.
 
 
 *28.01.2021*
