@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T07:21:44.468Z
+date: 2021-01-28T07:23:03.615Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -11,6 +11,9 @@ dateCreated: 2020-12-18T14:23:19.314Z
 # Repeated analogies expand concepts
 
 Brain is a concept network, we work with categories, groups. Things that are connected and form a strong structure are what we work with the best. Your fabric about your best friend is immensely strong, a lot of instances, a lot of things about him/her grouped together under a concept "John" (or whatever your friend's name is).
+
+> We build our concepts by taking several concepts, putting them together, putting a membrane around them and then, sort of miraculously the internal components sort of disappear and we're
+left with just this new concept which is kind of like a black box we don't think about so much. - Douglas Hofstadter
 
 It's like a spider web. When initially you start building it, it's not very strong. But the fabric, the more instances and connections you make, the stronger it gets. The concept is born out of instances. Think of "animal", the concept of "animal" is born out of birds, foxes, rabbits etc. These are things that share *something* or have some reason why they belong to the same category of "animal". 
 
@@ -21,12 +24,11 @@ It's like a cult circle, the concept is alive as long as people hold hands toget
 
 ![cult_circle.png](/blogs/naess/dailynotes/28-01-2021/cult_circle.png)
 
-> We build our concepts by taking several concepts, putting them together, putting a membrane around them and then, sort of miraculously the internal components sort of disappear and we're
-left with just this new concept which is kind of like a black box we don't think about so much. - Douglas Hofstadter
+
 
 There's a reason why clozes don't work for some people and why Q&A's work better. There's  a reason why I feel like half of my collection is not applicable and is just vanished and it all boils down to connections/categories and the brain being a concept network. Short idea would be that, you might have the instances but you haven't categorized them together, they're not part of the same "spider web". There's a whole world to this but we need to experiment and observe more.
 
-***Repeated analogies expand concepts***
+> Repeated analogies expand concepts
 
 This has absolutely crucial implications, it is a sentence from a great video [Analogy as the core of cognition](https://youtu.be/n8m7lFQ3njk?t=1955) you should all watch.
 
