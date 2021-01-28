@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T07:32:04.014Z
+date: 2021-01-28T07:33:15.245Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -24,12 +24,7 @@ It reminds me of this image of some cult circle, the concept is alive as long as
 
 The concept might not even be mentioned by name, not every concept has a name. Yet it still is there as long as we have the instances categorized together. The concept is the higher order thing. The concept is derived from the instances, not the other way around and this is why it's important that you connect things tightly together in categories. SRS can help immensely here.
 
-
-
-
-
-
-There's a reason why clozes don't work for some people and why Q&A's work better. There's  a reason why I feel like half of my collection is not applicable and is just vanished and it all boils down to connections/categories and the brain being a concept network. Short idea would be that, you might have the instances but you haven't categorized them together, they're not part of the same "spider web". There's a whole world to this but we need to experiment and observe more.
+There's a reason why clozes don't work for some people and why Q&A's work better. There's  a reason why I feel like half of my collection is not applicable and is just vanished and it all boils down to connections/categories and the brain being a concept network. Short idea would be that, you might have the instances but you haven't categorized them together, they're not part of the same "spider web". There's a whole world to this but we need to experiment, observe and talk about this more.
 
 > Repeated analogies expand concepts - Douglas Hofstadter
 
