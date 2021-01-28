@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T07:02:03.496Z
+date: 2021-01-28T07:03:03.974Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -12,7 +12,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 Brain is a concept network, we work with categories, groups. Things that are connected and form a strong structure are what we work with the best. Your fabric about your best friend is immensely strong, a lot of instances, a lot of things about him/her grouped together under a concept "John" (or whatever your friend's name is).
 
-It's like a spider web. When initially you start building it, it's not very strong. But the better fabric you get, the more instances and connections you make, the stronger it gets. The concept is born out of instances. Think of "animal", the concept of "animal" is born out of birds, foxes, rabbits etc. These are things that share *something* or have some reason why they belong to the same category of "animal". 
+It's like a spider web. When initially you start building it, it's not very strong. But the fabric, the more instances and connections you make, the stronger it gets. The concept is born out of instances. Think of "animal", the concept of "animal" is born out of birds, foxes, rabbits etc. These are things that share *something* or have some reason why they belong to the same category of "animal". 
 
 ![spiderweb.jpg](/blogs/naess/dailynotes/28-01-2021/spiderweb.jpg)
 
