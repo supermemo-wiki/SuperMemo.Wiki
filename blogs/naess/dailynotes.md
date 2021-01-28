@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T06:57:02.260Z
+date: 2021-01-28T06:59:42.576Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -16,7 +16,7 @@ It's like a spider web. When initially you start building it, it's not very stro
 
 ![spiderweb.jpg](/blogs/naess/dailynotes/28-01-2021/spiderweb.jpg)
 
-It's like a cult circle, the concept is alive as long as people hold hands together around it. This is a silly ass analogy but the image below nails it, the ball is the concept. The concept might not even be mentioned by name, not every concept has a name. Yet it still is there as long as we have the instances and grouped things. The concept is the higher order thing. 
+It's like a cult circle, the concept is alive as long as people hold hands together around it. Sometimes it has only one instance but it'll spread. This is a silly ass analogy but the image below nails it, the ball is the concept. The concept might not even be mentioned by name, not every concept has a name. Yet it still is there as long as we have the instances and grouped things. The concept is the higher order thing. 
 
 
 ![cult_circle.png](/blogs/naess/dailynotes/28-01-2021/cult_circle.png)
