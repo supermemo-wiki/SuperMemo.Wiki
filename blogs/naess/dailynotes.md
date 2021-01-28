@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T06:48:02.208Z
+date: 2021-01-28T06:50:23.178Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -20,7 +20,7 @@ It's like a cult circle, the concept is alive as long as people hold hands toget
 
 ![cult_circle.png](/blogs/naess/dailynotes/28-01-2021/cult_circle.png)
 
-I have a reason why clozes don't work for some people and why Q&A's work better. I have a reason why I feel like half of my collection is not applicable and is just vanished and it all boils down to connections/categories and the brain being a concept network. You might have the instances but you haven't grouped them together. 
+I have a reason why clozes don't work for some people and why Q&A's work better. I have a reason why I feel like half of my collection is not applicable and is just vanished and it all boils down to connections/categories and the brain being a concept network. I can't phrase this reason right now but I will come back to it. Short idea would be that, you might have the instances but you haven't categorized them together, they're not part of the same "spider web".
 
 ***Repeated analogies expand concepts***
 
