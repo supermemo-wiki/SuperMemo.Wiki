@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T07:33:15.245Z
+date: 2021-01-28T09:16:52.594Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -18,7 +18,7 @@ It's like a spider web. When initially you start building it, it's not very stro
 
 ![spiderweb.jpg](/blogs/naess/dailynotes/28-01-2021/spiderweb.jpg)
 
-It reminds me of this image of some cult circle, the concept is alive as long as people (the instances) hold hands together around it. Sometimes it has only one instance but it'll spread. This is a silly ass analogy and not exactly spot on, but the image below nails it, the ball is the concept. I like that these people don't touch the ball, it just kinda is there. So the people are the instances (e.g. a rabbit, fox...) and the ball is the concept (e.g. animal). 
+It reminds me of this image of some cult circle, the concept is alive as long as people (the instances) hold hands together around it. Sometimes it has only one instance but it'll spread. This is a silly ass analogy and not exactly spot on, but the image below nails it, the ball is the concept. I like that these people don't touch the ball, it just kinda is there. So the people are the instances (e.g. a rabbit, fox...) and the ball is the concept derived from these instances (e.g. animal). 
 
 ![cult_circle.png](/blogs/naess/dailynotes/28-01-2021/cult_circle.png)
 
