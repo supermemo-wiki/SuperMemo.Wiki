@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T06:52:31.281Z
+date: 2021-01-28T06:53:38.183Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -13,6 +13,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 Brain is a concept network, we work with categories, groups. Things that are connected and form a strong structure are what we work with the best. Your fabric about your best friend is immensely strong, a lot of instances, a lot of things about him/her grouped together under a concept "John" (or whatever your friend's name is).
 
 It's like a spider web. When initially you start building it, it's not very strong. But the better fabric you get, the more instances and connections you make, the stronger it gets. The concept is born out of instances. Think of "animal", the concept of "animal" is born out of birds, foxes, rabbits etc. These are things that share *something* or have some reason why they belong to the same category of "animal". 
+
 ![spiderweb.jpg](/blogs/naess/dailynotes/28-01-2021/spiderweb.jpg)
 
 It's like a cult circle, the concept is alive as long as people hold hands together around it. This is a silly ass analogy but the image below nails it, the ball is the concept. The concept might not even be mentioned by name, not every concept has a name. Yet it still is there as long as we have the instances and grouped things. The concept is the higher order thing. 
