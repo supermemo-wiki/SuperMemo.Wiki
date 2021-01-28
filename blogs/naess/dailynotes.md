@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T07:25:04.862Z
+date: 2021-01-28T07:26:04.977Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -12,7 +12,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 Brain is a concept network, we work with categories, groups. Things that are connected and form a strong structure are what we work with the best. Your fabric about your best friend is immensely strong, a lot of instances, a lot of things about him/her grouped together under a concept "John" (or whatever your friend's name is).
 
-> We build our concepts by taking several concepts, putting them together, putting a membrane around them and then, sort of miraculously the internal components sort of disappear and we're left with just this new concept which is kind of like a black box we don't think about so much. - Douglas Hofstadter
+> We build our concepts by taking several concepts, putting them together, putting a membrane around them and then, sort of miraculously the internal components sort of disappear and we're left with just this new concept which is kind of like a black box. - Douglas Hofstadter
 
 It's like a spider web. When initially you start building it, it's not very strong. But the fabric, the more instances and connections you make, the stronger it gets. The concept is born out of instances. Think of "animal", the concept of "animal" is born out of birds, foxes, rabbits etc. These are things that share *something* or have some reason why they belong to the same category of "animal". 
 
