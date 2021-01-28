@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T07:31:30.229Z
+date: 2021-01-28T07:32:04.014Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -20,10 +20,12 @@ It's like a spider web. When initially you start building it, it's not very stro
 
 It reminds me of this image of some cult circle, the concept is alive as long as people (the instances) hold hands together around it. Sometimes it has only one instance but it'll spread. This is a silly ass analogy and not exactly spot on, but the image below nails it, the ball is the concept. I like that these people don't touch the ball, it just kinda is there. So the people are the instances (e.g. a rabbit, fox...) and the ball is the concept (e.g. animal). 
 
+![cult_circle.png](/blogs/naess/dailynotes/28-01-2021/cult_circle.png)
+
 The concept might not even be mentioned by name, not every concept has a name. Yet it still is there as long as we have the instances categorized together. The concept is the higher order thing. The concept is derived from the instances, not the other way around and this is why it's important that you connect things tightly together in categories. SRS can help immensely here.
 
 
-![cult_circle.png](/blogs/naess/dailynotes/28-01-2021/cult_circle.png)
+
 
 
 
