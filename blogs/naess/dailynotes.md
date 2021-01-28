@@ -2,12 +2,35 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-22T08:47:04.054Z
+date: 2021-01-28T06:48:02.208Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
+# Repeated analogies expand concepts
+
+Brain is a concept network, we work with categories, groups. Things that are connected and form a strong structure are what we work with the best. Your fabric about your best friend is immensely strong, a lot of instances, a lot of things about him/her grouped together under a concept "John" (or whatever your friend's name is).
+
+It's like a spider web. When initially you start building it, it's not very strong. But the better fabric you get, the more instances and connections you make, the stronger it gets. The concept is born out of instances. Think of "animal", the concept of "animal" is born out of birds, foxes, rabbits etc. These are things that share *something* or have some reason why they belong to the same category of "animal". 
+![spiderweb.jpg](/blogs/naess/dailynotes/28-01-2021/spiderweb.jpg)
+
+It's like a cult circle, the concept is alive as long as people hold hands together around it. This is a silly ass analogy but the image nails it, the ball is the concept. The concept might not even be mentioned by name, not every concept has a name. Yet it still is there as long as we have the instances and grouped things. The concept is the higher order thing. 
+
+
+![cult_circle.png](/blogs/naess/dailynotes/28-01-2021/cult_circle.png)
+
+I have a reason why clozes don't work for some people and why Q&A's work better. I have a reason why I feel like half of my collection is not applicable and is just vanished and it all boils down to connections/categories and the brain being a concept network. You might have the instances but you haven't grouped them together. 
+
+***Repeated analogies expand concepts***
+
+This has absolutely crucial implications, it is a sentence from a great video [Analogy as the core of cognition](https://www.youtube.com/watch?v=n8m7lFQ3njk) you should all watch.
+
+Feynmann technique, self explaining, making Q&A's (the encoding process), ELI5, teaching to others , they are all in essence just a way of forming connections. Assembling the semantics and encoding the information in a way that it connects to the students current fabric. About categorizing things in a way that makes sense. So connections/categorizing whatever we call it is the higher order thing and all these "learning methods" are derived from it. They're just variations which all follow the same principle of analogies/categories/connections. Even mnemonics is just forming an artificial category
+
+With SRS, we can repeat these analogies in a scale that hasn't been possible in the past. We can form concept groups effortlessly. We can create items to "repeat the analogies". There's so much to say about this but I don't find a great moment to sit and write it down.
+
+*28.01.2021*
 # Back after a break from SuperMemo
 
 Just a quick update. I had a short break from SuperMemo and it was very helpful. I did some soul searching, pondering about learning, goals and such. 
