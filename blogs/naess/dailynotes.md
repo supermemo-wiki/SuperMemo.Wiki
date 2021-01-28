@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-01-28T07:06:33.308Z
+date: 2021-01-28T07:21:44.468Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -20,6 +20,9 @@ It's like a cult circle, the concept is alive as long as people hold hands toget
 
 
 ![cult_circle.png](/blogs/naess/dailynotes/28-01-2021/cult_circle.png)
+
+> We build our concepts by taking several concepts, putting them together, putting a membrane around them and then, sort of miraculously the internal components sort of disappear and we're
+left with just this new concept which is kind of like a black box we don't think about so much. - Douglas Hofstadter
 
 There's a reason why clozes don't work for some people and why Q&A's work better. There's  a reason why I feel like half of my collection is not applicable and is just vanished and it all boils down to connections/categories and the brain being a concept network. Short idea would be that, you might have the instances but you haven't categorized them together, they're not part of the same "spider web". There's a whole world to this but we need to experiment and observe more.
 
