@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-01-29T19:11:31.695Z
+date: 2021-01-29T19:21:10.296Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -40,7 +40,7 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 
 
 ## Pages
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny illustrations about the coerced schooling system, learning an related.*](/en/blogs/guillem/schooling-system-humor)
+- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny illustrations about the coerced schooling system, learning and related.*](/en/blogs/guillem/schooling-system-humor)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Schooling Coercion Artwork *Gallery of thought-provoking illustrations*](/en/blogs/guillem/schooling-coercion-artwork)
 {.links-list}
 
