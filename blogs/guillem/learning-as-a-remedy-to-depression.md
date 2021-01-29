@@ -2,7 +2,7 @@
 title: Learning as a remedy to depression
 description: My case
 published: true
-date: 2021-01-29T19:46:53.560Z
+date: 2021-01-29T19:55:11.811Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-22T14:05:29.821Z
@@ -22,6 +22,12 @@ Coerced schooling, bullying, selective emutism, 6 years going to the psychologis
   
 ## Trapped in time
   Part time prison, full time nightmare.
+
+
+References:
+https://en.wikipedia.org/wiki/Groundhog_Day_(film)
+  
+  
   
 ## Alone yet not lonely
 Hikikomori period.
