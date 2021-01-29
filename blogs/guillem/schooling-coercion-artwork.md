@@ -2,7 +2,7 @@
 title: Schooling Coercion Artwork
 description: I will be recollecting pieces of art, sketches and pictures that metaphorically show the reality of the coercion in the schooling system.
 published: true
-date: 2021-01-29T19:02:41.266Z
+date: 2021-01-29T22:55:04.802Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T13:36:44.068Z
@@ -25,6 +25,7 @@ dateCreated: 2020-12-19T13:36:44.068Z
 
 
 ![coerced_schooling__face_to_book.jpg](/blogs/guillem/artwork/coerced_schooling__face_to_book.jpg =800x)
+<a href="https://www.pictorem.com/5143/Book.html?star=1">Source</a>
 ![book_hammering_kid.jpg](/blogs/guillem/artwork/book_hammering_kid.jpg =800x)
 
 ## Artist: Moacır Knorr Gutterres (Brazil)
