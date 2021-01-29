@@ -2,7 +2,7 @@
 title: Learning as a remedy to depression
 description: My case
 published: true
-date: 2021-01-29T19:46:23.487Z
+date: 2021-01-29T19:46:53.560Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-22T14:05:29.821Z
@@ -13,7 +13,7 @@ dateCreated: 2020-12-22T14:05:29.821Z
 {.is-warning}
 
 ## Environment shaping my personality 
-Coerced schooling, bullying, selectiv emutism, 6 years going to the psychologist, form 8 to 14 years old.
+Coerced schooling, bullying, selective emutism, 6 years going to the psychologist, form 8 to 14 years old.
 
 
   
