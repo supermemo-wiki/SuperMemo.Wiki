@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-01-29T18:38:52.710Z
+date: 2021-01-29T18:40:37.289Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -21,13 +21,13 @@ dateCreated: 2020-12-18T09:26:43.841Z
 I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion.
 
 
-## Outline of my schooling experience
+### Outline of my schooling experience
 
 
 <iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/WzoEws4XPow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Learning how to use SuperMemo18 footage
+### Learning how to use SuperMemo18 footage
 [Here is the uncut footage](
 https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded during my initial familiarization to SuperMemo.
 > Videos are meant to serve as proof, rather than being watched on its entirety.
@@ -39,12 +39,12 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 
 
 
-#### Pages
+## Pages
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.*](/en/blogs/guillem/schooling-system-humor)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Schooling Coercion Artwork *Gallery of thought-provoking illustrations*](/en/blogs/guillem/schooling-coercion-artwork)
 {.links-list}
 
-#### Articles
+## Articles
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> My schooling experience *Personal anecdotes*](/en/blogs/guillem/my-experience-in-the-school-system)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Learning as a remedy to depression *Free learning has been my therapy to depression*](/en/blogs/guillem/learning-as-a-remedy-to-depression)
 {.links-list}
