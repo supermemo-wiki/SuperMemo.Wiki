@@ -2,7 +2,7 @@
 title: Learning as a remedy to depression
 description: My case
 published: true
-date: 2021-01-29T19:33:58.184Z
+date: 2021-01-29T19:39:44.149Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-22T14:05:29.821Z
@@ -18,17 +18,18 @@ dateCreated: 2020-12-22T14:05:29.821Z
  	- own judgement
 	- 6 years going to the psychologist, form 8 to 14 years old.
 - During high school
-	- the sentiment no one could understand my situation, which added frustration.
- 	- "trapped in time"
- 	- hikikomori period
- 	- lost all faith in the system. Discovering free learning without realising it.
+	- 
 
-- At later stages of my life
-	- depression from other events in life than school coercion.
+
   
   
   
   
-  ## Trapped in time
+## Trapped in time
+  Part time prison, full time nightmare.
   
-  ## Alone yet not lonely
+## Alone yet not lonely
+Hikikomori period.
+
+## Lost the oppotunity of my life; made the biggest realitzation of my life.
+I made the mental click when reading some Wozniak readings.
