@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-01-31T11:12:55.871Z
+date: 2021-01-31T11:13:20.149Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -24,7 +24,7 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 ## Podcast
 
 
-<iframe src="https://anchor.fm/pleasurable-learning/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 
 ## Pages
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny illustrations about the coerced schooling system, learning and related.*](/en/blogs/guillem/schooling-system-humor)
