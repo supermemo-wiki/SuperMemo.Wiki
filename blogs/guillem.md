@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-01-29T19:21:10.296Z
+date: 2021-01-31T11:12:55.871Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -21,23 +21,10 @@ dateCreated: 2020-12-18T09:26:43.841Z
 I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion.
 
 
-### Outline of my schooling experience
+## Podcast
 
 
-<iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/WzoEws4XPow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### Learning how to use SuperMemo18 footage
-[Here is the uncut footage](
-https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded during my initial familiarization to SuperMemo.
-> Videos are meant to serve as proof, rather than being watched on its entirety.
-{.is-info}
-
-
-> Notice that the playlist contains unlisted videos, so they won't show up on Youtube channel or search.
-{.is-warning}
-
-
+<iframe src="https://anchor.fm/pleasurable-learning/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Pages
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny illustrations about the coerced schooling system, learning and related.*](/en/blogs/guillem/schooling-system-humor)
@@ -54,6 +41,23 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
  Motivation to help other people to undo to harm done by the years of schooling coercion. Introduce people to the pleasure of learning, to restore their learn drive.
 
 
+
+
+### Outline of my schooling experience
+
+
+<iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/WzoEws4XPow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Learning how to use SuperMemo18 footage
+[Here is the uncut footage](
+https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded during my initial familiarization to SuperMemo.
+> Videos are meant to serve as proof, rather than being watched on its entirety.
+{.is-info}
+
+
+> Notice that the playlist contains unlisted videos, so they won't show up on Youtube channel or search.
+{.is-warning}
 
 ## Contact & Networks
 > <b>Email</b>: pleasurablelearning ^at¿ gmail. ~*just to avoid crawlers*~ com
