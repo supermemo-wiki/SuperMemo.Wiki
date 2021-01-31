@@ -2,7 +2,7 @@
 title: Raj's Corner
 description: Active Concept Maps
 published: true
-date: 2021-01-31T09:48:52.995Z
+date: 2021-01-31T09:52:40.720Z
 tags: blog
 editor: markdown
 dateCreated: 2020-12-25T01:47:54.080Z
@@ -26,7 +26,7 @@ From my current understanding, there are 4 main aspects of knowledge representat
 
 The first one is how you represent the concept. The other three are various axises of connections. 
 
-![cube.png](/blogs/raj/cube.png)
+![unknown.png](/blogs/raj/unknown.png)
 
 
 If we have a point in 3d space like above, the smaller and more refined the concept the easier it is to connect it to other points (minimum-information, maximum-connectivity). It becomes harder to make it 'fit' with other concepts the bigger or messier it gets.
