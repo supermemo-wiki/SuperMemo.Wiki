@@ -2,7 +2,7 @@
 title: Schooling System Humor
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-01-29T22:51:35.638Z
+date: 2021-01-31T10:19:54.449Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
@@ -22,3 +22,7 @@ Source: unwkown
 ![lentrophy_comic.jpg](/blogs/guillem/humor2/lentrophy_comic.jpg =400x)
 Source: unknown
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lectures can be boring or attractive. <a href="https://twitter.com/hashtag/learntropy?src=hash&amp;ref_src=twsrc%5Etfw">#learntropy</a> expresses their attractiveness from the point of view of an individual. <a href="https://t.co/amwPYQfNUx">https://t.co/amwPYQfNUx</a><a href="https://twitter.com/hashtag/freelearning?src=hash&amp;ref_src=twsrc%5Etfw">#freelearning</a> <a href="https://t.co/iADchYZf4U">pic.twitter.com/iADchYZf4U</a></p>&mdash; Guillem Palau (@guillemlearner) <a href="https://twitter.com/guillemlearner/status/1355227639225720838?ref_src=twsrc%5Etfw">January 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+##
+![afterskool.png](/blogs/guillem/humor2/afterskool.png  =400x)
+<a href="https://teespring.com/new-skool-school?tsmac=store&tsmic=after-skool&pid=583&cid=102495">Source</a>
