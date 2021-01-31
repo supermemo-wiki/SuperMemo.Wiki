@@ -2,7 +2,7 @@
 title: Raj's Corner
 description: Active Concept Maps
 published: true
-date: 2021-01-31T09:35:51.576Z
+date: 2021-01-31T09:44:02.658Z
 tags: blog
 editor: markdown
 dateCreated: 2020-12-25T01:47:54.080Z
@@ -26,6 +26,7 @@ From my current understanding, there are 4 main aspects of knowledge representat
 
 The first one is how you represent the concept. The other three are various axises of connections. 
 
+[cube of knowledge.png](/blogs/raj/cube of knowledge.png)
 
 Image #1293: c:\supermemo-collection\collections\raj\temp\PastedImage29473.jpg
 
