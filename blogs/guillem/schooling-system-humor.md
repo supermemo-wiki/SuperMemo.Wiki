@@ -2,11 +2,17 @@
 title: Schooling System Humor
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-01-31T10:24:51.813Z
+date: 2021-02-01T20:36:14.883Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
 ---
+
+## Standerized tests
+![standardized_test.jpg](/blogs/guillem/humor2/standardized_test.jpg =800x)
+Source: http://rockrivertimes.com/
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Testing?src=hash&amp;ref_src=twsrc%5Etfw">#Testing</a> is one of the major contributors to the harm of <a href="https://twitter.com/hashtag/schooling?src=hash&amp;ref_src=twsrc%5Etfw">#schooling</a>. Institutions allowed to be taught what has the potential for showing up on standardized tests, which are psychologically damaging and a poor indicator of <a href="https://twitter.com/hashtag/intelligence?src=hash&amp;ref_src=twsrc%5Etfw">#intelligence</a> or <a href="https://twitter.com/hashtag/ability?src=hash&amp;ref_src=twsrc%5Etfw">#ability</a> <a href="https://t.co/RLPbbP6LjB">pic.twitter.com/RLPbbP6LjB</a></p>&mdash; Guillem Palau (@guillemlearner) <a href="https://twitter.com/guillemlearner/status/1356339761397567491?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## A degree doesn't make you smart
 ![a_degree_doesnt_make_you_smakrt.jpg](/blogs/guillem/humor2/a_degree_doesnt_make_you_smart.jpg =400x)
