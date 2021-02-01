@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-01T20:06:29.876Z
+date: 2021-02-01T20:07:09.097Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -10,7 +10,9 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 # Nurture small errors to avoid large failures
 
-Really strong idea, lots of connections, very comforting idea also. In life, we inevitably face challenging choices and usually at the time of these choices our real nature shows up, who we are inside. In bee kingdom, bees nurture small errors to avoid large failures. In face of a threat, they need to find a new nest and they do this by having just sufficient amount of scout bees doing a waggle dance around the new territory. Being able to make quick choices by quorum (having sufficient amount of bees) instead of consensus, they risk error but safe themselves from larger structural collapse.
+Really strong idea, lots of connections, very comforting idea also. In life, we inevitably face challenging choices and usually at the time of these choices our real nature shows up, who we are inside. 
+
+In bee kingdom, bees nurture small errors to avoid large failures. In face of a threat, they need to find a new nest and they do this by having just sufficient amount of scout bees doing a waggle dance around the new territory. Being able to make quick choices by quorum (having sufficient amount of bees) instead of consensus, they risk error but safe themselves from larger structural collapse.
 
 Ants deviate from the path once in a while which might seem inefficient but this small error rate can lead to discovery of new food sources, exploring uncertainty.
 
