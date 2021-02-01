@@ -1,8 +1,8 @@
 ---
-title: Schooling System Humor
+title: Schooling System Humour
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-02-01T20:37:03.912Z
+date: 2021-02-01T22:23:44.105Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
