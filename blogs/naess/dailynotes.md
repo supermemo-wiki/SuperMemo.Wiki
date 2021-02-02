@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-01T20:10:48.533Z
+date: 2021-02-02T17:39:16.939Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -16,7 +16,7 @@ In bee kingdom, bees nurture small errors to avoid large failures. In face of a 
 
 Ants deviate from the path once in a while which might seem inefficient but this small error rate can lead to discovery of new food sources. Great reward, small error.
 
-In life we have to accept small regrets in order to avoid larger ones. I have to sell my cat in order to make sure my dog heals fine who has serious illness and the cat brings unnecessary stress to her. It could be that the stress does not play a role and I regret selling her, but by going through with this, I avoid large regret of potentially hindering my dog's healing process.
+In life, we have to accept small regrets in order to avoid larger ones. I have to sell my cat in order to make sure my dog heals fine who has serious illness and the cat brings unnecessary stress to her. It could be that the stress does not play a role and I regret selling her, but by going through with this, I avoid large regret of potentially hindering my dog's healing process.
 
 *01.02.2021*
 
