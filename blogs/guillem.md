@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-01-31T11:13:20.149Z
+date: 2021-02-06T12:18:20.400Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -62,11 +62,11 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 ## Contact & Networks
 > <b>Email</b>: pleasurablelearning ^at¿ gmail. ~*just to avoid crawlers*~ com
 
-> <b>Discord</b>: guillemPalau#1890
+> <b>Discord</b>: Palace#1890
 
 > <b>Support my work on [Patreon](https://www.patreon.com/pleasurable_learning)</b>: Coming in 2021: new YouYube channel, a podcast and writings focused on introducing people to self-learning, plus undoing damage done by coerced schooling system.
 
-> <b>YouTube channel</b> (focus on SuperMemo): [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
+> <b>YouTube channel</b> (focus on SuperMemo): [Pleasurable Learning Supermemo](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
 
 > <b>Twitter</b> (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
 
