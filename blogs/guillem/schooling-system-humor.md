@@ -2,7 +2,7 @@
 title: Schooling System Humour
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-02-06T16:56:21.549Z
+date: 2021-02-06T17:01:15.351Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
@@ -21,23 +21,27 @@ Source: http://rockrivertimes.com/
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Testing?src=hash&amp;ref_src=twsrc%5Etfw">#Testing</a> is one of the major contributors to the harm of <a href="https://twitter.com/hashtag/schooling?src=hash&amp;ref_src=twsrc%5Etfw">#schooling</a>. Institutions allowed to be taught what has the potential for showing up on standardized tests, which are psychologically damaging and a poor indicator of <a href="https://twitter.com/hashtag/intelligence?src=hash&amp;ref_src=twsrc%5Etfw">#intelligence</a> or <a href="https://twitter.com/hashtag/ability?src=hash&amp;ref_src=twsrc%5Etfw">#ability</a> <a href="https://t.co/RLPbbP6LjB">pic.twitter.com/RLPbbP6LjB</a></p>&mdash; Guillem Palau (@guillemlearner) <a href="https://twitter.com/guillemlearner/status/1356339761397567491?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+![squarepeg_roundhole.jpg](/blogs/guillem/humor2/squarepeg_roundhole.jpg =800x)
+Author: Adam ?
+
+
 ## A degree doesn't make you smart
-![a_degree_doesnt_make_you_smakrt.jpg](/blogs/guillem/humor2/a_degree_doesnt_make_you_smart.jpg =400x)
+![a_degree_doesnt_make_you_smakrt.jpg](/blogs/guillem/humor2/a_degree_doesnt_make_you_smart.jpg =800x)
 Source: unkwown
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A formal education <a href="https://twitter.com/hashtag/degree?src=hash&amp;ref_src=twsrc%5Etfw">#degree</a> doesn&#39;t make you smart. The need for a <a href="https://twitter.com/hashtag/degree?src=hash&amp;ref_src=twsrc%5Etfw">#degree</a> is a myth. <a href="https://twitter.com/hashtag/freelearning?src=hash&amp;ref_src=twsrc%5Etfw">#freelearning</a> <a href="https://twitter.com/hashtag/selfdirectedlearning?src=hash&amp;ref_src=twsrc%5Etfw">#selfdirectedlearning</a> <a href="https://twitter.com/hashtag/learndrive?src=hash&amp;ref_src=twsrc%5Etfw">#learndrive</a> <a href="https://twitter.com/hashtag/mythbusting?src=hash&amp;ref_src=twsrc%5Etfw">#mythbusting</a><a href="https://t.co/y3A8sQFr5d">https://t.co/y3A8sQFr5d</a> <a href="https://t.co/mS4nwcaFjD">pic.twitter.com/mS4nwcaFjD</a></p>&mdash; Guillem Palau (@guillemlearner) <a href="https://twitter.com/guillemlearner/status/1340617799555792898?ref_src=twsrc%5Etfw">December 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Cramming 
-![cramming_throw_up.jpg](/blogs/guillem/humor2/cramming_throw_up.jpg =400x)
+![cramming_throw_up.jpg](/blogs/guillem/humor2/cramming_throw_up.jpg =800x)
 Source: unwkown
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Graphical definition of the &quot;learning process&quot; in the school system. &quot;Cramming leads to memories of poor coherence. Low coherence implies you can pass the test and still know little. &quot; <a href="https://t.co/kKPXFFVrbo">https://t.co/kKPXFFVrbo</a> <a href="https://twitter.com/hashtag/freelearning?src=hash&amp;ref_src=twsrc%5Etfw">#freelearning</a> <a href="https://twitter.com/hashtag/schoolingsystem?src=hash&amp;ref_src=twsrc%5Etfw">#schoolingsystem</a> <a href="https://twitter.com/hashtag/supermemoguru?src=hash&amp;ref_src=twsrc%5Etfw">#supermemoguru</a> <a href="https://twitter.com/hashtag/cramming?src=hash&amp;ref_src=twsrc%5Etfw">#cramming</a> <a href="https://t.co/1pVD7nX92i">pic.twitter.com/1pVD7nX92i</a></p>&mdash; Guillem Palau (@guillemlearner) <a href="https://twitter.com/guillemlearner/status/1316811830669512706?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## High semantic distance - Low learntropy
-![lentrophy_comic.jpg](/blogs/guillem/humor2/lentrophy_comic.jpg =400x)
+![lentrophy_comic.jpg](/blogs/guillem/humor2/lentrophy_comic.jpg =800x)
 Source: unknown
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lectures can be boring or attractive. <a href="https://twitter.com/hashtag/learntropy?src=hash&amp;ref_src=twsrc%5Etfw">#learntropy</a> expresses their attractiveness from the point of view of an individual. <a href="https://t.co/amwPYQfNUx">https://t.co/amwPYQfNUx</a><a href="https://twitter.com/hashtag/freelearning?src=hash&amp;ref_src=twsrc%5Etfw">#freelearning</a> <a href="https://t.co/iADchYZf4U">pic.twitter.com/iADchYZf4U</a></p>&mdash; Guillem Palau (@guillemlearner) <a href="https://twitter.com/guillemlearner/status/1355227639225720838?ref_src=twsrc%5Etfw">January 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Creativity & Intelligence
-![afterskool.png](/blogs/guillem/humor2/afterskool.png  =400x)
+![afterskool.png](/blogs/guillem/humor2/afterskool.png  =800x)
 <a href="https://teespring.com/new-skool-school?tsmac=store&tsmic=after-skool&pid=583&cid=102495">Source</a>
 <a href="https://supermemo.guru/wiki/File:School_in_the_eyes_of_a_12-year-old.jpeg">Piotr Wozniak perpective</a> 
 
