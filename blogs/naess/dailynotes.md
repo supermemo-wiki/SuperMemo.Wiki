@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-06T12:49:00.756Z
+date: 2021-02-06T12:52:30.437Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -14,7 +14,7 @@ I don't know, something about this whole information overload, advertising, ever
 
 We live in times where speed of information flow is atleast 5x as compared to 90's. This results in feedback loops, bandwagon effects, these phenomenons of "winner takes it all", where for instance one reddit post gains traffic, there's an inclination of upvotes snowballing on this post. Meanwhile there's tons of potentially more interesting and valuable posts being buried and gaining no attention.
 
-It's such an interesting thing as the valuations get distorted by so much and we don't have real tools to be able to screen the best 'apples' there are, so we need to resort to catchy headlines, pattern recognition, intuition... "fast and frugal heuristics". Endless sea where it seems that the loudest and brightest forces will win. 
+It's such an interesting thing as the valuations get distorted by so much, laws of supply and demand get damaged. We don't have real tools to be able to screen the best 'apples' there are, so we need to resort to catchy headlines, pattern recognition, intuition... "fast and frugal heuristics". Endless sea where it seems that the loudest and brightest forces will win. 
 
 It's funny, reminds me of this south park clip https://www.youtube.com/watch?v=2His8bkTOmA
 
