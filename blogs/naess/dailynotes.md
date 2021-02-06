@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-06T12:53:59.728Z
+date: 2021-02-06T13:06:23.462Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -16,7 +16,7 @@ We live in times where speed of information flow is atleast 5x as compared to 90
 
 It's such an interesting thing as the valuations get distorted by so much, laws of supply and demand get damaged. We don't have real tools to be able to screen the best 'apples' there are, so we need to resort to catchy headlines, pattern recognition, intuition... "fast and frugal heuristics". Endless sea where it seems that the loudest and brightest forces will win. 
 
-It's funny, reminds me of this south park clip https://www.youtube.com/watch?v=2His8bkTOmA
+It's funny, reminds me of this south park clip https://youtu.be/wnwHPsj-Vsw
 
 > Stan: Dad, come on. We all get your point, but don't you think you're overdoing it?
 
