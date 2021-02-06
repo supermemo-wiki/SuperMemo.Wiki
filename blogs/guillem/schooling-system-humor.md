@@ -2,7 +2,7 @@
 title: Schooling System Humour
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-02-01T22:23:44.105Z
+date: 2021-02-06T12:12:44.587Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
@@ -33,3 +33,5 @@ Source: unknown
 ![afterskool.png](/blogs/guillem/humor2/afterskool.png  =400x)
 <a href="https://teespring.com/new-skool-school?tsmac=store&tsmic=after-skool&pid=583&cid=102495">Source</a>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prussian school model takes a horrible toll in human <a href="https://twitter.com/hashtag/creativity?src=hash&amp;ref_src=twsrc%5Etfw">#creativity</a> and <a href="https://twitter.com/hashtag/intelligence?src=hash&amp;ref_src=twsrc%5Etfw">#intelligence</a>. Children lose most of their creative powers in the first three years of rigorous <a href="https://twitter.com/hashtag/schooling?src=hash&amp;ref_src=twsrc%5Etfw">#schooling</a><a href="https://t.co/ftCFuYaU5N">https://t.co/ftCFuYaU5N</a><a href="https://twitter.com/hashtag/freelearning?src=hash&amp;ref_src=twsrc%5Etfw">#freelearning</a> <a href="https://t.co/OHp40hoOHy">pic.twitter.com/OHp40hoOHy</a></p>&mdash; Guillem Palau (@guillemlearner) <a href="https://twitter.com/guillemlearner/status/1355824168596631553?ref_src=twsrc%5Etfw">January 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<a href="https://supermemo.guru/wiki/File:School_in_the_eyes_of_a_12-year-old.jpeg">Piotr Wozniak perpective</a> 
