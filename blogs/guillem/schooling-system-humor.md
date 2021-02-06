@@ -2,11 +2,18 @@
 title: Schooling System Humour
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-02-06T12:14:11.782Z
+date: 2021-02-06T16:56:21.549Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
 ---
+
+## Schooled people do not understand free learning
+![doexactlywhatisay.jpg](/blogs/guillem/humor2/doexactlywhatisay.jpg =800x)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;<a href="https://twitter.com/hashtag/Schooled?src=hash&amp;ref_src=twsrc%5Etfw">#Schooled</a> people do not understand <a href="https://twitter.com/hashtag/freeLearning?src=hash&amp;ref_src=twsrc%5Etfw">#freeLearning</a>. The institution created to promote <a href="https://twitter.com/hashtag/learning?src=hash&amp;ref_src=twsrc%5Etfw">#learning</a> is actually the biggest stumbling block on the way to better learning in the future&quot; Piotr Wozniak<a href="https://t.co/nDSlwPoe26">https://t.co/nDSlwPoe26</a><a href="https://twitter.com/hashtag/unschooling?src=hash&amp;ref_src=twsrc%5Etfw">#unschooling</a> <a href="https://twitter.com/hashtag/selfDirectedLearning?src=hash&amp;ref_src=twsrc%5Etfw">#selfDirectedLearning</a> <a href="https://t.co/7h9ovpojLB">pic.twitter.com/7h9ovpojLB</a></p>&mdash; Guillem Palau (@guillemlearner) <a href="https://twitter.com/guillemlearner/status/1358095898962759688?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Source:
+Author: WAIREN?
 
 ## Standardized tests
 ![standardized_test.jpg](/blogs/guillem/humor2/standardized_test.jpg =800x)
