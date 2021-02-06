@@ -2,7 +2,7 @@
 title: Naess' Corner
 description: 
 published: true
-date: 2021-02-06T13:11:50.599Z
+date: 2021-02-06T22:46:32.162Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T20:56:55.156Z
@@ -13,7 +13,9 @@ dateCreated: 2020-12-17T20:56:55.156Z
 - [Future of SuperMemo *Unimplemented features that would increase productivity in SuperMemo.*](https://www.supermemo.wiki/en/blogs/naess/futureofsupermemo)
 {.links-list}
 
-*If you want to support me I have a medium page for the same stories I share here. https://storyofthecollective.medium.com/*
+*If you want to support me I have a medium and substack page for the same stories I share here. 
+https://storyofthecollective.substack.com/
+https://storyofthecollective.medium.com/*
 
 *Or throw me energy drink money...*
 
