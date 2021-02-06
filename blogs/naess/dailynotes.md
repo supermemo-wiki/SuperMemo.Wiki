@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-06T14:16:30.477Z
+date: 2021-02-06T14:17:41.087Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -22,7 +22,7 @@ It's funny, reminds me of this south park clip https://youtu.be/wnwHPsj-Vsw
 
 > Randy: You have to overdo it in today's society, Stan. You can't be nuanced and subtle anymore or else critics go, "Wow, what was the point of that?"
 
-There's just something about it, it's like a game of forces that whoever transmits the loudest signal that yells "Listen to me! There's a reward here to be reaped!" will win. 
+There's just something about it, it's like a game of forces that whoever transmits the loudest signal that yells "Listen to me! There's a reward here to be reaped!" will win. And when this loud signal gets traffic, now the people around it act as a signaling force themselves further reinforcing the cluster and invoking the herding behavior. It is so fascinating!
 
 ![signal2.png](/blogs/naess/dailynotes/06-02-2021/signal2.png)
 *Game of forces where the greatest signal will gain traffic and will transform into a pivotal point where others gravitate towards.*
