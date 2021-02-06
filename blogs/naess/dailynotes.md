@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-06T12:48:37.725Z
+date: 2021-02-06T12:49:00.756Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -26,6 +26,8 @@ There's just something about it, it's like a game of forces that whoever transmi
 
 ![signal2.png](/blogs/naess/dailynotes/06-02-2021/signal2.png)
 *Game of forces where the greatest signal will gain traffic and will transform into a pivotal point where others gravitate towards.*
+
+*06.02.2021*
 
 # Nurture small errors to avoid large failures
 
