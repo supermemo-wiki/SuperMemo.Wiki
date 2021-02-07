@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-02-07T21:04:07.080Z
+date: 2021-02-07T21:07:20.431Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -25,6 +25,10 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 
 <iframe src="https://anchor.fm/pleasurable-learning/embed" height="240px" width="800px" frameborder="0" scrolling="no"></iframe>
 
+## Support my work
+> <b>[Patreon pledge](https://www.patreon.com/pleasurable_learning)</b>
+<b><a href="https://www.paypal.com/paypalme/guillempalausalva">PayPal donation</a></b>
+{.is-success}
 
 ## Pages
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny illustrations about the coerced schooling system, learning and related.*](/en/blogs/guillem/schooling-system-humor)
@@ -59,15 +63,7 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 > Notice that the playlist contains unlisted videos, so they won't show up on Youtube channel or search.
 {.is-warning}
 
-## Support my work
 
-
-> <b>[Patreon pledge](https://www.patreon.com/pleasurable_learning)</b>
-{.is-success}
-
-
-> <b><a href="https://www.paypal.com/paypalme/guillempalausalva">PayPal donation</a></b>
-{.is-success}
 
 ## Contact & Networks
 > <b>Email</b>: pleasurablelearning ^at¿ gmail. ~*just to avoid crawlers*~ com
