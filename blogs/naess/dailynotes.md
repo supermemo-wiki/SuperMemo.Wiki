@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-07T14:06:07.530Z
+date: 2021-02-07T14:09:19.863Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -14,7 +14,7 @@ dateCreated: 2020-12-18T14:23:19.314Z
 
 Ants exchange information by laying down pheromones. They are very simple creatures somehow building a very complex networks. They are nearly blind and lack individual awareness of each others. The idea that, these simple creatures self-organize to build such complex networks from initially very bare bone tools is really amazing. That something seemingly intellectual can emerge from one action of information transmission.
 
-It is like, all we need is some sort of a living matter, whether that is a human, animal, blood cell… Then you give this thinga way to send signals right. Whether it is a price signal, pheromones, cytokines… Now when it starts signaling to other living things of same kind that there is something here, now they start gathering together. Now they start to act as a collective and form the characteristics of a collective. You are now facing something way more powerful, some strong structure with a whole new set of qualities.
+It is like, all we need is some sort of a living matter, whether that is a human, animal, blood cell… Then you give this thing a way to send signals right. Whether it is a price signal, pheromones, cytokines… Now when it starts signaling to other living things of same kind that there is something here, now they start gathering together. Now they start to act as a collective and form the characteristics of a collective. You are now facing something way more powerful, some strong structure with a whole new set of qualities.
 
 ![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbbc4d5-4dfb-4a18-a0cb-868757baaa12_1544x1024.jpeg) 
 *Ant paths built from pheromone traces. They are simple creatures, but together they form a complex structures. By Mehmet Karatay - Own work, CC BY SA 3.0*
