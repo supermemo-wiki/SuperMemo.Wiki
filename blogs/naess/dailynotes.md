@@ -2,13 +2,48 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-06T17:30:00.504Z
+date: 2021-02-07T14:06:07.530Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
-# Attention economics is interesting
+# The Story of the Collective
+
+> When the actors move, they interact with other actors. Like actors performing on a stage, people conversing in a car, blood cells coursing through veins, interactions occur. Two people see each other in bar, walk over to each other, talk, and then perhaps dance together. Two cars avoid a collision by veering away from each other. Two blood cells bump into each other as they travel through a small capillary. The actors are engaging in a game. [Source](https://commons.trincoll.edu/homeokinetics/what-is-homeokinetics/)
+
+Ants exchange information by laying down pheromones. They are very simple creatures somehow building a very complex networks. They are nearly blind and lack individual awareness of each others. The idea that, these simple creatures self-organize to build such complex networks from initially very bare bone tools is really amazing. That something seemingly intellectual can emerge from one action of information transmission.
+
+It is like, all we need is some sort of a living matter, whether that is a human, animal, blood cell… Then you give this thinga way to send signals right. Whether it is a price signal, pheromones, cytokines… Now when it starts signaling to other living things of same kind that there is something here, now they start gathering together. Now they start to act as a collective and form the characteristics of a collective. You are now facing something way more powerful, some strong structure with a whole new set of qualities.
+
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbbc4d5-4dfb-4a18-a0cb-868757baaa12_1544x1024.jpeg) 
+*Ant paths built from pheromone traces. They are simple creatures, but together they form a complex structures. By Mehmet Karatay - Own work, CC BY SA 3.0*
+
+**The purpose of the action is to tell the story of the collective**
+
+> Now, if you want to face them, you will have to face them as a collective. You are no longer dealing with single atomisms. How can one know that? Somebody can aim that balloon at someone else and blow them away. That simple interactive motion creates the collective’s characteristics. At a collective level, the story of the collective force is the social pressure. One can tell a human army, a gang, or a group to ‘go kill’ or ‘go build a nation’ and the bunch will walk out together and act no longer as individuals, but as a collective. [Source](https://commons.trincoll.edu/homeokinetics/what-is-homeokinetics/)
+
+And when you trace back what are these actors made of — for instance ants — there are only four known forces that cause the actions. You are nothing but an actor and the actions are not made by you, but by these internal forces, in case of a human walking, it is due to the electrical signals from the brain telling their leg muscles to contract. There are only four known forces: gravitational, electrical, strong nuclear, and weak nuclear forces. The purpose of the action is to tell the story of the collective.
+
+We have the social instincts, herding behavior, representational heuristics to judge people quickly by their appearance. We utilize these ‘fast and frugal heuristics’ to pick us the best bunch, to find the most suitable collective in which we want to merge ourselves in and to be part of the collective’s characteristics, the greater structure to tell the greatest story. To achieve something that is not possible as an individual, to be a whole, to be part of a complex system, to transform into something that is more than a sum of its parts. Then we tell the story of the collective…
+
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ce539ae-8364-4e72-8384-580a851c0323_640x360.jpeg)
+*Blood stem cells communicate via cytokines, signalling proteins critical to the development of blood cells and the immune system.*
+
+**You will have to face them as a collective**
+
+So if you abstract a bit and think that these actors are playing a game in a bounded space, it is fascinating to think that the whole world of ours is crowded with some primitive forces that are controlling a bunch of actors and transmitting information to each other, sending signals to group together, to act together and to tell the story of the collective. To form some great structure which bubbles up new qualities and a great deal of complexity and often it is something that we did not anticipate. Think about how our economy was born out of specialization, price signals, how big internet turned out to be, how cars changed the way these actors move around, these powerful things was born out of just some actors ‘banging into each other by pairs’
+
+![](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F210350e6-ff7f-4ebb-8400-2c0bd65b3c0c_1600x900.jpeg)
+*Think of Hitler as an actor, think of him signaling to the group of Germany ‘go kill’. Now it is a bunch acting no longer as individuals, but as a collective. It is a devastating story this collective told.*
+
+> The actors are engaging in a game. This game, within any system, may be called ‘Banging into Each Other by Pairs’. The agents (forces) guarantee that the actors will bang into each other. A few major things are conserved during this game. The sum of the paired mass (or matter) is conserved, the sum of energy is conserved, the sum of momentum (or movement) is conserved, and the sum of the electric charge is conserved. [Source](https://commons.trincoll.edu/homeokinetics/what-is-homeokinetics/)
+
+How you look, how you talk, it is just a design. The internal forces are the king in the process and you are part of something greater than you. The forces and the signaling process is the important part, what kind of story you are telling is the important part. You can be the pivotal signal that gathers together the collective or you can be part of someone else’s story, up to you.
+
+07.02.2021
+
+# Attention economics is fascinating
 
 I don't know, something about this whole information overload, advertising, ever growing human population and endless amount of voices to be heard and solutions to be offered, there's something about it.
 
