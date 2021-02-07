@@ -2,7 +2,7 @@
 title: Schooling System Humour
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-02-06T22:35:36.548Z
+date: 2021-02-07T12:37:41.590Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
@@ -23,6 +23,10 @@ Source: http://rockrivertimes.com/
 
 ![squarepeg_roundhole.jpg](/blogs/guillem/humor2/squarepeg_roundhole.jpg =800x)
 Author: Adam ?
+
+![standards.png](/blogs/guillem/humor2/standards.png =800x)
+Author: ?
+Looking for a higher resolution version
 
 
 # College
