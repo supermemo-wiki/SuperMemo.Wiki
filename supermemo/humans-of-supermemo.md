@@ -2,7 +2,7 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2021-02-06T21:52:43.583Z
+date: 2021-02-07T13:55:57.285Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
@@ -53,7 +53,7 @@ And then I’d learned of SuperMemo!
 
 By an extremely pleasant path of reading Harry Potter and the Methods of Rationality (the fanfiction that changed my life) -> finding the bayesian conspiracy podcast -> then finding the rationalist community on discord and joining the spinoff server the University of Bayes did I run into Raj at the exactly the right time. His relentless and incredibly high praise for the program (He would pay ‘ten times’ its cost and it can legitimately make you smarter than Albert Einstein come to mind) won me over, and I gave the program a try, and instantly fell in love with the concept.
 
-I slowly moved away from using Instaper (for articles), anki (for learning), and google docs / evernote / wordpress drafts (for notes and article writing) and instead completed all these tasks comfortably in SuperMemo.
+I slowly moved away from using Instapaper (for articles), anki (for learning), and google docs / evernote / wordpress drafts (for notes and article writing) and instead completed all these tasks comfortably in SuperMemo.
 
 I’d also faced a crisis of hobbies prior to learning of SuperMemo, thinking I had to fill up something to do with my time. But learning was the best hobby! Now I am thoroughly addicted to consolidating knowledge and learning new things, and have grown far quicker with supermemo than I did before.
 
