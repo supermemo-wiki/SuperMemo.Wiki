@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-02-07T20:53:37.619Z
+date: 2021-02-07T20:54:27.171Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -23,7 +23,7 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 
 ## Podcast
 
-<iframe src="https://anchor.fm/pleasurable-learning/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/pleasurable-learning/embed" height="240px" width="800px" frameborder="0" scrolling="no"></iframe>
 
 
 ## Pages
