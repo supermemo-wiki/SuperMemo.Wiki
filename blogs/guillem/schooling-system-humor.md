@@ -2,11 +2,17 @@
 title: Schooling System Humour
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-02-07T12:37:41.590Z
+date: 2021-02-07T12:40:16.756Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
 ---
+
+# Children potential 
+![l_arts-education600.jpg](/blogs/guillem/humor2/l_arts-education600.jpg =800x)
+
+# Creativity
+![conformity_(5).jpg](/blogs/guillem/humor2/conformity_(5).jpg =800x)
 
 # Schooled people do not understand free learning
 ![doexactlywhatisay.jpg](/blogs/guillem/humor2/doexactlywhatisay.jpg =800x)
