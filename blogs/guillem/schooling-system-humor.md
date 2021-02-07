@@ -2,7 +2,7 @@
 title: Schooling System Humour
 description: Recollection of memes and funny ilustrations about the coerced schooling system, learning an related.
 published: true
-date: 2021-02-07T12:44:06.869Z
+date: 2021-02-07T13:28:46.756Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-20T10:49:30.657Z
@@ -68,5 +68,7 @@ Author: Adam ?
 ![standards.png](/blogs/guillem/humor2/standards.png =800x)
 Author: ?
 Looking for a higher resolution version
+
+![multiple_choice_cartoon.png](/blogs/guillem/humor2/multiple_choice_cartoon.png =800x)
 
 
