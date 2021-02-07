@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-07T14:09:19.863Z
+date: 2021-02-07T14:11:06.322Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -40,6 +40,8 @@ So if you abstract a bit and think that these actors are playing a game in a bou
 > The actors are engaging in a game. This game, within any system, may be called ‘Banging into Each Other by Pairs’. The agents (forces) guarantee that the actors will bang into each other. A few major things are conserved during this game. The sum of the paired mass (or matter) is conserved, the sum of energy is conserved, the sum of momentum (or movement) is conserved, and the sum of the electric charge is conserved. [Source](https://commons.trincoll.edu/homeokinetics/what-is-homeokinetics/)
 
 How you look, how you talk, it is just a design. The internal forces are the king in the process and you are part of something greater than you. The forces and the signaling process is the important part, what kind of story you are telling is the important part. You can be the pivotal signal that gathers together the collective or you can be part of someone else’s story, up to you.
+
+*See this post in substack:* https://storyofthecollective.substack.com/p/the-story-of-the-collective
 
 07.02.2021
 
