@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-07T14:11:06.322Z
+date: 2021-02-08T09:51:16.160Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -41,7 +41,6 @@ So if you abstract a bit and think that these actors are playing a game in a bou
 
 How you look, how you talk, it is just a design. The internal forces are the king in the process and you are part of something greater than you. The forces and the signaling process is the important part, what kind of story you are telling is the important part. You can be the pivotal signal that gathers together the collective or you can be part of someone else’s story, up to you.
 
-*See this post in substack:* https://storyofthecollective.substack.com/p/the-story-of-the-collective
 
 07.02.2021
 
