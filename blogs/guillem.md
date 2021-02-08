@@ -2,13 +2,11 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-02-07T23:12:43.423Z
+date: 2021-02-08T14:09:05.307Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
 ---
-
-# Guillem's Corner
 
 > All writing is done incrementally. I'd tag pages as done once I am finished.
 {.is-warning}
@@ -17,9 +15,12 @@ dateCreated: 2020-12-18T09:26:43.841Z
 > Do not hestitate do leave feedback here or privately if you prefer.
 {.is-info}
 
-## Bio
-I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school system. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor' and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion.
+# Bio
+I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school system. I wasted my potential. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion and I am willing to put all efforts to put the Prussian school model to an end.
 
+### Motivation for writing here
+ Motivation to help other people to undo to harm done by the years of schooling coercion. Introduce people to the pleasure of learning, to restore their learn drive.
+ 
 
 ## Podcast
 
@@ -34,6 +35,8 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 <b><a href="https://www.paypal.com/paypalme/guillempalausalva">PayPal donation</a></b>
 {.is-success}
 
+I will be able to increase my time commitment here. Hopefully in the future becoming my full time job.
+
 ## Pages
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Humorous gallery *Recollection of memes and funny illustrations about the coerced schooling system, learning and related.*](/en/blogs/guillem/schooling-system-humor)
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Schooling Coercion Artwork *Gallery of thought-provoking illustrations*](/en/blogs/guillem/schooling-coercion-artwork)
@@ -45,8 +48,7 @@ I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school sys
 {.links-list}
 
 
-## Motivation for writing here
- Motivation to help other people to undo to harm done by the years of schooling coercion. Introduce people to the pleasure of learning, to restore their learn drive.
+
 
 
 
