@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-09T13:55:50.396Z
+date: 2021-02-09T13:56:17.371Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -47,7 +47,7 @@ Theoretically, if you wanted to thrive you would need to first break your curren
 
 You would need to kind of overshoot when you try to reach the order again. You want the order back so you are desperate to do things to attain it. Now the things you do, you work on them so much that you reach a point of order where you are better off as compared to your past life. This is kind of rambling at this point but hopefully you get the point… Visit the dark side, visit the edge of chaos, don’t do it just for the sake of it but if you really need a shake-up… You probably know what to do.
 
-*09-02-2021*
+*09.02.2021*
 
 # The Story of the Collective
 
