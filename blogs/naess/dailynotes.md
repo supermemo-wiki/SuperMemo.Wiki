@@ -2,11 +2,52 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-02-08T09:51:16.160Z
+date: 2021-02-09T13:55:50.396Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
+
+# Your life needs the edge of chaos
+This is a big idea that we can all benefit from, the edge of chaos has huge implications. It is a transition space between order and disorder, it is where the truly creative changes occur in our lives. We love order, stability and we hate anything and anyone that disturbs our lovely orderliness. It is a shock to our system. However…
+
+Not much grows in the order zone (or comfort zone), it is smooth sailing, things are OK and that is fine. On the other hand, we also look to make the best out of our lives and this is kind of a conflict, a perpetual problem as the absolute best, things above the average usually requires a big shake-up and this fights against our love for order.
+
+![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd580637f-f6f9-43a0-96c9-08a109264522_1269x718.png)
+*“The truly creative changes and the big shifts occur right at the edge of chaos,” said Dr. Robert Bilder, a psychiatry and psychology professor at UCLA's Semel Institute for Neuroscience and Human Behavior.*
+
+**If there is no order, you will die**
+
+Historically speaking, if we did not have order it would mean death, if we did not have our tribe we would die in the wilderness. Uncertain could kill us and this discomfort for uncertainty manifests itself everywhere in our lives.
+
+There is something called uncertainty reduction theory where whenever we meet a stranger we find ways to reduce uncertainty about him. Whether that is by having a small talk, unconsciously picking clues about the body language he uses, the way he talks and such. This is because people new to us, unless proven otherwise are a threat and could kill us. It is our defense mechanism to survive in the wilderness.
+
+The edge of chaos requires us being comfortable with uncertainty, it requires us to navigate uncertainty. Having a divorce is dangerous, it means we are going to face something unknown, not good. Getting fired, having a huge debt means you might lose your house, no place to live, terrifying. Taking a big risk to grow your business is scary.
+
+The point is that we need to atleast brush the edge of chaos at some point with our toes, but you don’t want to fall into the chaos. If you have a divorce you don’t want to go down to a spiral of alcoholism. You need to adapt and grow and utilize the fact that this new environment, it can foster some truly great changes.
+
+**The truly creative changes occur at the edge of chaos**
+
+There was an article in the Wall Street Journal about the best-performing firms of the past 30 years. Do you guess what one thing they all share in common?
+
+***They almost didn't make it.***
+
+The analyst looking at this list noted if you looked at each one of these companies, their history shows that each of them experienced “a near-death experience”. Some other author commented on this research:
+
+*"Companies can't be great unless they almost failed."*
+
+Our instincts to live are so strong, our instincts to pursue order, we do just about anything to reach the state of order. These instincts are absolutely monstrously powerful force to drive us forward and this is why they enable us to do such a big shifts in our life.
+
+
+**Overshooting order**
+
+There’s something really fascinating about it in terms of evolution that, it seems that we all are in perpetual search for order. Every living thing in our universe, we love stability. And whenever we reach this order, we tend to stay there.
+
+Theoretically, if you wanted to thrive you would need to first break your current stability, right? I think this is what we all can accept on, you need to visit the edge of chaos, atleast just a little bit. Now when you are in that state of breaking the balance, you would need to aim for an order of different nature as compared to your previous state of order. The new order can mean creating something unique, improve on something, increasing your standard of living… Lots of things.
+
+You would need to kind of overshoot when you try to reach the order again. You want the order back so you are desperate to do things to attain it. Now the things you do, you work on them so much that you reach a point of order where you are better off as compared to your past life. This is kind of rambling at this point but hopefully you get the point… Visit the dark side, visit the edge of chaos, don’t do it just for the sake of it but if you really need a shake-up… You probably know what to do.
+
+*09-02-2021*
 
 # The Story of the Collective
 
