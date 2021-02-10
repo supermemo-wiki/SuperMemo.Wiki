@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-02-08T14:09:05.307Z
+date: 2021-02-10T19:27:45.112Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -16,7 +16,7 @@ dateCreated: 2020-12-18T09:26:43.841Z
 {.is-info}
 
 # Bio
-I am Guillem Palau from Barcelona, Spain. I did suffered a lot in the school system. I wasted my potential. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion and I am willing to put all efforts to put the Prussian school model to an end.
+I am Guillem Palau from Barcelona, Spain. My name translated to English is William Palace. I did suffered a lot in the school system. I wasted my potential. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion and I am willing to put all efforts to put the Prussian school model to an end.
 
 ### Motivation for writing here
  Motivation to help other people to undo to harm done by the years of schooling coercion. Introduce people to the pleasure of learning, to restore their learn drive.
@@ -74,7 +74,7 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 ## Contact & Networks
 > <b>Email</b>: pleasurablelearning ^at¿ gmail. ~*just to avoid crawlers*~ com
 
-> <b>Discord</b>: Palace#1890
+> <b>Discord</b>: WilliamPalace#1890
 
 > <b>YouTube channel</b> (focus on Free Learning): [Pleasurable Learning](https://www.youtube.com/channel/UCtrKs7I5tNeTB-7tzr8IIww)
  <b>YouTube channel</b> (focus on SuperMemo): [Pleasurable Learning Supermemo](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
