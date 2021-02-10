@@ -2,7 +2,7 @@
 title: Learning as a remedy to depression
 description: My case
 published: true
-date: 2021-02-10T20:00:20.880Z
+date: 2021-02-10T20:11:19.593Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-22T14:05:29.821Z
@@ -31,7 +31,7 @@ https://supermemo.guru/wiki/Learning_and_depression
 
 > If learning is possible, it can act as a refuge, which might help suppress negative memories and build new connections. As of that point, the process of building new tendrils of knowledge may begin. This process that should take the mind towards a more optimistic interpretation of the world is slow and laborious.
 
-
+> The ultimate conclusion is that learning is not a panacea, however, it can play an important role in therapy. Most of all, the risk of depression can be staved off years in advance by rich and effective learning. That learning must proceed in conditions of freedom and respect for the learn drive. In short, love of learning is a good way towards the love of life.
 
 
 ## Environment shaping my personality 
@@ -39,9 +39,10 @@ Coerced schooling, bullying, selective mutism, 6 years going to the psychologist
 
 No pharmacological intervention
   
+## Part time prison, full time nightmare
   
 ## Trapped in time
- Part time prison, full time nightmare.
+
 
 ![groundhogday.jpg](/blogs/guillem/depression/groundhogday.jpg =800x)
 Source: https://en.wikipedia.org/wiki/Groundhog_Day_(film)
