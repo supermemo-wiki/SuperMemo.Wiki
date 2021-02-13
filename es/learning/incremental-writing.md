@@ -2,7 +2,7 @@
 title: Lectura Incremental
 description: 
 published: true
-date: 2021-02-13T17:19:16.790Z
+date: 2021-02-13T17:22:04.651Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T17:17:10.364Z
@@ -14,16 +14,16 @@ dateCreated: 2021-02-13T17:17:10.364Z
 
 La escritura incremental es una extensión de [lectura incremental](/learning/incremental-reading). Deberías estar familiarizado con ello antes de considerar la escritura incremental.
 
+## ¿Como funciona?
 
-## How does it work?
+La escritura incremental suele contar con la asistencia de un software para maximizar el uso de tu tiempo intercalando:
 
-Incremental writing is typically assisted by software to maximize the usage of your time by interspacing:
+- Revisar nuevo material de aprendizaje para desarrollar nuevos conocimientos,
+- Revisar los conocimientos adquiridos previamente para conservarlos en el tiempo (¡para siempre!),
+- Trabajo creativo (redacción, resolución de problemas, etc).
 
-- Reviewing new learning material to develop new insights, 
-- Reviewing previously acquired knowledge to preserve it over time (forever!), 
-- Creative work (writing, problem solving, etc).
+En LI, la decisión de si debes continuar trabajando en un texto en particular depende de tu deseo de hacerlo. Ese deseo es un compuesto de variables: [placer de escribir](/reference-manual/pleasure-of-learning), estado de fluidez, nivel de comprensión del tema, etc.
 
-In IW, the decision of whether you should continue working on a particular text depends on your desire to do so. That desire is a compound of variables: [pleasure of writing](/reference-manual/pleasure-of-learning), state of flow, level of understanding of the topic, etc.
 
 ```mermaid
 
