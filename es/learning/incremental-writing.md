@@ -2,7 +2,7 @@
 title: Lectura Incremental
 description: 
 published: true
-date: 2021-02-13T17:33:26.653Z
+date: 2021-02-13T17:36:57.171Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T17:17:10.364Z
@@ -33,7 +33,7 @@ graph TB
   subgraph LI[" "]
     LI-paso1["Leer incrementalmente"]:::type
     LI-paso2>"Leer el artículo"]
-    LI-paso3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
+    LI-paso3("Aprendizaje no asociativo")
     LI-paso4["Adquirir conocimiento"]
   end
   
@@ -56,7 +56,7 @@ graph TB
   paso1                   -. Si leyendo artículo                       -.-> LI-paso1
   LI-paso1                                                              --> LI-paso2
   LI-paso2                -- 1. Localiza información interesante          --> LI-paso3
-  LI-paso3                -- 2. Extrae texto valieso para más adelante         --> LI-paso4
+  LI-paso3                -- 2. Extrae texto valioso para más adelante         --> LI-paso4
   LI-paso4                -- 3. Repite hasta que te aburra el artículo actual --> LI-paso2
   LI-paso4                -. 4. Cuando te aburra el artículo actual         .-> paso1
   
