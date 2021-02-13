@@ -2,7 +2,7 @@
 title: Lectura Incremental
 description: 
 published: true
-date: 2021-02-13T17:22:04.651Z
+date: 2021-02-13T17:24:15.530Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T17:17:10.364Z
@@ -64,11 +64,12 @@ graph TB
   classDef type fill:#72F87C,color:#333
 ```
 
-## Benefits
 
-A typical incremental writer:
+## Beneficios
 
-- Never gets bored (there are always new and varied ideas to keep things exciting), 
-- Increases his creativity (new information is constantly flowing), 
-- Writes more efficiently (by progressing on several sections in parallel), 
-- Is less prone to error (dividing in smaller sections makes it easier to spot mistakes, and update erroneous or outdated information with new understandings).
+Un escritor incremental típico:
+
+- Nunca te aburres (siempre hay ideas nuevas y variadas para mantener las cosas emocionantes),
+- Aumenta tu creatividad (flujo constantemente de nueva información),
+- Escribes de manera más eficiente (progresando en varias secciones en paralelo),
+- Es menos propenso a errores (dividir en secciones más pequeñas facilita la detección de errores y la actualización de información errónea u obsoleta con nuevos conocimientos).
