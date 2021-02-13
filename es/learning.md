@@ -1,14 +1,14 @@
 ---
-title: Aprendiendo
+title: Aprendizaje
 description: 
 published: true
-date: 2021-02-13T17:14:23.710Z
+date: 2021-02-13T17:14:49.974Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T17:14:23.710Z
 ---
 
-# Learning Guide
+# Guía de aprendizaje
 
 - [<span style="color: #666;" class="mdi mdi-text-box-check mr-1"></span> Formulación del conocimiento *Técnicas para codificar el conocimiento.*](/learning/knowledge-formulation)
 
