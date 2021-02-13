@@ -2,17 +2,18 @@
 title: Lectura Incremental
 description: 
 published: true
-date: 2021-02-13T17:17:10.364Z
+date: 2021-02-13T17:19:16.790Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T17:17:10.364Z
 ---
 
-# Incremental Writing
+# Escritura incremental
 
-**Incremental Writing (IW)** is a method for boosting creativity, quality and pleasure of writing. It synergizes with the natural ability of your brain to update knowledge and organize it into concept networks.
+**Escritura incremental(EI)** es un método para impulsar la creatividad, la calidad y el placer de escribir. Se sinergiza con la capacidad natural de tu cerebro para actualizar el conocimiento y organizarlo en redes de conceptos.
 
-Incremental writing is an extension of [incremental reading](/learning/incremental-reading). You should be familiar with it before considering incremental writing.
+La escritura incremental es una extensión de [lectura incremental](/learning/incremental-reading). Deberías estar familiarizado con ello antes de considerar la escritura incremental.
+
 
 ## How does it work?
 
