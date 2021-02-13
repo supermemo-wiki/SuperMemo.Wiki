@@ -1,8 +1,8 @@
 ---
-title: El placer de aprendizaje
+title: El placer del aprendizaje
 description: 
 published: true
-date: 2021-02-13T16:57:57.107Z
+date: 2021-02-13T17:00:29.777Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T16:57:57.107Z
