@@ -2,7 +2,7 @@
 title: Lectura Incremental
 description: 
 published: true
-date: 2021-02-13T17:24:15.530Z
+date: 2021-02-13T17:33:26.653Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T17:17:10.364Z
@@ -28,41 +28,42 @@ En LI, la decisión de si debes continuar trabajando en un texto en particular d
 ```mermaid
 
 graph TB
-  step1{{"New article (next repetition)"}}:::state
+  paso1{{"Artícluo nuevo (próxima repetición)"}}:::state
   
-  subgraph IR[" "]
-    IR-step1["Do Incremental Reading"]:::type
-    IR-step2>"Read article"]
-    IR-step3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
-    IR-step4["Acquire knowledge"]
+  subgraph LI[" "]
+    LI-paso1["Leer incrementalmente"]:::type
+    LI-paso2>"Leer el artículo"]
+    LI-paso3("<img src='/supermemo/incremental-reading/ir-1st-rep-step-1.png'; width='250px' height='154px'/>")
+    LI-paso4["Adquirir conocimiento"]
   end
   
-  subgraph IW[" "]
-    IW-step1["Do Incremental Writing"]:::type
-    IW-step2-a["Update content using new knowledge"]
-    IW-step2-b["Add new content"]
-    IW-step3["Consolidate knowledge"]
+  subgraph EI[" "]
+    EI-paso1["Escribir incrementalmente"]:::type
+    EI-paso2-a["Actualizar contenido usando el nuevo conocimiento"]
+    EI-paso2-b["Añadir nuevo contenido"]
+    EI-paso3["Consolidar nuevo conocimiento"]
   end
   
   
-  step1                   -. If writing article                 -..-> IW-step1
-  IW-step1                -- 1.a. Read and locate mistakes        --> IW-step2-a
-  IW-step1                -- 1.b. New ideas                       --> IW-step2-b
-  IW-step2-a & IW-step2-b                                         --> IW-step3
-  IW-step3                -- 2. Repeat until bored                --> IW-step1
-  IW-step3                -. 3. When bored with current article   .-> step1
+  paso1                   -. Si escribiendo artículo                 -..-> EI-paso1
+  EI-paso1                -- 1.a. Lee y localiza errores        --> EI-paso2-a
+  EI-paso1                -- 1.b. Nuevas ideas                       --> EI-paso2-b
+  EI-paso2-a & EI-paso2-b                                         --> EI-paso3
+  EI-paso3                -- 2. Repetir hasta sadisfacerse               --> EI-paso1
+  EI-paso3                -. 3. Cuando te aburras del artículo actual   .-> paso1
   
   
-  step1                   -. If learning article                       -.-> IR-step1
-  IR-step1                                                              --> IR-step2
-  IR-step2                -- 1. Locate interesting information          --> IR-step3
-  IR-step3                -- 2. Extract valuable text for later         --> IR-step4
-  IR-step4                -- 3. Repeat until bored with current article --> IR-step2
-  IR-step4                -. 4. When bored with current article         .-> step1
+  paso1                   -. Si leyendo artículo                       -.-> LI-paso1
+  LI-paso1                                                              --> LI-paso2
+  LI-paso2                -- 1. Localiza información interesante          --> LI-paso3
+  LI-paso3                -- 2. Extrae texto valieso para más adelante         --> LI-paso4
+  LI-paso4                -- 3. Repite hasta que te aburra el artículo actual --> LI-paso2
+  LI-paso4                -. 4. Cuando te aburra el artículo actual         .-> paso1
   
   classDef state fill:#F3FFDA,stroke-width:2px
   classDef type fill:#72F87C,color:#333
 ```
+
 
 
 ## Beneficios
