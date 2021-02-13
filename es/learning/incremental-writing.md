@@ -2,15 +2,15 @@
 title: Lectura Incremental
 description: 
 published: true
-date: 2021-02-13T17:36:57.171Z
+date: 2021-02-13T17:38:11.115Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T17:17:10.364Z
 ---
 
-# Escritura incremental
+# Escritura Incremental
 
-**Escritura incremental(EI)** es un método para impulsar la creatividad, la calidad y el placer de escribir. Se sinergiza con la capacidad natural de tu cerebro para actualizar el conocimiento y organizarlo en redes de conceptos.
+**Escritura incremental (EI)** es un método para impulsar la creatividad, la calidad y el placer de escribir. Se sinergiza con la capacidad natural de tu cerebro para actualizar el conocimiento y organizarlo en redes de conceptos.
 
 La escritura incremental es una extensión de [lectura incremental](/learning/incremental-reading). Deberías estar familiarizado con ello antes de considerar la escritura incremental.
 
