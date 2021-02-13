@@ -1,8 +1,8 @@
 ---
-title: Lectura Incremental
+title: Escritura Incremental
 description: 
 published: true
-date: 2021-02-13T17:38:11.115Z
+date: 2021-02-13T17:41:25.020Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-13T17:17:10.364Z
