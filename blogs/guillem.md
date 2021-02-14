@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-02-10T19:27:45.112Z
+date: 2021-02-14T16:09:17.357Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -47,7 +47,8 @@ I will be able to increase my time commitment here. Hopefully in the future beco
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Learning as a remedy to depression *Free learning has been my therapy to depression*](/en/blogs/guillem/learning-as-a-remedy-to-depression)
 {.links-list}
 
-
+## Translations
+I am translating this very same wiki. I am planning to translate large articles such incremental reading.
 
 
 
