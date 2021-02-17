@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-02-14T16:09:17.357Z
+date: 2021-02-17T16:30:42.287Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -23,6 +23,8 @@ I am Guillem Palau from Barcelona, Spain. My name translated to English is Willi
  
 
 ## Podcast
+
+More information of each episode [here](/en/blogs/guillem/pleasurable-learning-podcast).
 
 <iframe src="https://anchor.fm/pleasurable-learning/embed" height="240px" width="800px" frameborder="0" scrolling="no"></iframe>
 
