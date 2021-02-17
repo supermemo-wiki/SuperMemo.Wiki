@@ -2,7 +2,7 @@
 title: Pleasurable Learning Podcast
 description: Episode key points
 published: true
-date: 2021-02-17T16:48:02.447Z
+date: 2021-02-17T16:51:00.129Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T16:29:05.227Z
@@ -16,7 +16,7 @@ dateCreated: 2021-02-17T16:29:05.227Z
 <iframe src="https://anchor.fm/pleasurable-learning/embed" height="240px" width="800px" frameborder="0" scrolling="no"></iframe>
 
 
-## 01 Alp Kaan from Turkey
+## Alp Kaan from Turkey
 > Alp Kaan is a 18 year old student from Turkey who is about to finish the mandatory school system and shares his thoughts of his own experience.
 {.is-info}
 
@@ -24,7 +24,7 @@ dateCreated: 2021-02-17T16:29:05.227Z
 
 2develop
 
-## 02 - Axel, highschool dropout now free learner from Bulgaria
+## Axel, highschool dropout now free learner from Bulgaria
 
 > Axel is a 23 year old free learner who droped form high school at 17. He shares his thoughts of his own experience on both sides, the compulsory school and free learning.
 {.is-info}
