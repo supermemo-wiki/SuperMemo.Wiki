@@ -2,7 +2,7 @@
 title: Pleasurable Learning Podcast
 description: Episode key points
 published: true
-date: 2021-02-17T16:31:50.682Z
+date: 2021-02-17T16:33:26.434Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T16:29:05.227Z
@@ -20,10 +20,13 @@ dateCreated: 2021-02-17T16:29:05.227Z
 2develop
 
 ## 02 - Axel, highschool dropout now free learner from Bulgaria
-### School Rebelion 
+
+> Axel is a 23 year old free learner who droped form high school at 17. He shares his thoughts of his own experience on both sides, the compulsory school and free learning.
+{.is-info}
 
 <iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/jpXMT__3XKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### School Rebelion 
 - Urge to do something to show I don't want to be at school. 
 - Feeling fear at the beggining 
 - Notonious repetition of acts of rebelion -> teachers expected rebelion -> lessened the fear consequences to disobey authority. 
