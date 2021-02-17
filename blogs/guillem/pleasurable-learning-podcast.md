@@ -2,13 +2,18 @@
 title: Pleasurable Learning Podcast
 description: Episode key points
 published: true
-date: 2021-02-17T16:33:26.434Z
+date: 2021-02-17T16:48:02.447Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T16:29:05.227Z
 ---
 
 
+> If you want to participate in the podcast sharing your thoughts and experiences, please fill up <a href="https://forms.gle/fXsBXGYNugj6urn27">this form</a> and I will contact you.
+{.is-success}
+
+# Last episode
+<iframe src="https://anchor.fm/pleasurable-learning/embed" height="240px" width="800px" frameborder="0" scrolling="no"></iframe>
 
 
 ## 01 Alp Kaan from Turkey
