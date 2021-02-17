@@ -2,22 +2,27 @@
 title: Pleasurable Learning Podcast
 description: Episode key points
 published: true
-date: 2021-02-17T16:29:05.227Z
+date: 2021-02-17T16:31:50.682Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T16:29:05.227Z
 ---
 
+
+
+
 ## 01 Alp Kaan from Turkey
 > Alp Kaan is a 18 year old student from Turkey who is about to finish the mandatory school system and shares his thoughts of his own experience.
 {.is-info}
 
-https://youtu.be/q-THGIgUv1Y
+<iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/q-THGIgUv1Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2develop
 
 ## 02 - Axel, highschool dropout now free learner from Bulgaria
 ### School Rebelion 
+
+<iframe width="800" height="450" class="mt-4" src="https://www.youtube.com/embed/jpXMT__3XKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Urge to do something to show I don't want to be at school. 
 - Feeling fear at the beggining 
