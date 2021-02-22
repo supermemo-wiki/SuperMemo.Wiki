@@ -2,18 +2,18 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:49:01.574Z
+date: 2021-02-22T20:51:09.244Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
 ---
 
-#Notes from Paul RR Voice chat event
+> Some notes are not shared to respect his privacy
+{.is-info}
+
 
 ## General
 
-> Some notes are not shared to respect his privacy
-{.is-info}
 
 
 - He has 6.5 years of experience with SRS.
