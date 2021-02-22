@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:42:39.729Z
+date: 2021-02-22T20:44:42.950Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -18,7 +18,7 @@ dateCreated: 2021-02-22T19:50:44.230Z
 
 - He has 6.5 years of experience with SRS.
 - He has a 27K+ card collection for just maths in mnemosyne.
-- He uses SUperMemo for everthing else than maths.
+- He uses SuperMemo for everthing else than maths.
 - He considers himself a math master.
 - He does not claim mastery in stoicism.
 - He considers himself a begginer to Incremental Reading.
