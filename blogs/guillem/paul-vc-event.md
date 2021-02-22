@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:10:35.643Z
+date: 2021-02-22T20:14:10.550Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -31,7 +31,8 @@ Book recommendation [make it stick](https://books.google.es/books/about/Make_It_
 - He does not uses pen and paper while doing repetitions.
 - **Math is knowledge**
 - Perfect formulation: some cards can be said are optimized to perfection, as that can be proven with mathematically. Adding the proof method formulating proof.
-
+- Basic facts ar worth keeping them, perhaps you could forget it in 20 years. 
+- He doesn't have very basic mathematical facts that anybody would know, such as a definition of a prime number.
 
 # Stoicism
 
