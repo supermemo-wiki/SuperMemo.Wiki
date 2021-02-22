@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:08:13.425Z
+date: 2021-02-22T20:09:49.723Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -26,10 +26,10 @@ As of today, if he could chose when to start using SRS, that would be at 8 or 9 
 Book recommendation [make it stick](https://books.google.es/books/about/Make_It_Stick.html?id=oneWAwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) & [Feeling-Good](https://www.amazon.co.uk/Feeling-Good-New-Mood-Therapy/dp/0380810336)
 
 # Mats
-
+(just new info not shared previously in Discord)
 - He uses mnemosine for the shake as LaTeX
 - He does not uses pen and paper while doing repetitions.
-**math is knowledge**
+- **Math is knowledge**
 - Perfect formulation: some cards can be said are optimized to perfection, as that can be proven with mathematically. Adding the proof method formulating proof.
 
 
