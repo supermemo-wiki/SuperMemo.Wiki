@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:46:47.277Z
+date: 2021-02-22T20:48:00.694Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -41,7 +41,7 @@ Book recommendation [make it stick](https://books.google.es/books/about/Make_It_
 - When things go bad: start learning
 - He mentioned [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 - We can achive stoichism faster with SRS
-- He things to world is going good and better, current events are better.
+- He thinks to world is going good and better, current events are better than before.
 - **Creating knowledge to solve world problems**
 - Most psychological studies are not replicalable.
 - Emotion is universal: facial expressions
