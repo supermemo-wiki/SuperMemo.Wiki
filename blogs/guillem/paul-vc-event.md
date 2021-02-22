@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:48:00.694Z
+date: 2021-02-22T20:49:01.574Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -52,7 +52,7 @@ Book recommendation [make it stick](https://books.google.es/books/about/Make_It_
 *It is possible to learn to philosophies that contradict/disagree each other?*
 Yes, by specifying it in the formulation. You could say: acording to philosophy A, what is that?
 
-## Mats
+## Maths
 > (just new info not shared previously in Discord)
 {.is-success}
 - **Math is knowledge**
