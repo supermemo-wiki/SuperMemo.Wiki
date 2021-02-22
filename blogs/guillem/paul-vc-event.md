@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:44:42.950Z
+date: 2021-02-22T20:46:06.516Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -62,7 +62,7 @@ Yes, by specifying it in the formulation. You could say: acording to philosophy 
 - Mathematicians narrow their knowledge due to forgetfulness.
 - Maths are not suitable for Incremental Reading.
 - He does not uses pen and paper while doing repetitions.
-- *Perfect formulation*: some cards can be said are optimized to perfection, as that can be proven with mathematically. Adding the proof method to formulating proof is optimum. Other item formuation will never achive perfect formulation in one's lifetime.
+- *Perfect formulation*: some cards can be said that are optimized to perfection, as that can be proven with mathematically. Adding the proof method to formulating proof is optimum. Other item formuation will never achive perfect formulation in one's lifetime.
 - He doesn't have very basic mathematical facts that anybody would know, such as a definition of a prime number.
 
 ## Education
