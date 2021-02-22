@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:18:33.202Z
+date: 2021-02-22T20:18:46.415Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -44,9 +44,8 @@ Global vision: don't think about the non-pschological aspects
 - He things to world is going good and better, current events are better.
 - **Creating knowledge to solve world problems**
 - Most psychological studies are not replicalable.
-
-- emotional is universal: facial expressions
-- universal events: death of a loved one.
+- Emotional is universal: facial expressions
+- Universal events: death of a loved one.
 - Making cards to remember some own thoughts 
 - He makes cards manually as most of the source is his own life.
 Its possible to learn to philosophies that contradict/disagree each other?
