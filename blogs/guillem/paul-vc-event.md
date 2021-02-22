@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:39:06.296Z
+date: 2021-02-22T20:40:42.679Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -40,7 +40,7 @@ Book recommendation [make it stick](https://books.google.es/books/about/Make_It_
 
 ## Stoicism
 
-Global vision: don't think about the non-pschological aspects
+- Global vision: don't think about the non-pschological aspects
 - When things go bad: start learning
 - He mentioned [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 - We can achive stoichism faster with SRS
