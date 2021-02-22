@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:40:42.679Z
+date: 2021-02-22T20:42:39.729Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -47,14 +47,13 @@ Book recommendation [make it stick](https://books.google.es/books/about/Make_It_
 - He things to world is going good and better, current events are better.
 - **Creating knowledge to solve world problems**
 - Most psychological studies are not replicalable.
-- Emotional is universal: facial expressions
-- Universal events: death of a loved one.
-- Making cards to remember some own thoughts 
+- Emotion is universal: facial expressions
+- Making cards to remember some of his own thoughts 
 - He makes cards manually as most of the source is his own life.
 - [*Problem of induction*](https://en.wikipedia.org/wiki/Problem_of_induction)
 
-Its possible to learn to philosophies that contradict/disagree each other?
-Yes, by specifying in the formulation. You could say: acording to philosophy A, what is that?
+*It is possible to learn to philosophies that contradict/disagree each other?*
+Yes, by specifying it in the formulation. You could say: acording to philosophy A, what is that?
 
 ## Mats
 > (just new info not shared previously in Discord)
