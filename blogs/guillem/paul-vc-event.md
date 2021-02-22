@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:26:42.543Z
+date: 2021-02-22T20:33:21.265Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -15,7 +15,10 @@ dateCreated: 2021-02-22T19:50:44.230Z
 - He does not claim mastery in stoicism.
 - He considers himself a begginer to Incremental Reading.
 - He spends about 3 daily hours SRSing.
-- (humans are much better generalitzation)
+
+- He tried to introduce people to SRS unsuccesfully.
+
+- Humans are much better generalitzation
 - **all your knowledge is always provisional**.
 - Basic facts are worth keeping them, perhaps you could forget them in 20 years. Is preferable to do the opposite error: doing the card when is not needed. 
 He started using SRS to distinguish art styles (paintings). Then he was able recognize the style on new paintings he saw. (prediction). 	
