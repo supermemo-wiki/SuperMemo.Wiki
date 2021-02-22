@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:06:49.814Z
+date: 2021-02-22T20:08:13.425Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -16,17 +16,14 @@ dateCreated: 2021-02-22T19:50:44.230Z
 - He considers himself a begginer to Incremental Reading.
 - He spends about 3 daily hours SRSing.
 - (humans are much better generalitzation)
-
-Book recommendation [make it stick](https://books.google.es/books/about/Make_It_Stick.html?id=oneWAwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) & [Feeling-Good](https://www.amazon.co.uk/Feeling-Good-New-Mood-Therapy/dp/0380810336)
-
-**all your knowledge is always provisional**.
+- **all your knowledge is always provisional**.
 
 He started using SRS to distinguish art styles (paintings). Then he was able recognize the style on new paintings he saw. (prediction). 	
 
 
 As of today, if he could chose when to start using SRS, that would be at 8 or 9 years old.
 
-
+Book recommendation [make it stick](https://books.google.es/books/about/Make_It_Stick.html?id=oneWAwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) & [Feeling-Good](https://www.amazon.co.uk/Feeling-Good-New-Mood-Therapy/dp/0380810336)
 
 # Mats
 
@@ -42,7 +39,7 @@ As of today, if he could chose when to start using SRS, that would be at 8 or 9 
 
 Global vision: don't think about the non-pschological aspects
 - When things go bad: start learning
-- Marcus Aurelius
+- He mentioned [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 - We can achive stoichism faster with SRS
 - He things to world is going good and better, current events are better.
 - Creating knowledge to solve world problems
