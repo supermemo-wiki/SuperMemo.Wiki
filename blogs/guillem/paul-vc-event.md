@@ -2,26 +2,30 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:03:39.479Z
+date: 2021-02-22T20:06:49.814Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
 ---
 
 # General
-He has 6.5 years of experience with SRS.
-He has a 27K+ card collection for just maths in mnemosyne.
-He considers himself a math master.
-He does not claim mastery in stoicism.
-He considers himself a begginer to Incremental Reading.
-He spends about 3 daily hours SRSing.
-Jiu Jitsu
+- He has 6.5 years of experience with SRS.
+- He has a 27K+ card collection for just maths in mnemosyne.
+- He considers himself a math master.
+- He does not claim mastery in stoicism.
+- He considers himself a begginer to Incremental Reading.
+- He spends about 3 daily hours SRSing.
+- (humans are much better generalitzation)
 
 Book recommendation [make it stick](https://books.google.es/books/about/Make_It_Stick.html?id=oneWAwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) & [Feeling-Good](https://www.amazon.co.uk/Feeling-Good-New-Mood-Therapy/dp/0380810336)
 
 **all your knowledge is always provisional**.
 
+He started using SRS to distinguish art styles (paintings). Then he was able recognize the style on new paintings he saw. (prediction). 	
+
+
 As of today, if he could chose when to start using SRS, that would be at 8 or 9 years old.
+
 
 
 # Mats
@@ -29,7 +33,7 @@ As of today, if he could chose when to start using SRS, that would be at 8 or 9 
 - He uses mnemosine for the shake as LaTeX
 - He does not uses pen and paper while doing repetitions.
 **math is knowledge**
-- Perfect formulation: some cards can be said are optimized to perfection, as that can be proven with mathematically.
+- Perfect formulation: some cards can be said are optimized to perfection, as that can be proven with mathematically. Adding the proof method formulating proof.
 
 
 # Stoicism
