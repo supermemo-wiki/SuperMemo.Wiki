@@ -2,7 +2,7 @@
 title: Reports
 description: w.i.p
 published: true
-date: 2020-12-21T19:24:49.292Z
+date: 2021-02-22T20:07:32.525Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-21T17:55:18.238Z
@@ -17,4 +17,4 @@ Supermemo and IR turned the way I approached declarative learning on its head. A
 
 However, declarative learning (which is the thing that SM is best for) makes up only for a rather small portion of the learning that has to happen for me to achieve the kind of goals that I have, for me to really follow my passions. The things that have the most applicability for what I want to accomplish are generally regarded as things you "learn by doing", and I'm really not satisfied in continuing tackling this problem by following such an indistinct notion. I want to find something akin to IR. 
 
-"Deliberate Practice" is something which I also feel does not address all the problems I'm facing, maybe discussing my feelings towards it can be a good starting point for this series of reports on the progress of learning journey. I'm thinking of making it my next post.
+"Deliberate Practice" is something which I also feel does not address all the problems I'm facing, maybe discussing my feelings towards it can be a good starting point for this series of reports on the progress of my learning journey. I'm thinking of making it my next post.
