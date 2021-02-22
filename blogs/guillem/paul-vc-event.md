@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T19:57:46.862Z
+date: 2021-02-22T20:00:06.564Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -13,16 +13,22 @@ He has 6.5 years of experience with SRS.
 He has a 27K+ card collection for just maths in mnemosyne.
 He considers himself a math master.
 He does not claim mastery in stoicism.
-He considers himself abegginer to Incremental Reading.
+He considers himself a begginer to Incremental Reading.
+He spends about 3 daily hours SRSing.
 
 Book recommendation [make it stick](https://books.google.es/books/about/Make_It_Stick.html?id=oneWAwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) & [Feeling-Good](https://www.amazon.co.uk/Feeling-Good-New-Mood-Therapy/dp/0380810336)
 
 **all your knowledge is always provisional**.
 
+As of today, if he could chose when to start using SRS, that would be at 8 or 9 years old.
+
 
 # Mats
 
-He uses mnemosine for the shake as LaTeX
+- He uses mnemosine for the shake as LaTeX
+- He does not uses pen and paper while doing repetitions.
+**math is knowledge**
+
 
 
 # Stoicism
