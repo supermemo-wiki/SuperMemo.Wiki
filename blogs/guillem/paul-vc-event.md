@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:24:13.494Z
+date: 2021-02-22T20:26:42.543Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -48,6 +48,7 @@ Global vision: don't think about the non-pschological aspects
 - Universal events: death of a loved one.
 - Making cards to remember some own thoughts 
 - He makes cards manually as most of the source is his own life.
+- [*Problem of induction*](https://en.wikipedia.org/wiki/Problem_of_induction)
 
 Its possible to learn to philosophies that contradict/disagree each other?
 Yes, by specifying in the formulation. You could say: acording to philosophy A, what is that?
