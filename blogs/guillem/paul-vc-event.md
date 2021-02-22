@@ -2,7 +2,7 @@
 title: Paul RR Voice chat event
 description: My notes
 published: true
-date: 2021-02-22T20:18:46.415Z
+date: 2021-02-22T20:24:13.494Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T19:50:44.230Z
@@ -30,7 +30,7 @@ Book recommendation [make it stick](https://books.google.es/books/about/Make_It_
 - He uses mnemosine for the shake as LaTeX
 - He does not uses pen and paper while doing repetitions.
 - **Math is knowledge**
-- Perfect formulation: some cards can be said are optimized to perfection, as that can be proven with mathematically. Adding the proof method formulating proof.
+- Perfect formulation: some cards can be said are optimized to perfection, as that can be proven with mathematically. Adding the proof method to formulating proof is optimum. Other item formuation will never achive perfect formulation in one's lifetime.
 - He doesn't have very basic mathematical facts that anybody would know, such as a definition of a prime number.
 
 # Stoicism
@@ -48,8 +48,9 @@ Global vision: don't think about the non-pschological aspects
 - Universal events: death of a loved one.
 - Making cards to remember some own thoughts 
 - He makes cards manually as most of the source is his own life.
+
 Its possible to learn to philosophies that contradict/disagree each other?
-Yes.
+Yes, by specifying in the formulation. You could say: acording to philosophy A, what is that?
 
 
 # Education
