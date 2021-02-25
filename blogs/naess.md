@@ -2,7 +2,7 @@
 title: Naess' Corner
 description: 
 published: true
-date: 2021-02-06T22:46:32.162Z
+date: 2021-02-25T14:13:06.879Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T20:56:55.156Z
@@ -15,7 +15,6 @@ dateCreated: 2020-12-17T20:56:55.156Z
 
 *If you want to support me I have a medium and substack page for the same stories I share here. 
 https://storyofthecollective.substack.com/
-https://storyofthecollective.medium.com/*
 
 *Or throw me energy drink money...*
 
