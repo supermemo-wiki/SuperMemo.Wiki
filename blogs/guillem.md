@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-02-17T16:30:42.287Z
+date: 2021-02-28T18:37:41.735Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -85,4 +85,4 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 
 > <b>Twitter</b> (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
 
-> <b>Twitch</b> (kind of inactive ATM): [guillempalausalva](https://www.twitch.tv/guillempalausalva)
+> <b>Twitch</b> (kind of inactive ATM): [pleasurable learning](https://www.twitch.tv/pleasurable_learning)
