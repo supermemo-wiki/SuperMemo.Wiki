@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-03-02T21:58:22.799Z
+date: 2021-03-02T22:00:52.218Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -10,7 +10,6 @@ dateCreated: 2020-12-18T09:26:43.841Z
 
 > All writing is done incrementally. I'd tag pages as done once I am finished.
 {.is-warning}
-
 
 > Do not hestitate do leave feedback here or privately if you prefer.
 {.is-info}
