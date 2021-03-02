@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-03-02T22:00:52.218Z
+date: 2021-03-02T22:01:46.494Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -77,7 +77,7 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 
 
 ## Contact & Networks
-> <b>Email</b>: pleasurablelearning at gmail ~*just to avoid crawlers*~ com
+> <b>Email</b>: pleasurablelearning at gmail com
 
 > <b>Discord</b>: WilliamPalace(GuillemPalau)#1890
 
