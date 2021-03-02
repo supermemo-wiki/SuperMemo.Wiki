@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-03-02T21:45:58.563Z
+date: 2021-03-02T21:47:12.072Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -18,7 +18,7 @@ dateCreated: 2020-12-18T09:26:43.841Z
 # Bio
 I am Guillem Palau from Barcelona, Spain. My name translated to English is William Palace. I did suffered a lot in the school system. I wasted my potential. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion and I am willing to put all efforts to put the Prussian school model to an end.
 
-[SperMemo Guru](https://supermemo.guru/wiki/Guillem_Palau) article about me written by [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak).
+[SuperMemo Guru](https://supermemo.guru/wiki/Guillem_Palau) article about me written by [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak).
 
 
 ### Motivation for writing here
