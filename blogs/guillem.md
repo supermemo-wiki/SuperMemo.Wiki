@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-03-02T21:57:50.351Z
+date: 2021-03-02T21:58:22.799Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -93,8 +93,6 @@ focused on learning and schooling
 <b>Twitter</b>: [@schoolslavery](https://twitter.com/schoolslavery)
 contributor to End School Slavery 
 
- Twitter account
- 
- https://twitter.com/schoolslavery
+
 
 > <b>Twitch</b> (kind of inactive ATM): [pleasurable learning](https://www.twitch.tv/pleasurable_learning)
