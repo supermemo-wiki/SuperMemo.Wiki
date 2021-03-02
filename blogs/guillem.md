@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-03-02T21:47:12.072Z
+date: 2021-03-02T21:55:17.407Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -78,14 +78,23 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 
 
 ## Contact & Networks
-> <b>Email</b>: pleasurablelearning ^at¿ gmail. ~*just to avoid crawlers*~ com
+> <b>Email</b>: pleasurablelearning at gmail ~*just to avoid crawlers*~ com
 
-> <b>Discord</b>: WilliamPalace#1890
+> <b>Discord</b>: WilliamPalace(GuillemPalau)#1890
 
-> <b>YouTube channel</b> (focus on Free Learning): [Pleasurable Learning](https://www.youtube.com/channel/UCtrKs7I5tNeTB-7tzr8IIww)
- <b>YouTube channel</b> (focus on SuperMemo): [Pleasurable Learning Supermemo](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
+> <b>YouTube channel</b> [Pleasurable Learning Podcast](https://www.youtube.com/channel/UCtrKs7I5tNeTB-7tzr8IIww) 
+Video version of the podcast. You can either see the guest or just me.
+ <b>YouTube channel</b> [Pleasurable Learning Supermemo](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA) 
+ Focus on SuperMemo software.
 
 
-> <b>Twitter</b> (focused on learning and schooling): [@guillemlearner](https://twitter.com/guillemlearner)
+> <b>Twitter</b> [@guillemlearner](https://twitter.com/guillemlearner)
+focused on learning and schooling
+<b>Twitter</b>: [@schoolslavery](https://twitter.com/schoolslavery)
+contributor to End School Slavery 
+
+ Twitter account
+ 
+ https://twitter.com/schoolslavery
 
 > <b>Twitch</b> (kind of inactive ATM): [pleasurable learning](https://www.twitch.tv/pleasurable_learning)
