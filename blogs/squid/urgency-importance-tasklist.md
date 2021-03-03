@@ -2,7 +2,7 @@
 title: Urgency-importance Matrix for SuperMemo Tasklists
 description: How to boost SuperMemo's tasklist feature by 200%
 published: true
-date: 2020-12-28T18:21:10.864Z
+date: 2021-03-03T19:23:15.833Z
 tags: tasklist
 editor: markdown
 dateCreated: 2020-12-28T11:47:06.533Z
@@ -14,6 +14,7 @@ dateCreated: 2020-12-28T11:47:06.533Z
 Urgency-Importance Matrices, or Eisenhower Matrices, are well known tools for organising tasklists. They are incredibly powerful. 
 
 ![urengy-importance_matrix.png](/blogs/squid/urengy-importance_matrix.png)
+
 
 In SuperMemo, we can replicate this by making four different tasklists for each of the quadrants. I've found this has boosted the quality of my tasklist usage DRAMATICALLY and am never going back.
 
