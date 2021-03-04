@@ -2,7 +2,7 @@
 title: Naess' Corner
 description: 
 published: true
-date: 2021-02-27T22:48:21.684Z
+date: 2021-03-04T21:02:59.017Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-17T20:56:55.156Z
@@ -11,6 +11,7 @@ dateCreated: 2020-12-17T20:56:55.156Z
 # Naess' Corner
 - [Daily Notes *Short stories and insights I acquired on my learning journey.*](https://www.supermemo.wiki/en/blogs/naess/dailynotes)
 - [Future of SuperMemo *Unimplemented features that would increase productivity in SuperMemo.*](https://www.supermemo.wiki/en/blogs/naess/futureofsupermemo)
+- [What did I learn today](https://www.supermemo.wiki/en/blogs/naess/whatilearned)
 {.links-list}
 
 *If you want to support me I have a substack page for the same stories I share here. 
