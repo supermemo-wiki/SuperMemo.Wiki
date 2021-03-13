@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-13T10:48:45.816Z
+date: 2021-03-13T11:13:00.854Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -188,7 +188,7 @@ Setup is now complete!
   
 ### Creating your repository
 
-In this example, the repository we create will be named **SuperMemo-Collection**.
+In this example, the repository we create will be named **SuperMemo_Collection**.
 
 You can choose from a variety of providers. We recommend using GitLab, because:
 1. The free plan offers more file space than its alternatives,
@@ -210,7 +210,7 @@ You can choose from a variety of providers. We recommend using GitLab, because:
 {.links-list}
 
 Input the following information in your new repository:
-- Give a name to your new repo (e.g. *SuperMemo-Collection*)
+- Give a name to your new repo (e.g. *SuperMemo_Collection*)
 - Select **Private**
 
 ![](/reference-manual/backup-guide/gitsetup-initialize.png){.ml-8}
