@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-01-19T12:09:40.650Z
+date: 2021-03-13T10:03:09.160Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -42,15 +42,30 @@ As of the moment of writing this guide (2020/02), this solution is **free** (as 
 
 ### I) (*Optional*) Create a partition for your SuperMemo collections
 
-For easier management of your files, and to save space for the frequent snapshots (more on this later), we recommend creating a partition dedicated to your SuperMemo collection. A partition will allow you to keep your SuperMemo files completely seperated from your Window's C:/ drive. 
+For easier management of your files, and to save space for the frequent snapshots (more on this later), we recommend creating a partition dedicated to your SuperMemo collection. A partition will allow you to keep your SuperMemo files completely seperated from your Window's C:/ drive.
 
-> If you do not know how to create a partition in Windows, you can [follow this guide](https://www.tomshardware.com/news/how-to-make-partitions-windows-10,36643.html).
-{.is-info}
+#### Partition size
+
+Determining the correct partition size depends on a few factors, including:
+- Available free space on your disk,
+- Volume of media material (PDF, videos, audio, ...) you will import in your collection,
+- Margin of error you are willing to leave yourself.
+
+Avoid partition sizes lower than 8GB. If you reserve 3GB for saving your file history, only 5GB of free space will be left available for you to use on the partition.
+
+> It is **imperative** that you never use more than the file space available on the partition. In our example earlier, you must never use more than 5GB of space for your files.
+>
+> Not following this principle will result in **corrupting your files**. The same principle applies even if you do not create a dedicated partition (e.g. if you use C:\).
+{.is-warning}
+
+#### Creating the partition
+
+- [<span style="color: #666;" class="mdi mdi-harddisk-plus mr-1"></span> Creating a Windows partition *Toms Hardware guide.*](https://www.tomshardware.com/news/how-to-make-partitions-windows-10,36643.html)
+{.links-list}
 
 You should obtain a layout similar to this one (it is fine if you only have one disk, instead of two as in this example):
 
 ![](/reference-manual/backup-guide/computer-management-disks.png 'SuperMemo partition')
-
 
 ### II) Installation & Configuration
 
