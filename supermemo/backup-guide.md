@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-13T10:46:07.327Z
+date: 2021-03-13T10:48:45.816Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -166,9 +166,9 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 - *(Bonus)* Synchronize our work between devices.
 
 ---
-^1^: GitHub has a 1GB limit on free private repositories. [GitLab](https://about.gitlab.com) offers 10gb free storage by default and [BitBucket](http://bitbucket.org) offers a 5gb plan for 3$ at this date (2020/02).
+^1^: At this date (2020/02), [GitLab](https://about.gitlab.com) offers 10gb of free storage. GitHub offers 1GB of free storage for private repositories. [BitBucket](http://bitbucket.org) offers a 5gb plan for 3$.
 
-^2^: Although GitHub can be considered fairly reliable, we highly recommend that you implement a solution to encrypt your collection. Your collection is a map to your brain and to your innermost thoughts. Don't let others peer into it without your consent.
+^2^: Although the listed Git providers can be considered fairly reliable from a technical standpoint, we highly recommend that you implement a solution to encrypt your collection. Your collection is a map to your brain and to your innermost thoughts. Don't let others peer into it without your consent.
 
 ### Installing & Setting up Git with GitHub
 
