@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-13T10:05:29.383Z
+date: 2021-03-13T10:05:46.411Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -82,7 +82,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 
 > Take note of the Drive Letter which contains your SuperMemo collection. If you only have one disk in your computer, it should be C:\\
 > 
-> **In this example, the SuperMemo collection Drive Letter is E:\.**
+> **In this example, the SuperMemo collection Drive Letter is E:\\.**
 {.is-info}
 
 1. In the [Main Window](/reference-manual/backup-guide/bitshelter.agent_rules.png), click on the <kbd>**Add Schedule**</kbd> button.
