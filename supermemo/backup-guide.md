@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-13T10:03:09.160Z
+date: 2021-03-13T10:05:18.087Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -94,7 +94,7 @@ You should obtain a layout similar to this one (it is fine if you only have one 
 3. Select the SuperMemo drive **(E:\\)** in the [System Protection dialog](/reference-manual/backup-guide/systempropertiesprotection_2018-05-05_13-10-18.png) and click on <kbd>**Configure**</kbd>.
 4. In the [new dialog](/reference-manual/backup-guide/systempropertiesprotection_2018-05-05_13-10-22.png) click on <kbd>**Turn on protection**</kbd>, select at least 2GB of desired reserved space for Snapshots, then press <kbd>**OK**</kbd> to both System Protection and System Properties windows.
 
-> If you chose not to create a dedicated partition for SuperMemo, **increase reserve space significantly**. As BitShelter will then run across your entire C:/ drive, it will be filled by all modifications made by any files in windows rather than SuperMemo alone.
+> If you chose not to create a dedicated partition for SuperMemo, **increase reserve space significantly**. All changes on your drive (e.g. C:\) will be tracked and counted towards the file history space.
 {.is-warning}
 
 5. Back in the [General tab](/reference-manual/backup-guide/bitshelter.agent_general.png), click on <kbd>**Raise limit**</kbd>, and set the new limit to **512**.
