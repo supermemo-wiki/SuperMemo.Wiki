@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-13T11:13:00.854Z
+date: 2021-03-13T11:15:04.186Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -244,9 +244,9 @@ Replace the text between **< >** with the link copied previously. `git clone` wi
     - _GitHub_:
     ![](/reference-manual/backup-guide/gitsetup-login.png){.ml-8}
 
-7. Your repository is now synchronized with your computer.
+7. Your repository is now synchronized with your computer and **a new folder** has been created.
 
-Copy your SuperMemo collection into **a new folder**. In our example it will be located in `E:\SuperMemo_Collection\`.{.ml-8}
+**Copy your SuperMemo collection** into the new folder. In our example it will be located in `E:\SuperMemo_Collection\`.{.ml-8}
 
 Your folder should look similar to the example below (*.gitignore* might be missing):{.ml-8}
 
