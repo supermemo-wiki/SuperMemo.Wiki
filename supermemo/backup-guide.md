@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-13T10:05:46.411Z
+date: 2021-03-13T10:46:07.327Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -140,15 +140,15 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 
 1. Right click on your collection folder and click on **Restore previous versions**
 
-![](/reference-manual/backup-guide/bitshelter-restorepre.png)
+![](/reference-manual/backup-guide/bitshelter-restorepre.png){.ml-8}
 
 2. Click on the copy you'd like to go back to:
 
-![](/reference-manual/backup-guide/bitshelter-restoremenu.png)
+![](/reference-manual/backup-guide/bitshelter-restoremenu.png){.ml-8}
 
 3. You can then click restore, to overwrite current version of the folder, or click open to browse the files:
 
-![](/reference-manual/backup-guide/bitshelter-restoremenu2.png)
+![](/reference-manual/backup-guide/bitshelter-restoremenu2.png){.ml-8}
 
 > If you have issues with the above instructions, you can also refer to [this guide](https://www.howtogeek.com/howto/11130/restore-previous-versions-of-files-in-every-edition-of-windows-7/)
 {.is-info}
@@ -175,10 +175,9 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 > If you want to use SSH authentication instead of HTTPS, follow [this guide](https://vladmihalcea.com/tutorials/git/windows-git-ssh-authentication-to-github/)
 {.is-info}
 
-1. Create a [GitHub account](https://github.com/join/).
-2. Download [Git for Windows](https://gitforwindows.org/).
-3. Install it with default settings
-5. Open a command prompt: type `cmd.exe`, then press <kbd>Enter</kbd> and run the following two commands (with your own name and email you use for github):
+1. Download [Git for Windows](https://gitforwindows.org/).
+2. Install it with default settings
+3. Open a command prompt: type `cmd.exe`, then press <kbd>Enter</kbd> and run the following two commands (with your own name and email you use for github):
 
 ```bash
 git config --global user.name "Alexis Incogito"
@@ -187,37 +186,71 @@ git config --global user.email alexis@incogito.org
    
 Setup is now complete!
   
-### Creating & Synchronizing your GitHub repository
+### Creating your repository
 
-In this example, the GitHub repository we create will be named **SuperMemo-Collection**.
+In this example, the repository we create will be named **SuperMemo-Collection**.
 
-1. Create a [new repository](https://github.com/new):
-    - Give a name to your new repo (e.g. *SuperMemo-Collection*)
-    - Select **Private**
+You can choose from a variety of providers. We recommend using GitLab, because:
+1. The free plan offers more file space than its alternatives,
+2. It tracks the history of large files, which is important for collection with large text registries,
+3. GitHub is owned by Microsoft, a company infamous for its abysmal privacy policy.
 
-![](/reference-manual/backup-guide/gitsetup-initialize.png)
+#### GitLab
 
-2. In your SuperMemo Drive (**E:\\**), open a command prompt: type `cmd.exe`, then press <kbd>Enter</kbd>
+- [1. Create a new account *Register on GitLab.*](https://gitlab.com/users/sign_up){target="_blank"}
+- [2. Create a new repository *New GitLab project.*](https://gitlab.com/projects/new#blank_project){target="_blank"}
+{.links-list}
 
-![](/reference-manual/backup-guide/windows-explorer-cmd.png)
+**🚧 Work in progress.**
 
-3. Go to your **GitHub repository** web page, click the <kbd>**Clone or download**</kbd> button, and **press use HTTPS**.
+#### GitHub
 
-![](/reference-manual/backup-guide/github-clone-link.png)
+- [1. Create a new account *Register on GitHub.*](https://github.com/join/){target="_blank"}
+- [2. Create a new repository *New GitHub repository.*](https://github.com/new){target="_blank"}
+{.links-list}
 
-4. Copy the link starting with `https://`
+Input the following information in your new repository:
+- Give a name to your new repo (e.g. *SuperMemo-Collection*)
+- Select **Private**
 
-![](/reference-manual/backup-guide/gitsetup-clonehttps.png)
+![](/reference-manual/backup-guide/gitsetup-initialize.png){.ml-8}
 
-5. In the **command prompt**, type `git clone <https://github.com/......>`. Replace the text between **< >** with the link you copied from GitHub. 'git clone' will create a local copy of your github repository. 
+### Synchronizing your Git repository
 
-6. A popup will appear. Login with your GitHub account to authenticate.
+1. Press <kbd class="win"></kbd> + <kbd>E</kbd> to **open Windows Explorer**,
+2. **Navigate to your SuperMemo drive**, in our example, drive **`E:\`**,
 
-![](/reference-manual/backup-guide/gitsetup-login.png)
+![windows-explorer-drives.png](/reference-manual/backup-guide/windows-explorer-drives.png){.ml-8}
 
-7. Your repository is now synchronized with your computer. Copy your SuperMemo collection into the new folder. Your folder should look similar to the example below (*.gitignore* might be missing):
+3. **Open a command prompt**:
+    1. Click on the bar at the top where it read `E:\`,
+    2. Type `cmd.exe`, then press <kbd>Enter</kbd>.
+    ![](/reference-manual/backup-guide/windows-explorer-cmd.png){.ml-8}
 
-![](/reference-manual/backup-guide/git-local-collection-repository.png)
+4. In your browser, navigate to your **repository web page**, and copy the *git url*:
+    - _GitLab_: Click the <kbd>**Clone**</kbd> button, then copy the link under **Clone with HTTPS**,
+    ![gitlab-clone-link.png](/reference-manual/backup-guide/gitlab-clone-link.png){.ml-8}
+    - _GitHub_: Click the <kbd>**Clone or download**</kbd> button, press <kbd>Use HTTPS</kbd>, then **copy the link**.
+    ![](/reference-manual/backup-guide/github-clone-link.png){.ml-8}
+    ![](/reference-manual/backup-guide/gitsetup-clonehttps.png){.ml-8}
+
+5. In the **command prompt**, type `git clone <https://gitlab.com/......>`.
+
+Replace the text between **< >** with the link copied previously. `git clone` will create a local version of your Git repository.
+
+6. **Login** with your account. A popup will appear:
+    - _GitLab_:
+    **🚧 Work in progress.**{.ml-8}
+    - _GitHub_:
+    ![](/reference-manual/backup-guide/gitsetup-login.png){.ml-8}
+
+7. Your repository is now synchronized with your computer.
+
+Copy your SuperMemo collection into **a new folder**. In our example it will be located in `E:\SuperMemo_Collection\`.{.ml-8}
+
+Your folder should look similar to the example below (*.gitignore* might be missing):{.ml-8}
+
+![](/reference-manual/backup-guide/git-local-collection-repository.png){.ml-8}
 
 8. <a href="/reference-manual/backup-guide/sm-main-commit.bat" target="_blank" rel="noopener">Download this .bat file</a> and save it in your local repository folder (where your `.git` directory is located). It contains the following commands:
 
@@ -250,7 +283,7 @@ To make running sm-main-commit.bat more convenient, you can add it to taskbar. W
 
 Every time you are done using SuperMemo, click on the shortcut in the taskbar to sync changes to your collections's Github repository.
 
-> You can also use this keyboard shortcut to quickly run the script: <kbd class="win"></kbd> + <kbd>number key</kbd>.
+> You can also use this keyboard shortcut to quickly execute the script: <kbd class="win"></kbd> + <kbd>number key</kbd>.
 > 
 > *Number key* is the position of the script in your taskbar (e.g. <kbd>1</kbd> <kbd>2</kbd> ...).
 {.is-info}
