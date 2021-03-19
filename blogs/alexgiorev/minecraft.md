@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-19T10:09:28.605Z
+date: 2021-03-19T10:13:57.599Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -14,7 +14,7 @@ In this analogy, I hope to clarify the concept of [learn drive](https://supermem
 # Analogies as isomorphisms
 An analogy can be thought of as a correspondence between concepts. If we think of a [concept network](https://supermemo.guru/wiki/Concept_network), an analogy between two systems represented by two concept networks is like a [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism) between the two networks. To demonstrate an isomorphism (or a partial isomorphism), you have to say which nodes in one graph correspond to which nodes in the other, so that to describe an analogy between the learn drive and Minecraft I would need to say which concepts in (my understanding of) the learn drive correspond to which concepts in (my understanding of) Minecraft.
 # Mining, blocks and items.
-In this analogy, I am going to equate [Minecraft blocks](https://minecraft.gamepedia.com/Block) with information, [Minecraft items](https://minecraft.gamepedia.com/Item_(entity)) with knowledge, and [mining](https://minecraft.gamepedia.com/Breaking) with learning. Actually, for the purposes of the analogy, I count any means of acquiring items as mining, not only the narrow definition of braking blocks, so that activities such as getting loot from [chests](https://minecraft.gamepedia.com/Chest), shearing [sheep](https://minecraft.gamepedia.com/Sheep) or reaping [farms](https://minecraft.gamepedia.com/Farming) I also consider "mining". Let me explain why I chose this correspondence.
+In this analogy, I am going to equate [Minecraft blocks](https://minecraft.gamepedia.com/Block) with information, [Minecraft items](https://minecraft.gamepedia.com/Item_(entity)) with knowledge, and [mining](https://minecraft.gamepedia.com/Breaking) with learning. It is important to note the distinction between an item an a block. An item is something which resides in the player's inventory and can be used by the player to build things, while a block exists in the outside world, and is not usable by the player unless broken into an item. Another important note is that for the purposes of the analogy, I count any means of acquiring items as mining, not only the narrow definition of braking blocks, so that activities such as getting loot from [chests](https://minecraft.gamepedia.com/Chest), shearing [sheep](https://minecraft.gamepedia.com/Sheep) or reaping [farms](https://minecraft.gamepedia.com/Farming) I also consider "mining". Let me explain why I chose this correspondence.
 ## Items correspond to knowledge
 Items and knowledge can both be considered as resources owned by individuals. Both items and knowledge have value, which is based on what *personal* goals those resources can help an individual achieve (in Minecraft those goals often take the form of structures to build or tools to create). I stress that the value is subjective. Knowledge valuable for one person may be useless to another, and items valuable for one may be useless to another.
 ## Valuation networks in the brain
@@ -22,7 +22,7 @@ There is a system in the brain - the [knowledge valuation network](https://super
 ## Building things corresponds to problem solving
 If knowledge can be thought of as a resource used to solve problems, and items can be thought of as a resource used to build things (e.g. houses or tools), then it should follow that in our analogy we should equate problem solving with building things.
 ## Blocks are information
-When presented with information, we have to expend effort in order to understand it, in order to convert it to knowledge. With items being equated with knowledge, the question is what must we expend effort to process in order to arrive at items? Blocks come to mind. The player must expend effort to break blocks so that items fall out, and without this effort the items are not usable. This leads me to equate blocks with information in the analogy, in the isomorphism.
+When presented with information, we have to expend effort in order to understand it, in order to convert it to knowledge. With items being equated with knowledge, the question is what must we expend effort to process in order to arrive at items? [Blocks](https://minecraft.gamepedia.com/Block) come to mind. The player must expend effort to break blocks so that items fall out, and without this effort the items are not usable. This leads me to equate blocks with information in the analogy, in the isomorphism.
 
 ## Mining corresponds to learning
 When learning, we find information, expend effort to understand it, and the result is knowledge. When mining, we find blocks, expend effort to break them, and the result is items. So in this analogy it seems sensible to equate mining with learning.
