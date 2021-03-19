@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-19T08:59:22.690Z
+date: 2021-03-19T10:09:28.605Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -11,21 +11,21 @@ dateCreated: 2021-02-26T16:35:46.641Z
 **WARNING: still in the process of incremental writing**
 
 In this analogy, I hope to clarify the concept of [learn drive](https://supermemo.guru/wiki/Learn_drive) by using Minecraft as an analogy.
-
+# Analogies as isomorphisms
+An analogy can be thought of as a correspondence between concepts. If we think of a [concept network](https://supermemo.guru/wiki/Concept_network), an analogy between two systems represented by two concept networks is like a [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism) between the two networks. To demonstrate an isomorphism (or a partial isomorphism), you have to say which nodes in one graph correspond to which nodes in the other, so that to describe an analogy between the learn drive and Minecraft I would need to say which concepts in (my understanding of) the learn drive correspond to which concepts in (my understanding of) Minecraft.
 # Mining, blocks and items.
-In this analogy, I am going to equate [Minecraft blocks](https://minecraft.gamepedia.com/Block) with information, [Minecraft items](https://minecraft.gamepedia.com/Item_(entity)) with knowledge, and [mining](https://minecraft.gamepedia.com/Breaking) with learning. Actually, for the purposes of the analogy, I count any means of acquiring items as mining, not only the narrow definition of braking blocks, so that activities such as getting loot from [chests](https://minecraft.gamepedia.com/Chest), shearing [sheep](https://minecraft.gamepedia.com/Sheep) or reaping [farms](https://minecraft.gamepedia.com/Farming) I also consider "mining". Let me explain why I chose this mapping.
-
+In this analogy, I am going to equate [Minecraft blocks](https://minecraft.gamepedia.com/Block) with information, [Minecraft items](https://minecraft.gamepedia.com/Item_(entity)) with knowledge, and [mining](https://minecraft.gamepedia.com/Breaking) with learning. Actually, for the purposes of the analogy, I count any means of acquiring items as mining, not only the narrow definition of braking blocks, so that activities such as getting loot from [chests](https://minecraft.gamepedia.com/Chest), shearing [sheep](https://minecraft.gamepedia.com/Sheep) or reaping [farms](https://minecraft.gamepedia.com/Farming) I also consider "mining". Let me explain why I chose this correspondence.
+## Items correspond to knowledge
+Items and knowledge can both be considered as resources owned by individuals. Both items and knowledge have value, which is based on what *personal* goals those resources can help an individual achieve (in Minecraft those goals often take the form of structures to build or tools to create). I stress that the value is subjective. Knowledge valuable for one person may be useless to another, and items valuable for one may be useless to another.
+## Valuation networks in the brain
+There is a system in the brain - the [knowledge valuation network](https://supermemo.guru/wiki/Knowledge_valuation_network) - capable of computing the value of newly acquired knowledge. We equated items with knowledge, so this leads me to hypothesize about the existence of a system which corresponds to the knowledge valuation network, but is used for estimating the value of items (notice how recognizing analogies allows us to ask questions and hypothesize the existence of things which we can't directly see). The knowledge valuation network computes value largely based on the goals which a piece of knowledge serves, and this leads me to think that the item valuation network will compute the value of items on the basis of what goals they help the player achieve. I talk more about the item valuation network [below](#the-item-valuation-network).
+## Building things corresponds to problem solving
+If knowledge can be thought of as a resource used to solve problems, and items can be thought of as a resource used to build things (e.g. houses or tools), then it should follow that in our analogy we should equate problem solving with building things.
 ## Blocks are information
-Blocks and items are related like information and knowledge are related. You need to expend effort to mine a block to get an item, just like you need to expend effort to understand information to arrive at knowledge. Without the effort, you get no value from the blocks, and you get no value from the information, so that just like blocks are largely useless on their own, not-understood information is largely useless on its own.
-## Items are knowledge
+When presented with information, we have to expend effort in order to understand it, in order to convert it to knowledge. With items being equated with knowledge, the question is what must we expend effort to process in order to arrive at items? Blocks come to mind. The player must expend effort to break blocks so that items fall out, and without this effort the items are not usable. This leads me to equate blocks with information in the analogy, in the isomorphism.
 
-## Building things is like solving problems
-Knowledge can be thought of as a resource used to solve problems, and items can be thought of as a resource used to build things (e.g. houses or tools). So in this analogy, building things is equated with solving problems. Just like solving a problem is not possible unless you (or someone else) has the appropriate knowledge stored in memory, building some structure is not possible unless you (or someone else) has items stored in their inventory (incidentally, this equates "memory" with "inventory" in our analogy).
-
-Items can have value, which is based on the goals that the player can achieve by using the item (e.g. build a tool, build a house, create a potion, etc.). This is analogous to knowledge, which also has value that is largely based on the goals it can help us achieve. For more on this, see: [Item Valuation Network](#the-item-valuation-network) below.
-
-## Mining is learning
-I hope the above two sections make it clearer why mining is like learning. When learning, we find information, try to understand it, and the result is knowledge. When mining, we find blocks, expend effort to break them, and the result is items.
+## Mining corresponds to learning
+When learning, we find information, expend effort to understand it, and the result is knowledge. When mining, we find blocks, expend effort to break them, and the result is items. So in this analogy it seems sensible to equate mining with learning.
 
 # The mine drive
 Let's call the [learn drive](https://supermemo.guru/wiki/Learn_drive) analogue in Minecraft the "mine drive". The mine drive is a system that exists in the brain of all players. It is activated when there is a need for more items. It guides the player's decision-making when exploring the Minecraft world in order to find valuable items. It tells the player in which directions to move and in which not to move. The guidance of the mine drive is based on the **subjective attractiveness** the player experiences towards certain actions and choices. When the mine drive computes that a certan action has a high probability of helping the player acquire valuable items, that action becomes appealing, and not undertaking it feel would feel unpleasant. Anything which gets in the way of the action is an annoyance. An action which the mine drive evaluates as not likely enough to help the acquisition of valuable items is experienced as unappealing. The takeaway is that undertaking those actions which seem appealing and ignoring those which seem unappealing will result in the acquisition of valuable items. Put simply, doing what the player feels like doing will result in good things, because that which feels good is that which the mine drive has evaluated is likely to result in good things.
