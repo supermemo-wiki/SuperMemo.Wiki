@@ -2,11 +2,13 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-19T08:54:59.075Z
+date: 2021-03-19T08:59:22.690Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
 ---
+
+**WARNING: still in the process of incremental writing**
 
 In this analogy, I hope to clarify the concept of [learn drive](https://supermemo.guru/wiki/Learn_drive) by using Minecraft as an analogy.
 
@@ -17,7 +19,8 @@ In this analogy, I am going to equate [Minecraft blocks](https://minecraft.gamep
 Blocks and items are related like information and knowledge are related. You need to expend effort to mine a block to get an item, just like you need to expend effort to understand information to arrive at knowledge. Without the effort, you get no value from the blocks, and you get no value from the information, so that just like blocks are largely useless on their own, not-understood information is largely useless on its own.
 ## Items are knowledge
 
-Knowledge can be thought of as a substance used to solve problems, and items can be thought of as the substance used to build things (e.g. houses or tools). So in this analogy, building things is equated with solving problems. Just like solving a problem is not possible unless you (or someone else) has the appropriate knowledge stored in memory, building some structure is not possible unless you (or someone else) has items stored in their inventory (incidentally, this equates "memory" with "inventory" in our analogy).
+## Building things is like solving problems
+Knowledge can be thought of as a resource used to solve problems, and items can be thought of as a resource used to build things (e.g. houses or tools). So in this analogy, building things is equated with solving problems. Just like solving a problem is not possible unless you (or someone else) has the appropriate knowledge stored in memory, building some structure is not possible unless you (or someone else) has items stored in their inventory (incidentally, this equates "memory" with "inventory" in our analogy).
 
 Items can have value, which is based on the goals that the player can achieve by using the item (e.g. build a tool, build a house, create a potion, etc.). This is analogous to knowledge, which also has value that is largely based on the goals it can help us achieve. For more on this, see: [Item Valuation Network](#the-item-valuation-network) below.
 
