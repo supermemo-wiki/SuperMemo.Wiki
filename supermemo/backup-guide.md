@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-19T17:59:10.825Z
+date: 2021-03-19T18:05:26.535Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -153,7 +153,7 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 > If you have issues with the above instructions, you can also refer to [this guide](https://www.howtogeek.com/howto/11130/restore-previous-versions-of-files-in-every-edition-of-windows-7/)
 {.is-info}
 
-## Internet backups: Git & Github
+## Internet backups: Git
 
 ### Git 101
 
@@ -170,7 +170,7 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 
 ^2^: Although the listed Git providers can be considered fairly reliable from a technical standpoint, we highly recommend that you implement a solution to encrypt your collection. Your collection is a map to your brain and to your innermost thoughts. Don't let others peer into it without your consent.
 
-### Installing & Setting up Git with GitHub
+### Installing & Setting up Git
 
 > If you want to use SSH authentication instead of HTTPS, follow [this guide](https://vladmihalcea.com/tutorials/git/windows-git-ssh-authentication-to-github/)
 {.is-info}
