@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-19T14:32:34.194Z
+date: 2021-03-19T14:37:31.668Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -92,7 +92,7 @@ Perhaps surprisingly, I don't equate real-life sleep with [Minecraft sleep](http
 - throws away garbage items accumulated during the mining process (e.g. [dirt](https://minecraft.gamepedia.com/Dirt) collected when digging). This organization process relies on the [item valuation network](#the-item-valuation-network) to decide which items are garbage and which are valuable and should therefore be kept.
 
 # School
-Imagine that instead of being free to play Minecraft at any time you wish, you were coerced into playing it at times chosen by others (times which often conflict with your sleep). That instead of freely exploring the Minecraft world you were given neatly stacked towers of uniform blocks, blocks which you didn't choose, and were then told to start mining them. That instead of choosing for yourself what structures to build, you were tasked with creating predefined structures, the same structures that everyone else is building, and that you will be marked based on how well you built these structures. This doesn't sound like a very fun game at all.
+Imagine that instead of being free to play Minecraft at any time you wish, you were coerced into playing it at times chosen by others (times which often conflict with your sleep). That instead of freely exploring the Minecraft world you were given neatly stacked towers of uniform blocks, blocks which you didn't choose, and were then told to start mining them. That instead of choosing for yourself what structures to build, you were tasked with creating predefined structures, the same structures that everyone else is building, and that you will be marked based on how well you built these structures. This starts looking less like a fun game and more like a "[prison mine](https://en.wikipedia.org/wiki/Prison_farm)"
 
 TODO: Without freedom in decision making during exploration, a player will never learn to become a good explorer.
 
