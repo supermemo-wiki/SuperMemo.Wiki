@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-02-26T16:44:42.339Z
+date: 2021-03-19T08:54:59.075Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -68,8 +68,5 @@ As with all choices, the player will just *feels* that it is a good idea to drop
 Perhaps surprisingly, I don't equate real-life sleep with [Minecraft sleep](https://minecraft.gamepedia.com/Bed) in this analogy. Instead, I equate real-life sleep with an automatic process in Minecraft which, among other things, does this:
 - organizes the player's [inventory](https://minecraft.gamepedia.com/Inventory) and [chests](https://minecraft.gamepedia.com/Chest) (which can be equated with long-term memory) so that items are easy to find, possibly putting labels on the chests for even faster lookup.
 - throws away garbage items accumulated during the mining process (e.g. [dirt](https://minecraft.gamepedia.com/Dirt) collected when digging). The sleep process relies on [the item valuation network](#the-item-valuation-network) to decide which items are garbage and which are valuable and should therefore be kept.
-
-# Meta-cognitive knowledge
-In Minecraft, you can use items to create tools which make it easier to collect more items. For example, if you find diamonds you can use them to build a diamond [pickaxe](https://minecraft.gamepedia.com/Pickaxe) which breaks blocks much faster than an iron pickaxe, and it also lasts for longer. This reduces the effort and time needed to mine blocks. Furthermore, if you have a [Fortune](https://minecraft.gamepedia.com/Fortune) enchantment on your pickaxe, the amount of items you can extract from a single block increases. Remember that blocks are information and items are knowledge in this analogy. So what this translates to is that you can develop knowledge -- metacognitive knowledge -- which is useful in the learning process itself, it reduces the effort and time to learn and from a piece of information you may get more knowledge than you would have gotten if you didn't have those metacognitive skills.
 
 # TODO School
