@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-13T11:15:04.186Z
+date: 2021-03-19T17:59:10.825Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -217,6 +217,16 @@ Input the following information in your new repository:
 
 ### Synchronizing your Git repository
 
+#### Existing collections
+
+To use git **with an existing collection**:
+
+1. Rename the folder containing your collection,
+2. Follow the instructions below,
+3. Move all your collection files into the directory created with `git clone`.
+
+#### Cloning the repository
+
 1. Press <kbd class="win"></kbd> + <kbd>E</kbd> to **open Windows Explorer**,
 2. **Navigate to your SuperMemo drive**, in our example, drive **`E:\`**,
 
@@ -252,19 +262,19 @@ Your folder should look similar to the example below (*.gitignore* might be miss
 
 ![](/reference-manual/backup-guide/git-local-collection-repository.png){.ml-8}
 
-8. <a href="/reference-manual/backup-guide/sm-main-commit.bat" target="_blank" rel="noopener">Download this .bat file</a> and save it in your local repository folder (where your `.git` directory is located). It contains the following commands:
+#### Pushing (*\"saving\"*) your work to git
+
+> Every time you finish using SuperMemo, make sure to run `sm-main-commit.bat` (see below).
+{.is-info}
+
+1. <a href="/reference-manual/backup-guide/sm-main-commit.bat" target="_blank" rel="noopener">Download this .bat file</a> and save it in your local repository folder (where your `.git` directory is located). It contains the following commands:
 
 ```bash
 git add -A && git commit -m "Update"
 git push
 ```
 
-9. Run `sm-main-commit.bat` (double click). If all went well, your should be able to see your collection in your GitHub repository web page.
-
-### Pushing (*\"saving\"*) your work to GitHub
-
-> Every time you finish using SuperMemo, make sure to run `sm-main-commit.bat`.
-{.is-info}
+2. Run `sm-main-commit.bat` (double click). If all went well, your should be able to see your collection in your GitHub repository web page.
 
 That's all! Your collection is synchronized online, congratulations!
 
