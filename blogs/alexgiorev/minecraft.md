@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-19T11:48:24.451Z
+date: 2021-03-19T14:32:34.194Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -89,6 +89,15 @@ As with all choices, the player will just *feels* that it is a good idea to drop
 
 Perhaps surprisingly, I don't equate real-life sleep with [Minecraft sleep](https://minecraft.gamepedia.com/Bed) in this analogy. Instead, I equate real-life sleep with an automatic process in Minecraft which, among other things, does this:
 - organizes the player's [inventory](https://minecraft.gamepedia.com/Inventory) and [chests](https://minecraft.gamepedia.com/Chest) (which can be equated with long-term memory) so that items are easy to find, possibly putting labels on the chests for even faster lookup.
-- throws away garbage items accumulated during the mining process (e.g. [dirt](https://minecraft.gamepedia.com/Dirt) collected when digging). The sleep process relies on [the item valuation network](#the-item-valuation-network) to decide which items are garbage and which are valuable and should therefore be kept.
+- throws away garbage items accumulated during the mining process (e.g. [dirt](https://minecraft.gamepedia.com/Dirt) collected when digging). This organization process relies on the [item valuation network](#the-item-valuation-network) to decide which items are garbage and which are valuable and should therefore be kept.
 
-# TODO School
+# School
+Imagine that instead of being free to play Minecraft at any time you wish, you were coerced into playing it at times chosen by others (times which often conflict with your sleep). That instead of freely exploring the Minecraft world you were given neatly stacked towers of uniform blocks, blocks which you didn't choose, and were then told to start mining them. That instead of choosing for yourself what structures to build, you were tasked with creating predefined structures, the same structures that everyone else is building, and that you will be marked based on how well you built these structures. This doesn't sound like a very fun game at all.
+
+TODO: Without freedom in decision making during exploration, a player will never learn to become a good explorer.
+
+TODO: School inhibits mine drive which may inhibit the pleasure of exploring.
+
+TODO: When freely exploring, the player accumulates the optimal amount of each kind of item. When mining at "school" the player accumulates too much useless items and too little valuable items.
+
+TODO: during "sleep" garbage collection, items gathered at school are thrown out, due to low value
