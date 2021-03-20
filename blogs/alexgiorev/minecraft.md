@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-20T12:24:31.444Z
+date: 2021-03-20T12:25:23.119Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
