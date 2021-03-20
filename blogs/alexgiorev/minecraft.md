@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-19T14:37:31.668Z
+date: 2021-03-20T12:05:23.623Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -87,16 +87,16 @@ As with all choices, the player will just *feels* that it is a good idea to drop
 
 # Sleep
 
-Perhaps surprisingly, I don't equate real-life sleep with [Minecraft sleep](https://minecraft.gamepedia.com/Bed) in this analogy. Instead, I equate real-life sleep with an automatic process in Minecraft which, among other things, does this:
-- organizes the player's [inventory](https://minecraft.gamepedia.com/Inventory) and [chests](https://minecraft.gamepedia.com/Chest) (which can be equated with long-term memory) so that items are easy to find, possibly putting labels on the chests for even faster lookup.
-- throws away garbage items accumulated during the mining process (e.g. [dirt](https://minecraft.gamepedia.com/Dirt) collected when digging). This organization process relies on the [item valuation network](#the-item-valuation-network) to decide which items are garbage and which are valuable and should therefore be kept.
+Normally when players [fall asleep](https://minecraft.gamepedia.com/Bed) in Minecraft, their [inventory](https://minecraft.gamepedia.com/Inventory) and [chests](https://minecraft.gamepedia.com/Chest) remain the same after waking up. But imagine that instead of this there was an automatic process activated upon sleep which organized all of the items of the player in a way which makes them easy to find, and that garbage items (e.g. [dirt](https://minecraft.gamepedia.com/Dirt) collected when digging) are just thrown away (the [item valuation network](#the-item-valuation-network) may be used to determine which items are garbage and which should be kept). Something similar may be happening in real life sleep: our memories get optimized (see [Neural optimization in sleep](https://supermemo.guru/wiki/Neural_optimization_in_sleep)).
 
 # School
-Imagine that instead of being free to play Minecraft at any time you wish, you were coerced into playing it at times chosen by others (times which often conflict with your sleep). That instead of freely exploring the Minecraft world you were given neatly stacked towers of uniform blocks, blocks which you didn't choose, and were then told to start mining them. That instead of choosing for yourself what structures to build, you were tasked with creating predefined structures, the same structures that everyone else is building, and that you will be marked based on how well you built these structures. This starts looking less like a fun game and more like a "[prison mine](https://en.wikipedia.org/wiki/Prison_farm)"
+Imagine that instead of being free to play Minecraft at any time you wish, you were coerced into playing it at times chosen by others (times which often conflict with your sleep). That instead of freely exploring the Minecraft world you were just given presented with a long row of blocks chosen by others, and were then told to mine them in that sequence. That instead of choosing for yourself what structures to build, you were tasked with creating predefined structures, the same structures that everyone else is building, and that you will be graded based on how well you built these structures. This starts looking less like a fun game and more like a "[prison mine](https://en.wikipedia.org/wiki/Prison_farm)". But this is similar to what happens at school. Students don't get to choose when to learn, what and how to learn, and they are often tasked with solving minor problems they don't care for.
 
 TODO: Without freedom in decision making during exploration, a player will never learn to become a good explorer.
 
 TODO: School inhibits mine drive which may inhibit the pleasure of exploring.
+
+If too much time is spent 
 
 TODO: When freely exploring, the player accumulates the optimal amount of each kind of item. When mining at "school" the player accumulates too much useless items and too little valuable items.
 
