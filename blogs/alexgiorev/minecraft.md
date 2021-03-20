@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-20T12:23:15.609Z
+date: 2021-03-20T12:24:31.444Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -97,8 +97,6 @@ The problem with this type of mining is not only that it is exceedingly [boring]
 TODO: Without freedom in decision making during exploration, a player will never learn to become a good explorer.
 
 TODO: School inhibits mine drive which may inhibit the pleasure of exploring.
-
-If too much time is spent 
 
 TODO: When freely exploring, the player accumulates the optimal amount of each kind of item. When mining at "school" the player accumulates too much useless items and too little valuable items.
 
