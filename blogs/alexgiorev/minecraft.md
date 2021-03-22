@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-22T12:02:51.674Z
+date: 2021-03-22T12:06:26.401Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -72,15 +72,7 @@ At [13:39] the player feels that finding a vantage point might help him find a v
 
 Upon mounting a summit, he notices smoke particles, which signal the presence of a village. Notice the reward and excitement he experiences upon seeing the smoke -- "Oh, we have smoke particles over there! This is a village! Ah, cool! Hahaha!". Since he used the find-a-vantage-point strategy to find this village, and this lead to a reward of discovery, the mine drive may guide the player to use that strategy more often in the future. If the strategy failed, maybe he would have lost a bit of confidence in its effectiveness. What is important is that he was free to choose his strategy, and its outcome calibrated the mine drive with respect to the strategy. This hints why freedom is so important. Without freedom, we can't learn viscerally learn what mining/learning strategies work and what don't. Freedom is essentail for the development of an effective mine/learn drive. In school, where learning choices are made not by the learners themselves, there is no learn drive calibration. After we leave school, even if we still have a learn drive, it may be less effective, at least until we recalibrate it.
 
-At [14:45], the player starts collecting items, and you can tell he finds the process very enjoyable (e.g. at [15:43] you can hear him "Ooh man, I love villages!"). The process of collecting the items is highly rewarding. In learning, not only is the discovery of valuable information rewarding, but the act of understanding information and gaining knowledge is also very (if not more) rewarding.
-
-## TODO: Video summary and takeaways
-- the player experiences a need for certain items, and the need is based on the goals he has
-- he knows that villages are a great place to collect such items, so he sets the goal of finding one
-- the exploration process is guided by an internal system (the mine drive). That system guides the trajectory by making the player experience actions it wants him to take as appealing, and actions it doesn't want him to take as unappealing.
-- guidance is influenced by past experience, so that the more the player relies on the mine drive the guidance system, the better the system becomes
-- rewards are generated upon discovery of an item source (the village) and upon collecting the items
-- rewards reinforce the decisions which lead to the acquisition of valuable items
+At [14:45], the player starts collecting items, and you can tell he finds the process very enjoyable (e.g. at [15:43] you can hear him "Ooh man, I love villages!"). The process of collecting the items is highly rewarding. In learning, not only is the discovery of valuable information rewarding, but the act of understanding information and gaining knowledge is also very (if not more) rewarding. If not, it only means the knowledge isn't very valuable for you (as determined by the [knowledge valuation network](https://supermemo.guru/wiki/Knowledge_valuation_network)).
 
 # The item valuation network
 This is the analogue of the [knowledge valuation network](https://supermemo.guru/wiki/Knowledge_valuation_network) in the brain. Items are deemed valuable by the item valuation network if they serve the goals of the player. For example, the player has the goal of surviving, so they value [armor](https://minecraft.gamepedia.com/Armor), [weapons](https://minecraft.gamepedia.com/Weapon) and [food](https://minecraft.gamepedia.com/Food). Diamonds are an item that can be used to build armor and tools, so diamonds are valued by the player, because they ultimately help the goal of staying alive. If the player has the goal of building some structure, then all items which help build that structure are valuable: [wood](https://minecraft.gamepedia.com/Wood), [stone](https://minecraft.gamepedia.com/Stone), whatever. Just as goals are in constant flux, so are valuations. The mine drive relies on the output of the item valuation network in order to determine what is worth exploring for.
