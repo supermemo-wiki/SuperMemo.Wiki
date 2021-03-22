@@ -2,18 +2,15 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-22T13:14:07.481Z
+date: 2021-03-22T18:18:37.716Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
 ---
 
-**WARNING: still in the process of incremental writing**
-
-In this analogy, I hope to clarify the concept of [learn drive](https://supermemo.guru/wiki/Learn_drive) by using Minecraft as an analogy.
+In this article, I hope to clarify the concept of [learn drive](https://supermemo.guru/wiki/Learn_drive) by using Minecraft as an analogy.
 
 # Analogies as isomorphisms
-TODO: Maybe not good as a first heading
 
 An analogy can be thought of as a correspondence between concepts. If we think of a [concept network](https://supermemo.guru/wiki/Concept_network), an analogy between two systems represented by two concept networks is like a [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism) between the two networks. To demonstrate an isomorphism (or a partial isomorphism), you have to say which nodes in one graph correspond to which nodes in the other, so that to describe an analogy between the learn drive and Minecraft I would need to say which concepts in (my understanding of) the learn drive correspond to which concepts in (my understanding of) Minecraft.
 
@@ -52,7 +49,7 @@ The guidance of the mine drive is based on the **subjective attractiveness** the
 ## Simple example
 Lets say you need [diamonds](https://minecraft.gamepedia.com/Diamond), and while exploring the environment you notice the entrance to a [cave](https://minecraft.gamepedia.com/Cave). Lets say you have often seen diamonds in caves in the past, or in the past someone told you that caves have diamonds. When you see the cave, you are induced by the mine drive to go there, because of the high probability the drive assigns to your finding diamonds in the cave. The mine drive will generate a reward upon your noticing the cave, and the prospect of exploring it will seem appealing to you. **This appeal is how the mine drive guides you towards taking the action of exploring the cave.** To compare this to learning, lets say you are interested in building some software project and feel that you need to learn more about concurrency. While exploring the web you may come across someone mentioning a [free operating systems book](https://pages.cs.wisc.edu/~remzi/OSTEP/). You may know that operating systems make extensive use of concurrency, and so you may feel something pulling you towards opening the book. There is just something appealing about that book. **That appeal is how the learn drive will guide you to open the book**. If the book does actually talk about concurrency, you will experience a reward of discovery, you discovered valuable information and that is very pleasurable.
 
-## TODO: Video example
+## Video example
 
 In this example I will analyze this video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5AB74AszfIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -86,7 +83,7 @@ As with all choices, the player will just *feels* that it is a good idea to drop
 
 Normally when players [fall asleep](https://minecraft.gamepedia.com/Bed) in Minecraft, their [inventory](https://minecraft.gamepedia.com/Inventory) and [chests](https://minecraft.gamepedia.com/Chest) remain the same after waking up. But imagine that instead of this there was an automatic process activated upon sleep which organized all of the items of the player in a way which makes them easy to find, and that garbage items (e.g. [dirt](https://minecraft.gamepedia.com/Dirt) collected when digging) are just thrown away (the [item valuation network](#the-item-valuation-network) may be used to determine which items are garbage and which should be kept). Something similar may be happening in real life sleep: our memories get optimized (see [Neural optimization in sleep](https://supermemo.guru/wiki/Neural_optimization_in_sleep)).
 
-# TODO: School
+# School
 Lets think about "Minecraft school". In this school, instead of being free to play Minecraft at any time you wish, you are coerced into playing it at times chosen by others (times which often conflict with your sleep). Instead of freely exploring the Minecraft world you are just given a long row of blocks chosen by "teachers", and are then told to mine the row without going out of sequence. Instead of choosing for yourself what structures to build, you are tasked with creating predefined structures, the same structures that everyone else is building, and that you will be graded based on how well you built these structures. This starts looking less like a fun game and more like a "[prison mine](https://en.wikipedia.org/wiki/Prison_farm)". But this is similar to what happens at real school. Students don't get to choose when to learn, what and how to learn, and they are often tasked with solving minor problems they don't care for.
 
 The problem with this "row of blocks" type of mining is not only that it is exceedingly [boring](https://supermemo.guru/wiki/Boredom). It is also highly inefficient. Players have different things they want to build, but in Minecraft school they are all given the same row of blocks to break. This is like real school, where students hae different interests and goals but are all run through the same curriculum. In Minecraft school, the rate at which the players are forced to break the blocks is too fast, so that in order to collect new items they have to throw old items out, in order to make room in their inventory. Something similar happens in school, where excess volume and excess speed result in a leaky vessel approach to learning: new knowledge easily displaces old knowledge in a process that results in minimal learning (see [Interference](https://supermemo.guru/wiki/Interference)). When the blocks to mine aren't chosen by the players themselves, too many useless items and too few useful items will be collected. On the other hand, in "free mining" where item collection is guided by the player's mine drive, the optimum amount of items of each kind will be collected, because the mine drive will stop giving the player pleasure when they have accumulated enough items of a given type. In real school, because what to learn is not under our control, we often learn too much of what is not interesting and important to us, and too little of what is actually useful for us. However, in free learning we accumulate the optimum amount of knowledge about a given subject, because free learning is guided by pleasure, and the pleasure stops when the usefulness of the knowledge stops, and learning about thing useless to us is unpleasant.
@@ -94,6 +91,3 @@ The problem with this "row of blocks" type of mining is not only that it is exce
 Because mining in Minecraft school is so boring, players may start believing that mining is an inherently unpleasant activity, even when no longer in the school. To guide players away from bad mining choices (e.g. breaking iron ore when iron is not needed), the mine drive generates an aversion to those choices, but if players are made to believe that mining is inherently unpleasant, they may ignore this aversion, making the whole mining process less efficient. This is what happened to me. I thought that learning is supposed to be unpleasant, and so when the learn drive generated displeasure towards learning something as a guidance against persisting to learn it, I did persist, thinking that this displeasure is an inherent part of learning.
 
 In Minecraft school, players never have to explore in order to collect their items, they just break blocks in a predefined sequence. As a result, they may never learn how to search and traverse the environment in order to collect the items they need. They may even think that certain items can only be collected in Minecraft school. Some people believe that certain information you can only get in school, whereas all it would take is to explore the Web a bit to find it. Freedom while exploring is essential to become good at exploring.
-
-# TODO: Where the analogy fails
-## Knowledge becomes stronger upon use, items get lost after use
