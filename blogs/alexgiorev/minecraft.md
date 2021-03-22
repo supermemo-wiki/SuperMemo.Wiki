@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-22T18:18:37.716Z
+date: 2021-03-22T18:32:01.578Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -90,4 +90,4 @@ The problem with this "row of blocks" type of mining is not only that it is exce
 
 Because mining in Minecraft school is so boring, players may start believing that mining is an inherently unpleasant activity, even when no longer in the school. To guide players away from bad mining choices (e.g. breaking iron ore when iron is not needed), the mine drive generates an aversion to those choices, but if players are made to believe that mining is inherently unpleasant, they may ignore this aversion, making the whole mining process less efficient. This is what happened to me. I thought that learning is supposed to be unpleasant, and so when the learn drive generated displeasure towards learning something as a guidance against persisting to learn it, I did persist, thinking that this displeasure is an inherent part of learning.
 
-In Minecraft school, players never have to explore in order to collect their items, they just break blocks in a predefined sequence. As a result, they may never learn how to search and traverse the environment in order to collect the items they need. They may even think that certain items can only be collected in Minecraft school. Some people believe that certain information you can only get in school, whereas all it would take is to explore the Web a bit to find it. Freedom while exploring is essential to become good at exploring.
+In Minecraft school, players never have to explore in order to collect their items, they just break blocks in a predefined sequence. As a result, they may never learn how to search and traverse the environment in order to collect the items they need. They may even think that certain items can only be collected in Minecraft school. Some people believe that certain information you can only get in school, whereas all it would take is to explore the Web a bit to find it. **Freedom while exploring is essential to become good at exploring**.
