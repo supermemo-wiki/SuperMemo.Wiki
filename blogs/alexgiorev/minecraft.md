@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-21T20:54:28.195Z
+date: 2021-03-22T09:33:26.081Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -54,6 +54,10 @@ Lets say you need [diamonds](https://minecraft.gamepedia.com/Diamond), and while
 ## TODO: Video example
 
 In this example I will analyze [this video](https://www.youtube.com/watch?v=5AB74AszfIo).
+
+[0:23] Python wants to enchant some of his weapons and tools. That is his **goal**. To achieve it, he knows he needs an enchanting table and books, items which he is currently lacking. This lack drives him to explore the environment in order to attain those items. Analogously, in real life when we don't have the knowledge we need in order to achieve our goals, we feel [driven](https://supermemo.guru/wiki/Learn_drive) to explore the world (e.g. the WWW) in order to attain the knowledge we need to achieve those goals.
+
+[2:24] While exploring with the goal of finding obsidian (which he needs to make an enchanting table), you can notice he is skipping a lot of the iron and coal he encounters on his way, he doesn't even bother to pick it up. In learning this would be like skipping a lot of information which may be potentially useful but which you don't need right now. However, [well-schooled students](https://supermemo.guru/wiki/Well-schooled) often carry the [bad habit](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Indiscriminate_learning) of reading linearly and trying to memorize everything on their path. I know I used to do that. At school we may become conditioned to learn everything "just in case".
 
 At [8:16] the player sets the goal of finding a village, with the hope that this will result in the acquisition of bookshelves (or other items of value).
 
