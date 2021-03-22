@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-22T12:19:45.881Z
+date: 2021-03-22T12:22:06.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -55,7 +55,7 @@ Lets say you need [diamonds](https://minecraft.gamepedia.com/Diamond), and while
 ## TODO: Video example
 
 In this example I will analyze this video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5AB74AszfIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="ytplayer" width="560" height="315" src="https://www.youtube.com/embed/5AB74AszfIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [0:23] Python wants to enchant some of his weapons and tools. That is his **goal**. To achieve it, he knows he needs an enchanting table and books, items which he is currently lacking. This lack drives him to explore the environment in order to attain those items. Analogously, in real life when we don't have the knowledge we need in order to achieve our goals, we feel [driven](https://supermemo.guru/wiki/Learn_drive) to explore the world (e.g. the WWW) in order to attain the knowledge we need to achieve those goals.
 
