@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-03-23T13:11:32.613Z
+date: 2021-03-23T13:13:10.968Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -19,7 +19,7 @@ In **incremental reading**, you have tons of articles in your learning queue, of
 In context of human relationships, they say that you are the sum of the 5 closest people to you. We unconsciously mimic behavior of our close friends. We take some traits they have and integrate it into our own character. The funny way you greet people, is now something I do to others. It is part of my character now. It has my twist.
 
 See this scene from the wolf of wall street of Anthony Bourdain explaining CDOs:
-“It’s not old fish, it’s a whole new thing!”
+**“It’s not old fish, it’s a whole new thing!”**
 
 **The Big Short: Anthony Bourdain explains CDO**
 https://www.youtube.com/watch?v=kxN_qPuefrM
@@ -28,9 +28,9 @@ https://www.youtube.com/watch?v=kxN_qPuefrM
 
 **Netflix** is a platform that took existing things, put them together and now you have a new thing that is platform to stream movies and TV-shows. This might be more extreme example and extends to basically every platform there is, but it is true. They’re taking something old and giving it a new twist, even if that new is centralizing it.
 
-Now even more extreme point is that there is no 100% original idea, everything is born out of some existing components. No matter how abstract and unprecedented your idea is, it is born out of something that already is. No matter whether that something is some really weird association in your head that you think doesn’t exist anywhere else in the world. That association is born out of some memories that were born of something that already is.
+**Now even more extreme point** is that there is no 100% original idea, everything is born out of some existing components. No matter how abstract and unprecedented your idea is, it is born out of something that already is. No matter whether that something is some really weird association in your head that you think doesn’t exist anywhere else in the world. That association is born out of some memories that were born of something that already is.
 
-Moral of the story: Being original is good, but literally everything follows from something and everybody gets influence from somewhere. Don’t be ashamed to follow up on existing idea, you give it new characteristics, it is new value. Without mp3 players there wouldn’t be iPod.
+**Moral of the story**: Being original is good, but literally everything follows from something and everybody gets influence from somewhere. Don’t be ashamed to follow up on existing idea, you give it new characteristics, it is new value. Without mp3 players there wouldn’t be iPod.
 
 ![mp3ipod.png](/blogs/naess/dailynotes/23-03-2021/mp3ipod.png)
 
