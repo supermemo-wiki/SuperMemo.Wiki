@@ -2,7 +2,7 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-03-23T09:24:09.078Z
+date: 2021-03-23T13:09:32.984Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
@@ -21,7 +21,7 @@ In context of human relationships, they say that you are the sum of the 5 closes
 See this scene from the wolf of wall street of Anthony Bourdain explaining CDOs:
 “It’s not old fish, it’s a whole new thing!”
 
-**The Big Short Anthony Bourdain explains CDO**
+**The Big Short: Anthony Bourdain explains CDO**
 https://www.youtube.com/watch?v=kxN_qPuefrM
 ![cdo.png](/blogs/naess/dailynotes/23-03-2021/cdo.png)
 
