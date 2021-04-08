@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-03-19T18:05:26.535Z
+date: 2021-04-08T12:38:13.625Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -160,7 +160,7 @@ Don't panic! Restoring your collection to an earlier version is easy with BitShe
 > **Git** is a tool that makes it easier to track changes to files. When you edit a file, git can help you determine exactly *what* changed, *who* changed it, and *why*. <br /><br />It is useful for coordinating work among multiple people on a project, and for tracking progress over time by saving “checkpoints”. You could use it while writing an essay, or to track changes to artwork and design files. [\[1\]](https://hackernoon.com/understanding-git-fcffd87c15a3)
 {.is-info}
 
-**For our purposes**, ***git*** will be our mean to:
+**For our purposes**, ***git*** will be our means to:
 - Create versions of our collection (*\"checkpoints\"*).
 - Upload^1^ our work to a safe^2^, remote place.
 - *(Bonus)* Synchronize our work between devices.
