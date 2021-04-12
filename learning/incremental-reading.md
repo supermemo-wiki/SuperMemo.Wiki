@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2021-04-12T17:27:14.420Z
+date: 2021-04-12T17:27:48.286Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -236,7 +236,7 @@ SuperMemo allows you to set priorities for every element, postponing the lesser-
 
 - Take care to quickly dismiss sources that are unpleasureable to learn from <kbd>Ctrl</kbd> + <kbd>D</kbd>.
 
-## Importing EPUB and PDF Books
+## Importing EPUB and PDF
 
 For importing PDFs, you can use [SMA with the PDF plugin](https://sma.supermemo.wiki/#/plugin-pdf).
 
