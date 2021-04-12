@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2021-04-12T17:27:48.286Z
+date: 2021-04-12T17:29:01.476Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -236,16 +236,16 @@ SuperMemo allows you to set priorities for every element, postponing the lesser-
 
 - Take care to quickly dismiss sources that are unpleasureable to learn from <kbd>Ctrl</kbd> + <kbd>D</kbd>.
 
-## Importing EPUB and PDF
+## Import EPUB and PDF
 
-For importing PDFs, you can use [SMA with the PDF plugin](https://sma.supermemo.wiki/#/plugin-pdf).
+To import PDFs, you can use [SMA with the PDF plugin](https://sma.supermemo.wiki/#/plugin-pdf).
 
-For importing EPUB, there are multiple options:
+To import EPUB, there are multiple options:
 1. You can use the [Calibre e-book software](https://calibre-ebook.com/) to convert the EPUB book to PDF, then import it using SMA.
 2. You can extract the .epub file to a folder with the html containing the book, then use the ["ePubs into SM"](https://storepiece.com/combine-ebook) to format it such that SM can import it with the images loading correctly.
 3. You can use the [Pandoc CLI utility](https://pandoc.org/) to convert the epub file directly to html you can import to SM. For details on how to do that, see [this discussion between SM users](https://libredd.it/r/super_memo/comments/kqhj6m/epub_to_html_via_pandoc_no_images_in_sm/).
 
-You can also read about other proposed alternatives on [this Supermemopedia page](http://supermemopedia.com/wiki/Epub_support).
+This topic is also discussed on [this Supermemopedia page](http://supermemopedia.com/wiki/Epub_support).
 
 ## Video examples
 
