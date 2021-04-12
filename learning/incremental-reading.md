@@ -2,7 +2,7 @@
 title: Incremental Reading
 description: An extremely enjoyable method of massive learning
 published: true
-date: 2021-04-12T17:29:01.476Z
+date: 2021-04-12T17:29:23.211Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T18:05:35.512Z
@@ -245,7 +245,7 @@ To import EPUB, there are multiple options:
 2. You can extract the .epub file to a folder with the html containing the book, then use the ["ePubs into SM"](https://storepiece.com/combine-ebook) to format it such that SM can import it with the images loading correctly.
 3. You can use the [Pandoc CLI utility](https://pandoc.org/) to convert the epub file directly to html you can import to SM. For details on how to do that, see [this discussion between SM users](https://libredd.it/r/super_memo/comments/kqhj6m/epub_to_html_via_pandoc_no_images_in_sm/).
 
-This topic is also discussed on [this Supermemopedia page](http://supermemopedia.com/wiki/Epub_support).
+This topic is also discussed on this [Supermemopedia page](http://supermemopedia.com/wiki/Epub_support).
 
 ## Video examples
 
