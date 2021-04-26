@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2021-04-14T20:54:08.111Z
+date: 2021-04-26T14:27:53.159Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -175,10 +175,11 @@ To prevent spam we require **manual verification** for new accounts to receive e
 
 # Sponsors
 
-Thanks to our sponsors for helping us build this website:
+Thanks to our sponsors for helping us build our community:
 
-- [![matomo-logo.webp](/shared/icons/matomo-logo.webp =x20){.align-middle} *Privacy-focused web analytics platform with 100% data ownership.*](https://matomo.org/)
-- [![wikijs.svg](/shared/icons/wikijs.svg =x20){.align-middle} *A modern, lightweight and powerful wiki app built on NodeJS.*](https://wiki.js.org)
+- [![Duende IdentityServer](/shared/icons/duende-identityserver-logo2.png =x22){.align-middle} *Open source OIDC and OAuth 2.0 framework for ASP.NET Core.*](https://duendesoftware.com/products/identityserver)
+- [![Matomo](/shared/icons/matomo-logo.webp =x20){.align-middle} *Privacy-focused web analytics platform with 100% data ownership.*](https://matomo.org/)
+- [![Wiki.js](/shared/icons/wikijs.svg =x22){.align-middle} *A modern, lightweight and powerful wiki app built on NodeJS.*](https://wiki.js.org)
 {.links-list}
 
 [^1]: https://supermemo.guru/wiki/Spaced_repetition
