@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2021-06-19T15:00:42.155Z
+date: 2021-06-19T15:06:39.670Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -83,7 +83,7 @@ Learn from the stories of SuperMemo users:
 
 ### How does it work?
 
-In practice SR is performed by creating **flashcards** and assigning them a **forgetting index** within a computer software.
+In practice SR is performed by creating **flashcards** and assigning them a **forgetting index** within a computer [software](https://www.supermemo.wiki/en/supermemo/first-steps#software-comparison-matrix).
 
 **Flashcard** is generic term for any association of knowledge. An example is the association between two words in different languages: "Hello" means "Bonjour" in French. The reciprocal association "Bonjour" -> "Hello" is another flashcard. They can be physical (paper cards) or virtual (like in SuperMemo).
 
