@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2020-12-30T10:14:24.799Z
+date: 2021-06-19T15:03:41.875Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -62,7 +62,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 - [:globe_with_meridians: &nbsp; SuperMemo.com (register) *Create an account and start learning for free.*](https://www.supermemo.com/en/authorization/login?skipLocationChange=true&returnUrl=en%2Fcart%2Fcheckout)
 {.links-list}
 
-## Comparison Matrix
+## Software Comparison Matrix
 
 |                              | SM 18        | SM 15      | SM Web     | Anki
 |-----------------------------:|:============:|:==========:|:==========:|:==========:|
