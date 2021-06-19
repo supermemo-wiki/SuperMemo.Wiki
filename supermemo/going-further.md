@@ -2,7 +2,7 @@
 title: Going Further With SuperMemo
 description: Tips for progressing from amateur level to expert.
 published: true
-date: 2021-03-28T21:26:40.379Z
+date: 2021-06-19T15:17:30.255Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T17:28:23.407Z
@@ -41,12 +41,12 @@ The **official recommendations**[^1] for processing the incremental learning gui
 
 Your current speed of learning and level of proficiency are largely irrelevant. If you **process one per day**, you will be **done in a year**.
 
-If you get **1% better each day**, in comparison with today, you will be 37.78 times better in one year.
+If you get **1% better each day**, in comparison with today, you will be **37.78 times** better in one year.
 
 > The secret to good life is **constant, incremental progress**.
 {.is-info}
 
-To optimize a little further, you can process important facts faster if you send low priority articles to later dates, or give them lower priority with <kbd>Alt</kbd> + <kbd>P</kbd>. 
+You can speed up the processing of important facts even further by postponing low-priority articles to later dates or by reducing their priority with <kbd>Alt</kbd> + <kbd>P</kbd>.
 
 ## Video guides
 
