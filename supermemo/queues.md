@@ -2,15 +2,19 @@
 title: SuperMemo Queues
 description: Queues are ways of ordering material yet to be reviewed.
 published: true
-date: 2020-12-13T09:39:00.454Z
+date: 2021-06-29T23:57:48.224Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-13T08:35:41.420Z
 ---
 
 # What are Queues?
 
-If you use [SuperMemo](/supermemo) long enough, your [collection](https://supermemo.guru/wiki/Collection) will grow to contain thousands of pieces of knowledge. They are called **elements**.
+If you use [SuperMemo](/supermemo) long enough, your [collection](https://supermemo.guru/wiki/Collection) will grow to contain thousands of pieces of knowledge. They are called **elements**. An element can be:
+- Item: an active element (i.e., you need to actively recall information). It is usually in the form of a Q&A, where you have to answer the question displayed, and then grade it according to how well you did.
+- Topic: a passive element (i.e., you do not need to recall information). Topics are incrementally processed down to Items.
+- Concept: a special element to which Items, Topics, Tasks, and indeed other Concepts link to. As the name suggests, a Concept represents an idea.
+- Task: another special element which is used in [Tasklist manager](https://help.supermemo.org/wiki/Tasklist_manager).
 
 The multiplicity of material calls for a question: in which order should I process each individual element? To address that issue, SuperMemo implements **queues**: a set of elements ordered according to some criteria (e.g. [priority](/supermemo/priority), randomness, etc.)
 
