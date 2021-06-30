@@ -2,13 +2,13 @@
 title: Humans of SuperMemo
 description: Personal stories and interviews collected from users of SuperMemo.
 published: true
-date: 2021-02-07T13:55:57.285Z
+date: 2021-06-30T00:01:24.599Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-13T10:06:24.428Z
 ---
 
-# What is Humans of SuperMemo ?
+# What is Humans of SuperMemo?
 
 This page contains the **personal stories** and **interviews** of SuperMemo users.
 
