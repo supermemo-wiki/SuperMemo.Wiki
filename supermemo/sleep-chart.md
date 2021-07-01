@@ -2,7 +2,7 @@
 title: Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: false
-date: 2021-07-01T20:09:30.684Z
+date: 2021-07-01T20:10:52.474Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -66,13 +66,13 @@ From the ![annotated screenshot above](PathToImage/EmptyTimeline.png), we can se
 
 Now that it's out of the way, we can finally dive in.
 
-### Consolidate
+## Consolidate
 The "Consolidate" ![button](PathToImage/EmptyTimeline.png) unifies sleep blocks that have a small empty gap in between. Let's say you have a small 10-minute gap between two sleep blocks, pressing this button gets rid of this gap.
 ![](PathToImage/consolidate.png)
 
 Why might you have a small 10-minute gap between sleep blocks? Many reasons. One of which is: let's say that you woke up in the middle of the night to drink some water, and then you went back to sleep after 10 minutes. Now, your sleep has been split into two blue blocks: the first block representing the sleep time before drinking water, and the second representing the sleep time after you drank water. These two sleep blocks will be separated by a small 10-minute gap (which represents the time you took to drink water and return to bed).
 
-### Re-compute circadian approximations
+## Re-compute circadian approximations
 As you may have noticed, the ![filled timeline](PathToImage/FilledTimeline.jpg) has some extra detail which your current timeline may not have. I'm referring to the following:
 - yellow line with circles
 - blue line
@@ -92,7 +92,7 @@ So, to summarise the relevant bits:
 - <span style="padding: 3px; color: white; background-color: red;">Red line</span> = wake-up time.
 - <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span> = nap time.
 
-### Show time block data
+## Show time block data
 Now you may be thinking "How am I supposed to tell what time I should be going to bed if the lines are a little squiggly?"
 
 Well, don't worry, Sleep Chart will save you from squinting at your screen trying to figure out whether the line is at 01:15 or 01:16...
@@ -103,14 +103,14 @@ A menu which will replace the current ![Statistics Pane](PathToImage/EmptyTimeli
 
 ![](PathToImage/ShowTimeBlockData.png)
 
-#### BLOCK DATA
+### BLOCK DATA
 Under this heading, you will find various statistics about the selected block:
 - **Day**: This tells you the current day number. Every time you add a new block, it will be one number higher than the previous one. The first sleep block which you recorded will be **Day=1**, the second will be **Day=2**, and so one.
 - **Date**: This displays the date at which the sleep block has started. So, the example above is showing that this sleep block has started on the Friday, 2nd of July, 2021.
 - **Block**: This shows the start and finish time of the block. This particular sleep block has started at 00:51 (bedtime) and ended at 07:57 (wake-up time).
 - **Length**: This displays the length of the sleep block. So, this one has lasted for 7 hours, and 6 minutes.
 
-#### OPTIMUM HOURS
+### OPTIMUM HOURS
 This is the one that will provide an answer to the question we posed before: "How am I supposed to tell what time I should be going to bed if the lines are a little squiggly?"
 
 - **Today**: This tells you when you should go to bed and when you should wake up. In this example, this Sleep Chart function has given us the exact position of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span>, which is 01:18. This function has also given us the exact position of the <span style="padding: 3px; color: white; background-color: red;">red line</span>, which is 08:07. As we explained in the [section](#show-time-block-data) above, <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> means bedtime, and <span style="padding: 3px; color: white; background-color: red;">red line</span> means wake-up time.
