@@ -1,8 +1,8 @@
 ---
-title: Sleep Chart
+title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
-published: false
-date: 2021-07-01T20:10:52.474Z
+published: true
+date: 2021-07-06T13:06:30.451Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
