@@ -2,11 +2,14 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-06T13:06:30.451Z
+date: 2021-07-06T13:11:47.954Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
 ---
+
+> Please keep in mind that this page is a work-in-progress. When this banner vanishes, you'll know this article is done. Follow the steps indicated [here](https://www.supermemo.wiki/en/home#editing-this-wiki) if you would like to contribute. Thank you!
+{.is-danger}
 
 # Sleep Chart
 Sleep Chart is a feature that come with the SuperMemo software. As the name indicates, it is used to record your sleep.
