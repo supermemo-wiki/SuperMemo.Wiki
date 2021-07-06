@@ -2,7 +2,7 @@
 title: SuperMemo: First Steps
 description: Learn how to use the core features of SuperMemo.
 published: true
-date: 2021-07-06T13:35:24.551Z
+date: 2021-07-06T13:36:37.118Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:56.312Z
@@ -49,7 +49,7 @@ SuperMemo for desktop is the swiss army knife of learning: it offers a besotting
 
 ## SuperMemo 15
 
-**SuperMemo 15** is completely free to use. However, the latest version ([SuperMemo 18](https://www.supermemo.wiki/en/supermemo/first-steps#supermemo-18)) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
+**SuperMemo 15** is completely free to use. However, the latest version ([SuperMemo 18](#supermemo-18)) comes with many additional features and usability improvements. Your experience with version 15 might differ vastly.
 
 - [📥 &nbsp; SuperMemo 15 (download) *Download the software and use it for free.*](http://supermemopedia.com/wiki/SuperMemo_15_Freeware)
 {.links-list}
