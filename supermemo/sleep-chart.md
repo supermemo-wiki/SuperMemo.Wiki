@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-12T23:51:01.242Z
+date: 2021-07-12T23:57:59.336Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -91,10 +91,11 @@ Once you press it, these lines and circles will appear:
 - <span style="padding: 3px; background-color: yellow;">Yellow line</span>. This line should fall approximately in the middle of each sleep block, and it shows the "maximum of circadian sleepiness".
 - <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span>. These dots predict the dip in you alertness levels during the day. They can be used to figure out the optimal nap time.
 
-So, to summarise the relevant bits:
-- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> = bedtime.
-- <span style="padding: 3px; color: white; background-color: red;">Red line</span> = wake-up time.
-- <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span> = nap time.
+> ### Summary:
+> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> = bedtime.
+> - <span style="padding: 3px; color: white; background-color: red;">Red line</span> = wake-up time.
+> - <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span> = nap time.
+
 
 ## Show time block data
 Now you may be thinking "How am I supposed to tell what time I should be going to bed if the lines are a little squiggly?"
@@ -105,19 +106,18 @@ How? Press the "Show time block data" [button](/supermemo/sleep-chart/empty-time
 
 A menu which will replace the current [Statistics Pane](/supermemo/sleep-chart/empty-timeline.png) will appear. This menu should contain two headings, BLOCK DATA and OPTIMUM HOURS. You will notice that in the example below I have also pressed the "Re-compute circadian approximations" [button](/supermemo/sleep-chart/empty-timeline.png). This is not necessary. I am doing it to demonstrate and explain the features. I have added the red and black arrows. These will be explained [later](#optimum-hours).
 
-[](/supermemo/sleep-chart/show-time-block-data.png)
+![](/supermemo/sleep-chart/show-time-block-data.png)
 
 ### BLOCK DATA
 Under this heading, you will find various statistics about the selected block:
 - **Day**: This tells you the current day number. Every time you add a new block, it will be one number higher than the previous one. The first sleep block which you recorded will be **Day=1**, the second will be **Day=2**, and so one.
 - **Date**: This displays the date at which the sleep block has started. So, the example above is showing that this sleep block has started on the Friday, 2nd of July, 2021.
 - **Block**: This shows the start and finish time of the block. This particular sleep block has started at 00:51 (bedtime) and ended at 07:57 (wake-up time).
-- **Length**: This displays the length of the sleep block. So, this one has lasted for 7 hours, and 6 minutes.
+- **Length**: This displays the length of the sleep block. So, the one above has lasted for 7 hours, and 6 minutes.
 
 ### OPTIMUM HOURS
 This is the one that will provide an answer to the question we posed before: "How am I supposed to tell what time I should be going to bed if the lines are a little squiggly?"
-
 - **Today**: This tells you when you should go to bed and when you should wake up. In this example, this Sleep Chart function has given us the exact position of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span>, which is 01:18. This function has also given us the exact position of the <span style="padding: 3px; color: white; background-color: red;">red line</span>, which is 08:07. As we explained in the [section](#show-time-block-data) above, <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> means bedtime, and <span style="padding: 3px; color: white; background-color: red;">red line</span> means wake-up time.
 - **Tomorrow**: This shows the exact same thing as **Today**, except it shows the optimum bedtime and wake-up time for tomorrow.
-- **Sleep length**: This is the recommended sleep duration based on the hours explained above. So, between **Today** and **Tomorrow**, the difference in ideal sleep length hours is shown as "06:48 -> 06:52." Subtracting the hours supplied in **Today** yields the optimum amount of sleep hours for today: 08:07-01:18=06:48. The same is true for the ideal number of sleep hours for the tomorrow: 07:47-00:56=06:51.
+- **Sleep length**: This is the recommended sleep duration based on the hours shown above. So, between **Today** and **Tomorrow**, the difference in ideal sleep length hours is shown as "06:48 -> 06:52." Subtracting the hours supplied in **Today** yields the optimum amount of sleep hours for today: 08:07-01:18=06:48. The same is true for the ideal number of sleep hours for the tomorrow: 07:47-00:56=06:51.
 
