@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-12T23:50:17.117Z
+date: 2021-07-12T23:51:01.242Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -42,7 +42,7 @@ Once you launch Sleep Chart, you will see an empty timeline which would look lik
 
 To make it easier to understand what the buttons are, the image above has been annotated. It will also serve as a point of reference in the future.
 
-To log a sleep block, follow the instructions below (which were taken from the official [manual](https://help.supermemo.org/wiki/Sleep_Chart#Sleep_timeline):
+To log a sleep block, follow the instructions below (which were taken from the official [manual](https://help.supermemo.org/wiki/Sleep_Chart#Sleep_timeline)):
 > To log a block of sleep, click the beginning of the block (sleep start) and then click the end of the block (sleep end). You can also start from clicking the end of sleep first. Sleep blocks above 22 hours are disallowed. Sleep blocks cannot overlap with repetitions timeline (you cannot learn with SuperMemo and be asleep at the same time).
 {.is-warning}
 
