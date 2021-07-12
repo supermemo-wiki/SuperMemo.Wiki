@@ -2,14 +2,14 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-06T13:33:39.223Z
+date: 2021-07-12T23:50:17.117Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
 ---
 
 > Please keep in mind that this page is a work-in-progress. When this banner vanishes, you'll know this article is done. Follow the steps indicated [here](https://www.supermemo.wiki/en/home#editing-this-wiki) if you would like to contribute. Thank you!
-{.is-danger}
+{.is-warning}
 
 # Sleep Chart
 Sleep Chart is a feature that come with the SuperMemo software. As the name indicates, it is used to record your sleep.
@@ -25,9 +25,9 @@ Sleep Chart is for anyone who has ever searched up online or thought about somet
 
 To answer these questions as accurately as possible, the user must have sufficient data.
 
-Furthermore, please take time to read the following disclaimer from the official manual:
+Furthermore, please take time to read the following disclaimer from the official manual, written by [Dr Piotr Wozniak](https://www.supermemo.wiki/en/supermemo/piotr-wozniak):
 > **Important!** Your natural instinct should always take precedence over mathematical models. Moreover, best results in sleep optimization are accomplished in free-running sleep. If you use an alarm clock, or force yourself awake through the night, or take sleeping pills, the models may not adequately account for the chaotic change that is occurring in your sleep control systems.
-{.is-warning}
+{.is-info}
 
 # How to access it
 Accessing Sleep Chart can be done via three methods:
@@ -38,16 +38,16 @@ Accessing Sleep Chart can be done via three methods:
 # Timeline tab
 Once you launch Sleep Chart, you will see an empty timeline which would look like this:
 
-![](PathToImage/EmptyTimeline.png)
+![](/supermemo/sleep-chart/empty-timeline.png)
 
 To make it easier to understand what the buttons are, the image above has been annotated. It will also serve as a point of reference in the future.
 
 To log a sleep block, follow the instructions below (which were taken from the official [manual](https://help.supermemo.org/wiki/Sleep_Chart#Sleep_timeline):
 > To log a block of sleep, click the beginning of the block (sleep start) and then click the end of the block (sleep end). You can also start from clicking the end of sleep first. Sleep blocks above 22 hours are disallowed. Sleep blocks cannot overlap with repetitions timeline (you cannot learn with SuperMemo and be asleep at the same time).
-{.is-info}
+{.is-warning}
 
 ## An example of a filled timeline:
-![](PathToImage/FilledTimeline.jpg)
+![](/supermemo/sleep-chart/filled-timeline.png)
 
 Have a look at the example above. We can see <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> and <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red</span> blocks. We can also see blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> and blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span>.
 
@@ -59,7 +59,7 @@ Great. But what do they mean?
 
 ## Annotated timeline explained
 
-From the ![annotated screenshot above](PathToImage/EmptyTimeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
+From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
 - **Tabs**: these contain different analytical graphs which we will have a look at later.
 - **Menu bar**: you can read about the different options on [here](https://help.supermemo.org/wiki/Sleep_Chart#SleepChart_menu).
 - **Send to SuperMemo R&D**
@@ -70,19 +70,20 @@ From the ![annotated screenshot above](PathToImage/EmptyTimeline.png), we can se
 Now that it's out of the way, we can finally dive in.
 
 ## Consolidate
-The "Consolidate" ![button](PathToImage/EmptyTimeline.png) unifies sleep blocks that have a small empty gap in between. Let's say you have a small 10-minute gap between two sleep blocks, pressing this button gets rid of this gap.
-![](PathToImage/consolidate.png)
+The "Consolidate" [button](/supermemo/sleep-chart/empty-timeline.png) unifies sleep blocks that have a small empty gap in between. Let's say you have a small 10-minute gap between two sleep blocks, pressing this button gets rid of this gap:
+
+![](/supermemo/sleep-chart/consolidate.png)
 
 Why might you have a small 10-minute gap between sleep blocks? Many reasons. One of which is: let's say that you woke up in the middle of the night to drink some water, and then you went back to sleep after 10 minutes. Now, your sleep has been split into two blue blocks: the first block representing the sleep time before drinking water, and the second representing the sleep time after you drank water. These two sleep blocks will be separated by a small 10-minute gap (which represents the time you took to drink water and return to bed).
 
 ## Re-compute circadian approximations
-As you may have noticed, the ![filled timeline](PathToImage/FilledTimeline.jpg) has some extra detail which your current timeline may not have. I'm referring to the following:
+As you may have noticed, the [filled timeline](/supermemo/sleep-chart/filled-timeline.png) has some extra detail which your current timeline may not have. I'm referring to the following:
 - yellow line with circles
 - blue line
 - red line
 - aqua dots
 
-You can enable those by pressing the "Re-compute circadian approximations" ![button](PathToImage/EmptyTimeline.png).
+You can enable those by pressing the "Re-compute circadian approximations" [button](/supermemo/sleep-chart/empty-timeline.png).
 
 Once you press it, these lines and circles will appear:
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span>. This line shows you when it is best to go to bed.
@@ -100,11 +101,11 @@ Now you may be thinking "How am I supposed to tell what time I should be going t
 
 Well, don't worry, Sleep Chart will save you from squinting at your screen trying to figure out whether the line is at 01:15 or 01:16...
 
-How? Press the "Show time block data" ![button](PathToImage/EmptyTimeline.png). Now pick a <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> block by simply pressing on it (which will make it turn yellow)!
+How? Press the "Show time block data" [button](/supermemo/sleep-chart/empty-timeline.png). Now pick a <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> block by simply pressing on it (which will make it turn yellow)!
 
-A menu which will replace the current ![Statistics Pane](PathToImage/EmptyTimeline.png) will appear. This menu should contain two headings, BLOCK DATA and OPTIMUM HOURS. You will notice that in the example below I have also pressed the "Re-compute circadian approximations" ![button](PathToImage/EmptyTimeline.png). This is not necessary. I am doing it to demonstrate and explain the features. I have added the red and black arrows. These will be explained [later](#optimum-hours).
+A menu which will replace the current [Statistics Pane](/supermemo/sleep-chart/empty-timeline.png) will appear. This menu should contain two headings, BLOCK DATA and OPTIMUM HOURS. You will notice that in the example below I have also pressed the "Re-compute circadian approximations" [button](/supermemo/sleep-chart/empty-timeline.png). This is not necessary. I am doing it to demonstrate and explain the features. I have added the red and black arrows. These will be explained [later](#optimum-hours).
 
-![](PathToImage/ShowTimeBlockData.png)
+[](/supermemo/sleep-chart/show-time-block-data.png)
 
 ### BLOCK DATA
 Under this heading, you will find various statistics about the selected block:
@@ -119,3 +120,4 @@ This is the one that will provide an answer to the question we posed before: "Ho
 - **Today**: This tells you when you should go to bed and when you should wake up. In this example, this Sleep Chart function has given us the exact position of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span>, which is 01:18. This function has also given us the exact position of the <span style="padding: 3px; color: white; background-color: red;">red line</span>, which is 08:07. As we explained in the [section](#show-time-block-data) above, <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> means bedtime, and <span style="padding: 3px; color: white; background-color: red;">red line</span> means wake-up time.
 - **Tomorrow**: This shows the exact same thing as **Today**, except it shows the optimum bedtime and wake-up time for tomorrow.
 - **Sleep length**: This is the recommended sleep duration based on the hours explained above. So, between **Today** and **Tomorrow**, the difference in ideal sleep length hours is shown as "06:48 -> 06:52." Subtracting the hours supplied in **Today** yields the optimum amount of sleep hours for today: 08:07-01:18=06:48. The same is true for the ideal number of sleep hours for the tomorrow: 07:47-00:56=06:51.
+
