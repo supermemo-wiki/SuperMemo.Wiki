@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-12T23:57:59.336Z
+date: 2021-07-13T00:03:48.087Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -109,11 +109,11 @@ A menu which will replace the current [Statistics Pane](/supermemo/sleep-chart/e
 ![](/supermemo/sleep-chart/show-time-block-data.png)
 
 ### BLOCK DATA
-Under this heading, you will find various statistics about the selected block:
+Under this heading, you will find various pieces of information regarding the selected block:
 - **Day**: This tells you the current day number. Every time you add a new block, it will be one number higher than the previous one. The first sleep block which you recorded will be **Day=1**, the second will be **Day=2**, and so one.
 - **Date**: This displays the date at which the sleep block has started. So, the example above is showing that this sleep block has started on the Friday, 2nd of July, 2021.
 - **Block**: This shows the start and finish time of the block. This particular sleep block has started at 00:51 (bedtime) and ended at 07:57 (wake-up time).
-- **Length**: This displays the length of the sleep block. So, the one above has lasted for 7 hours, and 6 minutes.
+- **Length**: This displays the length of the sleep block. So, the [one above](/supermemo/sleep-chart/show-time-block-data.png) has lasted for 7 hours, and 6 minutes.
 
 ### OPTIMUM HOURS
 This is the one that will provide an answer to the question we posed before: "How am I supposed to tell what time I should be going to bed if the lines are a little squiggly?"
