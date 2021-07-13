@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-13T23:48:12.322Z
+date: 2021-07-13T23:49:16.371Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -138,5 +138,5 @@ First of all, let's see what the above is showing, and then we will have a look 
 - Left vertical axis: This shows you the sleep length.
 - Right vertical axis: This shows the "percentage of sleep episodes initiated at any given time".
 - Horizontal axis: This could be interpreted in two ways (depending on whether or not you click the "Switch between absolute hours and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png)). The example above is showing hours from arising. So, the number 0 on the horizontal axis is referring to the waking hour. If you press the previously mentioned button, you will notice three things: first, the graph will change dramatically, and second, the horizontal axis will now read "Clock time" (24-hour clock). Finally, you will notice that the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span> has disappeared.
-
+- The little light blue dots represent the sleep blocks we talked about in the section above.
 
