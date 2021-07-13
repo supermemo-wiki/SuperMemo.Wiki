@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-13T23:33:55.777Z
+date: 2021-07-13T23:40:35.757Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -127,3 +127,5 @@ There is a pane on the right side of the window, as seen in the [annotated scree
 This pane displays various statistics about the individual days. You can cycle through these options by pressing <kbd>Ctrl</kbd>+<kbd>Right</kbd> and <kbd>Ctrl</kbd>+<kbd>Left</kbd>. The statistics are fairly self-explanatory, and hence we will not go through them in detail for now.
 
 You can also click on Options from the [Menu bar](/supermemo/sleep-chart/empty-timeline.png), then choose Statistics.
+
+# Circadian tab
