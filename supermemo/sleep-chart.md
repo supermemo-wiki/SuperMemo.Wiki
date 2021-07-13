@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-13T23:43:48.723Z
+date: 2021-07-13T23:44:10.730Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -137,6 +137,6 @@ Again, have a look at the annotated screenshot below:
 First of all, let's see what the above is showing, and then we will have a look at some interpretations:
 - Left vertical axis: This shows you the sleep length.
 - Right vertical axis: This shows the "percentage of sleep episodes initiated at any given time".
-
+- Horizontal axis: This could be interpreted in two ways.
 
 
