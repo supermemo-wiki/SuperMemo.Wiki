@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-13T00:03:48.087Z
+date: 2021-07-13T00:07:08.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -104,7 +104,7 @@ Well, don't worry, Sleep Chart will save you from squinting at your screen tryin
 
 How? Press the "Show time block data" [button](/supermemo/sleep-chart/empty-timeline.png). Now pick a <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> block by simply pressing on it (which will make it turn yellow)!
 
-A menu which will replace the current [Statistics Pane](/supermemo/sleep-chart/empty-timeline.png) will appear. This menu should contain two headings, BLOCK DATA and OPTIMUM HOURS. You will notice that in the example below I have also pressed the "Re-compute circadian approximations" [button](/supermemo/sleep-chart/empty-timeline.png). This is not necessary. I am doing it to demonstrate and explain the features. I have added the red and black arrows. These will be explained [later](#optimum-hours).
+A menu which will replace the current [Statistics Pane](/supermemo/sleep-chart/empty-timeline.png) will appear. This menu should contain two headings, BLOCK DATA and OPTIMUM HOURS. You will notice that in the example below I have also pressed the [Re-compute circadian approximations](#re-compute-circadian-approximations) button. This is not necessary. I am doing it to demonstrate and explain the features. I have added the red and black arrows. These will be explained [later](#optimum-hours).
 
 ![](/supermemo/sleep-chart/show-time-block-data.png)
 
