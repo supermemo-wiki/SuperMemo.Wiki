@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-13T23:32:03.251Z
+date: 2021-07-13T23:33:55.777Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -104,7 +104,7 @@ Well, don't worry, Sleep Chart will save you from squinting at your screen tryin
 
 How? Press the "Show time block data" [button](/supermemo/sleep-chart/empty-timeline.png). Now pick a <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> block by simply pressing on it (which will make it turn yellow)!
 
-A menu which will replace the current [Statistics Pane](/supermemo/sleep-chart/empty-timeline.png) will appear. This menu should contain two headings, BLOCK DATA and OPTIMUM HOURS. You will notice that in the example below I have also pressed the [Re-compute circadian approximations](#re-compute-circadian-approximations) button. This is not necessary. I am doing it to demonstrate and explain the features. I have added the red and black arrows. These will be explained [later](#optimum-hours).
+A menu which will replace the current [Statistics Pane](#statistics-pane) will appear. This menu should contain two headings, BLOCK DATA and OPTIMUM HOURS. You will notice that in the example below I have also pressed the [Re-compute circadian approximations](#re-compute-circadian-approximations) button. This is not necessary. I am doing it to demonstrate and explain the features. I have added the red and black arrows. These will be explained [later](#optimum-hours).
 
 ![](/supermemo/sleep-chart/show-time-block-data.png)
 
@@ -120,3 +120,10 @@ This is the one that will provide an answer to the question we posed before: "Ho
 - **Today**: This tells you when you should go to bed and when you should wake up. In this example, this Sleep Chart function has given us the exact position of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span>, which is 01:18. This function has also given us the exact position of the <span style="padding: 3px; color: white; background-color: red;">red line</span>, which is 08:07. As we explained in the [section](#show-time-block-data) above, <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> means bedtime, and <span style="padding: 3px; color: white; background-color: red;">red line</span> means wake-up time. I have used the red arrows in the [screenshot above](/supermemo/sleep-chart/show-time-block-data.png) to help you understand this further.
 - **Tomorrow**: This shows the exact same thing as **Today**, except it shows the optimum bedtime and wake-up time for tomorrow. I have used the black arrows in the [screenshot above](/supermemo/sleep-chart/show-time-block-data.png) to help you understand this further.
 - **Sleep length**: This is the recommended sleep duration based on the hours shown above. So, between **Today** and **Tomorrow**, the difference in ideal sleep length hours is shown as "06:48 -> 06:52." Subtracting the hours supplied in **Today** yields the optimum amount of sleep hours for today: 08:07-01:18=06:48. The same is true for the ideal number of sleep hours for the tomorrow: 07:47-00:56=06:51.
+
+### Statistics Pane
+There is a pane on the right side of the window, as seen in the [annotated screenshot](/supermemo/sleep-chart/empty-timeline.png). Let's call it the Statistics Pane (though it is worth mentioning that this is not the official name).
+
+This pane displays various statistics about the individual days. You can cycle through these options by pressing <kbd>Ctrl</kbd>+<kbd>Right</kbd> and <kbd>Ctrl</kbd>+<kbd>Left</kbd>. The statistics are fairly self-explanatory, and hence we will not go through them in detail for now.
+
+You can also click on Options from the [Menu bar](/supermemo/sleep-chart/empty-timeline.png), then choose Statistics.
