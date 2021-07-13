@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-13T23:40:35.757Z
+date: 2021-07-13T23:40:51.926Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -129,3 +129,4 @@ This pane displays various statistics about the individual days. You can cycle t
 You can also click on Options from the [Menu bar](/supermemo/sleep-chart/empty-timeline.png), then choose Statistics.
 
 # Circadian tab
+This tab gives you a greater insight into your sleep time. According to Dr Piotr Wozniak: "you will need a couple of months of data before this graph becomes meaningful."
