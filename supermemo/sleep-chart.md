@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T22:08:19.665Z
+date: 2021-07-14T22:09:05.443Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -154,7 +154,7 @@ First of all, let's see what the above is showing, and then we will have a look 
 
 ## Sample data interpretation
 In the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), we can see the following:
-
+- Most preferred bedtime occurs after 17 hours from arising.
 
 
 
