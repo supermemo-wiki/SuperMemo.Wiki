@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T22:19:09.438Z
+date: 2021-07-14T22:19:29.145Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -29,7 +29,7 @@ Sleep Chart is for anyone who has ever searched up online or thought about somet
 
 To answer these questions as accurately as possible, the user must have sufficient data.
 
-Furthermore, please take time to read the following disclaimer from the official manual, written by [Dr Piotr Wozniak](https://www.supermemo.wiki/en/supermemo/piotr-wozniak):
+Furthermore, please take time to read the following disclaimer from the official manual, written by [Dr. Piotr Wozniak](https://www.supermemo.wiki/en/supermemo/piotr-wozniak):
 > **Important!** Your natural instinct should always take precedence over mathematical models. Moreover, best results in sleep optimization are accomplished in free-running sleep. If you use an alarm clock, or force yourself awake through the night, or take sleeping pills, the models may not adequately account for the chaotic change that is occurring in your sleep control systems.
 {.is-info}
 
