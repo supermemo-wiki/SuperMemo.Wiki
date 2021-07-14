@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T21:59:06.722Z
+date: 2021-07-14T21:59:44.042Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -65,7 +65,7 @@ From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png)
 - **Go to a specific day on the timeline**
 - **Save current timeline file**
 - **Open a new timeline file**
-- I've added a green box to the bottom-left corner of the annotated screenshot. The cursor's position is displayed in this box. You'll notice that the time and dates change as you move your pointer around the timeline. Give it a go! We can also see that there is an extra value at the bottom-left corner of the filled timeline: "(length=04:10)." This displays the length of the sleep block where the pointer is now located.
+- I've added a green box to the bottom-left corner of the annotated screenshot. The cursor's position is displayed in this box. You'll notice that the time and dates change as you move your pointer around the timeline. Give it a go! We can also see that there is an extra value at the bottom-left corner of the [filled timeline](/supermemo/sleep-chart/filled-timeline.png): "(length=04:10)." This displays the length of the sleep block where the pointer is now located.
 
 Now that it's out of the way, we can finally dive in.
 
