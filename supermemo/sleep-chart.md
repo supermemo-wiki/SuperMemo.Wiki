@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T21:49:39.288Z
+date: 2021-07-14T21:59:06.722Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -65,6 +65,7 @@ From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png)
 - **Go to a specific day on the timeline**
 - **Save current timeline file**
 - **Open a new timeline file**
+- I've added a green box to the bottom-left corner of the annotated screenshot. The cursor's position is displayed in this box. You'll notice that the time and dates change as you move your pointer around the timeline. Give it a go! We can also see that there is an extra value at the bottom-left corner of the filled timeline: "(length=04:10)." This displays the length of the sleep block where the pointer is now located.
 
 Now that it's out of the way, we can finally dive in.
 
@@ -151,6 +152,7 @@ First of all, let's see what the above is showing, and then we will have a look 
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> = separates the graph into two sections: phase advanced (right) and phase delays (left).
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> crossing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> = "optimum balanced sleep cycle of 24 hours".
 
+## Sample data interpretation
 
 
 
