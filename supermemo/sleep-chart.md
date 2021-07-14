@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T22:10:31.661Z
+date: 2021-07-14T22:11:27.951Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -156,7 +156,7 @@ First of all, let's see what the above is showing, and then we will have a look 
 In the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), we can see the following:
 - Most preferred bedtime occurs after 17 hours from arising (because that's where the second peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs).
 - Most preferred nap occurs after 7 hours from arising (because that's where the first peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs).
-
+- On average, the naps last for about 1 hour and 30 minutes (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area. See the black dashed line which I added to the screenshot above).
 
 
 
