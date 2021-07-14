@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T21:47:46.103Z
+date: 2021-07-14T21:47:55.084Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -143,7 +143,7 @@ First of all, let's see what the above is showing, and then we will have a look 
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> crossing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> shows you the "optimum balanced sleep cycle of 24 hours".
 
 > ### Summary:
-
+> - Left vertical axis = sleep length.
 
 
 
