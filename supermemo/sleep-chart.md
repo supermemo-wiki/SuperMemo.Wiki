@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T22:08:07.239Z
+date: 2021-07-14T22:08:19.665Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -153,7 +153,7 @@ First of all, let's see what the above is showing, and then we will have a look 
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> crossing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> = "optimum balanced sleep cycle of 24 hours".
 
 ## Sample data interpretation
-In the screenshot above, we can see the following:
+In the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), we can see the following:
 
 
 
