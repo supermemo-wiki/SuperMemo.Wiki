@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T21:40:38.794Z
+date: 2021-07-14T21:41:32.498Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -58,7 +58,6 @@ Great. But what do they mean?
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> represents delayed sleep (e.g., you fell asleep whilst watching TV). You can achieve this by pressing <kbd>Ctrl</kbd>+<kbd>D</kbd> on a sleep block. You can also achieve the same thing by right-clicking on a sleep block and selecting "**Delayed retirement**".
 
 ## Annotated timeline explained
-
 From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
 - **Tabs**: these contain different analytical graphs which we will have a look at later.
 - **Menu bar**: you can read about the different options on [here](https://help.supermemo.org/wiki/Sleep_Chart#SleepChart_menu).
@@ -78,10 +77,10 @@ Why might you have a small 10-minute gap between sleep blocks? Many reasons. One
 
 ## Re-compute circadian approximations
 As you may have noticed, the [filled timeline](/supermemo/sleep-chart/filled-timeline.png) has some extra detail which your current timeline may not have. I'm referring to the following:
-- yellow line with circles
-- blue line
-- red line
-- aqua dots
+- Yellow line with circles
+- Blue line
+- Red line
+- Aqua dots
 
 You can enable those by pressing the "Re-compute circadian approximations" [button](/supermemo/sleep-chart/empty-timeline.png).
 
