@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T21:46:31.482Z
+date: 2021-07-14T21:46:55.038Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -140,7 +140,7 @@ First of all, let's see what the above is showing, and then we will have a look 
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> represents the preferred bedtime. The higher is the peak, the more preferred is the bedtime. Use the right vertical axis to determine the value of this line.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red line</span> represents the average sleep length. Use the left vertical axis to determine the value of this line.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> splits the graph into two sections, phase advanced (right) and phase delays (left). The way this line works is by following <span style="padding: 3px; border: 1px solid rgb(149, 172, 195); border-image: none; color: white; background-color: rgb(165, 207, 248);">light blue dots</span> where the waking time (horizontal axis) and the sleep time (left vertical axis) add up to 24 hours.
-
+- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> crossing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> shows you the "optimum balanced sleep cycle of 24 hours".
 
 
 
