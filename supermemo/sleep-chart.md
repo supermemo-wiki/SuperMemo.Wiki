@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-14T21:47:55.084Z
+date: 2021-07-14T21:48:32.995Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -144,7 +144,8 @@ First of all, let's see what the above is showing, and then we will have a look 
 
 > ### Summary:
 > - Left vertical axis = sleep length.
-
+> - Horizontal axis = relative/absolute hours.
+> - <span style="padding: 3px; border: 1px solid rgb(149, 172, 195); border-image: none; color: white; background-color: rgb(165, 207, 248);">Light blue dots</span> = sleep blocks we talked about in the section above.
 
 
 
