@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T20:01:32.383Z
+date: 2021-07-16T20:02:36.019Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -63,7 +63,9 @@ Great. But what do they mean?
 
 > ### Summary:
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> blocks = sleep.
-> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red</span> blocks = learning.
+> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red</span> blocks = time spent studying with SuperMemo.
+> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span> blocks = interrupted sleep.
+> - 
 
 ## Annotated timeline explained
 From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
