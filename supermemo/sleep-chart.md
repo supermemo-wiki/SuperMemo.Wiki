@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T19:27:11.719Z
+date: 2021-07-16T19:28:45.866Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -114,7 +114,7 @@ A menu which will replace the current [Statistics Pane](#statistics-pane) will a
 ### BLOCK DATA
 Under this heading, you will find various pieces of information regarding the selected block:
 - **Day**: This tells you the day number ever since you started logging your sleep. The first sleep block which you recorded will be **Day=1**.
-- **Date**: This displays the date at which the sleep block has started. So, the example above is showing that this sleep block has started on the Friday, 2nd of July, 2021.
+- **Date**: This displays the date at which the sleep block has started. So, the [example above](/supermemo/sleep-chart/show-time-block-data.png) is showing that this sleep block has started on the Friday, 2nd of July, 2021.
 - **Block**: This shows the start and finish time of the block. This particular sleep block has started at 00:51 (bedtime) and ended at 07:57 (wake-up time).
 - **Length**: This displays the length of the sleep block. So, the [one above](/supermemo/sleep-chart/show-time-block-data.png) has lasted for 7 hours, and 6 minutes.
 
