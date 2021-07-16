@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T20:04:50.550Z
+date: 2021-07-16T20:05:01.740Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -64,7 +64,7 @@ Great. But what do they mean?
 > ### Summary:
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> blocks = sleep.
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red</span> blocks = time spent studying with SuperMemo.
-> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span> blocks = interrupted sleep. Use <kbd>Ctrl</kbd>+<kbd>A</kbd> to mark a sleep block as interrupted (or you can right click the block and select **Forced awakening**)
+> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span> blocks = interrupted sleep. Use <kbd>Ctrl</kbd>+<kbd>A</kbd> to mark a sleep block as interrupted (or you can right click the block and select **Forced awakening**).
 > - 
 
 ## Annotated timeline explained
