@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T20:12:55.690Z
+date: 2021-07-16T20:14:54.636Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -73,8 +73,8 @@ Great. But what do they mean?
 
 ## Annotated timeline explained
 From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
-- **Tabs**: these contain different analytical graphs which we will have a look at later.
-- **Menu bar**: you can read about the different options on [here](https://help.supermemo.org/wiki/Sleep_Chart#SleepChart_menu).
+- **Tabs**: These contain different analytical graphs which we will have a look at later.
+- **Menu bar**: You can read about the different options on [here](https://help.supermemo.org/wiki/Sleep_Chart#SleepChart_menu).
 - **Send to SuperMemo R&D**
 - **Go to a specific day on the timeline**
 - **Save current timeline file**
