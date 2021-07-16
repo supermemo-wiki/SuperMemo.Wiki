@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T19:30:15.771Z
+date: 2021-07-16T19:30:40.158Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -90,10 +90,10 @@ As you may have noticed, the [filled timeline](/supermemo/sleep-chart/filled-tim
 You can enable those by pressing the "Re-compute circadian approximations" [button](/supermemo/sleep-chart/empty-timeline.png).
 
 Once you press it, these lines and circles will appear. Now, let's have a look at what they mean:
-- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span>. This line shows you when it is best to go to bed.
+- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span>: This line shows you when it is best to go to bed.
 - <span style="padding: 3px; color: white; background-color: red;">Red line</span>. This line shows you when it is best to wake up (naturally, without an alarm).
-- <span style="padding: 3px; background-color: yellow;">Yellow line</span>. This line should fall approximately in the middle of each sleep block, and it shows the "maximum of circadian sleepiness".
-- <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span>. These dots predict the dip in you alertness levels during the day. They can be used to figure out the optimal nap time.
+- <span style="padding: 3px; background-color: yellow;">Yellow line</span>: This line should fall approximately in the middle of each sleep block, and it shows the "maximum of circadian sleepiness".
+- <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span>: These dots predict the dip in you alertness levels during the day. They can be used to figure out the optimal nap time.
 
 > ### Summary:
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> = bedtime.
