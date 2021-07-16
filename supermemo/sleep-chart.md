@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T20:14:54.636Z
+date: 2021-07-16T20:18:30.190Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -39,9 +39,9 @@ Furthermore, please take time to read the following disclaimer from the official
 
 # How to access it
 Accessing Sleep Chart can be done via three methods:
-1. Press the <kbd>F12</kbd> button on your keyboard
-2. Press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> which will bring up SuperMemo Commander. Then begin to type in the word "sleep chart" until you see it appear on the menu. Once it appears, press <kbd>Enter</kbd> again
-3. **Toolkit** > **Sleep Chart** from the main menu that is on the top (a.k.a menu bar)
+1. Press the <kbd>F12</kbd> button on your keyboard.
+2. Press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> which will bring up SuperMemo Commander. Then begin to type in the word "sleep chart" until you see it appear on the menu. Once it appears, press <kbd>Enter</kbd>.
+3. **Toolkit** > **Sleep Chart** from the main menu that is on the top (a.k.a menu bar).
 
 # Timeline tab
 Once you launch Sleep Chart, you will see an empty timeline which would look like this:
@@ -79,7 +79,7 @@ From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png)
 - **Go to a specific day on the timeline**
 - **Save current timeline file**
 - **Open a new timeline file**
-- I've added a green box to the bottom-left corner of the annotated screenshot. The cursor's position is displayed in this box. You'll notice that the time and dates change as you move your pointer around the timeline. Give it a go! We can also see that there is an extra value at the bottom-left corner of the [filled timeline](/supermemo/sleep-chart/filled-timeline.png): "(length=04:10)." This displays the length of the sleep block where the pointer is now located.
+- I've added a green box to the bottom-left corner of the annotated screenshot. The cursor's position is displayed in this box. You'll notice that the time and dates change as you move your pointer around the timeline. Give it a go! We can also see that there is an extra value at the bottom-left corner of the [filled timeline](/supermemo/sleep-chart/filled-timeline.png): `(length=04:10)`. This displays the length of the sleep block where the pointer is now located.
 
 Now that it's out of the way, we can finally dive in.
 
