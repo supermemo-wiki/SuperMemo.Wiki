@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T19:59:43.071Z
+date: 2021-07-16T20:00:41.685Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -62,7 +62,8 @@ Great. But what do they mean?
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> represents delayed sleep (e.g., you fell asleep whilst watching TV). You can achieve this by pressing <kbd>Ctrl</kbd>+<kbd>D</kbd> on a sleep block. You can also achieve the same thing by right-clicking on a sleep block and selecting "**Delayed retirement**".
 
 > ### Summary:
-> 
+> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> blocks = sleep.
+> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red</span> blocks = learning.
 
 ## Annotated timeline explained
 From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
