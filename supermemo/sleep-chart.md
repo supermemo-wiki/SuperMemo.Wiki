@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T19:55:46.134Z
+date: 2021-07-16T19:59:16.631Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -56,10 +56,13 @@ To log a sleep block, follow the instructions below (which were taken from the o
 Have a look at the example above (taken from the official manual). We can see <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> and <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red</span> blocks. We can also see blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> and blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span>.
 
 Great. But what do they mean?
-- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> represents sleep blocks.
+- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> blocks represents sleep blocks.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red</span> represents learning blocks. When you use SuperMemo, Sleep Chart keeps track of the time you spend working and generates these blocks. These are collection-specific blocks (in other words, each collection will show these blocks differently, depending on how much you work with each of these collections).
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span> represents interrupted sleep (e.g., by your alarm clock). You can achieve this by pressing <kbd>Ctrl</kbd>+<kbd>A</kbd> on a sleep block. You can also achieve the same thing by right-clicking on a sleep block and selecting "**Forced awakening**".
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> represents delayed sleep (e.g., you fell asleep whilst watching TV). You can achieve this by pressing <kbd>Ctrl</kbd>+<kbd>D</kbd> on a sleep block. You can also achieve the same thing by right-clicking on a sleep block and selecting "**Delayed retirement**".
+
+> ### Summary:
+> 
 
 ## Annotated timeline explained
 From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
