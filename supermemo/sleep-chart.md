@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T20:18:30.190Z
+date: 2021-07-16T20:19:38.174Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -134,7 +134,7 @@ Under this heading, you will find various pieces of information regarding the se
 This is the one that will provide an answer to the question we posed before: "How am I supposed to tell what time I should be going to bed if the lines are a little squiggly?"
 - **Today**: This tells you when you should go to bed and when you should wake up. In this example, this Sleep Chart function has given us the exact position of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span>, which is 01:18. This function has also given us the exact position of the <span style="padding: 3px; color: white; background-color: red;">red line</span>, which is 08:07. As we explained in the [section above](#show-time-block-data): <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> means bedtime and <span style="padding: 3px; color: white; background-color: red;">red line</span> means wake-up time. I have used the red arrows in the [screenshot above](/supermemo/sleep-chart/show-time-block-data.png) to help you understand this further.
 - **Tomorrow**: This shows the exact same thing as **Today**, except it shows the optimum bedtime and wake-up time for tomorrow. I have used the black arrows in the [screenshot above](/supermemo/sleep-chart/show-time-block-data.png) to help you understand this further.
-- **Sleep length**: This is the recommended sleep duration based on the hours shown above. So, the change in ideal sleep length between **Today** and **Tomorrow** is shown as "06:48 -> 06:52." You can skip the next sentence as it's there for context. Subtracting the hours supplied in **Today** yields the optimum amount of sleep hours for today: `08:07 - 01:18 = 06:48`. The same is true for **Tomorrow**: `07:47 - 00:56 = 06:51`.
+- **Sleep length**: This is the recommended sleep duration based on the hours shown above. So, the change in ideal sleep length between **Today** and **Tomorrow** is shown as `06:48 -> 06:52`. You can skip the next sentence as it's there for context. Subtracting the hours supplied in **Today** yields the optimum amount of sleep hours for today: `08:07 - 01:18 = 06:48`. The same is true for **Tomorrow**: `07:47 - 00:56 = 06:51`.
 
 ### Statistics Pane
 There is a pane on the right side of the window, as seen in the [annotated screenshot](/supermemo/sleep-chart/empty-timeline.png). Let's call it the Statistics Pane (though it is worth mentioning that this is not the official name).
