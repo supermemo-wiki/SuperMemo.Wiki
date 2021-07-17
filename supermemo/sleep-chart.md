@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-17T20:13:14.113Z
+date: 2021-07-17T20:14:26.631Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -66,7 +66,13 @@ From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png)
 ## An example of a filled timeline
 ![](/supermemo/sleep-chart/filled-timeline.png)
 
-Before we explain what each of the buttons mean, let's have a look at the filled example above (taken from the official manual). We can see <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue blocks</span> and <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red blocks</span>. We may also see blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span>, and blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span>.
+Before we explain what each of the buttons mean, let's have a look at the filled example above (taken from the official manual).
+
+We can see:
+- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span>.
+- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red blocks</span>.
+- Blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span>.
+- Blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span>.
 
 Great. But what do they mean?
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> represent sleep episodes.
