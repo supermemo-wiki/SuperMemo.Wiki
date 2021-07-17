@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-17T20:07:41.717Z
+date: 2021-07-17T20:12:15.198Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -54,6 +54,17 @@ To log a sleep block, follow the instructions below (which were taken from the [
 > To log a block of sleep, click the beginning of the block (sleep start) and then click the end of the block (sleep end). You can also start from clicking the end of sleep first. Sleep blocks above 22 hours are disallowed. Sleep blocks cannot overlap with repetitions timeline (you cannot learn with SuperMemo and be asleep at the same time).
 {.is-warning}
 
+From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
+- **Tabs**: These contain different analytical graphs which we will have a look at later.
+- **Menu bar**: You can read about the different options on [here](https://help.supermemo.org/wiki/Sleep_Chart#SleepChart_menu).
+- **Send to SuperMemo R&D**
+- **Go to a specific day on the timeline**
+- **Save current timeline file**
+- **Open a new timeline file**
+- I've added a green box to the bottom-left corner of the annotated screenshot. The cursor's position is displayed in this box. You'll notice that the time and dates change as you move your pointer around the timeline. Give it a go! We can also see that there is an extra value at the bottom-left corner of the [filled timeline](/supermemo/sleep-chart/filled-timeline.png): `(length=04:10)`. This displays the length of the sleep block where the pointer is now located.
+
+Now that it's out of the way, we can finally dive in.
+
 ## An example of a filled timeline
 ![](/supermemo/sleep-chart/filled-timeline.png)
 
@@ -70,19 +81,6 @@ Great. But what do they mean?
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red blocks</span> = time spent studying with SuperMemo.
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span> blocks = interrupted sleep. Use <kbd>Ctrl</kbd>+<kbd>A</kbd> to mark a sleep block as interrupted.
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> blocks = delayed sleep. Use <kbd>Ctrl</kbd>+<kbd>D</kbd> to mark a sleep block as delayed.
-
-## Annotated timeline explained
-From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png), we can see that the timeline has a bunch of buttons. Let's take a look at each one individually. The only buttons that don't need to be explained are:
-- **Tabs**: These contain different analytical graphs which we will have a look at later.
-- **Menu bar**: You can read about the different options on [here](https://help.supermemo.org/wiki/Sleep_Chart#SleepChart_menu).
-- **Send to SuperMemo R&D**
-- **Go to a specific day on the timeline**
-- **Save current timeline file**
-- **Open a new timeline file**
-- I've added a green box to the bottom-left corner of the annotated screenshot. The cursor's position is displayed in this box. You'll notice that the time and dates change as you move your pointer around the timeline. Give it a go! We can also see that there is an extra value at the bottom-left corner of the [filled timeline](/supermemo/sleep-chart/filled-timeline.png): `(length=04:10)`. This displays the length of the sleep block where the pointer is now located.
-
-Now that it's out of the way, we can finally dive in.
-
 ## Consolidate
 The "Consolidate" [button](/supermemo/sleep-chart/empty-timeline.png) unifies sleep blocks that have a small empty gap in between. Let's say you have a small 10-minute gap between two sleep blocks, pressing this button gets rid of this gap:
 
