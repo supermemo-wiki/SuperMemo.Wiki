@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-17T20:17:37.159Z
+date: 2021-07-17T20:18:48.730Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -90,7 +90,7 @@ The "Consolidate" [button](/supermemo/sleep-chart/empty-timeline.png) unifies sl
 
 ![](/supermemo/sleep-chart/consolidate.png)
 
-Why might you have a small 10-minute gap between sleep blocks? Many reasons. One of which is: let's say that you woke up in the middle of the night to drink some water, and then you went back to sleep after 10 minutes. Now, your sleep has been split into two blue blocks: the first block representing the sleep time before drinking water, and the second representing the sleep time after you drank water. These two sleep blocks will be separated by a small 10-minute gap (which represents the time you took to drink water and return to bed).
+Why might you have a small 10-minute gap between sleep blocks? Many reasons. Let's say that you woke up in the middle of the night to drink some water, and then you went back to sleep after 10 minutes. Now, your sleep has been split into two blue blocks: the first block representing the sleep time before drinking water, and the second representing the sleep time after you drank water. These two sleep blocks will be separated by a small 10-minute gap (which represents the time you took to drink water and return to bed).
 
 ## Re-compute circadian approximations
 As you may have noticed, the [filled timeline](/supermemo/sleep-chart/filled-timeline.png) has some extra detail which your current timeline may not have. I'm referring to the following:
