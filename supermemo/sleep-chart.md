@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-16T20:24:46.484Z
+date: 2021-07-17T20:06:37.127Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -57,7 +57,7 @@ To log a sleep block, follow the instructions below (which were taken from the [
 ## An example of a filled timeline
 ![](/supermemo/sleep-chart/filled-timeline.png)
 
-Have a look at the example above (taken from the official manual). We can see <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue blocks</span> and <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red blocks</span>. We can also see blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span>, and blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span>.
+Have a look at the example above (taken from the official manual). We can see <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue blocks</span> and <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red blocks</span>. We may also see blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span>, and blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span>.
 
 Great. But what do they mean?
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> represent sleep episodes.
