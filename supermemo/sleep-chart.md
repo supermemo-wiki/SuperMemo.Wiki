@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-17T20:15:10.160Z
+date: 2021-07-17T20:17:29.785Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -71,7 +71,7 @@ Before we explain what each of the buttons do, let's have a look at the filled e
 We can see:
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span>.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red blocks</span>.
-- Blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span>.
+- Blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span>. 
 - Blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span>.
 
 Great! But what do they mean?!
