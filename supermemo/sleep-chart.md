@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-17T20:14:45.878Z
+date: 2021-07-17T20:15:10.160Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -66,7 +66,7 @@ From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png)
 ## An example of a filled timeline
 ![](/supermemo/sleep-chart/filled-timeline.png)
 
-Before we explain what each of the buttons mean, let's have a look at the filled example above (taken from the official manual).
+Before we explain what each of the buttons do, let's have a look at the filled example above (taken from the official manual).
 
 We can see:
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span>.
