@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T17:19:18.110Z
+date: 2021-07-21T17:19:34.386Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -182,7 +182,7 @@ From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), w
 - On average, the naps last for about 1 hour and 30 minutes (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area. See the black dashed line which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png)).
 - In this example, 17 hours from arising, the user is expected to sleep for 7 hours (because that's where the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span> crosses the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span>. See the black arrows which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png)). Also notice that 17 hours plus 7 hours is equal to 24 hours!
 
-## 24-hour clock
+## Clock time
 Now, you might be thinking "The [Circadian tab](#circadian-tab) is awesome, but figuring out the most frequent bedtime on a 24-hour clock using the 'hours from arising' method is a little challenging."
 
 Fear not, Sleep Chart has got you covered! Click the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) to get the 24-hour clock graph (I have added the black arrows for illustration):
