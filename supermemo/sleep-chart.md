@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T17:24:55.384Z
+date: 2021-07-21T17:25:07.017Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -85,6 +85,7 @@ Great! But what do they mean?!
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red blocks</span> = time spent studying with SuperMemo.
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span> blocks = interrupted sleep. Use <kbd>Ctrl</kbd>+<kbd>A</kbd> to mark a sleep block as interrupted.
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> blocks = delayed sleep. Use <kbd>Ctrl</kbd>+<kbd>D</kbd> to mark a sleep block as delayed.
+
 ## Consolidate
 The "Consolidate" [button](/supermemo/sleep-chart/empty-timeline.png) unifies sleep blocks that have a small empty gap in between. Let's say you have a small 10-minute gap between two sleep blocks, pressing this button gets rid of this gap:
 
