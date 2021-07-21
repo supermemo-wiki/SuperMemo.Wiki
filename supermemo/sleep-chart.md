@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T17:22:05.665Z
+date: 2021-07-21T17:23:21.570Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -175,7 +175,7 @@ First of all, let's see what the above is showing, and then we will have a look 
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> = separates the graph into two sections: phase advanced (right) and phase delays (left).
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> crossing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> = "optimum balanced sleep cycle of 24 hours".
 
-## Sample data interpretation (hours from arising)
+## Sample data interpretation (Hours from arising)
 From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), we can infer the following:
 - Most frequent bedtime occurs after 17 hours from arising (because that's where the SECOND peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs). In fact, 19.9% of the sleep episodes have occurred after 17 hours from arising (we used the right vertical axis to determine this value).
 - Most frequent nap time occurs after 7 hours from arising (because that's where the FIRST peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs).
