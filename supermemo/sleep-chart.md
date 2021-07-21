@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T13:03:48.867Z
+date: 2021-07-21T13:04:01.346Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -184,7 +184,7 @@ Now, you might be thinking "The [Circadian tab](#circadian-tab) is awesome, but 
 
 Fear not, Sleep Chart has got you covered! Click the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) to get the 24-hour clock graph (I have added the black arrows for illustration):
 
-
+![](/supermemo/sleep-chart/circadian-hrs-clock.png)
 
 
 
