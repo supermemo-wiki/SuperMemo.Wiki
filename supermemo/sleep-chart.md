@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-17T20:24:40.154Z
+date: 2021-07-21T12:58:21.019Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -17,6 +17,9 @@ dateCreated: 2021-07-01T20:09:30.684Z
 
 # Introduction
 This guide is a simplified version of the [official manual](https://help.supermemo.org/wiki/Sleep_Chart).
+**dsjvsdjv**
+**jdcnjc*
+
 
 Whenever feasible, I've added brief summaries throughout this guide. They will look something like this:
 > ### Summary
@@ -157,24 +160,24 @@ First of all, let's see what the above is showing, and then we will have a look 
 - Right vertical axis shows the "percentage of sleep episodes initiated at any given time".
 - Horizontal axis could be interpreted in two ways (depending on whether or not you click the "Switch between absolute hours and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png)). The example above is showing hours from arising. So, the number 0 on the horizontal axis is referring to the waking hour. If you press the previously mentioned button, you will notice three things: first, the graph will change dramatically, and second, the horizontal axis will now read "Clock time" (24-hour clock). Finally, you will notice that the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span> has disappeared.
 - The little <span style="padding: 3px; border: 1px solid rgb(149, 172, 195); border-image: none; color: white; background-color: rgb(165, 207, 248);">light blue dots</span> represent the sleep blocks we talked about in the [section above](#an-example-of-a-filled-timeline). So, each light blue dot represents a sleep episode.
-- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> represents the preferred bedtime. The higher is the peak, the more preferred is the bedtime. Use the right vertical axis to determine the value of this line.
+- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> represents the bedtime frequency. The higher is the peak, the more frequent is the bedtime. Use the right vertical axis to determine the value of this line.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red line</span> represents the average sleep length. Use the left vertical axis to determine the value of this line.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> splits the graph into two sections, phase advanced (right) and phase delays (left). The way this line works is by following <span style="padding: 3px; border: 1px solid rgb(149, 172, 195); border-image: none; color: white; background-color: rgb(165, 207, 248);">light blue dots</span> where the waking time (horizontal axis) and the sleep time (left vertical axis) add up to 24 hours.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> crossing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> shows the "optimum balanced sleep cycle of 24 hours".
 
 > ### Summary:
 > - Left vertical axis = sleep length.
+> - Right vertical axis = percentage of sleep episodes initiated at any given time.
 > - Horizontal axis = relative/absolute hours.
 > - <span style="padding: 3px; border: 1px solid rgb(149, 172, 195); border-image: none; color: white; background-color: rgb(165, 207, 248);">Light blue dots</span> = sleep blocks we talked about in the [section above](#an-example-of-a-filled-timeline).
-> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> = preferred bedtime. Use the right vertical axis to determine the value of this line.
+> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> = bedtime frequency. Use the right vertical axis to determine the value of this line.
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red line</span> = average sleep length. Use the left vertical axis to determine the value of this line.
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> = separates the graph into two sections: phase advanced (right) and phase delays (left).
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">Green line</span> crossing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> = "optimum balanced sleep cycle of 24 hours".
 
-## Sample data interpretation
-In the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), we can see the following:
-- Most frequent bedtime occurs after 17 hours from arising (because that's where the second peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs).
-- Most frequent nap time occurs after 7 hours from arising (because that's where the first peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs).
+## Sample data interpretation (hours from arising)
+From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), we can infer the following:
+- Most frequent bedtime occurs after 17 hours from arising (because that's where the SECOND peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs). In fact, 19.9% of the sleep episodes have occurred after 17 hours from arising (we used the right vertical axis to determine this value).
+- Most frequent nap time occurs after 7 hours from arising (because that's where the FIRST peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs).
 - On average, the naps last for about 1 hour and 30 minutes (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area. See the black dashed line which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png)).
 - In this example, 17 hours from arising, the user is expected to sleep for 7 hours (because that's where the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span> crosses the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span>. See the black arrows which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png)). Also notice that 17 hours plus 7 hours is equal to 24 hours!
-
