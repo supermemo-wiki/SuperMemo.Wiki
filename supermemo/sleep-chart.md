@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T13:02:51.546Z
+date: 2021-07-21T13:03:00.661Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -180,7 +180,7 @@ From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), w
 - In this example, 17 hours from arising, the user is expected to sleep for 7 hours (because that's where the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span> crosses the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span>. See the black arrows which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png)). Also notice that 17 hours plus 7 hours is equal to 24 hours!
 
 ## 24-hour clock
-Now, you might be thinking "The Circadian tab is awesome, but figuring out the most frequent bedtime on a 24-hour clock using the 'hours from arising' method is a little challenging."
+Now, you might be thinking "The [Circadian tab](#circadian-tab) is awesome, but figuring out the most frequent bedtime on a 24-hour clock using the 'hours from arising' method is a little challenging."
 
 
 
