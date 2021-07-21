@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T12:58:21.019Z
+date: 2021-07-21T13:00:56.070Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -17,9 +17,6 @@ dateCreated: 2021-07-01T20:09:30.684Z
 
 # Introduction
 This guide is a simplified version of the [official manual](https://help.supermemo.org/wiki/Sleep_Chart).
-**dsjvsdjv**
-**jdcnjc*
-
 
 Whenever feasible, I've added brief summaries throughout this guide. They will look something like this:
 > ### Summary
@@ -149,7 +146,7 @@ This pane displays various statistics about the individual days. You can cycle t
 You can also click on Options from the [Menu bar](/supermemo/sleep-chart/empty-timeline.png), then choose Statistics.
 
 # Circadian tab
-This tab gives you a greater insight into your sleep time. According to Dr Piotr Wozniak: "you will need a couple of months of data before this graph becomes meaningful."
+This tab gives you a greater insight into your sleep time. According to Dr. Piotr Wozniak: "you will need a couple of months of data before this graph becomes meaningful."
 
 Again, have a look at the annotated screenshot below:
 
