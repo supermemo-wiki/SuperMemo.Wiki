@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T17:25:07.017Z
+date: 2021-07-21T17:26:32.026Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -68,7 +68,7 @@ From the [annotated screenshot above](/supermemo/sleep-chart/empty-timeline.png)
 
 Before we explain what each of the buttons do, let's have a look at the filled example above (taken from the official manual).
 
-We can see:
+We can see the following:
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span>.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red blocks</span>.
 - Blocks that fade from <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span>.
