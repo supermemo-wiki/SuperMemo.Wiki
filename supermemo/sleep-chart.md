@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T17:20:19.852Z
+date: 2021-07-21T17:22:05.665Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -185,7 +185,7 @@ From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), w
 ## Clock time
 Now, you might be thinking "The [Circadian tab](#circadian-tab) is awesome, but figuring out the most frequent bedtime on a 24-hour clock using the 'hours from arising' method is a little challenging."
 
-Fear not, Sleep Chart has got you covered! Click the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) to get the 24-hour clock graph (I have added the black arrows for illustration):
+Fear not, Sleep Chart has got you covered! Click the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) to get the Clock time graph (I have added the black arrows for illustration):
 
 ![](/supermemo/sleep-chart/circadian-hrs-clock.png)
 
