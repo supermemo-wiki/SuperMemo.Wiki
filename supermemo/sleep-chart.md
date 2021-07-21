@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T13:10:54.422Z
+date: 2021-07-21T13:11:44.407Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -191,6 +191,7 @@ As we discussed in the beginning of this section, the horizontal axis can be int
 - Switching horizontal axis from "Hours from arising" to "Clock time".
 - Removing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span>.
 
+Other than those changes outlined above, everything else is still the same: the blue line still means "bedtime frequency", and the red line still means "average sleep length".
 
 
 
