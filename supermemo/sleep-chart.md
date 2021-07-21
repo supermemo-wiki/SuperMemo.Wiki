@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T13:13:25.481Z
+date: 2021-07-21T13:14:11.425Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -203,8 +203,7 @@ Before you continue, take this opportunity to interpret the [screenshot above](/
 Done? Check your answers below.
 
 From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png), we can infer the following:
-
-
+- Most frequent bedtime occurs at 01:00 (because that's where the FIRST peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs). In fact, 36.4% of the sleep episodes have occurred at this time (we used the right vertical axis to determine this value).
 
 
 .
