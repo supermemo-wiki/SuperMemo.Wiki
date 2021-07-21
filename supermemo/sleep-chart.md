@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T13:09:03.547Z
+date: 2021-07-21T13:09:42.161Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -187,10 +187,18 @@ Fear not, Sleep Chart has got you covered! Click the "Switch between absolute an
 ![](/supermemo/sleep-chart/circadian-hrs-clock.png)
 
 As we discussed in the beginning of this section, the horizontal axis can be interpreted in two ways: absolute and relative hours. And as we saw earlier, pressing the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) changes the graph dramatically by:
+- Shifting the blue line and the red line.
 
 
 
 
+
+
+
+
+.
+.
+.
 
 
 
