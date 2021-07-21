@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T17:14:14.498Z
+date: 2021-07-21T17:15:23.104Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -147,6 +147,8 @@ You can also click on Options from the [Menu bar](/supermemo/sleep-chart/empty-t
 
 # Circadian tab
 This tab gives you a greater insight into your sleep time. According to Dr. Piotr Wozniak: "you will need a couple of months of data before this graph becomes meaningful."
+
+There are two views in this tab: **Hours from arising** and **Clock time**.
 
 ## Hours from arising
 
