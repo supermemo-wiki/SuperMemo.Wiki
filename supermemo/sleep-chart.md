@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T13:12:05.920Z
+date: 2021-07-21T13:12:57.624Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -194,10 +194,18 @@ As we discussed in the beginning of this section, the horizontal axis can be int
 Other than those changes outlined above, everything else is still the same: the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> still means "bedtime frequency", and the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> still means "average sleep length".
 
 ## Sample data interpretation (24-hour clock)
+From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png), we can infer the following:
 
 
 
 
+.
+.
+.
+.
+.
+.
+.
 .
 .
 .
