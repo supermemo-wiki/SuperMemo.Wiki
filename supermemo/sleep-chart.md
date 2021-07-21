@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T13:16:47.969Z
+date: 2021-07-21T13:20:35.288Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -207,18 +207,5 @@ From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png), we 
 - If the user sleeps at this most frequent bedtime, they would get (on average) 7 hours of sleep (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area. See the black arrow which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png)).
 - Most frequent nap time occurs at 16:00 (because that's where the SECOND peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs. See the dashed arrow which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png)).
 - Once again, on average, the naps last for about 1 hour and 30 minutes (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area. See the dashed arrow which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png)).
-
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
 
 
