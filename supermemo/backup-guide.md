@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-04-08T12:39:38.957Z
+date: 2021-07-24T20:45:27.537Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -193,7 +193,7 @@ In this example, the repository we create will be named **SuperMemo_Collection**
 You can choose from a variety of providers. We recommend using GitLab, because:
 1. The free plan offers more file space than its alternatives,
 2. It tracks the history of large files, which is important for collection with large text registries,
-3. GitHub is owned by Microsoft, a company infamous for its abysmal privacy policy.
+3. GitHub is owned by Microsoft, a company infamous for its poor privacy policy.
 
 #### GitLab
 
