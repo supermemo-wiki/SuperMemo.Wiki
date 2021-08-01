@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-01T20:34:17.737Z
+date: 2021-08-01T20:34:27.199Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -15,7 +15,7 @@ dateCreated: 2021-07-01T20:09:30.684Z
 > Thank you!
 {.is-warning}
 
-# Changelog (1st of August 2021)
+# Changelog (1st of August, 2021)
 
 
 # Introduction
