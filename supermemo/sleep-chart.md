@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-01T20:39:09.826Z
+date: 2021-08-01T20:39:51.464Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -210,3 +210,18 @@ From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png), we 
 
 ## Learning Circadian Cycle
 We've discussed sleep exhaustively. Let's now turn our attention to something equally vital: learning.
+
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+
+
