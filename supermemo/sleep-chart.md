@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-07-21T17:40:24.561Z
+date: 2021-08-01T20:31:24.705Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -156,7 +156,7 @@ This is the default view. The annotated screenshot below shows you what this vie
 
 ![](/supermemo/sleep-chart/circadian-hrs-arising.png)
 
-First of all, let's see what the above is showing, and then we will have a look at some [sample data interpretation](#sample-data-interpretation):
+First of all, let's see what the above is showing, and then we will have a look at some [sample data interpretation](#sample-data-interpretation-hours-from-arising):
 - Left vertical axis shows the sleep length.
 - Right vertical axis shows the "percentage of sleep episodes initiated at any given time".
 - Horizontal axis could be interpreted in two ways (depending on whether or not you click the "Switch between absolute hours and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png)). The example above is showing hours from arising. So, the number 0 on the horizontal axis is referring to the waking hour. If you press the previously mentioned button, you will notice three things: first, the graph will change dramatically, and second, the horizontal axis will now read "Clock time" (24-hour clock). Finally, you will notice that the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span> has disappeared.
@@ -181,16 +181,16 @@ From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png), w
 - Most frequent bedtime occurs after 17 hours from arising (because that's where the SECOND peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs). In fact, 19.9% of the sleep episodes have occurred after 17 hours from arising (we used the right vertical axis to determine this value).
 - Most frequent nap time occurs after 7 hours from arising (because that's where the FIRST peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs).
 - On average, the naps last for about 1 hour and 30 minutes (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area. See the black dashed line which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png)).
-- In this example, 17 hours from arising, the user is expected to sleep for 7 hours (because that's where the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span> crosses the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span>. See the black arrows which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png)). Also notice that 17 hours plus 7 hours is equal to 24 hours!
+- In this example, 17 hours from arising, the user is expected to sleep for 7 hours (because that's where the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span> crosses the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span>. See the two black arrows which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-arising.png)). Also notice that 17 hours plus 7 hours is equal to 24 hours!
 
 ## Clock time
 Now, you might be thinking "The [Circadian tab](#circadian-tab) is awesome, but figuring out the most frequent bedtime on a 24-hour clock using the 'hours from arising' method is a little challenging."
 
-Fear not, Sleep Chart has got you covered! Click the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) to get the Clock time graph (I have added the black arrows for illustration):
+Fear not, Sleep Chart has got you covered! Click the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) to get the Clock time graph. Again, we will have a look at some [sample data interpretation](#sample-data-interpretation-clock-time) after discussing the screenshot below:
 
 ![](/supermemo/sleep-chart/circadian-hrs-clock.png)
 
-As we discussed in the beginning of this section, the horizontal axis can be interpreted in two ways: absolute and relative hours. And as we saw earlier, pressing the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) changes the graph dramatically by:
+As we discussed earlier, the horizontal axis can be interpreted in two ways: absolute and relative hours. And as we saw earlier, pressing the "Switch between absolute and relative hours" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) changes the graph dramatically by:
 - Shifting the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> and the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span>.
 - Switching horizontal axis from "Hours from arising" to "Clock time".
 - Removing the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: green;">green line</span>.
@@ -198,18 +198,8 @@ As we discussed in the beginning of this section, the horizontal axis can be int
 Other than those changes outlined above, everything else is still the same: the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> still means "bedtime frequency", and the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> still means "average sleep length".
 
 ## Sample data interpretation (Clock time)
-Before you continue, take this opportunity to interpret the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png). Try to figure out the following:
-- Most frequent bedtime
-- Most frequent nap time
-- Average sleep length that the user gets if they sleep at the most frequent bedtime
-- Average sleep length that the user gets if they sleep at the most frequent nap time
-
-Done? Check your answers below.
-
 From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png), we can infer the following:
 - Most frequent bedtime occurs at 01:00 (because that's where the FIRST peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs). In fact, 36.4% of the sleep episodes have occurred at this time (we used the right vertical axis to determine this value).
-- If the user sleeps at this most frequent bedtime, they would get (on average) 7 hours of sleep (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area. See the black arrow which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png)).
-- Most frequent nap time occurs at 16:00 (because that's where the SECOND peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs. See the dashed arrow which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png)).
-- Once again, on average, the naps last for about 1 hour and 30 minutes (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area. See the dashed arrow which I added to the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png)).
-
-
+- If the user sleeps at this most frequent bedtime, they would get (on average) 7 hours of sleep (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area).
+- Most frequent nap time occurs at 16:00 (because that's where the SECOND peak (from the left) of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span> occurs).
+- Once again, on average, the naps last for about 1 hour and 30 minutes (because the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span> is around this area).
