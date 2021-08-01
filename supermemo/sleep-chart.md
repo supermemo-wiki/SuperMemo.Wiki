@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-01T20:42:41.734Z
+date: 2021-08-01T20:44:58.806Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -212,6 +212,8 @@ From the [screenshot above](/supermemo/sleep-chart/circadian-hrs-clock.png), we 
 We've discussed sleep exhaustively. Let's now turn our attention to something equally vital: learning.
 
 As you may recall, there were some <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red blocks</span> present in the [timeline tab](#timeline-tab). We learned that these blocks represent time spent studying with SuperMemo.
+
+These blocks also have a graph.
 .
 .
 .
