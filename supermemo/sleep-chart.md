@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-03T18:01:22.043Z
+date: 2021-08-03T18:02:23.759Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -15,21 +15,14 @@ dateCreated: 2021-07-01T20:09:30.684Z
 > Thank you!
 {.is-warning}
 
-
-## 3rd of August, 2021
-- Updated the meaning of the term "delayed retirement"
-
-## 1st of August, 2021
-- Updated the picture used in [Clock time](#clock-time) section
-- Added [Learning Circadian Cycle](#learning-circadian-cycle) section
-- Other edits
-
 # Introduction
 This guide is a simplified version of the [official manual](https://help.supermemo.org/wiki/Sleep_Chart).
 
 Whenever feasible, I've added brief summaries throughout this guide. They will look something like this:
 > ### Summary
 > - This is a summary!
+
+You can see the changelog [here](#changelog)
 
 # What is it? Who is it for?
 Sleep Chart is a feature that comes with the SuperMemo software. As the name indicates, it is used to record your sleep.
@@ -232,3 +225,11 @@ These blocks are also represented by a graph to help you spot trends and, hence,
 
 
 
+# Changelog
+## 3rd of August, 2021
+- Updated the meaning of the term "delayed retirement"
+
+## 1st of August, 2021
+- Updated the picture used in [Clock time](#clock-time) section
+- Added [Learning Circadian Cycle](#learning-circadian-cycle) section
+- Other edits
