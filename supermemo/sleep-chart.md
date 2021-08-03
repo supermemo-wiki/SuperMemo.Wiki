@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-03T18:33:00.467Z
+date: 2021-08-03T18:34:19.059Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -111,9 +111,9 @@ Once you press it, these lines and circles will appear. Now, let's have a look a
 - <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span>: These dots predict the dip in you alertness levels during the day. They can be used to figure out the optimal nap time.
 
 > ### Summary:
-> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> = bedtime.
-> - <span style="padding: 3px; color: white; background-color: red;">Red line</span> = wake-up time.
-> - <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span> = nap time.
+> - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> = predicted bedtime.
+> - <span style="padding: 3px; color: white; background-color: red;">Red line</span> = predicted wake-up time.
+> - <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">Aqua dots</span> = predicted nap time.
 
 ## Show time block data
 Now you may be thinking "How am I supposed to tell what time I should be going to bed if the lines are a little squiggly?"
