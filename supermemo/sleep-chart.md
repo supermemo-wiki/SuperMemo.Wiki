@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-03T18:30:44.120Z
+date: 2021-08-03T18:30:52.868Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -234,7 +234,7 @@ In case you still require some extra guidance, I have annotated the graph below:
 # Changelog
 ## 3rd of August, 2021
 - Updated the meaning of the term "[delayed retirement](#filled-timeline-example)"
-- Added some more information to [Learning Circadian Cycle](#learning-circadian-cycle)
+- Added some more information to [Learning Circadian Cycle](#learning-circadian-cycle) section
 
 ## 1st of August, 2021
 - Updated the picture used in [Clock time](#clock-time) section
