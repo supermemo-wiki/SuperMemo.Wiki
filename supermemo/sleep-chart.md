@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-03T18:14:07.415Z
+date: 2021-08-03T18:29:19.164Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -215,6 +215,8 @@ These blocks are also represented by a graph to help you spot trends and, hence,
 
 The interpretation of the <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue line</span>, <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span>, and the 3 axes is exactly the same as before. Therefore, we will not go through them again now.
 
+![](/supermemo/sleep-chart/learning-circadian-cycle.png)
+
 .
 .
 .
@@ -229,7 +231,7 @@ The interpretation of the <span style="padding: 3px; color: rgb(255, 255, 255); 
 
 # Changelog
 ## 3rd of August, 2021
-- Updated the meaning of the term "delayed retirement"
+- Updated the meaning of the term "[delayed retirement](#filled-timeline-example)"
 
 ## 1st of August, 2021
 - Updated the picture used in [Clock time](#clock-time) section
