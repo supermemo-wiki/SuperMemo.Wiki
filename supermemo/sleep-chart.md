@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-03T18:13:47.727Z
+date: 2021-08-03T18:14:00.123Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -213,7 +213,7 @@ As you may recall, there were some <span style="padding: 3px; color: rgb(255, 25
 
 These blocks are also represented by a graph to help you spot trends and, hence, determine the best time to learn. Simply click the "Switch between sleep data and repetition data" [button](/supermemo/sleep-chart/circadian-hrs-arising.png) to get this graph!
 
-The interpretation of the blue line, red line, and the 3 axes is exactly the same as before. Therefore, we will not go through them again now.
+The interpretation of the blue line, <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">red line</span>, and the 3 axes is exactly the same as before. Therefore, we will not go through them again now.
 
 .
 .
