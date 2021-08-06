@@ -2,17 +2,15 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-03-02T22:01:46.494Z
+date: 2021-08-06T18:14:43.705Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
 ---
 
-> All writing is done incrementally. I'd tag pages as done once I am finished.
+> I no longer edit this page. I created my own webpage [Pleasurable Learning](https:/
 {.is-warning}
 
-> Do not hestitate do leave feedback here or privately if you prefer.
-{.is-info}
 
 # Bio
 I am Guillem Palau from Barcelona, Spain. My name translated to English is William Palace. I did suffered a lot in the school system. I wasted my potential. I may say more than usual as I did nothing better than repeating 3 times the same high school year, followed by studyng multiple bachelor and master's degress in college. Now I do learn purely following my learn drive, which luckily survived all years of coercion and I am willing to put all efforts to put the Prussian school model to an end.
@@ -24,14 +22,6 @@ I am Guillem Palau from Barcelona, Spain. My name translated to English is Willi
  Motivation to help other people to undo to harm done by the years of schooling coercion. Introduce people to the pleasure of learning, to restore their learn drive.
  
 
-## Podcast
-
-More information of each episode [here](/en/blogs/guillem/pleasurable-learning-podcast).
-
-<iframe src="https://anchor.fm/pleasurable-learning/embed" height="240px" width="800px" frameborder="0" scrolling="no"></iframe>
-
-> If you want to participate in the podcast sharing your thoughts and experiences, please fill up <a href="https://forms.gle/fXsBXGYNugj6urn27">this form</a> and I will contact you.
-{.is-info}
 
 
 ## Support my work
@@ -46,10 +36,6 @@ I will be able to increase my time commitment here. Hopefully in the future beco
 - [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Schooling Coercion Artwork *Gallery of thought-provoking illustrations*](/en/blogs/guillem/schooling-coercion-artwork)
 {.links-list}
 
-## Articles
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> My schooling experience *Personal anecdotes*](/en/blogs/guillem/my-experience-in-the-school-system)
-- [<span style="color: black;" class="mdi mdi-message-arrow-right-outline mr-1"></span> Learning as a remedy to depression *Free learning has been my therapy to depression*](/en/blogs/guillem/learning-as-a-remedy-to-depression)
-{.links-list}
 
 ## Translations
 I am translating this very same wiki. I am planning to translate large articles such incremental reading.
@@ -81,17 +67,10 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 
 > <b>Discord</b>: WilliamPalace(GuillemPalau)#1890
 
-> <b>YouTube channel</b> [Pleasurable Learning Podcast](https://www.youtube.com/channel/UCtrKs7I5tNeTB-7tzr8IIww) 
-Video version of the podcast. You can either see the guest or just me.
- <b>YouTube channel</b> [Pleasurable Learning Supermemo](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA) 
+> <b>YouTube channel</b> [Pleasurable Learning Supermemo](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA) 
  Focus on SuperMemo software.
 
 
 > <b>Twitter</b> [@guillemlearner](https://twitter.com/guillemlearner)
 focused on learning and schooling
-<b>Twitter</b>: [@schoolslavery](https://twitter.com/schoolslavery)
-contributor to End School Slavery 
 
-
-
-> <b>Twitch</b> (kind of inactive ATM): [pleasurable learning](https://www.twitch.tv/pleasurable_learning)
