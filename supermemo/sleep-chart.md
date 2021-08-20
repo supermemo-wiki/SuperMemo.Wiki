@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:53:13.103Z
+date: 2021-08-20T21:53:44.314Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -239,6 +239,7 @@ Here's a free tip from me to you: the simplest way to interpret this graph is to
 {.is-warning}
 
 Let's have a look at the [annotated screenshot above](/supermemo/sleep-chart/phase-shift-tab.png). If the user wakes up at 07:00 (horizontal axis), then:
+- Using the blue line, we can see that their bedtime will occur at around 00:30 (vertical axis).
 
 
 .
