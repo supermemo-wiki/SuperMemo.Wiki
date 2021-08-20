@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:39:32.584Z
+date: 2021-08-20T21:41:48.497Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -221,7 +221,7 @@ In case you still require some extra guidance, I have annotated the graph below:
 
 
 # Phase shift tab
-
+People with Advanced Sleep Phase Disorder and Delayed sleep phase disorder might benefit from this tab.
 
 .
 .
