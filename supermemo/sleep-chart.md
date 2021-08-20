@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:51:10.806Z
+date: 2021-08-20T21:51:31.119Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -234,6 +234,8 @@ As usual, let's dissect the graph above before having a look at some [sample dat
 
 ## Sample data interpretation (Phase shift tab)
 Here's a free tip from me to you: the simplest way to interpret this graph is to begin with the horizontal axis.
+
+Please keep in mind that these are only estimates, *not* recommendations.
 
 .
 .
