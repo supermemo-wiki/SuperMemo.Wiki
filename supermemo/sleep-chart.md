@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T22:00:20.021Z
+date: 2021-08-20T22:01:19.732Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -80,7 +80,7 @@ Great! But what do they mean?!
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> represent sleep episodes.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red blocks</span> represents learning time. When you use SuperMemo, Sleep Chart keeps track of the time you spend working and generates these blocks. These are collection-specific blocks (in other words, each collection will show these blocks differently, depending on how much you work with each of these collections).
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: magenta;">pink</span> blocks represent interrupted sleep (e.g., by your alarm clock). You can achieve this by pressing <kbd>Ctrl</kbd>+<kbd>A</kbd> on a sleep block. You can also achieve the same thing by right-clicking on a sleep block and selecting "**Forced awakening**".
-- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> blocks represent delayed sleep (things such "falling asleep whilst watching TV" and "not being able to sleep straight after going to be" are considered to be delayed sleep). You can achieve this by pressing <kbd>Ctrl</kbd>+<kbd>D</kbd> on a sleep block. You can also achieve the same thing by right-clicking on a sleep block and selecting "**Delayed retirement**".
+- <span style="padding: 3px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Black</span> to <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">blue</span> blocks represent delayed sleep (things such "falling asleep whilst watching TV" and "not " are considered to be delayed sleep). You can achieve this by pressing <kbd>Ctrl</kbd>+<kbd>D</kbd> on a sleep block. You can also achieve the same thing by right-clicking on a sleep block and selecting "**Delayed retirement**".
 
 > ### Summary:
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> = sleep.
