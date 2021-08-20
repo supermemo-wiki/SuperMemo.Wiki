@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:52:53.351Z
+date: 2021-08-20T21:53:03.546Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -238,7 +238,7 @@ Here's a free tip from me to you: the simplest way to interpret this graph is to
 > Please keep in mind that these are only estimates, *not* recommendations. If the value provided by Sleep Chart appears to be absurd, then apply your judgement and trust your natural instincts (i.e., you must go to sleep if you feel tired). Furthermore, as it has been previously indicated, the graphs are only accurate if you free-run your sleep.
 {.is-warning}
 
-Let's have a look at the annotated screenshot above.
+Let's have a look at the annotated screenshot above. If the user wakes up at 07:00 (horizontal axis), then:
 
 
 .
