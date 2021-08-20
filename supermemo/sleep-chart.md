@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:46:22.237Z
+date: 2021-08-20T21:46:34.614Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -227,8 +227,6 @@ People with [Advanced Sleep Phase Disorder (ASPD)](https://en.wikipedia.org/wiki
 
 As usual, let's dissect the graph above before having a look at some [sample data interpretation](#sample-data-interpretation-phase-shift-tab):
 - Left vertical axis shows the bedtime hours. And, just like in the horizontal axis in the [Circadian tab](#circadian-tab), this axis has two options (which can be modified using the "Switch between absolute hours and relative hours" [button](/supermemo/sleep-chart/phase-shift-tab.png)): hours from arising and clock time.
-
-
 
 ## Sample data interpretation (Phase shift tab)
 
