@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T22:00:03.743Z
+date: 2021-08-20T22:00:20.021Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -258,7 +258,7 @@ Let's have a look at the [annotated screenshot above](/supermemo/sleep-chart/pha
 .
 # Changelog
 ## 20th of August, 2021
-
+- Added [Phase shift tab](#phase-shift-tab) section
 ## 3rd of August, 2021
 - Updated the meaning of the term "[delayed retirement](#sample-timeline)"
 - Added some more information to [Learning Circadian Cycle](#learning-circadian-cycle) section
