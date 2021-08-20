@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:50:02.657Z
+date: 2021-08-20T21:51:01.705Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -233,7 +233,7 @@ As usual, let's dissect the graph above before having a look at some [sample dat
 - <span style="padding: 3px; background-color: fuchsia;">Fuchsia line</span> and <span style="padding: 3px; background-color: silver;">gray line</span> show the siesta/nap period.
 
 ## Sample data interpretation (Phase shift tab)
-
+Here's a free tip from me to you:
 
 .
 .
