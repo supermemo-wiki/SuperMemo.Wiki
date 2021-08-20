@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:43:17.617Z
+date: 2021-08-20T21:43:27.795Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -223,7 +223,7 @@ In case you still require some extra guidance, I have annotated the graph below:
 # Phase shift tab
 People with [Advanced Sleep Phase Disorder (ASPD)](https://en.wikipedia.org/wiki/Advanced_sleep_phase_disorder) and [Delayed Sleep Phase Disorder (DSPD)](https://en.wikipedia.org/wiki/Delayed_sleep_phase_disorder) might benefit from this tab. However, you can still use it to work out the "expected bedtime given a specific natural waking time."
 
-.
+![](/supermemo/sleep-chart/phase-shift-tab.png)
 .
 .
 .
