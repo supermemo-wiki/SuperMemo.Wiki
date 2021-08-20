@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-03T18:44:09.110Z
+date: 2021-08-20T21:39:32.584Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -218,6 +218,10 @@ The interpretation of the <span style="padding: 3px; color: rgb(255, 255, 255); 
 In case you still require some extra guidance, I have annotated the graph below:
 
 ![](/supermemo/sleep-chart/learning-circadian-cycle.png)
+
+
+# Phase shift tab
+
 
 .
 .
