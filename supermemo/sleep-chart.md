@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:49:29.040Z
+date: 2021-08-20T21:49:37.242Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -230,7 +230,7 @@ As usual, let's dissect the graph above before having a look at some [sample dat
 - Horizontal axis shows the natural waking hour (24-hour clock).
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue line</span> shows "the bedtime for days with a given waking hour." Use the left vertical axis to determine the value of this line.
 - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: red;">Red line</span> shows the "next day's waking hours." Use the left horizontal axis to determine the value of this line.
-- <span style="padding: 3px; background-color: fuchsia;">Fuchsia line</span> and gray line show the siesta/nap period.
+- <span style="padding: 3px; background-color: fuchsia;">Fuchsia line</span> and <span style="padding: 3px; background-color: silver;">gray line</span> show the siesta/nap period.
 
 
 ## Sample data interpretation (Phase shift tab)
