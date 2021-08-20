@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2021-08-20T21:51:40.069Z
+date: 2021-08-20T21:51:49.624Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -235,7 +235,7 @@ As usual, let's dissect the graph above before having a look at some [sample dat
 ## Sample data interpretation (Phase shift tab)
 Here's a free tip from me to you: the simplest way to interpret this graph is to begin with the horizontal axis.
 
-Please keep in mind that these are only estimates, *not* recommendations. If the value provided by Sleep Chart appears to be absurd, then apply your judgement and trust your natural instincts (i.e., you must go to sleep if you feel tired).
+Please keep in mind that these are only estimates, *not* recommendations. If the value provided by Sleep Chart appears to be absurd, then apply your judgement and trust your natural instincts (i.e., you must go to sleep if you feel tired). Furthermore, as it has been previously indicated, the graphs are only accurate if you free-run your sleep.
 
 .
 .
