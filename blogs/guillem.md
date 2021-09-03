@@ -2,13 +2,13 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-08-06T22:01:30.878Z
+date: 2021-09-03T15:38:05.021Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
 ---
 
-> I no longer edit this page. I created my own webpage [Pleasurable Learning](https:/www.pleasurable-learning.com)
+> I no longer edit this page. I created my own webpage [Pleasurable Learning](https://www.pleasurable-learning.com)
 {.is-warning}
 
 
