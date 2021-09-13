@@ -2,12 +2,14 @@
 title: Daily Notes
 description: 
 published: true
-date: 2021-03-23T13:13:10.968Z
+date: 2021-09-13T15:08:36.416Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T14:23:19.314Z
 ---
 
+# THESE DAYS I WRITE IN SUBSTACK (for email sub and convenience): 
+LINK: https://storyofthecollective.substack.com/
 # the "Borrowing from others and giving it your own twist"
 
 **Hip-hop** popularized sampling old songs to produce something new. While criticized by “real” musicians, I think it is a fantastic way of building novel concepts. You take samples from one song, maybe borrow more from another, you put them together, connect them and now you have a new concept which is the new song born out of these recycled components. It has a new taste, a new flavor. The original song did not have the twist you gave to it. Your song is not ripped off, it has new characteristics!
