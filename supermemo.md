@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2021-06-19T15:06:39.670Z
+date: 2021-11-15T05:08:41.385Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -24,9 +24,9 @@ dateCreated: 2020-12-05T18:34:19.777Z
 
 [**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} is a program that **makes learning fun and easy**.
 
-SuperMemo is built on three novel learning techniques named [Spaced Repetition](/learning/spaced-repetition), [Incremental Reading](/learning/incremental-reading) and [Knowledge Destructuring](#knowledge-destructuring), all of which were pioneered by Dr. [Piotr Wozniak](/supermemo/piotr-wozniak)[^1], the inventor of SuperMemo. They enable anyone to form long-lasting memories, and to gain new knowledge more efficiently compared to traditional techniques.
+[Piotr Wozniak](/supermemo/piotr-wozniak)[^1], the inventor of SuperMemo, pioneered three innovative learning techniques called [Spaced Repetition](/learning/spaced-repetition), [Incremental Reading](/learning/incremental-reading) and [Knowledge Destructuring](#knowledge-destructuring), all of which are in SuperMemo. Compared to traditional methods, they allow anyone to develop long-lasting memories and learn new information more efficiently.
 
-While the success of SuperMemo is often attributed to its cutting-edge  algorithms and techniques, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the central importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
+While the success of SuperMemo often gets attributed to its cutting-edge algorithms and techniques, Dr. Piotr Wozniak and many <abbr title="Users who have been using SuperMemo for a duration ranging from a few years, up to several decades.">long-time users</abbr> of SuperMemo[^2] emphasize the central importance of [Pleasure of Learning](/learning/pleasure-of-learning) in all forms of learning activities.
 
 ![screenshot-sm18-001.png](/supermemo/screenshots/screenshot-sm18-001.png =800x)
 
