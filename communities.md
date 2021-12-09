@@ -2,9 +2,9 @@
 title: SuperMemo Communities
 description: Exhaustive list of SuperMemo communities.
 published: true
-date: 2020-12-19T18:09:51.160Z
+date: 2021-12-09T09:31:30.172Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-12-05T21:29:22.839Z
 ---
 
@@ -16,6 +16,12 @@ dateCreated: 2020-12-05T21:29:22.839Z
 
 # Chinese Community
 
+- [<span class="mdi mdi-telegram mr-1"></span> Telegram (<i>SuperMemo 18 & Anki 学习交流</i>)](https://t.me/anki_app)
+- [<span style="color: #BB8555;" class="mdi mdi-qqchat mr-1"></span> QQ groups](#QQ-Community)
+{.links-list}
+
+## QQ Community
+
 The largest SM Chinese communities are using a software called [QQ](https://en.wikipedia.org/wiki/Tencent_QQ).
 
 > ⚠️ **Disclaimer**
@@ -25,7 +31,7 @@ The largest SM Chinese communities are using a software called [QQ](https://en.w
 > You might be unable to register without a Chinese number.
 {.is-warning}
 
-## Downloading QQ
+### Downloading QQ
 
 1. Browse to the [QQ download page](https://im.qq.com/pcqq/)
 2. Click where the arrow points to download QQ for PC (see below)
