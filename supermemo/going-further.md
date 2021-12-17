@@ -2,7 +2,7 @@
 title: Going Further With SuperMemo
 description: Tips for progressing from amateur level to expert.
 published: true
-date: 2021-06-19T15:17:30.255Z
+date: 2021-12-17T17:44:14.377Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T17:28:23.407Z
@@ -21,6 +21,7 @@ These **in-depth learning guides** introduce advanced techniques for maximizing 
 - [<span style="color: #666;" class="mdi mdi-emoticon mr-1"></span> Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/learning/pleasure-of-learning)
 - [<span style="color: #666;" class="mdi mdi-school-outline mr-1"></span> Studying for School *Guides for learning School Material.*](/learning/school)
 - [<span style="color: #666;" class="mdi mdi-fountain-pen-tip mr-1"></span> Incremental Writing *Increase your creativity and writing quality.*](/learning/incremental-writing)
+- [<span style="color: #666;" class="mdi mdi-code-greater-than mr-1"></span> Programming *Teach yourself to code the next SuperMemo.*](/learning/by-topic/programming)
 {.links-list}
 
 ## Incremental learning with IR
