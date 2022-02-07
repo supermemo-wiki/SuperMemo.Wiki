@@ -2,7 +2,7 @@
 title: Minecraft as an analogy to learning
 description: Understanding mining in Minecraft can help us understand learning in real life
 published: true
-date: 2021-03-22T18:32:01.578Z
+date: 2022-02-07T00:35:46.986Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T16:35:46.641Z
@@ -91,3 +91,19 @@ The problem with this "row of blocks" type of mining is not only that it is exce
 Because mining in Minecraft school is so boring, players may start believing that mining is an inherently unpleasant activity, even when no longer in the school. To guide players away from bad mining choices (e.g. breaking iron ore when iron is not needed), the mine drive generates an aversion to those choices, but if players are made to believe that mining is inherently unpleasant, they may ignore this aversion, making the whole mining process less efficient. This is what happened to me. I thought that learning is supposed to be unpleasant, and so when the learn drive generated displeasure towards learning something as a guidance against persisting to learn it, I did persist, thinking that this displeasure is an inherent part of learning.
 
 In Minecraft school, players never have to explore in order to collect their items, they just break blocks in a predefined sequence. As a result, they may never learn how to search and traverse the environment in order to collect the items they need. They may even think that certain items can only be collected in Minecraft school. Some people believe that certain information you can only get in school, whereas all it would take is to explore the Web a bit to find it. **Freedom while exploring is essential to become good at exploring**.
+
+# Rushing when learning is inefficient
+
+Imagine you need some specific type of item, e.g. iron, and you need it fast (e.g. because you expect to face some enemy in the very near future and you need the iron to make weapons and armor). So you rush down in the cave and speed through it until you find iron ores, extract them, then you again speed through until you find more, etc.
+
+You maybe got your iron fast, but you also missed out on opportunities to collect other valuable resources. There simply wasn't time to mine non-urgent blocks. Next time you need them, you'll have to go in the mine again and may even have to traverse the same pathways. Obviously at that point it would have been more efficient for you to extract everything on the first trip, thus amortizing the trip cost, instead of going on two separate trips.
+
+When learning in a state of rush, for example when preparing for a test, we go through information sources (e.g. books, articles, videos) which we feel provide test-relevant information but we ignore all information which isn't relevant for the concepts we are to be tested on. This entails missing many learning opportunities one could have seized when focused on that page or video extract.
+
+[Creative elaborations](https://supermemo.guru/wiki/Creative_elaboration) are not availed. Remote connections are not made between what the book talks about and the unique concepts of interest in our minds. Analogies are not recognized. If only we were to slow down now, we would gain so much more in the long run, at the cost of performing the current task more slowly.
+
+Another way to look at it is in terms of [brain states](https://supermemo.guru/wiki/How_to_solve_any_problem%3F#How_does_the_mental_computation_work.3F). A brain state consits of a set of active [concepts](https://supermemo.guru/wiki/Concept) with a subset of those being in focus. We change brain states by activating and deactivating concepts, and inserting/removing from the focus set. The set of all possible brain states makes up a space, with each specific brain state being a location in that space. So we can liken a brain state to a physical location in Minecraft, like the cave in our example.
+
+When we are in some brain state, we are in a unique position to create knowledge from it (like make a connection between the focus concepts and some other active concept in the background). But if we are rushing, we move away from a brain state before all knowledge could have been extracted. All we extracted was the relevant for the current goal, but we could have missed out on the relevant for other goals which don't happen to be urgent at the time. To create the knowledge we missed, we'd maybe have to come back to the state later, which, assuming it's even possible, carries an expense of time.
+
+So in summary, when we rush we achieve a single and specific goal quicker, but when we take it slower, over the long run we achieve more goals overall.
