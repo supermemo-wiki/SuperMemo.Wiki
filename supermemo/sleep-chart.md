@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:28:54.279Z
+date: 2022-02-14T19:29:12.877Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -253,6 +253,9 @@ To fully comprehend this tab, you must first understand two key sleep principles
 2. Circadian component: sleep is a 24-hour cycle, which peaks and troughs. The word "circadian" comes from the Latin "circa diem", which means "around a day."
 
 You got all that? Cool.
+
+Simply said, "alertness" 
+
 
 
 # Changelog
