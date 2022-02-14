@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:27:15.717Z
+date: 2022-02-14T19:27:29.456Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -249,7 +249,8 @@ Before we get started, I should tell you that things are going to become wild. I
 So, without further ado, let's get down to business.
 
 To fully comprehend this tab, you must first understand two key sleep principles. These are the components of sleep:
-1. Homeostatic component: the more we stay awake, the sleepier we get
+1. Homeostatic component: the more we stay awake, the sleepier we get.
+
 
 
 
