@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:34:12.667Z
+date: 2022-02-14T19:34:36.324Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -260,7 +260,7 @@ For the keen-eyed among you, you may have noticed that there are TWO Alertness t
 
 **Alertness (H)**: this is the homeostatic alertness, which is a measurement of alertness *since that last sleep episode*.
 
-**Alertness (C)**: this is the circadian alertness, which is a measurement of alertness
+**Alertness (C)**: this is the circadian alertness, which is a measurement of alertness *with respect to 
 
 
 
