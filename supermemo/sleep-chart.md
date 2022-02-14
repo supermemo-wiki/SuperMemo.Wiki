@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:49:49.970Z
+date: 2022-02-14T19:50:13.012Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -265,7 +265,7 @@ For the keen-eyed among you, you may have noticed that there are TWO Alertness t
 # Napping tab
 As the name suggests, this tab is for the napping graphs. According to Dr. Wozniak, if your night sleep is shortened, you tend to compensate with naps.
 
-Have a look at the screenshot below.
+Have a look at the screenshot below. I have annotated and explained it.
 
 
 # Changelog
