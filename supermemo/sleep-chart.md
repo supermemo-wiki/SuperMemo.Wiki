@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:33:13.151Z
+date: 2022-02-14T19:34:00.930Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -259,6 +259,8 @@ Simply said, "alertness" in SuperMemo refers to "how alert you are when studying
 For the keen-eyed among you, you may have noticed that there are TWO Alertness tabs: **Alertness (H)** and **Alertness (C)**. You've probably figured it out by now.
 
 **Alertness (H)**: this is the homeostatic alertness, which is a measurement of alertness *since that last sleep episode*.
+
+**Alertness (C)**: this is the circadian alertness
 
 
 
