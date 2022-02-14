@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:23:13.429Z
+date: 2022-02-14T19:23:30.492Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -244,7 +244,7 @@ Let's have a look at the [annotated screenshot above](/supermemo/sleep-chart/pha
 - Using the <span style="padding: 3px; background-color: fuchsia;">fuchsia line</span> and <span style="padding: 3px; background-color: silver;">gray line</span>, we can see that the expected nap period for that given hour is between 15:00 (<span style="padding: 3px; background-color: silver;">gray line</span>) and 16:30 (<span style="padding: 3px; background-color: fuchsia;">fuchsia line</span>).
 
 # Alertness tab
-Before we get started, I should tell you that things are going to become wild. I personally struggled to grasp this topic in such a short amount of time, and as a result, I fear that I may provide you with incorrect information. However, I intend to return to this article (when I have more free time) to double-check that everything is correct. So, I advise you that you refer to official manual just to be safe.
+Before we get started, I should tell you that things are going to become wild. I personally struggled to grasp this topic in such a short amount of time, and as a result, I fear that I may provide you with incorrect information. However, I intend to return to this article (when I have more free time) to double-check that everything is correct. So, I advise you that you refer to official manual just to be safe!
 
 
 
