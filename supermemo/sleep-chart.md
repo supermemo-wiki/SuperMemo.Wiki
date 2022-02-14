@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:30:36.793Z
+date: 2022-02-14T19:30:43.842Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -254,7 +254,7 @@ To fully comprehend this tab, you must first understand two key sleep principles
 
 You got all that? Cool.
 
-Simply said, "alertness" in SuperMemo refers to "how alert you are when studying." This is calculated using the average grade in learning with SuperMemo, according to Dr. Wozniak. So, if you get better grades in the morning and worse grades in the evening
+Simply said, "alertness" in SuperMemo refers to "how alert you are when studying." This is calculated using the average grade in learning with SuperMemo, according to Dr. Wozniak. So, if you get better grades in the morning and worse grades in the evening, it's likely that you're more alert in the morning.
 
 
 
