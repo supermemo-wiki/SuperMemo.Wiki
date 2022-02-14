@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:36:46.116Z
+date: 2022-02-14T19:37:09.403Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -268,7 +268,7 @@ For the keen-eyed among you, you may have noticed that there are TWO Alertness t
 # Changelog
 ## 14th of February, 2022
 - I have not abandoned the article, I promise!
-- Added the [Alertness tab](#alertness-tab) section
+- Added the [Alertness tab](#alertness-tab) section (it's still a work-in-progress).
 
 ## 20th of August, 2021
 - Added [Phase shift tab](#phase-shift-tab) section and added a picture
