@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-14T19:56:59.044Z
+date: 2022-02-28T15:09:09.514Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -40,7 +40,7 @@ Furthermore, please take time to read the following disclaimer from the official
 {.is-info}
 
 # How to access it
-Accessing Sleep Chart can be done via three methods:
+Accessing Sleep Chart can be done via three ways:
 1. Press the <kbd>F12</kbd> button on your keyboard.
 2. Press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> which will bring up SuperMemo Commander. Then begin to type in the word "sleep chart" until you see it appear on the menu. Once it appears, press <kbd>Enter</kbd>.
 3. **Toolkit** > **Sleep Chart** from the main menu that is on the top (a.k.a menu bar).
