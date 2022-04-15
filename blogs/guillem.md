@@ -2,7 +2,7 @@
 title: Guillem's Corner
 description: 
 published: true
-date: 2021-09-03T15:38:05.021Z
+date: 2022-04-15T18:35:57.564Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-18T09:26:43.841Z
@@ -65,11 +65,11 @@ https://youtube.com/playlist?list=PLPw7ZTjtZfQYTXy4FuhJZBdQkNowSydbF) I recorded
 ## Contact & Networks
 > <b>Email</b>: pleasurablelearning at gmail com
 
-> <b>Discord</b>: WilliamPalace(GuillemPalau)#1890
+> <b>Discord</b>: WilliamPalace#1890
 
-> <b>YouTube channel</b> [Pleasurable Learning Supermemo](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA) 
- Focus on SuperMemo software.
-
+> <b>YouTube channel</b> 
+[Pleasurable Learning Supermemo](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)   Focus on SuperMemo software.
+[Pleasurable Learning](https://www.youtube.com/channel/UCco7PYcoKhp85VpoQP7Leog)   Focus on free learning.
 
 > <b>Twitter</b> [@guillemlearner](https://twitter.com/guillemlearner)
 focused on learning and schooling
