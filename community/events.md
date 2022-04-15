@@ -2,7 +2,7 @@
 title: Community Events
 description: A list of all events organized by the SuperMemo.wiki community, past and future.
 published: true
-date: 2022-04-13T21:58:11.780Z
+date: 2022-04-15T18:49:09.408Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-24T14:56:04.358Z
@@ -28,10 +28,25 @@ A listing of all **events organized by** the **SuperMemo.wiki** community. Most 
 - [<span style="color:black" class="mdi mdi-xml mr-1"></span> SuperMemo Code 2021 *Collaborate with others users to create a new SuperMemo plugin (TBA 2021).*](/community/events/hackathons/2021-supermemo-code-1)
 {.links-list}
 
-## Voice chats
+## Voice Chat Events
 
 Topic-specific voice chat conversations are regularly organized on the Discord server.
 
 **🚧&nbsp; Work in progress.**
 
 <!-- todo: insert list here -->
+Here is a list of topics that has been requested in the community:
+
+### Related to SuperMemo and spaced repetition
+- Knowledge Formulation workshop
+- SRS for chess
+- SRS for programming and computer science
+- How to use plan and task list
+- Language learning with SRS
+
+### Events related to free learning
+- Balancing learning + exercise
+- Economics of free learning
+- How to set goals for learning
+- How to acquire new good habits and get rid of bad habits
+
