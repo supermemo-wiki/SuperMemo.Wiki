@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2022-04-20T15:26:11.151Z
+date: 2022-04-20T15:29:36.356Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -175,7 +175,7 @@ To prevent spam we require **manual verification** for new accounts to receive e
 
 # Sponsors
 
-Thanks to our sponsors for helping us build our community:
+Thanks to our sponsors and technology provider for helping us build our community:
 
 - [![Duende IdentityServer](/shared/icons/duende-identityserver-logo2.png =x22){.align-middle} *Open source OIDC and OAuth 2.0 framework for ASP.NET Core.*](https://duendesoftware.com/products/identityserver)
 - [![Matomo](/shared/icons/matomo-logo.webp =x20){.align-middle} *Privacy-focused web analytics platform with 100% data ownership.*](https://matomo.org/)
