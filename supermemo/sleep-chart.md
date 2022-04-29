@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T20:51:25.163Z
+date: 2022-04-29T20:53:03.626Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -299,7 +299,7 @@ To access this graph (quicker):
 
 Another way to access this graph:
 1. Right click on a sleep block
-2. Select "Sleep propensity"
+2. Select "Sleep propensity" (you can also use <kbd>Ctrl</kbd>+<kbd>P</kbd>)
 
 > ### Summary
 > <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> = actual sleep episodes
