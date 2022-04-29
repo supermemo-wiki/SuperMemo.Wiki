@@ -2,7 +2,7 @@
 title: SuperMemo Wiki (Community)
 description: SuperMemo.wiki is a user-driven wiki for SuperMemo,  a program that makes learning easy and fun.
 published: true
-date: 2022-04-20T15:29:44.112Z
+date: 2022-04-29T15:19:26.486Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:21:42.959Z
@@ -153,6 +153,13 @@ There are two main editions of SuperMemo:
 | **Misc**                    | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
 | **Price**                   | $66           | Free       | Freemium   | Free (iOS $24.99)
 
+
+<!--
+# Other wiki languages
+
+- [🇪🇸 &nbsp; Spanish *Read this wiki in Spanish.*](/es/)
+{.links-list}
+-->
 
 # About this wiki
 
