@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:38:47.845Z
+date: 2022-04-29T21:39:02.433Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -340,17 +340,3 @@ You will notice that there are many lines on this graph. I, personally, only use
 - Updated the picture used in [Clock time](#clock-time) section
 - Added [Learning Circadian Cycle](#learning-circadian-cycle) section
 - Other edits
-
-
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
