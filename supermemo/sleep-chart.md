@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:43:23.179Z
+date: 2022-04-29T21:45:52.813Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -264,6 +264,7 @@ For the keen-eyed among you, you may have noticed that there are TWO Alertness t
 
 I have asked for a better explanation of the differences between the two, and here is the response that I got:
 > <!-- TODO: SuperMemoPedia was down on 29th of April, 2022. Therefore, I couldn't access the response. -->
+> .
 
 I also got a better definition of the terms "natural waking hour" and "last sleep episode."
 
