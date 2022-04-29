@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T20:54:09.842Z
+date: 2022-04-29T20:54:24.734Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -297,7 +297,7 @@ To access this graph (faster):
 1. Hold <kbd>Shift</kbd> on your keyboard and press on a day row in the [Timeline tab](#timeline-tab)
 
 Another way to access this graph:
-1. Right click on a sleep block
+1. Right click on a sleep block in the [Timeline tab](#timeline-tab)
 2. Select "Sleep propensity" (you can also use <kbd>Ctrl</kbd>+<kbd>P</kbd>)
 
 > ### Summary
