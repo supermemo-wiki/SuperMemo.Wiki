@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-02-28T15:09:09.514Z
+date: 2022-04-29T19:56:47.061Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -256,11 +256,11 @@ You got all that? Cool.
 
 Simply said, "alertness" in SuperMemo refers to "how alert you are when studying." This is calculated using the average grade in learning with SuperMemo, according to Dr. Wozniak. So, if you get better grades in the morning and worse grades in the evening, it's likely that you're more alert in the morning.
 
-For the keen-eyed among you, you may have noticed that there are TWO Alertness tabs: **Alertness (H)** and **Alertness (C)**. You've probably figured it out by now.
+For the keen-eyed among you, you may have noticed that there are TWO Alertness tabs: **Alertness (H)** and **Alertness \(C\)**. You've probably figured it out by now.
 
 **Alertness (H)**: this is the homeostatic alertness, which is a measurement of alertness *since that last sleep episode*.
 
-**Alertness (C)**: this is the circadian alertness, which is a measurement of alertness *with respect to the circadian time (i.e., "time measured since the optimum natural waking hour")*. This is a little trickier to understand, I know.
+**Alertness \(C\)**: this is the circadian alertness, which is a measurement of alertness *with respect to the circadian time (i.e., "time measured since the optimum natural waking hour")*. This is a little trickier to understand, I know.
 
 # Napping tab
 As the name suggests, this tab is for the napping graphs. According to Dr. Wozniak, if your night sleep is shortened, you tend to compensate with naps.
