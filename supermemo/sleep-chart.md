@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T20:00:06.817Z
+date: 2022-04-29T20:02:04.498Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -275,6 +275,9 @@ Have a look at the [screenshot below](/supermemo/sleep-chart/napping.png). I hav
 Note: The size of the blue dots reflects how much information is available. As a result, the larger the dot, the more data is collected, and thus the plot is more accurate.
 
 ![](/supermemo/sleep-chart/napping.png)
+
+# Learning tab
+
 
 # Changelog
 ## 14th of February, 2022
