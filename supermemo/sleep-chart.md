@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:06:55.574Z
+date: 2022-04-29T21:07:09.161Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -300,7 +300,7 @@ Another way to access this graph:
 1. Right click on a sleep block in the [Timeline tab](#timeline-tab)
 2. Select "Sleep propensity" (you can also use <kbd>Ctrl</kbd>+<kbd>P</kbd>)
 
-There are many lines on this graph. I, personally, only use 2 of them: the <span style="padding: 3px; color: white; background-color: red;">Red line</span> and the <span style="padding: 3px; background-color: aqua;">Aqua line</span>
+There are many lines on this graph. I, personally, only use 2 of them: the <span style="padding: 3px; color: white; background-color: red;">red line</span> and the <span style="padding: 3px; background-color: aqua;">aqua line</span>.
 
 > ### Summary
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> = actual sleep episodes
