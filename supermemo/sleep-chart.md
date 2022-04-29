@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T20:45:16.173Z
+date: 2022-04-29T20:45:39.310Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -296,7 +296,7 @@ SuperMemo predicts the homeostatic and circadian status of overall sleep propens
 
 > ### Summary
 > <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> = actual sleep episodes
-> <span style="padding: 3px; background-color: aqua;">Aqua line</span> = 24 hour circadian sleep propensity
+> <span style="padding: 3px; background-color: aqua;">Aqua line</span> = 24 hour circadian sleep propensity. The peaks mean that you are more sleepy.
 
 
 
