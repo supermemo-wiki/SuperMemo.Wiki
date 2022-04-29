@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T20:02:04.498Z
+date: 2022-04-29T20:09:51.817Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -277,7 +277,7 @@ Note: The size of the blue dots reflects how much information is available. As a
 ![](/supermemo/sleep-chart/napping.png)
 
 # Learning tab
-
+In this tab, you can have a look at the correlation between your sleep and the number of learning hours.
 
 # Changelog
 ## 14th of February, 2022
