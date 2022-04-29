@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T20:53:21.366Z
+date: 2022-04-29T20:53:43.986Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -294,8 +294,7 @@ In this tab, you can have a look at the correlation between your sleep and the n
 SuperMemo predicts the homeostatic and circadian status of overall sleep propensity (i.e., how sleepy you feel) based on the user's sleep data.
 
 To access this graph (faster):
-1. Head over to [Timeline tab](#timeline-tab)
-2. Hold Shift on your keyboard and press on a day row
+1. Hold Shift on your keyboard and press on a day row in the [Timeline tab](#timeline-tab)
 
 Another way to access this graph:
 1. Right click on a sleep block
