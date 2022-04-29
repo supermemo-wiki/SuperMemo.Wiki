@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:04:30.310Z
+date: 2022-04-29T21:05:37.213Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -307,6 +307,7 @@ Another way to access this graph:
 > - <span style="padding: 3px; color: white; background-color: green;">Green line</span> = an inverse of the homeostatic sleep propensity
 > - <span style="padding: 3px; background-color: yellow;">Yellow vertical lines</span> = circadian middle-of-the-night peak
 > - <span style="padding: 3px; color: white; background-color: red;">Red line</span> = resultant alertness. The higher the peak, the more alert you are *predicted* to be.
+> - <span style="padding: 3px; background-color: fuchsia;">Vertical fuchsia line</span> = marks the 24th hour (i.e., the end of the day)
 
 
 
