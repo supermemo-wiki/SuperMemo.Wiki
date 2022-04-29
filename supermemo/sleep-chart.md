@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:28:30.458Z
+date: 2022-04-29T21:29:27.593Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -291,7 +291,7 @@ In this tab, you can have a look at the correlation between your sleep and the n
 
 
 # Two-component sleep model
-SuperMemo predicts the homeostatic and circadian status of overall sleep propensity (i.e., how sleepy you feel) based on the user's sleep data.
+SuperMemo predicts the homeostatic and circadian status of overall sleep propensity (i.e., how sleepy you feel) based on the user's sleep data. This is, without a doubt, my favourite Sleep Chart feature. It's something I use on a daily basis.
 
 ![](/supermemo/sleep-chart/two-component.png)
 
