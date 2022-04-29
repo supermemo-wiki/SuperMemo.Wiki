@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:35:24.659Z
+date: 2022-04-29T21:37:57.479Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -293,16 +293,16 @@ In this tab, you can have a look at the correlation between your sleep and the n
 # Two-component sleep model
 SuperMemo predicts the homeostatic and circadian status of overall sleep propensity (i.e., how sleepy you feel) based on the user's sleep data. This is, without a doubt, my favourite Sleep Chart feature. It's something I use on a daily basis.
 
-There are many lines on this graph. I, personally, only use 2 of them: the <span style="padding: 3px; color: white; background-color: red;">red line</span> and the <span style="padding: 3px; background-color: aqua;">aqua line</span>.
-
-![](/supermemo/sleep-chart/two-component.png)
-
 To access this graph (faster):
 1. Hold <kbd>Shift</kbd> on your keyboard and press on a day row in the [Timeline tab](#timeline-tab)
 
 Another way to access this graph:
 1. Right click on a sleep block in the [Timeline tab](#timeline-tab)
 2. Select "Sleep propensity" (you can also use <kbd>Ctrl</kbd>+<kbd>P</kbd>)
+
+There are many lines on this graph. I, personally, only use 2 of them: the <span style="padding: 3px; color: white; background-color: red;">red line</span> and the <span style="padding: 3px; background-color: aqua;">aqua line</span>.
+
+![](/supermemo/sleep-chart/two-component.png)
 
 > ### Summary
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> = actual sleep episodes (see [Sample timeline](#sample-timeline) for more information about these blocks).
