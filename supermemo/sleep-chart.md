@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T20:46:11.356Z
+date: 2022-04-29T20:48:42.240Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -293,10 +293,11 @@ In this tab, you can have a look at the correlation between your sleep and the n
 # Two-component sleep model
 SuperMemo predicts the homeostatic and circadian status of overall sleep propensity (i.e., how sleepy you feel) based on the user's sleep data.
 
+To access this graph, head over to 
 
 > ### Summary
 > <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> = actual sleep episodes
-> <span style="padding: 3px; background-color: aqua;">Aqua line</span> = 24 hour circadian sleep propensity. The peaks mean that you are more sleepy, and thus, a nap is good idea.
+> <span style="padding: 3px; background-color: aqua;">Aqua line</span> = 24 hour circadian sleep propensity. The peaks mean that you are more sleepy, and thus, a nap is good idea. If you remember, the <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dots</span> that we on 
 
 
 
