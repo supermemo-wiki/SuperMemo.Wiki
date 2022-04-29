@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:30:03.017Z
+date: 2022-04-29T21:30:34.901Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -283,8 +283,8 @@ In this tab, you can have a look at the correlation between your sleep and the n
 
 
 > ### Summary
-> Vertical axis = sleep obtained in the first 11 hours from bedtime
-> Horizontal axis = 
+> - Vertical axis = sleep obtained in the first 11 hours from bedtime
+> - Horizontal axis = 
 
 
 # Consolidation tab
