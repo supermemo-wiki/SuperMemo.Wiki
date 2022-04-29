@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:39:13.050Z
+date: 2022-04-29T21:41:15.470Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -263,7 +263,7 @@ For the keen-eyed among you, you may have noticed that there are TWO Alertness t
 **Alertness \(C\)**: this is the circadian alertness, which is a measurement of alertness *with respect to the circadian time (i.e., "time measured since the optimum natural waking hour")*. This is a little trickier to understand, I know.
 
 I have asked for a better explanation of the differences between the two, and here is the response that I got:
-> 
+> TODO: SuperMemoPedia was down on 29th of April, 2022.
 
 I also got a better definition of the terms "natural waking hour" and "last sleep episode."
 
@@ -283,7 +283,7 @@ In this tab, you can have a look at the correlation between your sleep and the n
 
 
 > ### Summary
-> - Vertical axis = sleep obtained in the first 11 hours from bedtime
+> - Vertical axis = sleep obtained in the first 11 hours from bedtime (?)
 > - Horizontal axis = 
 
 
