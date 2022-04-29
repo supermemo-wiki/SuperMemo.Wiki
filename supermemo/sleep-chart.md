@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:02:33.083Z
+date: 2022-04-29T21:03:27.400Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -304,7 +304,8 @@ Another way to access this graph:
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> = actual sleep episodes
 > - <span style="padding: 3px; background-color: aqua;">Aqua line</span> = 24 hour circadian sleep propensity. The peaks mean that you are more sleepy, and thus, a nap is good idea. If you remember, the <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dots</span> that we talked about in the [Re-compute circadian approximations](#re-compute-circadian-approximations) section above predicted the nap time. Now, the peak of if this <span style="padding: 3px; background-color: aqua;">aqua line</span> represents the <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dots</span>.
 >   - ***In short: peak of <span style="padding: 3px; background-color: aqua;">aqua line</span> = <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dot</span> on [Timeline tab](#timeline-tab).***
-> - <span style="padding: 3px; color: white; background-color: green;">Green line</span> is an inverse of the homeostatic sleep
+> - <span style="padding: 3px; color: white; background-color: green;">Green line</span> = an inverse of the homeostatic sleep propensity
+> - <span style="padding: 3px; background-color: yellow;">Yellow vertical lines</span> = circadian middle-of-the-night peak
 
 
 
