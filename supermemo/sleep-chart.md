@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:48:08.630Z
+date: 2022-04-29T21:48:16.105Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -281,7 +281,6 @@ Note: The size of the blue dots reflects how much information is available. As a
 In this tab, you can have a look at the correlation between your sleep and the number of learning hours.
 
 ![]()
-
 
 > ### Summary
 > - Vertical axis = sleep obtained in the first 11 hours from bedtime (?)
