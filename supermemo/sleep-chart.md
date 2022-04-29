@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T20:29:23.222Z
+date: 2022-04-29T20:35:20.219Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -285,7 +285,8 @@ In this tab, you can have a look at the correlation between your sleep and the n
 # Consolidation tab
 
 
-
+# Two-component sleep model
+SuperMemo predicts the homeostatic and circadian status of overall sleep propensity based on the user's sleep data.
 
 > ### Summary
 > Vertical axis = sleep obtained in the first 11 hours from bedtime
