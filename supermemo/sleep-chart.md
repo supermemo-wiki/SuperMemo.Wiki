@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T19:58:51.650Z
+date: 2022-04-29T20:00:06.817Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -264,6 +264,8 @@ For the keen-eyed among you, you may have noticed that there are TWO Alertness t
 
 I have asked for a better explanation of the differences between the two, and here is the response that I got:
 > 
+
+I also got a better definition of the terms "natural waking hour" and "last sleep episode."
 
 # Napping tab
 As the name suggests, this tab is for the napping graphs. According to Dr. Wozniak, if your night sleep is shortened, you tend to compensate with naps.
