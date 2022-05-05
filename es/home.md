@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-05-05T09:33:20.260Z
+date: 2022-05-05T09:35:13.892Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T16:03:10.051Z
@@ -143,9 +143,9 @@ dateCreated: 2022-04-29T16:03:10.051Z
 
 ## Matriz de comparación de software
 
-There are two main editions of SuperMemo:
-1. :computer: **Desktop** edition, under the moniker *SuperMemo 1* through *SuperMemo 18*,
-2. :globe_with_meridians: **Web** edition, under the moniker *<span>SuperMemo</span>.com*.
+Hay dos ediciones principales de SuperMemo:
+1. :computer: Edición **Desktop**, bajo el nombre de *SuperMemo 1* hasta *SuperMemo 18*,
+2. :globe_with_meridians: Edición **Web** bajo el nombre de  *<span>SuperMemo</span>.com*.
 
 |                              | SM 18        | SM 15      | SM Web     | Anki
 |-----------------------------:|:============:|:==========:|:==========:|:==========:|
