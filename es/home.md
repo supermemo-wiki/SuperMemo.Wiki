@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-29T16:03:10.051Z
+date: 2022-05-05T09:06:12.655Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T16:03:10.051Z
@@ -10,13 +10,13 @@ dateCreated: 2022-04-29T16:03:10.051Z
 
 # SuperMemo
 
-> [**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} is a program that **makes learning fun and easy**.
-> 
-> The methods[^1][^2] it pioneered[^3] will not only enable you to remember the things you learn **forever**, but also to gain knowledge at an **unprecedented rate**.
+> [**SuperMemo**](https://super-memo.com/supermemo18.html){target="_blank"} es un programa que hace el **aprendizaje fácil y placentero**.
+
+> Los métodos[^1][^2] de los que es pionero[^3] no sólo le permitirán recordar las cosas que aprende **para siempre**, sino también adquirir conocimientos a un **ritmo sin precedentes**.
 {.is-success}
 
-- [![evolution1.png](/shared/icons/evolution1.png =x20) Here is why it could change your life *Case-by-case illustration to decide for yourself.*](/supermemo#why-can-supermemo-change-your-life)
-- [<span style="color: #666;" class="mdi mdi-mother-heart mr-1"></span> Humans of SuperMemo *Personal stories from users of SuperMemo.*](/supermemo/humans-of-supermemo)
+- [![evolution1.png](/shared/icons/evolution1.png =x20) He aquí por qué podría cambiar su vida *Ilustración caso por caso para decidir por sí mismo.*](/supermemo#why-can-supermemo-change-your-life)
+- [<span style="color: #666;" class="mdi mdi-mother-heart mr-1"></span> Humanos de SuperMemo *Historia spersonales de usuarios de SuperMemo.*](/supermemo/humans-of-supermemo)
 {.links-list}
 
 [![SuperMemo 18](/supermemo/screenshots/screenshot-sm18-001.png =800x)](/supermemo/screenshots/screenshot-sm18-001.png){target="_blank"}
