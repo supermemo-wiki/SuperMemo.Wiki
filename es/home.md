@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-05-05T09:16:29.605Z
+date: 2022-05-05T09:27:23.235Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T16:03:10.051Z
@@ -133,15 +133,15 @@ dateCreated: 2022-04-29T16:03:10.051Z
   </tbody>
 </table>
 
-## SuperMemo Communities
+## Communidades de SuperMemo
 
-- [<span class="mdi mdi-discord mr-1"></span> Discord (invite) *Home of the community maintaining this website.*](https://discord.gg/vUQhqCT){target="_blank"}
-- [<span class="mdi mdi-discord mr-1"></span> Discord (web) *Web version with guest access to our Discord server.*](https://chat.supermemo.wiki/){target="_blank"}
-- [<span style="color: #FF4500;" class="mdi mdi-reddit mr-1"></span> /r/super_memo *Most active reddit community.*](https://www.reddit.com/r/super_memo/){target="_blank"}
-- [<span style="color: #444;" class="mdi mdi-account-group mr-1"></span> All communities *Exhaustive list of SuperMemo communities.*](/communities){target="_blank"}
+- [<span class="mdi mdi-discord mr-1"></span> Discord (invitación) *Sede de la comunidad que mantiene este sitio web.*](https://discord.gg/vUQhqCT){target="_blank"}
+- [<span class="mdi mdi-discord mr-1"></span> Discord (web) *Versión web con acceso para invitados a nuestro servidor Discord.*](https://chat.supermemo.wiki/){target="_blank"}
+- [<span style="color: #FF4500;" class="mdi mdi-reddit mr-1"></span> /r/super_memo *Comunidad de reddit más activa.*](https://www.reddit.com/r/super_memo/){target="_blank"}
+- [<span style="color: #444;" class="mdi mdi-account-group mr-1"></span> Todas las comunidades *Lista exhaustiva de comunidades de SuperMemo.*](/communities){target="_blank"}
 {.links-list}
 
-## Software Comparison Matrix
+## Matriz de comparación de software
 
 There are two main editions of SuperMemo:
 1. :computer: **Desktop** edition, under the moniker *SuperMemo 1* through *SuperMemo 18*,
@@ -175,42 +175,42 @@ There are two main editions of SuperMemo:
 
 This is a community initiative at writing a **user-friendly documentation** for *SuperMemo* and *learning* in general.
 
-[SuperMemopedia](https://supermemopedia.com/) is another great source of information. The presentation and volume of information available there can be daunting for new users. This initiative attempts to offer an alternative.
+[SuperMemopedia](https://supermemopedia.com/) es otra gran fuente de información. La presentación y el volumen de información disponible en ella pueden resultar desalentadores para los nuevos usuarios. Esta iniciativa intenta ofrecer una alternativa.
 
-Anyone can contribute to this wiki. Follow [the instructions](#editing-this-wiki) on this page.
+Cualquiera puede contribuir a este wiki. Sigue [las instrucciones](#editing-this-wiki) en esta página.
 
-## Editing this Wiki
+## Editar esta Wiki
 
-To prevent spam we require **manual verification** for new accounts to receive editing permission on the Wiki.
+Para evitar el spam, requerimos una **verificación manual** para que las nuevas cuentas reciban permiso de edición en la Wiki.
 
-- [1. Create an Account *Register your personal account on this wiki.*](//supermemo.wiki/login){target="_blank"}
-- [2.a. Become an Editor - Option 1: *Contact `Alexis Incogito#8606` on Discord.*](https://discord.gg/vUQhqCT){target="_blank"}
-- [2.b. Become an Editor - Option 2: *Contact me by email `alexis (at) supermemo.wiki`.*](mailto:alexis%20(add%20an%20arobase%20here)%20supermemo.wiki?subject=[SuperMemo.wiki]%20I%20would%20like%20to%20become%20an%20editor&body=Hello,%0D%0A%0D%0APlease%20add%20me%20to%20the%20editor%20group,%20my%20wiki%20email%20account%20is...%0D%0A%0D%0AThanks!%0D%0AP.S.%20SuperMemo%20is%20amazing.)
+- [1. Crear una cuenta *Registre su cuenta personal en esta wiki..*](//supermemo.wiki/login){target="_blank"}
+- [2.a. Convertirse en editor - Opción 1: *Contacta con `Alexis Incogito#8606` en Discord.*](https://discord.gg/vUQhqCT){target="_blank"}
+- [2.b. Conviértete en editor - Opción 2: *Contacta conmigo por correo electrónico `alexis (at) supermemo.wiki`.*](mailto:alexis%20(add%20an%20arobase%20here)%20supermemo.wiki?subject=[SuperMemo.wiki]%20I%20would%20like%20to%20become%20an%20editor&body=Hello,%0D%0A%0D%0APlease%20add%20me%20to%20the%20editor%20group,%20my%20wiki%20email%20account%20is...%0D%0A%0D%0AThanks!%0D%0AP.S.%20SuperMemo%20is%20amazing.)
 {.links-list}
 
-*[SuperMemopedia]: Official wiki published by the SuperMemo company
+*[SuperMemopedia]: Wiki oficial publicado por la empresa SuperMemo
 
 # Sponsors
 
-Thanks to our sponsors and technology providers for helping us build our community:
+Gracias a nuestros patrocinadores y proveedores de tecnología por ayudarnos a construir nuestra comunidad:
 
-- [![Duende IdentityServer](/shared/icons/duende-identityserver-logo2.png =x22){.align-middle} *Open source OIDC and OAuth 2.0 framework for ASP.NET Core.*](https://duendesoftware.com/products/identityserver)
-- [![Matomo](/shared/icons/matomo-logo.webp =x20){.align-middle} *Privacy-focused web analytics platform with 100% data ownership.*](https://matomo.org/)
-- [![Wiki.js](/shared/icons/wikijs.svg =x22){.align-middle} *A modern, lightweight and powerful wiki app built on NodeJS.*](https://wiki.js.org)
+- [![Duende IdentityServer](/shared/icons/duende-identityserver-logo2.png =x22){.align-middle} *Framework OIDC y OAuth 2.0 de código abierto para ASP.NET Core.*](https://duendesoftware.com/products/identityserver)
+- [![Matomo](/shared/icons/matomo-logo.webp =x20){.align-middle} *Plataforma de análisis web centrada en la privacidad y con un 100% de propiedad de los datos.*](https://matomo.org/)
+- [![Wiki.js](/shared/icons/wikijs.svg =x22){.align-middle} *Una aplicación wiki moderna, ligera y potente construida sobre NodeJS.*](https://wiki.js.org)
 {.links-list}
 
 [^1]: https://supermemo.guru/wiki/Spaced_repetition
 [^2]: https://supermemo.guru/wiki/Incremental_reading
 [^3]: https://supermemo.guru/wiki/History_of_spaced_repetition
 
-[^100]: SM-17 was a [significant leap](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) in the algorithm predictive efficiency. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introduced the stabilization curve.
-[^101]: Based on SM-2, see [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html). For a comparison with SM-18 see [Universal metric](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms#Algorithmic_contest:_SuperMemo_2_vs._SuperMemo_17).
-[^102]: Partial implementation with the Incremental Reading [add-on](https://ankiweb.net/shared/info/935264945).
-[^103]: SuperMemo 15 through 18 has partial [support for Linux](http://supermemopedia.com/wiki/SuperMemo_for_Linux). However, plugins do not work in Linux.
-[^104]: SM 17+ has plugins through [SMA](https://sma.supermemo.wiki/). Anki has a rich add-on [ecosystem](https://ankiweb.net/shared/addons/).
-[^105]: With the [PDF plugin](https://github.com/supermemo/SuperMemoAssistant.Plugins.PDF/).
-[^106]: With the [SIAC addon](https://ankiweb.net/shared/info/1781298089).
-[^107]: Anki decks [can be converted](https://www.youtube.com/watch?v=j6dmQHMGTJs) to SuperMemo.
-[^108]: Using PDF, IR and other Anki addons significantly increases the complexity.
+[^100]: SM-17 fue un [salto significativo](https://supermemopedia.com/wiki/Is_Algorithm_SM-17_much_better_than_Algorithm_SM-15%3F) en la eficacia predictiva del algoritmo. [SM-18](https://supermemo.guru/wiki/Algorithm_SM-18) introdujo la curva de estabilización.
+[^101]: Basado en el SM-2, véase [FAQ](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html). Para una comparación con el SM-18, véase [Universal metric](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms#Algorithmic_contest:_SuperMemo_2_vs._SuperMemo_17).
+[^102]: Partial aplicación con la lectura incremental [add-on](https://ankiweb.net/shared/info/935264945).
+[^103]: SuperMemo 15 a 18 [soporte parcial para Linux](http://supermemopedia.com/wiki/SuperMemo_for_Linux). Sin embargo, los plugins no funcionan en Linux.
+[^104]: SM 17+ dispone de extensiones a través de [SMA](https://sma.supermemo.wiki/). Anki tiene un risco [ecosistema](https://ankiweb.net/shared/addons/) de extensiones.
+[^105]: Con la extensión [PDF plugin](https://github.com/supermemo/SuperMemoAssistant.Plugins.PDF/).
+[^106]: Con la extensión [SIAC addon](https://ankiweb.net/shared/info/1781298089).
+[^107]: Mazo de Anki [se epueden convertir](https://www.youtube.com/watch?v=j6dmQHMGTJs) to SuperMemo.
+[^108]: El uso de PDF, IR y otros complementos de Anki aumenta significativamente la complejidad.
 
 ![SuperMemo.wiki](/supermemo-64.png){.align-abstopright}
