@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-05-05T09:12:53.515Z
+date: 2022-05-05T09:16:29.605Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T16:03:10.051Z
@@ -96,7 +96,7 @@ dateCreated: 2022-04-29T16:03:10.051Z
       </td>
     </tr>
     <tr>
-      <td rowspan="2">
+      <td rowspan="3">
         <p>
           <strong>YouTube</strong>
         </p>
@@ -118,6 +118,16 @@ dateCreated: 2022-04-29T16:03:10.051Z
       </td>
       <td>
         <p>Canal oficial con vídeos publicados por Piotr Wozniak.</p>
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <p>
+          <a target="_blank" href="https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA">PLeasurable Learning SuperMemo</a>
+        </p>
+      </td>
+      <td>
+        <p>Canal con más de 200 videos creado por un usuario entusiasta.</p>
       </td>
     </tr>
   </tbody>
