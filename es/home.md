@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-05-05T09:27:23.235Z
+date: 2022-05-05T09:33:20.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T16:03:10.051Z
@@ -149,19 +149,19 @@ There are two main editions of SuperMemo:
 
 |                              | SM 18        | SM 15      | SM Web     | Anki
 |-----------------------------:|:============:|:==========:|:==========:|:==========:|
-| **Algorithm**               | SM-18[^100]   | SM-15      | SM-18      | SM-2[^101]
-| **Incremental Reading**     | Yes           | Yes        | No         | Partial[^102]
-| **Knowledge Destructuring** | Yes           | Yes        | No         | No
-| **Complexity**              | Complex       | Complex    | Simple     | Medium to Very Complex[^108]
-| **Platforms**               | Windows, Linux[^103] | Windows, Linux | Web, Mobile | Windows, Linux, MacOS, Mobile
-| **Plugins**                 | Yes[^104]     | No         | No         | Yes[^104]
-| **Web import**              | Yes           | Yes        | No         | No
-| **PDF import**              | Yes[^105]     | No         | No         | Yes[^106]
-| **Neural reviews**          | Yes           | No         | No         | No
-| **Premade courses**         | Yes[^107]     | No         | Yes        | Yes
-| **Themes**                  | Yes           | No         | -          | Yes
-| **Misc**                    | [New features](https://super-memory.com/help/new.htm) | -          | [Focus on language learning](https://www.supermemo.com/en/catalog) | -
-| **Price**                   | $66           | Free       | Freemium   | Free (iOS $24.99)
+| **Algorismo**               | SM-18[^100]   | SM-15      | SM-18      | SM-2[^101]
+| **Lectura Incremental**     | Sí          | Sí        | No         | Parcial[^102]
+| **Desestructuración del conocimiento** | Sí           | Sí        | No         | No
+| **Complejidad**              | Complejo      | Complejo    | Simple     | De medio a muy complejo[^108]
+| **Platformas**               | Windows, Linux[^103] | Windows, Linux | Web, Móvil | Windows, Linux, MacOS, Móvil
+| **Extensiones**                 | Sí[^104]     | No         | No         | Sí[^104]
+| **Importación Web**              | Sí          | Sí        | No         | No
+| **Importación de PDF**              | Yes[^105]     | No         | No         | Yes[^106]
+| **Repasos neuronales**          | Sí           | No         | No         | No
+| **Mazos preconstruidos**         | Sí[^107]     | No         | Sí       | Sí
+| **Temas(skins)**                  | Sí           | No         | -          | Sí
+| **Misc**                    | [Nuevas características](https://super-memory.com/help/new.htm) | -          | [Centrarse en el aprendizaje de idiomas](https://www.supermemo.com/en/catalog) | -
+| **Precio**                   | 66$           | Gratis       | Freemium   | Gratis (iOS 24.99$)
 
 
 <!--
@@ -171,9 +171,9 @@ There are two main editions of SuperMemo:
 {.links-list}
 -->
 
-# About this wiki
+# Acerca de esta wiki
 
-This is a community initiative at writing a **user-friendly documentation** for *SuperMemo* and *learning* in general.
+Esta es una iniciativa de la comunidad para escribir una **documentación amigable** para *SuperMemo* y el *aprendizaje* en general.
 
 [SuperMemopedia](https://supermemopedia.com/) es otra gran fuente de información. La presentación y el volumen de información disponible en ella pueden resultar desalentadores para los nuevos usuarios. Esta iniciativa intenta ofrecer una alternativa.
 
