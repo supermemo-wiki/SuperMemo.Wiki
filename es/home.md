@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-05-05T09:06:12.655Z
+date: 2022-05-05T09:12:53.515Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T16:03:10.051Z
@@ -21,26 +21,26 @@ dateCreated: 2022-04-29T16:03:10.051Z
 
 [![SuperMemo 18](/supermemo/screenshots/screenshot-sm18-001.png =800x)](/supermemo/screenshots/screenshot-sm18-001.png){target="_blank"}
 
-## Getting Started
+## Cómo empezar
 
-- [<span style="color: #666;" class="mdi mdi-head-snowflake mr-1"></span> Introduction *The fundamental concepts of SuperMemo.*](/supermemo)
-- [<span style="color: #666;" class="mdi mdi-numeric mr-1"></span> First steps *Installation and Basic usage.*](/supermemo/first-steps)
-- [<span style="color: #666;" class="mdi mdi-road-variant mr-1"></span> Going further *Pointers for progressing to expert levels.*](/supermemo/going-further)
-- [<span style="color: #666;" class="mdi mdi-shield-alert-outline mr-1"></span> Backup Guide *Why risk losing your hard work? Set it up now, and forget about it!*](/supermemo/backup-guide)
+- [<span style="color: #666;" class="mdi mdi-head-snowflake mr-1"></span> Introducción *Los conceptos fundamentales de SuperMemo.*](/supermemo)
+- [<span style="color: #666;" class="mdi mdi-numeric mr-1"></span> Primeros pasos *Instalación y uso básico.*](/supermemo/first-steps)
+- [<span style="color: #666;" class="mdi mdi-road-variant mr-1"></span> Ir más allá *Puntos para progresar a niveles expertos.*](/supermemo/going-further)
+- [<span style="color: #666;" class="mdi mdi-shield-alert-outline mr-1"></span> Guía de copias de seguridad *¿Por qué arriesgarse a perder el trabajo duro? Configúrelo ahora y olvídese de él.*](/supermemo/backup-guide)
 {.links-list}
 
-## Learning Mastery
+## Dominio del aprendizaje
 
-- [<span style="color: #666;" class="mdi mdi-text-box-check mr-1"></span> Knowledge Formulation *Techniques for encoding knowledge.*](/learning/knowledge-formulation)
-- [<span style="color: #666;" class="mdi mdi-book-open-page-variant-outline mr-1"></span> Incremental Reading *How to learn wide and deep, with a smile.*](/learning/incremental-reading)
-- [<span style="color: #666;" class="mdi mdi-emoticon mr-1"></span> Pleasure of Learning *Why learning can be more enjoyable than Netflix.*](/learning/pleasure-of-learning)
-- [<span style="color: #666;" class="mdi mdi-school-outline mr-1"></span> Studying for School *Guides for learning School Material.*](/learning/school)
-- [<span style="color: #666;" class="mdi mdi-fountain-pen-tip mr-1"></span> Incremental Writing *Increase your creativity and writing quality.*](/learning/incremental-writing)
+- [<span style="color: #666;" class="mdi mdi-text-box-check mr-1"></span> Formulación del conocimiento *Técnicas de codificación del conocimiento.*](/learning/knowledge-formulation)
+- [<span style="color: #666;" class="mdi mdi-book-open-page-variant-outline mr-1"></span> Lectura incremental *Cómo aprender de forma amplia y profunda, con una sonrisa.*](/learning/incremental-reading)
+- [<span style="color: #666;" class="mdi mdi-emoticon mr-1"></span> El placer de aprender *Por qué aprender puede ser más agradable que Netflix.*](/learning/pleasure-of-learning)
+- [<span style="color: #666;" class="mdi mdi-school-outline mr-1"></span> Estudiar para la escuela *Guías para aprender el material escolar.*](/learning/school)
+- [<span style="color: #666;" class="mdi mdi-fountain-pen-tip mr-1"></span>  Escritura incremental *Aumenta tu creatividad y la calidad de la escritura.*](/learning/incremental-writing)
 {.links-list}
 
-## Website Matrix
+## Matriz del sitio web
 
-- [<span style="color: black;" class="mdi mdi-github mr-1"></span> Awesome-SuperMemo *Exhaustive list of SuperMemo resources.*](https://github.com/supermemo/awesome-supermemo){target="_blank"}
+- [<span style="color: black;" class="mdi mdi-github mr-1"></span> Awesome-SuperMemo *Lista exhaustiva de recursos de SuperMemo (en inglés)*](https://github.com/supermemo/awesome-supermemo){target="_blank"}
 {.links-list}
 
 <table>
@@ -48,7 +48,7 @@ dateCreated: 2022-04-29T16:03:10.051Z
     <tr>
       <td rowspan="2">
         <p>
-          <strong>Official websites</strong>
+          <strong>Sitios web oficiales</strong>
         </p>
       </td>
       <td>
@@ -57,7 +57,7 @@ dateCreated: 2022-04-29T16:03:10.051Z
         </p>
       </td>
       <td>
-        <p>Expert edition of SuperMemo this very wiki is dedicated to.</p>
+        <p>La edición experta de SuperMemo esta misma wiki está dedicada a.</p>
       </td>
     </tr>
     <tr>
@@ -67,13 +67,13 @@ dateCreated: 2022-04-29T16:03:10.051Z
         </p>
       </td>
       <td>
-        <p>Web-based edition of SuperMemo with an intuitive interface and simplified feature-set.</p>
+        <p>Edición basada en la web de SuperMemo con una interfaz intuitiva y un conjunto de características simplificadas.</p>
       </td>
     </tr>
     <tr>
       <td rowspan="2">
         <p>
-          <strong>Official wiki</strong>
+          <strong>Wiki official</strong>
         </p>
       </td>
       <td>
@@ -82,7 +82,7 @@ dateCreated: 2022-04-29T16:03:10.051Z
         </p>
       </td>
       <td>
-        <p>Official SuperMemo support wiki.</p>
+        <p>Wiki oficial de soporte de SuperMemo.</p>
       </td>
     </tr>
     <tr>
@@ -92,7 +92,7 @@ dateCreated: 2022-04-29T16:03:10.051Z
         </p>
       </td>
       <td>
-        <p><a target="blank" href="/supermemo/piotr-wozniak">Piotr Wozniak</a>'s online book on SuperMemo, learning and education.</p>
+        <p>Libro en línea sobre SuperMemo, aprendizaje y educación de <a target="blank" href="/supermemo/piotr-wozniak">Piotr Wozniak</a> .</p>
       </td>
     </tr>
     <tr>
@@ -103,11 +103,11 @@ dateCreated: 2022-04-29T16:03:10.051Z
       </td>
       <td>
         <p>
-          <a target="_blank" href="https://youtube.com/c/SuperMemoWiki">SuperMemo Community</a>
+          <a target="_blank" href="https://youtube.com/c/SuperMemoWiki">Communidad SuperMemo</a>
         </p>
       </td>
       <td>
-        <p>Channel with videos published by the SuperMemo.wiki community.</p>
+        <p>Canal con videos publicados por la comunidad de SuperMemo.wiki.</p>
       </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ dateCreated: 2022-04-29T16:03:10.051Z
         </p>
       </td>
       <td>
-        <p>Official channel with videos published by Piotr Wozniak.</p>
+        <p>Canal oficial con vídeos publicados por Piotr Wozniak.</p>
       </td>
     </tr>
   </tbody>
