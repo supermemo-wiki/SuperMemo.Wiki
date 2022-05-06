@@ -1,8 +1,8 @@
 ---
-title: Home
-description: 
+title: Wiki de SuperMemo (Comunidad)
+description: SuperMemo.wiki es un wiki impulsada por usuarios para SuperMemo, un programa que hace que el aprendizaje sea fácil y divertido.
 published: true
-date: 2022-05-05T09:35:13.892Z
+date: 2022-05-06T17:51:23.916Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T16:03:10.051Z
