@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-07-17T13:52:03.379Z
+date: 2022-07-17T13:53:14.506Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -310,7 +310,7 @@ This tab maps consolidation against recall. In SuperMemo, consolidation simply m
 
 One thing to note about this tab is that you need to spend a lot of time in SuperMemo, and you need to review a lot of stuff. You also need to have used SuperMemo for a long period of time (years). Otherwise, the graph will be empty.
 
-
+The tab is pretty self-explanatory. The horizontal axis represents the % recall and the % consolidation.
 
 # Two-component sleep model
 SuperMemo predicts the homeostatic and circadian status of overall sleep propensity (i.e., how sleepy you feel) based on the user's sleep data. This is, without a doubt, my favourite Sleep Chart feature. It's something I use on a daily basis.
