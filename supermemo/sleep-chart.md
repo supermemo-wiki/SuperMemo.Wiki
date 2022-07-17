@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-07-17T13:51:55.029Z
+date: 2022-07-17T13:52:03.379Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -308,7 +308,7 @@ Although the documentation is not entirely clear on how to use this graph, I hav
 This tab maps consolidation against recall. In SuperMemo, consolidation simply means the outcome of the review. Consolidation is the "average grade scored in the next repetition." Another good definition is this (from [SuperMemo Help](https://help.supermemo.org/wiki/Glossary:Consolidation)):
 > retention of material repeated on a given day D as measured on the days of successive repetitions of individual elements. Both retention and consolidation are displayed in Toolkit : Calendar under Retention. Calendar displays these values as \<retention> -> \<consolidation>. If you are sleepy or tired on the day D, your retention will be poor, even if your memories are strong. In other words, measured retention is not an ideal reflection of memory retrievability. Consolidation is not measured on a single day. The measurements are gradually added up on days on which successive repetitions of the material repeated on the day D take place. Consequently, consolidation is less dependent on the variability in your recall readiness. At the same time, being tired or sleepy on the day D can affect the consolidation of the material. It is retention that is less dependent on the variability in your consolidation readiness
 
-
+One thing to note about this tab is that you need to spend a lot of time in SuperMemo, and you need to review a lot of stuff. You also need to have used SuperMemo for a long period of time (years). Otherwise, the graph will be empty.
 
 
 
