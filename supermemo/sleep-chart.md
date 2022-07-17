@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-07-17T13:40:57.259Z
+date: 2022-07-17T13:43:29.236Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -305,7 +305,8 @@ Although the documentation is not entirely clear on how to use this graph, I hav
 > - Horizontal axis = 
 
 # Consolidation tab
-.
+This tab 
+
 
 # Two-component sleep model
 SuperMemo predicts the homeostatic and circadian status of overall sleep propensity (i.e., how sleepy you feel) based on the user's sleep data. This is, without a doubt, my favourite Sleep Chart feature. It's something I use on a daily basis.
