@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-07-17T13:05:55.086Z
+date: 2022-07-17T13:06:52.610Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -279,7 +279,7 @@ I have [asked for a better explanation](https://supermemopedia.com/wiki/Sleep_Ch
 
 I also got a better definition of the terms "natural [waking hour](https://supermemopedia.com/wiki/Waking_time)" and "last [sleep episode](https://supermemopedia.com/wiki/Sleep_episode)":
 > **Waking time** is the time of waking up. If you wake up and look at the clock, and it is 9:11, you can say this is your waking time. This may differ from expected natural waking time that depends on the circadian cycle.
-> 
+
 > **Sleep episode** is a single block of sleep marked by waking time before and after. A sleep episode may be shorter than night sleep. For example, if you wake up at 4:20 am to visit the toilet, your sleep episodes might be 23:23-4:20 and 4:26-7:46.
 
 # Napping tab
