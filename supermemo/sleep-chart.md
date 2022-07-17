@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-07-17T13:40:03.133Z
+date: 2022-07-17T13:40:46.720Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -296,6 +296,7 @@ In this tab, you can have a look at the correlation between your sleep and the n
 
 As you can see, there is a mathematical function at the top of the graph. You can plug some numbers in.
 
+Although the documentation is not entirely clear on how to use this graph, I have posted a question on SuperMemopedia to see if additional data can be provided.
 
 ![]()
 
