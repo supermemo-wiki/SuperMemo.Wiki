@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-04-29T21:48:27.089Z
+date: 2022-07-17T13:05:20.396Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -262,11 +262,23 @@ For the keen-eyed among you, you may have noticed that there are TWO Alertness t
 
 **Alertness \(C\)**: this is the circadian alertness, which is a measurement of alertness *with respect to the circadian time (i.e., "time measured since the optimum natural waking hour")*. This is a little trickier to understand, I know.
 
-I have asked for a better explanation of the differences between the two, and here is the response that I got:
-> <!-- TODO: SuperMemoPedia was down on 29th of April, 2022. Therefore, I couldn't access the response. -->
-> .
+I have [asked for a better explanation](https://supermemopedia.com/wiki/Sleep_Chart:_Alertness_(H)_vs._Alertness_(C)) of the differences between the two, and here is the response that I got:
+> Alertness can be studied in reference to homeostatic (H) and circadian (C) variables, however, those variables cannot be easily disentangled. High alertness is the effect of maximum circadian alertness and minimum homeostatic fatigue. That state can be safely marked as the state that maximizes alertness for both variables. This state should characterize early morning in a healthy sleep cycle. However, low alertness may be caused by changes in any of the alertness variables. When both H and C variables show alertness minima, natural sleep occurs.
+> 
+> Circadian alertness shows how alertness changes during a waking day. It is plotted against the waking time.
+> 
+> Homeostatic alertness cannot be separated from circadian variables except for a short period after waking when it declines exponentially.
+> 
+> This is why homeostatic alertness plotted against waking day that is not interrupted by sleep is the closes approximation of homeostatic drop in mental efficiency.
+> 
+> In non-nappers the graphs may turn out similar as the homeostatic curve may span beyond the circadian dip in alertness followed by seeming "recovery".
+> 
+> https://supermemo.guru/wiki/Sleep_and_learning#Alertness_multiplier
 
-I also got a better definition of the terms "natural waking hour" and "last sleep episode."
+I also got a better definition of the terms "natural [waking hour](https://supermemopedia.com/wiki/Waking_time)" and "last [sleep episode](https://supermemopedia.com/wiki/Sleep_episode)":
+> **Waking time** is the time of waking up. If you wake up and look at the clock, and it is 9:11, you can say this is your waking time. This may differ from expected natural waking time that depends on the circadian cycle.
+> 
+> **Sleep episode** is a single block of sleep marked by waking time before and after. A sleep episode may be shorter than night sleep. For example, if you wake up at 4:20 am to visit the toilet, your sleep episodes might be 23:23-4:20 and 4:26-7:46.
 
 # Napping tab
 As the name suggests, this tab is for the napping graphs. According to Dr. Wozniak, if your night sleep is shortened, you tend to compensate with naps.
