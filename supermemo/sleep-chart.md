@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-07-17T13:05:30.137Z
+date: 2022-07-17T13:05:55.086Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -274,6 +274,8 @@ I have [asked for a better explanation](https://supermemopedia.com/wiki/Sleep_Ch
 > In non-nappers the graphs may turn out similar as the homeostatic curve may span beyond the circadian dip in alertness followed by seeming "recovery".
 > 
 > https://supermemo.guru/wiki/Sleep_and_learning#Alertness_multiplier
+> 
+> Every sleep episode ends with waking (naturally), but "last sleep episode" refers to the episode before a longer waking time (e.g. subjective day). The end of the episode may then mark the start of collecting data for measuring homeostatic alertness.
 
 I also got a better definition of the terms "natural [waking hour](https://supermemopedia.com/wiki/Waking_time)" and "last [sleep episode](https://supermemopedia.com/wiki/Sleep_episode)":
 > **Waking time** is the time of waking up. If you wake up and look at the clock, and it is 9:11, you can say this is your waking time. This may differ from expected natural waking time that depends on the circadian cycle.
