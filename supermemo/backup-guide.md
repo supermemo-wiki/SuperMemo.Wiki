@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2022-12-12T13:42:10.500Z
+date: 2022-12-12T14:02:46.999Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -264,8 +264,10 @@ Your folder should look similar to the example below (*.gitignore* might be miss
 
 #### Pushing (*\"saving\"*) your work to git
 
-> Every time you finish using SuperMemo, make sure to run `sm-main-commit.bat` (see below).
+> Every time you finish using SuperMemo, **make sure to synchronize your collection** using of the methods below.
 {.is-info}
+
+##### Simple synchronization
 
 1. <a href="/reference-manual/backup-guide/sm-main-commit.bat" target="_blank" rel="noopener">Download this .bat file</a> and save it in your local repository folder (where your `.git` directory is located). It contains the following commands:
 
@@ -277,6 +279,16 @@ git push
 2. Run `sm-main-commit.bat` (double click). If all went well, your should be able to see your collection in your GitHub repository web page.
 
 That's all! Your collection is synchronized online, congratulations!
+
+##### Advanced synchronization
+
+Community member **@Owl** created an advanced synchronization scripts with the following benefits:
+
+1. Facilitates synchronizing collections across computers with git ;
+2. Provides additional safety by further automating pushing to git, and protecting you against forgetfullness ;
+
+- [📥 &nbsp; Download and Install *SuperMemo-Git-sync*](https://github.com/supermemo/SuperMemoScripts/tree/master/SuperMemo-Git-sync)
+{.links-list}
 
 ### Optional: Pin commit script to taskbar
 
