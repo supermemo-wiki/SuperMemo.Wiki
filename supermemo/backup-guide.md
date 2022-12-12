@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2022-12-12T14:19:31.925Z
+date: 2022-12-12T14:20:37.417Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -53,7 +53,7 @@ A partition keeps your SuperMemo files completely seperate from your Window's C:
 > 
 > Now you go back to your collection and realize that you have mistakenly deleted a whole branch. You look into your backup history, but to your horror it is empty!
 >
-> In fact, deleting that 5GB file filled your snapshot reserve space with the movie's content. And since your snapshot reserve size was 5GB, it filled the entire space.
+> In fact, deleting that 5GB file filled your snapshot reserve space with the movie's content. And since your snapshot reserve size was 5GB, it filled the entire space, flushing out previous data from your collection.
 
 Creating a partition will dedicate the entire snapshot reserve space to content on that partition only. It will help to prevent a story like that from happening to you.
 
