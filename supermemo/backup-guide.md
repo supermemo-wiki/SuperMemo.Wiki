@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2021-07-24T20:45:27.537Z
+date: 2022-12-12T13:42:10.500Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -40,7 +40,7 @@ As of the moment of writing this guide (2020/02), this solution is **free** (as 
 
 [BitShelter](https://github.com/alexis-/BitShelter) *(a.k.a. SuperMemo Backup)* is a software that keeps a version history of your files. It is similar in concept to using Ctrl+Z in your favourite text editor, only applied to files.
 
-### I) (*Optional*) Create a partition for your SuperMemo collections
+### I) Create a partition for your SuperMemo collections
 
 For easier management of your files, and to save space for the frequent snapshots (more on this later), we recommend creating a partition dedicated to your SuperMemo collection. A partition will allow you to keep your SuperMemo files completely seperated from your Window's C:/ drive.
 
