@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2022-12-12T14:02:46.999Z
+date: 2022-12-12T14:19:31.925Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -42,7 +42,20 @@ As of the moment of writing this guide (2020/02), this solution is **free** (as 
 
 ### I) Create a partition for your SuperMemo collections
 
-For easier management of your files, and to save space for the frequent snapshots (more on this later), we recommend creating a partition dedicated to your SuperMemo collection. A partition will allow you to keep your SuperMemo files completely seperated from your Window's C:/ drive.
+A partition keeps your SuperMemo files completely seperate from your Window's C:/ drive, with the following benefits:
+- Fully dedicates the snapshot disk space to SuperMemo ;
+- Better organization and easier management of your precious files.
+
+**Not creating a partition for your SM collection puts you at risk**. _Explanation_:
+> Imagine that you have been conscientiously using SuperMemo with the peace of mind that your work is backed up and secure.
+> 
+> You've worked hard today and want to indulge in watching a movie. You watch the movie, it was good, and now that it's finished, you delete the 5GB file (it's HD).
+> 
+> Now you go back to your collection and realize that you have mistakenly deleted a whole branch. You look into your backup history, but to your horror it is empty!
+>
+> In fact, deleting that 5GB file filled your snapshot reserve space with the movie's content. And since your snapshot reserve size was 5GB, it filled the entire space.
+
+Creating a partition will dedicate the entire snapshot reserve space to content on that partition only. It will help to prevent a story like that from happening to you.
 
 #### Partition size
 
