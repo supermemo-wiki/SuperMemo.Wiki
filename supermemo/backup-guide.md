@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2022-12-12T14:20:37.417Z
+date: 2022-12-22T12:58:17.291Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -414,3 +414,5 @@ For more please read [Duplicati 2 User's Manual](https://docs.duplicati.com).
 > 💬 **Luke Avedon**: “*Back up your collection.  I'm ashamed to admit I used to never back up my collection.  Once while running a quick, 'repair collection' I lost power.  An entire section of my knowledge tree was mangled forever.  All the references changed to strange, incomprehensible characters.  Now I know better.  I automatically back up to two local hard drives, and three cloud drives each day.*”
 
 > 💬 **Nour**: “*Well, I'm a bit new to SM and although I was warned, I did not understand the gravity of the warnings. Back-up your collection. Since I'm new, I don't understand a lot of the issues, but I know I didn't do anything to provoke them, and yet the combination of SM and my virtual machine had corrupted and misplaced files and needed to be repaired – with the repairs yielding some unwanted adjustments to my collection. Of course, if all your final prep is on SM, you'd be having heart palpitations at the thought of your collection getting messed up, I know I was. Sufficed to say lesson learned. The hard way, but learned never-the-less.*”
+
+> 💬 **Godfreyla**: "*I had an issue with my hard drive, and to cut a long story short my laptop died. I had around 2 years’ worth of Supermemo use completely gone! But fortunately, I’d followed the guidance around setting up local backups and more importantly, internet backups using git and GitLab. It might take you a couple of hours to set up (and in the process you learn some new things), but knowing what I do now, I’d go so far to say it’s probably not worth the risk of using SM without having this backup strategy in place!*"
