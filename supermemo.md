@@ -2,7 +2,7 @@
 title: Introduction to SuperMemo
 description: Essential concepts to understand SuperMemo.
 published: true
-date: 2021-11-15T05:25:14.561Z
+date: 2022-12-22T13:20:23.421Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-05T18:34:19.777Z
@@ -422,7 +422,7 @@ graph LR
 graph LR
     IR-rep2-step1>"Do IR"]
     IR-rep2-step2("<p class='pt-0 mb-2'><b>Extracted text from Day 1 comes up</b></p><img src='/supermemo/incremental-reading/ir-2nd-rep-step-1.png'; width='250px' height='93px'/>")
-    IR-rep2-step3("<p class='pt-0 mb-2'><b>Create a <i>fill the blank</i> question</b></p><img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='98px'/>")
+    IR-rep2-step3("<p class='pt-0 mb-2'><b>Create a <i>Cloze</i> item</b></p><img src='/supermemo/incremental-reading/ir-2nd-rep-step-2.png'; width='250px' height='98px'/>")
     IR-rep2-step4>"Continue IR"]
     
     IR-rep2-step1 --> IR-rep2-step2
