@@ -2,18 +2,11 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-12-25T19:14:02.386Z
+date: 2022-12-25T19:14:35.142Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
 ---
-
-> Please keep in mind that this page is a work-in-progress. When this banner vanishes, you'll know this article is done. Follow the steps indicated [here](https://www.supermemo.wiki/en/home#editing-this-wiki) if you would like to contribute.
->
-> As always, your feedback is greatly valued. Let us know what you liked most/least about this guide!
->
-> Thank you!
-{.is-warning}
 
 # Introduction
 This guide is a simplified version of the [official manual](https://help.supermemo.org/wiki/Sleep_Chart).
