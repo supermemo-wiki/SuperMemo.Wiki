@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-12-25T15:42:32.848Z
+date: 2022-12-25T15:44:38.455Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -302,8 +302,12 @@ Although the documentation is not entirely clear on how to use this graph, I hav
 
 However, from what I gather, it is pretty straight forward.
 
+## Mode 1
+In this mode, you can take a look at the amount of learning vs. amount of sleep.
 
-![]()
+![](/supermemo/sleep-chart/learningtab.png)
+
+## Mode 2
 
 > ### Summary
 > - Vertical axis = sleep obtained in the first 11 hours from bedtime (?)
