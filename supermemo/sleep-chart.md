@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-12-25T15:29:37.526Z
+date: 2022-12-25T15:30:48.068Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -293,6 +293,8 @@ Note: The size of the blue dots reflects how much information is available. As a
 
 # Learning tab (WIP, waiting for official answers)
 In this tab, you can have a look at the correlation between your sleep and the number of learning hours.
+
+Furthermore, there are 2 modes to this graph. The second mode can be activated by left clicking the graph once (to revert back to mode 1, you need to switch to another tab).
 
 As you can see, there is a mathematical function at the top of the graph. You can plug some numbers in, and work out a value.
 
