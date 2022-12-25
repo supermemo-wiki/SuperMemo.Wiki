@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-12-25T15:19:23.508Z
+date: 2022-12-25T15:19:32.237Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -300,7 +300,7 @@ Although the documentation is not entirely clear on how to use this graph, I hav
 
 However, from what I gather, it is pretty straight forward.
 
-In the example provided by the official manual, we can see that there is a formula at the top.
+In the example provided by the official manual, we can see that there is a formula at the top. This will make your life a lot easier.
 
 ![]()
 
