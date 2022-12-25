@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-12-25T15:30:48.068Z
+date: 2022-12-25T15:42:14.894Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -296,13 +296,12 @@ In this tab, you can have a look at the correlation between your sleep and the n
 
 Furthermore, there are 2 modes to this graph. The second mode can be activated by left clicking the graph once (to revert back to mode 1, you need to switch to another tab).
 
-As you can see, there is a mathematical function at the top of the graph. You can plug some numbers in, and work out a value.
+As you can see, there is a mathematical formula at the top of the graph. You can plug some numbers in, and work out a value.
 
 Although the documentation is not entirely clear on how to use this graph, I have posted a [question](https://supermemopedia.com/index.php?title=More_Sleep_Chart_sample_data_in_manual) on SuperMemopedia to see if additional data can be provided.
 
 However, from what I gather, it is pretty straight forward.
 
-In the example provided by the official manual, we can see that there is a formula at the top. This will make your life a lot easier.
 
 ![]()
 
