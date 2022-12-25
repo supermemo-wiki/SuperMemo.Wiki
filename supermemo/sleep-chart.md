@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-12-25T19:11:28.817Z
+date: 2022-12-25T19:14:02.386Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -348,7 +348,9 @@ You will notice that there are many lines on this graph. I, personally, only use
 
 # Changelog
 ## 25th of December, 2022 (Merry Christmas and Happy Holidays!)
+- This page has been completed. I'll make an effort to go over it again occasionally to make sure everything is clear and concise. Do not hesitate to get in touch if you have any questions!
 - This is my present to the community; I'm grateful to everyone who assisted. Thank you for Dr. Wozniak for writing such detailed documentations, I had a great time reading it. A massive thank you to Alexis creating and hosting this website.
+
 ## 29th of April, 2022
 - Updated [Alertness tab](#alertness-tab) section (it's still a work-in-progress).
 - Added [Two-component sleep model tab](#two-component-sleep-model).
