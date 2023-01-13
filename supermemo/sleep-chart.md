@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2022-12-25T19:14:35.142Z
+date: 2023-01-13T11:25:10.040Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -249,14 +249,14 @@ You got all that? Cool.
 
 Simply said, "alertness" in SuperMemo refers to "how alert you are when studying." This is calculated using the average grade in learning with SuperMemo, according to Dr. Wozniak. So, if you get better grades in the morning and worse grades in the evening, it's likely that you're more alert in the morning.
 
-For the keen-eyed among you, you may have noticed that there are TWO Alertness tabs: **Alertness (H)** and **Alertness \(C\)**. You've probably figured it out by now.
+For the keen-eyed among you, you may have noticed that there are TWO Alertness tabs: **Alertness \(H\)** and **Alertness \(C\)**. You've probably figured it out by now.
 
-**Alertness (H)**: this is the homeostatic alertness, which is a measurement of alertness *since that last sleep episode*.
+**Alertness \(H\)**: this is the homeostatic alertness, which is a measurement of alertness *since that last sleep episode*.
 
 **Alertness \(C\)**: this is the circadian alertness, which is a measurement of alertness *with respect to the circadian time (i.e., "time measured since the optimum natural waking hour")*. This is a little trickier to understand, I know.
 
 I have [asked for a better explanation](https://supermemopedia.com/wiki/Sleep_Chart:_Alertness_(H)_vs._Alertness_(C)) of the differences between the two, and here is the response that I got:
-> Alertness can be studied in reference to homeostatic (H) and circadian (C) variables, however, those variables cannot be easily disentangled. High alertness is the effect of maximum circadian alertness and minimum homeostatic fatigue. That state can be safely marked as the state that maximizes alertness for both variables. This state should characterize early morning in a healthy sleep cycle. However, low alertness may be caused by changes in any of the alertness variables. When both H and C variables show alertness minima, natural sleep occurs.
+> Alertness can be studied in reference to homeostatic \(H\) and circadian \(C\) variables, however, those variables cannot be easily disentangled. High alertness is the effect of maximum circadian alertness and minimum homeostatic fatigue. That state can be safely marked as the state that maximizes alertness for both variables. This state should characterize early morning in a healthy sleep cycle. However, low alertness may be caused by changes in any of the alertness variables. When both H and C variables show alertness minima, natural sleep occurs.
 > 
 > Circadian alertness shows how alertness changes during a waking day. It is plotted against the waking time.
 > 
