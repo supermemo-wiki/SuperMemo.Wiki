@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2023-01-13T11:32:14.560Z
+date: 2023-01-13T11:35:23.764Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -304,6 +304,12 @@ In this mode, you can take a look at the amount of learning vs. amount of sleep.
 You can display this graph by left clicking the graph once (to revert back to mode 1, you need to switch to another tab and then come back).
 
 SuperMemo Sleep Chart is smart. It can count how many hours of sleep you had in the last 20 hours (so, this includes your night sleep and any naps that you may have had). Then, it can create a curve to illustrate the association between this AND the quantity of sleep that your subsequent sleep episode is anticipated to bring about.
+
+Here is some text from a conversation I had with Dr. Wozniak regarding the interpretation of this graph:
+> Me: In the [first link you posted](https://supermemo.guru/wiki/Sleep_and_learning), there is the following [image](https://supermemo.guru/images/9/9c/Prior_sleep_in_20_h_vs_sleep_length.jpg). Am I right in saying the following:
+> - If you slept for 4 hours (horizontal axis) in the previous 20 hours, this means that you are expected to sleep for 5 hours in the following night (vertical axis)
+> ---
+> Dr. Wozniak: "you are expected to sleep for 5 hours in the following night" is imprecise. More likely you should say, "you are expected to sleep for 5 hours on average" (perhaps 3 hours one day, and 10 hours the other day, depending on how regular your schedule is).
 
 ![sleep_vs_sleep.png](/supermemo/sleep-chart/sleep_vs_sleep.png)
 
