@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2023-01-13T11:31:15.189Z
+date: 2023-01-13T11:32:14.560Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -331,7 +331,7 @@ You will notice that there are many lines on this graph. I, personally, only use
 
 > ### Summary
 > - <span style="padding: 3px; color: rgb(255, 255, 255); background-color: blue;">Blue blocks</span> = actual sleep episodes (see [Sample timeline](#sample-timeline) for more information about these blocks).
-> - <span style="padding: 3px; background-color: aqua;">Aqua line</span> = 24-hour circadian sleep propensity. The peaks mean that you are more sleepy, and thus, a nap is good idea. If you remember, the <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dots</span> that we talked about in the [Re-compute circadian approximations](#re-compute-circadian-approximations) section above predicted the nap time. Now, the peak of if this <span style="padding: 3px; background-color: aqua;">aqua line</span> represents the <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dots</span>.
+> - <span style="padding: 3px; background-color: aqua;">Aqua line</span> = 24-hour circadian sleep propensity. The peaks mean that you are more sleepy, and thus, a nap is good idea. If you remember, the <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dots</span> that we talked about in the [Re-compute circadian approximations](#re-compute-circadian-approximations) section above predicted the nap time. Now, the peak of this <span style="padding: 3px; background-color: aqua;">aqua line</span> represents the <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dots</span>.
 >   - ***In short: peak of <span style="padding: 3px; background-color: aqua;">aqua line</span> = <span style="padding: 3px; border: 2px solid red; border-image: none; background-color: cyan;">aqua dot</span> on [Timeline tab](#timeline-tab) = predicted optimum nap time.***
 > - <span style="padding: 3px; color: white; background-color: green;">Green line</span> = an inverse of the homeostatic sleep propensity
 > - <span style="padding: 3px; background-color: yellow;">Yellow vertical lines</span> = circadian middle-of-the-night peak. I believe that this represents the <span style="padding: 3px; background-color: yellow;">Yellow lines</span> in [Timeline tab](#timeline-tab) (see [Re-compute circadian approximations](#re-compute-circadian-approximations) section for more information).
