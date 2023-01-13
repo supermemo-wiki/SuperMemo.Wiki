@@ -2,7 +2,7 @@
 title: SuperMemo Sleep Chart
 description: A simplified version of the official SuperMemo Sleep Chart manual.
 published: true
-date: 2023-01-13T11:26:54.321Z
+date: 2023-01-13T11:30:35.803Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-01T20:09:30.684Z
@@ -306,8 +306,6 @@ You can display this graph by left clicking the graph once (to revert back to mo
 SuperMemo Sleep Chart is smart. It can count how many hours of sleep you had in the last 20 hours (so, this includes your night sleep and any naps that you may have had). Then, it can create a curve to illustrate the association between this AND the quantity of sleep that your subsequent sleep episode is anticipated to bring about.
 
 
-
-![](/supermemo/sleep-chart/sleep_vs_sleep.png)
 
 # Consolidation tab
 This tab maps consolidation against recall. In SuperMemo, consolidation simply means the outcome of the review. Consolidation is the "average grade scored in the next repetition." Another good definition is (from [SuperMemo Help](https://help.supermemo.org/wiki/Glossary:Consolidation)):
