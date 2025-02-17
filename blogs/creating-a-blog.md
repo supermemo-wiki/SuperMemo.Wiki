@@ -2,7 +2,7 @@
 title: Creating a Blog
 description: Learn how to create and edit your personal wiki page. Tips & Tricks included!
 published: true
-date: 2020-12-25T07:44:35.312Z
+date: 2025-02-17T02:04:31.441Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-19T16:59:52.998Z
@@ -20,7 +20,7 @@ Please **exercise judgement** when publishing content on your user page. This is
 - Learning,
 - Personal progress.
 
-Offensive or inappropriate content (e.g. idealogical propaganda) will be removed.
+Offensive or inappropriate content (e.g. ideological propaganda) will be removed.
 
 # Writing your blog
 
@@ -116,7 +116,7 @@ You can adjust the properties of the current page here. For more details, see:
 {.is-warning}
 
 1. All your personal files should be placed under the `/blogs/[username]/` folder,
-2. The wiki is not a cloud provider, don't upload large files (e.g. larger than 2MB).
+2. **The wiki is not a cloud provider**, don't upload large files (e.g. larger than 2MB).
 
 ![blogs-media-folder-1.png](/blogs/blogs-media-folder-1.png)
 
