@@ -2,7 +2,7 @@
 title: Going Further With SuperMemo
 description: Tips for progressing from amateur level to expert.
 published: true
-date: 2026-02-26T11:53:27.119Z
+date: 2026-02-26T11:55:06.424Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-12T17:28:23.407Z
@@ -51,9 +51,9 @@ You can speed up the processing of important facts even further by postponing lo
 
 ## Video guides
 
-- [<span style="color: red;" class="mdi mdi-youtube mr-1"></span> Fowl's Guide to SuperMemo *A series of videos (6h) that will take you from Beginner to Advanced level.*](https://www.youtube.com/playlist?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1)
+- [<span style="color: red;" class="mdi mdi-youtube mr-1"></span> Fowl's Guide to SuperMemo *A 6h-long series of videos that introduces SuperMemo tool and philosophy without covering especifically Incremental Reading.*](https://www.youtube.com/playlist?list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1)
 - [<span style="color: red;" class="mdi mdi-youtube mr-1"></span> Fowl's Guide to SuperMemo: Pleasurable Expansion *A 25h-long reaction video that expands content and corrects some detals.*](https://youtu.be/48dXwmcy5VU)
-- [<span style="color: red;" class="mdi mdi-youtube mr-1"></span> Pleasurable Guide to SuperMemo: Fluency Cycle *A 50-long video series that introduces Incremental Reading and SuperMemo from scratch, taking years of use, tutoring, and content creation into the maximum curated and pedagogical approach into learning the tool and the method.*](https://www.youtube.com/playlist?list=PLPw7ZTjtZfQbmAPbAPr-B3HCyjcv-Jij1)
+- [<span style="color: red;" class="mdi mdi-youtube mr-1"></span> Pleasurable Guide to SuperMemo: Fluency Cycle *A 50h-long video series that introduces Incremental Reading and SuperMemo from scratch, taking years of use, tutoring, and content creation into the maximum curated and pedagogical approach into learning the tool and the method.*](https://www.youtube.com/playlist?list=PLPw7ZTjtZfQbmAPbAPr-B3HCyjcv-Jij1)
 - [<span style="color: red;" class="mdi mdi-youtube mr-1"></span> SuperMemo.wiki YouTube channel *Educative videos published by the SuperMemo.wiki community. Inactive since  September 2021.*](https://www.youtube.com/c/SuperMemoWiki)
 - [<span style="color: red;" class="mdi mdi-youtube mr-1"></span> Pleasurable Learning YouTube channel *How to videos, about SuperMemo in-dept guides, how-to's and personal videos. More than a 1000 videos so far. Extreme coverage of SuperMemo.*](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA)
 {.links-list}
