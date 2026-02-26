@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2022-12-22T12:58:17.291Z
+date: 2026-02-26T12:03:35.499Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -416,3 +416,5 @@ For more please read [Duplicati 2 User's Manual](https://docs.duplicati.com).
 > 💬 **Nour**: “*Well, I'm a bit new to SM and although I was warned, I did not understand the gravity of the warnings. Back-up your collection. Since I'm new, I don't understand a lot of the issues, but I know I didn't do anything to provoke them, and yet the combination of SM and my virtual machine had corrupted and misplaced files and needed to be repaired – with the repairs yielding some unwanted adjustments to my collection. Of course, if all your final prep is on SM, you'd be having heart palpitations at the thought of your collection getting messed up, I know I was. Sufficed to say lesson learned. The hard way, but learned never-the-less.*”
 
 > 💬 **Godfreyla**: "*I had an issue with my hard drive, and to cut a long story short my laptop died. I had around 2 years’ worth of Supermemo use completely gone! But fortunately, I’d followed the guidance around setting up local backups and more importantly, internet backups using git and GitLab. It might take you a couple of hours to set up (and in the process you learn some new things), but knowing what I do now, I’d go so far to say it’s probably not worth the risk of using SM without having this backup strategy in place!*"
+
+> 💬 **Poblado**: I had been using SuperMemo for about 2 years. It had become an integral part of my life, and a tremendous source of daily joy. At first I was very careful about backups, but then I switched laptops and grew complacent. I didn't set-up some of the backup systems, and relied solely on a remote github repository. One fateful day, my ignorance led me to retroactively delete the text registry from all past and present archives of the collection. I want YOU reading this, dear stranger, to believe me when I say that I felt REAL GRIEF. The likes of which I had only ever felt during breakups. I couldn't sleep that night either, and had an exam the next day. Do not grow complacent like me. Set up multiple backup strategies, don't be content with one or two. Diversify, read and learn about it. In the end, I managed to recover most of my collection, with the help of Piotr Wozniak. But you may not be so lucky. Learn from my mistakes. Backup regularly and dilligently.
