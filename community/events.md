@@ -2,7 +2,7 @@
 title: Community Events
 description: A list of all events organized by the SuperMemo.wiki community, past and future.
 published: true
-date: 2022-04-15T18:49:09.408Z
+date: 2026-02-26T11:36:08.096Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-24T14:56:04.358Z
@@ -18,8 +18,8 @@ A listing of all **events organized by** the **SuperMemo.wiki** community. Most 
 
 ## SuperMemo anniversaries
 
-- [🎂&nbsp; 35th anniversary *Upcoming 2022 anniversary celebration event (2022/12/13).*](/community/events/anniversary/34th)
-- [🎂&nbsp; 34th anniversary *Inaugural anniversary celebration event (2021/12/13).*](/community/events/anniversary/34th)
+- [🎂&nbsp; 35th anniversary *2022 anniversary celebration event (2022/12/13).*](/community/events/anniversary/34th)
+- [🎂&nbsp; 34th anniversary *2021 anniversary celebration event (2021/12/13).*](/community/events/anniversary/34th)
 - [🎂&nbsp; 33rd anniversary *Inaugural anniversary celebration event (2020/12/13).*](/community/events/anniversary/33rd)
 {.links-list}
 
@@ -30,7 +30,7 @@ A listing of all **events organized by** the **SuperMemo.wiki** community. Most 
 
 ## Voice Chat Events
 
-Topic-specific voice chat conversations are regularly organized on the Discord server.
+Topic-specific voice chat conversations were regularly organized on the Discord server.
 
 **🚧&nbsp; Work in progress.**
 
