@@ -2,7 +2,7 @@
 title: Backup Strategy Guide
 description: Learn how to protect your months or years of investment. Set it up once, and forget about it!
 published: true
-date: 2026-02-26T12:09:59.733Z
+date: 2026-02-26T12:18:03.226Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-06T14:16:06.567Z
@@ -417,4 +417,4 @@ For more please read [Duplicati 2 User's Manual](https://docs.duplicati.com).
 
 > 💬 **Godfreyla**: "*I had an issue with my hard drive, and to cut a long story short my laptop died. I had around 2 years’ worth of Supermemo use completely gone! But fortunately, I’d followed the guidance around setting up local backups and more importantly, internet backups using git and GitLab. It might take you a couple of hours to set up (and in the process you learn some new things), but knowing what I do now, I’d go so far to say it’s probably not worth the risk of using SM without having this backup strategy in place!*"
 
-> 💬 **Poblado**: "*I had been using SuperMemo for about 2 years. It had become an integral part of my life, and a tremendous source of daily joy. At first I was very careful about backups, but then I switched laptops and grew complacent. I didn't set-up some of the backup systems, and relied solely on a remote github repository. One fateful day, my ignorance led me to retroactively delete the text registry from all past and present archives of the collection. I want YOU reading this, dear stranger, to believe me when I say that I felt REAL GRIEF. The likes of which I had only ever felt during breakups. I couldn't sleep that night either, and had an exam the next day. Do not grow complacent like me. Set up multiple backup strategies, don't be content with one or two. Diversify, read and learn about it. In the end, I managed to recover most of my collection, with the help of Piotr Wozniak. But you may not be so lucky. Learn from my mistakes. Backup regularly and dilligently.*"
+> 💬 **Pablo Reig**: "*I had been using SuperMemo for about 2 years. It had become an integral part of my life, and a tremendous source of daily joy. At first I was very careful about backups, but then I switched laptops and grew complacent. I didn't set-up some of the backup systems, and relied solely on a remote github repository. One fateful day, my ignorance led me to retroactively delete the text registry from all past and present archives of the collection. I want YOU reading this, dear stranger, to believe me when I say that I felt REAL GRIEF. The likes of which I had only ever felt during breakups. I couldn't sleep that night either, and had an exam the next day. Do not grow complacent like me. Set up multiple backup strategies, don't be content with one or two. Diversify, read and learn about it. In the end, I managed to recover most of my collection, with the help of Piotr Wozniak. But you may not be so lucky. Learn from my mistakes. Backup regularly and dilligently.*"
